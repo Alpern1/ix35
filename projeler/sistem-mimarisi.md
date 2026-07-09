@@ -113,7 +113,7 @@ Kurulumcuya **yazılı** verilecek liste (StarLine Fonksiyon tabloları):
 | Şanzıman tipi | **Manuel (МКПП)** | Otomatik seçilirse güvenlik bozulur |
 | Fonksiyon 1 (autostart) | Seçenek 2, 3 veya 4 | Uzaktan çalıştırma açık |
 | Fonksiyon 12 (kontak desteği) | **El freni** veya **Otomatik** | Push-start ix35; kumanda START gerektirmez |
-| Fonksiyon 15 (program nötr bitiş) | **Silahlanma** (telefon/kumanda/SLAVE) | Telefondan "Güvenlik kur" ile biter |
+| Fonksiyon 15 (program nötr bitiş) | **Kapı kapanınca** (V2) veya **kapı + 20 sn** (V3) | Telefondan güvenlik kur gerekmez |
 | iKey / immobilizer bypass | Açık | Smart key bypass |
 | Motor çalışma süresi | 10–15 dk (max 20) | Yağ seyreltmesi + Prins benzin başlangıcı |
 | SLAVE modu | İstenirse açık | Fabrika smart key ile kilit uyumu |
@@ -158,13 +158,14 @@ Kurulumcuya **yazılı** verilecek liste (StarLine Fonksiyon tabloları):
 
 ---
 
-## 10. Satıcıya sorulacak son teyit (sipariş öncesi)
+## 10. Uyumluluk doğrulama (internet — bayi yok)
 
-Sipariş vermeden önce TR StarLine bayisine **tek mesaj**:
-
-> "2012 Hyundai ix35, 1.6 benzin+LPG, **manuel**, Smart Key push-start. StarLine **A93 v2 ECO 2CAN+2LIN + LTE Master 4G** paketi uyumlu mu? Program nötr **telefon uygulamasından** silahlanma ile bitecek şekilde ayarlanacak. Montaj dahil mi?"
-
-Beklenen cevap: Evet + ix35 referansı. Hayır ise alternatif bayi.
+| Kaynak | URL |
+|--------|-----|
+| Bağlantı şeması | [can.starline.ru](https://can.starline.ru) |
+| ix35 2014 kurulum | [support.starline.ru/.../41978](https://support.starline.ru/communities/10/topics/41978-starline-a93-2can2lin-na-hyundai-tucson-ix35-2014-start-stop) |
+| Satın alma kanalları | [satin-alma-kanallari.md](satin-alma-kanallari.md) |
+| Akşam otomasyon | [telefon-otomasyon.md](telefon-otomasyon.md) |
 
 ---
 

@@ -17,6 +17,8 @@
 
 | # | Proje | Durum | Öncelik | Dosya |
 |---|-------|-------|---------|-------|
+| — | **Satın alma kanalları (internet)** | 📋 Planlama | — | [satin-alma-kanallari.md](satin-alma-kanallari.md) |
+| — | **Telefon / otomasyon seçenekleri** | 📋 Planlama | — | [telefon-otomasyon.md](telefon-otomasyon.md) |
 | — | **Master uygulama planı (fazlar)** | 📋 Planlama | **Yüksek** | [master-plan.md](master-plan.md) |
 | — | **Sistem mimarisi (kesin karar)** | 📋 Planlama | **Yüksek** | [sistem-mimarisi.md](sistem-mimarisi.md) |
 | — | **Teknik analiz (tam rapor)** | 📋 Planlama | — | [teknik-analiz.md](teknik-analiz.md) |

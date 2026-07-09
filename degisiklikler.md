@@ -6,7 +6,10 @@
 
 - **Telefon-only ritüel düzeltildi** — Kumanda START 2.5 sn adımı kaldırıldı; StarLine program nötr + telefondan silahlanma akışı yazıldı.
 - **Sistem mimarisi kesinleştirildi** — StarLine A93 v2 2CAN+2LIN + LTE; Fortin/Compustar ve Start-Stop TR elendi (evden menzil).
-- **Master uygulama planı eklendi** — Faz 0–7, pes etmeme kuralları, GSM/SIM spec.
+- **Master plan yeniden yazıldı** — Gerçek iş fazları (anla → satın al → kur → ayarla → yaşa); bayi adımı kaldırıldı.
+- **Satın alma kanalları eklendi** — İnternet araştırması; TR StarLine isim karışıklığı uyarısı.
+- **Telefon otomasyonu eklendi** — Fonksiyon 15 kapı kapanınca; Siri; SLAVE kilit tuşu.
+- **Akşam ritüel güncellendi** — Telefondan güvenlik kur zorunlu değil.
 - **Zorunlu parça listesi güncellendi** — StarLine paketine göre yeniden yazıldı.
 - **Repo yapısı kuruldu** — Araba bilgileri, proje planları ve değişiklik takibi için klasör/dosya yapısı oluşturuldu.
 - **ix35** olarak başlangıç modeli README'de belirtildi.
