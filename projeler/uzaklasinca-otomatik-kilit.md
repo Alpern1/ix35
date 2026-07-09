@@ -1,107 +1,118 @@
-# Uzaklaşınca Otomatik Kilitlenme
+# Uzaklaşınca Otomatik Kilitlenme (Walk-Away)
 
-> Kumandayla/anahtarla uzaklaşınca kapıların kendiliğinden kilitlenmesi (walk-away auto lock).
+> Kumandayla/anahtarla uzaklaşınca kapıların kendiliğinden kilitlenmesi.
 
 ## Durum
 
-- **Durum:** 📋 Planlama
-- **Öncelik:** Orta
-- **Tahmini bütçe:** ~$150–250 USD (aftermarket) veya TR anahtarcı fiyatı değişken
-- **Zorluk:** Orta (smart key var — avantaj)
-- **Oluşturulma:** 2026-07-09
+- **Durum:** 📋 Planlama — **bütçe ertelendi** (öncelik: evden telefon; walk-away ikinci)
+- **Öncelik:** Orta (konfor; güvenlik)
 - **Son güncelleme:** 2026-07-09
+
+---
 
 ## Motivasyon
 
-Araçtan inip uzaklaşırken kilit tuşuna basmayı unutmak. Fabrika özelliği olarak yok; aftermarket veya anahtarcı çözümü gerekir.
+Araçtan inip uzaklaşırken kilit tuşuna basmayı unutmak. Fabrika özelliği olarak yok.
 
-## Araç durumu (doğrulandı)
+---
 
-- **Smart Key + START/STOP düğmesi** — walk-away lock için doğru donanım mevcut
-- Proximity algılama altyapısı zaten var (kapı kolundan dokunarak kilitleme çalışıyor)
-- **Manuel vites** — bazı all-in-one paketleri (MyKeyPremium) bu yüzden eleniyor
+## Fiyat araştırması (2026-07-09) — tamamlandı
 
-## Araştırma Özeti
+**“Sadece walk-away modülü” diye ucuz SKU yurtiçinde yok.** Paket halinde satılıyor.
 
-### Fabrika durumu
+| Seçenek | Fiyat (liste) | TL (~) | Walk-away | ix35 | Manuel | Gümrük |
+|---------|---------------|--------|-----------|------|--------|--------|
+| **Start-Stop TR SST-019** | $330 | ~15.500 | ✅ 2–3 m | ⚠️ teyit | Site “evet” diyor | Hayır |
+| SST + BT telefon modülü | +$112 | +~5.250 | — | ⚠️ | ⚠️ | Hayır |
+| DIS serisi (display anahtar) | $468–582 | ~22–27k | ✅ pakette | ⚠️ | ⚠️ | Hayır |
+| **StarLine SLAVE + tag** | Pakete ek | StarLine ile | ⚙️ | ✅ | ✅ | İthalatla |
+| MyKeyPremium | İthalat | — | ✅ | — | ❌ **elendi** | Evet |
+| Shark / Boyo proximity | ~$150–250 | + gümrük | ✅? | ⚠️ kanıt yok | ? | Evet |
+| TR anahtarcı modül | Teklif | belirsiz | ? | ? | ? | Hayır |
 
-- 2012 Hyundai ix35'te **walk-away auto lock fabrikadan gelmiyor**.
-- Smart key donanımı var ama özellik yazılımla aktif değil.
+**Montaj (SST):** Sabit fiyat sitede yok — startstopturkiye.com “iletişime geç”; **~2.000–5.000 TL** varsay.
 
-### ❌ Elenen: MyKeyPremium
+**StarLine (~22–26k TL) ile karşılaştırma:** Walk-away paketi (SST) **StarLine’dan ucuz** ama **evden telefon vermez**. StarLine’ın ~%60–70’i fiyatına walk-away + RF uzaktan alırsın (farklı ürün).
 
-MyKeyPremium (walk-away + remote start paketi):
-- Manuel vitesle **uyumlu değil** — üretici açıkça belirtiyor
-- Forumda manuel vitesli araç sahibi sipariş edip iade etmiş
-- Bizim araç manuel → bu paket **kullanılamaz** (hem kilit hem uzaktan çalıştırma için)
+**Linkler:**
+- SST-019: https://fsatuning.com/urun/start-stop-turkiye-anahtarsiz-giris-anahtarsiz-calistirma-uzaktan-calistirma-sistemi-sst-019/
+- Marka sitesi: https://startstopturkiye.com/ (walk-away: 2–3 m uzaklaşınca kilit)
 
-### Seçenek A — Türkiye anahtarcı paketi (en olası TR çözümü)
+---
 
-Anahtarcıda duyduğun "modül" büyük ihtimalle bu:
+## Araç durumu
 
-- Keyless Go / smart key modülü
-- **Yaklaşınca açılma — uzaklaşınca kapanma**
-- Bazen uzaktan çalıştırma da aynı pakette
+- **Smart Key + START/STOP** — walk-away için doğru donanım var
+- **Manuel vites** — SST site SSS: “manuel araçlara özel güvenlik protokolleri ile uygulanabilir”
+- **2012 ix35** — site “çoğu araç” diyor; **model teyidi yazılmadan sipariş verme**
 
-**Artıları:** Yerel destek, kodlama dahil, smart key zaten var
-**Eksileri:** Fiyat/kalite usta bağımlı; manuel vites + uzaktan çalıştırma birlikte sorulmalı
+Sipariş öncesi e-posta/WhatsApp metni:
 
-**Anahtarcıya sorulacak sorular:**
-1. 2012 ix35 manuel vites + smart key — walk-away lock yapılabilir mi?
-2. Uzaktan çalıştırma da aynı modülde mi?
-3. Prins LPG ile uyumlu mu?
-4. Garanti / geri dönüşüm (orijinal sisteme dönebilir miyiz?)
+```
+2012 Hyundai ix35, 1.6 GDI benzin, manuel vites, smart key (push-start),
+Prins LPG. SST-019 bu araca uyumlu mu? Walk-away mesafesi ve montaj ücreti nedir?
+```
 
-### Seçenek B — Shark Racing Proximity Smart Door Lock
+---
 
-- Hyundai/Kia için aftermarket proximity modül
-- Walk-away lock/unlock
-- **2012 ix35 uyumluluğu** satıcıya sorulmalı
+## Elenenler
 
-### Seçenek C — Boyo iKeyFree Pro
+### MyKeyPremium
+- Manuel vites **desteklemiyor** — üretici açık
 
-- Telefon + proximity kilitleme
-- Forumda kullanılmış; bug bildirimi var
-- Daha az tercih edilir
+### Oto Yapay Zeka walk-away
+- Fabrika start-stop’a önerilmez; telefon menzili ~100 m (GSM değil)
 
-### Seçenek D — Sadece "gecikmeli otomatik kilit"
+---
 
-Gerçek walk-away değil; kapı kapandıktan X saniye sonra kilitler. Smart key proximity kadar şık değil ama daha basit olabilir.
+## Diğer seçenekler (kısa)
+
+| Seçenek | Not |
+|---------|-----|
+| **StarLine SLAVE + proximity tag** | StarLine ithalat yolunda Faz 2; ek aksesuar |
+| **Gecikmeli otomatik kilit** | Gerçek walk-away değil; kapı kapanınca X sn |
+| **Telefonla kilitle alışkanlığı** | 0 TL; walk-away değil ama unutmayı azaltır |
+
+---
+
+## Fazlı bütçe ile ilişki
+
+**Önce walk-away, sonra StarLine telefon → önerilmez** (iki sistem, çift montaj, ~39k TL toplam risk).
+
+Detay: [fazli-butce-plani.md](fazli-butce-plani.md)
+
+| Senaryo | Ne yap |
+|---------|--------|
+| Telefon öncelik, bütçe yok | Bekle → StarLine → walk-away sonra/SLAVE |
+| Walk-away öncelik, telefon ertelenir | SST (~15–20k) — StarLine sonra planlama |
+| İkisi de şart, para tek seferde yok | **Bekle** — parça parça iki sistem alma |
+
+---
 
 ## Açık sorular
 
-- [x] Smart key — evet (START/STOP)
-- [ ] Otomatik katlanır ayna var mı?
-- [ ] Mevcut kumanda kaç tuşlu?
-- [ ] Türkiye'de güvenilir oto anahtarcı önerisi?
-- [ ] Anahtarcıya fiyat araştırması yapıldı mı?
+- [x] Fiyat araştırması — SST $330 bandı
+- [ ] SST → 2012 ix35 yazılı uyum teyidi
+- [ ] Montaj ücreti (şehir bazlı)
+- [ ] Otomatik katlanır ayna var mı? (SST cam/kilit entegrasyonu)
 
-## İlk değerlendirme
-
-| Kriter | Puan |
-|--------|------|
-| DIY uygunluğu | Düşük–Orta |
-| Smart key avantajı | Yüksek — doğru donanım var |
-| MyKeyPremium | ❌ Manuel uyumsuz |
-| En olası TR yolu | Anahtarcı modül paketi |
-
-## Linkler
-
-- [Hyundai Forum — Walk Away Lock](https://www.hyundai-forums.com/threads/walk-away-automatic-door-locking.677371/)
-- [MyKeyPremium — walk-away lock (otomatik vites)](https://mykeypremium.com/blogs/news/forgot-to-lock-car-walk-away-auto-lock-hyundai-kia)
-- [MyKeyPremium technicals — manuel uyumsuz](https://mykeypremium.com/pages/technicals)
-- [Hech — ix35 keyless seçenekleri (TR)](https://hech.com.tr/urun/hyundai-ix35-yedek-anahtar-fiyati/)
+---
 
 ## Kararlar
 
 | Tarih | Karar | Gerekçe |
 |-------|-------|---------|
-| 2026-07-09 | Smart key doğrulandı | START/STOP düğmesi var |
-| 2026-07-09 | MyKeyPremium elendi | Manuel vites desteklemiyor |
-| 2026-07-09 | TR anahtarcı öncelikli araştırma | Yerel çözüm + kodlama |
+| 2026-07-09 | Smart key doğrulandı | START/STOP var |
+| 2026-07-09 | MyKeyPremium elendi | Manuel uyumsuz |
+| 2026-07-09 | SST walk-away fiyatı ~15.5k TL | fsatuning $330 |
+| 2026-07-09 | Şimdilik sipariş yok | Bütçe; telefon öncelik |
+| 2026-07-09 | SST sonra StarLine sırası elendi | Çift sistem riski |
 
-## Notlar
+---
 
-- Walk-away kilit, uzaktan çalıştırma projesinden **bağımsız** çözülebilir.
-- Anahtarcı paketinde ikisi birlikte sorulursa fiyat avantajı olabilir.
-- Uzaktan çalıştırma için Compustar+DroneMobile yolu ayrı değerlendiriliyor (bkz. diğer proje dosyası).
+## Linkler
+
+- [Hyundai Forum — Walk Away Lock](https://www.hyundai-forums.com/threads/walk-away-automatic-door-locking.677371/)
+- [MyKeyPremium technicals — manuel uyumsuz](https://mykeypremium.com/pages/technicals)
+- [Fazlı bütçe planı](fazli-butce-plani.md)
+- [Telefon kontrol araştırması](telefon-kontrol-arastirma.md)

@@ -17,6 +17,7 @@
 
 | # | Proje | Durum | Öncelik | Dosya |
 |---|-------|-------|---------|-------|
+| — | **Fazlı bütçe planı (parça parça mı?)** | 📋 Planlama | **Yüksek** | [fazli-butce-plani.md](fazli-butce-plani.md) |
 | — | **Telefon kontrol araştırması (TR + gümrük)** | 📋 Planlama | **Yüksek** | [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) |
 | — | **Parça tedarik TR (SKU, stok)** | 📋 Planlama | **Yüksek** | [parca-tedarik-tr.md](parca-tedarik-tr.md) |
 | — | **Satın alma kanalları (internet)** | 📋 Planlama | — | [satin-alma-kanallari.md](satin-alma-kanallari.md) |

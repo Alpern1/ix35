@@ -1,154 +1,151 @@
 # Master Uygulama Planı
 
 > Gerçek iş fazları — "bayiye sor" değil, "sipariş ver / kur / test et".
-> **Güncelleme:** Faz 1 artık **parça tedarik** — StarLine yurtiçi satılmıyor; Fortin MK3 BOM aktif.
+> **Bütçe güncellemesi (2026-07-09):** Sıkışık dönem — **Faz 0 = bekle + biriktir**. Parça parça iki sistem kurma.
 
 ---
 
-## Faz haritası
+## Önce oku
+
+| Dosya | Ne için |
+|-------|---------|
+| [fazli-butce-plani.md](fazli-butce-plani.md) | **Parça parça mı, tek seferde mi?** Walk-away vs telefon önceliği |
+| [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) | Evden telefon + gümrük ~22–26k TL |
+| [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) | Walk-away ~15–20k TL (SST) |
+| [parca-tedarik-tr.md](parca-tedarik-tr.md) | SKU / stok |
+
+---
+
+## Faz haritası (güncel)
 
 ```
-Faz 1          Faz 2           Faz 3            Faz 4           Faz 5
-KARAR+SİPARİŞ  TESLİM          KUR              AYARLA          YAŞA
-│              │               │                │               │
-parca-tedarik  Kutu aç         Kablo işi        Flashlink       Günlük ritüel
-karar ağacı    eksik kontrol   (en zor)         Ready Mode      RF / OEM
+Faz 0          Faz 1              Faz 2–5
+BEKLE+BİRİKTİR TEK SİSTEM SİPARİŞ  KUR → AYARLA → YAŞA
+│              │                   │
+0 TL           StarLine ~25k       Tek konsol açılışı
+plan oku       VEYA SST ~16k       Hepsini bir seferde
+               (ikisini birden ALMA)
 ```
 
 ---
 
-## Faz 0 — Karar (şimdi, ücretsiz)
+## Faz 0 — Bekle + hazırlık (şimdi, 0 TL) ← **aktif faz**
 
-**Soru:** Evden telefon için gümrük kabul ediyor musun?
+**Durum:** Bütçe sıkışık; StarLine ~22–26k şu an çok.
 
-| Cevap | Yol | Dosya |
-|-------|-----|-------|
-| **Hayır** | Fortin MK3 BOM | [parca-tedarik-tr.md](parca-tedarik-tr.md) Bölüm 2 |
-| **Evet** | StarLine ithalat | [satin-alma-kanallari.md](satin-alma-kanallari.md) Plan B |
+| Görev | Maliyet | Bitti sayılır |
+|-------|---------|---------------|
+| Plan dosyalarını oku | 0 | Bu repodaki kararlar net |
+| Birikim hedefi koy | — | ~25.000 TL (StarLine + gümrük payı) |
+| SST’ye ix35 uyum maili at | 0 | Yazılı cevap var veya yok |
+| Çıkarken kilitle alışkanlığı | 0 | Walk-away gelene kadar yedek |
 
-**Bitti sayılır:** Hangi BOM'u sipariş edeceğin yazılı net.
+**Karar noktası (bütçe gelince):**
+
+| Öncelik | Sipariş |
+|---------|---------|
+| **Evden telefon** (asıl hedef) | StarLine GSM ECO — [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) |
+| Walk-away, telefon ertelendi | SST-019 — [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) |
+| **İkisini sırayla iki marka** | ❌ Yapma — [fazli-butce-plani.md](fazli-butce-plani.md) |
 
 ---
 
-## Faz 1 — Satın al (yurtiçi, internet)
+## Faz 1 — Tek sistem siparişi (bütçe olunca)
 
-**Ne elde ediyorsun:** Kutular elinde — montaja hazır parça.
-
-### Fortin yolu (gümrük yok)
+### Yol A — StarLine (evden telefon)
 
 ```
-□ EVO-ONE MK20064 — mk3.com.tr
-□ Flashlink Mobile MK20126 — mk3.com.tr
-□ RFK442 MK20083 — mk3.com.tr
-□ T-Harness: Flashlink gelince SKU teyit → KHY3 veya KHY7 sipariş
-□ MKON355 ALMA
+□ A93 v2 2CAN+2LIN GSM ECO (~23.250 RUB + gümrük)
+□ nano-SIM (kurulumda)
+□ Gümrük müşaviri ayarla
 ```
 
-**Bitti sayılır:** EVO-ONE + Flashlink + RF açıldı; eksik parça yok.
+Toplam: **~22.000–26.000 TL** — [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md)
 
-**Pes etme?** MK3 tükenirse — Flashlink Mobile ve EVO-ONE stokta; T-harness alternatif SKU dene.
-
-### StarLine yolu (gümrük var)
+### Yol B — Start-Stop TR (walk-away + RF, telefon yok)
 
 ```
-□ A93 v2 2CAN+2LIN
-□ LTE Master 4G
-□ nano-SIM
+□ SST-019 ($330) — ix35 uyum teyidi sonrası
+□ Montaj randevusu (startstopturkiye.com)
 ```
 
-Kanal: [satin-alma-kanallari.md](satin-alma-kanallari.md) Plan B.
+Toplam: **~15.500–20.000 TL** — [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md)
+
+**Yol A + B birlikte:** ❌
 
 ---
 
 ## Faz 2 — Teslim ve doğrula
 
-| Görev | Bitti sayılır |
-|-------|---------------|
-| Kutuları aç, SKU etiketleri fotoğra | parca-tedarik-tr.md checklist |
-| Flashlink Mobile şarj / uygulama kur | Telefonda Flashlink açılıyor |
-| Fortin: uygulamada **2012 Tucson PTS** ara | Doğru T-harness SKU yazılı |
-| Eksik parça varsa | MK3 iade/değişim talebi |
+| StarLine | SST |
+|----------|-----|
+| Kutu, pin-konvert, GSM modül | Kumanda, keypad, modül |
+| Gümrük çıkışı tamam | Garanti belgesi |
 
 ---
 
-## Faz 3 — Kur (asıl iş)
+## Faz 3 — Kur (tek seferde bitir)
 
-| Alt adım | Zorluk |
+**“Hazır açmışken hepsini yap”** burada geçerli — **aynı sistemin** tüm özelliklerini bir montajda kur.
+
+| StarLine | Zorluk |
 |----------|--------|
-| Konsol sökme, EVO-ONE montajı | Orta |
-| T-harness + guide #23691 kabloları | Zor |
-| Hood pin, el freni, debriyaj | Orta |
-| Manuel güvenlik loop kontrolü | Kritik — kesilmemiş olmalı |
+| CAN/LIN şema | Zor |
+| iKey + manuel F15 | Orta |
+| GSM + SIM | Kolay |
 
-**Kaynak:** https://fortin.ca/download/23691/EVO-ONE_IG_REG_BI_HYU-Tucson_2010-2013_PTS_B_23691.pdf
-
-**Bitti sayılır:** Akü bağlı, kısa devre yok, modül LED yanıyor.
-
----
-
-## Faz 4 — Ayarla (Flashlink + ilk çalıştırma)
-
-| Adım | Araç |
-|------|------|
-| ix35 PTS firmware yükle | Flashlink Mobile |
-| Manuel / Ready Mode ayarları | Flashlink seçenekleri |
-| Immobilizer öğrenme | Guide #23691 prosedürü |
-| İlk Ready Mode testi | Kapı kapanınca motor durmalı |
-| İlk uzaktan çalıştırma | RFK442 veya OEM 3× lock |
-
-**Bitti sayılır:** RF'den çalışıyor; klima son AUTO ile devrede.
-
-**Evden telefon:** Fortin yolunda bu fazda **yok** — StarLine seçtiysen GSM testi burada.
+| SST | Zorluk |
+|-----|--------|
+| Profesyonel montaj önerilir | Orta |
+| Manuel güvenlik protokolü | Orta |
 
 ---
 
-## Faz 5 — Yaşa (alışkanlık)
+## Faz 4 — Ayarla
 
-### Fortin (RF)
+**StarLine:** Firmware, F15, ilk uzaktan çalıştırma, evden GSM testi.
 
-```
-Akşam:  N + el freni → Ready Mode prosedürü → kapı kapat → motor durur
-Sabah:  RF START veya OEM 3× lock → 10–15 dk → bin → frene bas → PTS bir kez
-```
-
-### StarLine (ithalat yolu)
-
-```
-Akşam:  program nötr → kapı kapat (F15)
-Sabah:  StarLine 2 / Siri → çalıştır
-```
-
-Detay: [kullanim-senaryolari.md](kullanim-senaryolari.md)
+**SST:** Walk-away mesafe testi, RF uzaktan test (50–70 m).
 
 ---
 
-## [Opsiyonel] Faz 6 — Walk-away
+## Faz 5 — Yaşa
 
-Start-Stop TR veya ayrı proximity. [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md)
+**StarLine akışı:** [kullanim-senaryolari.md](kullanim-senaryolari.md)
 
-Uzaktan çalıştırma çalıştıktan sonra.
-
----
-
-## Pes etme rehberi (dürüst)
-
-| Durum | Pes et? | Alternatif |
-|-------|---------|------------|
-| Yurtiçi + evden telefon ikisi şart | **Plan yok** | Gümrük kabul et veya menzil beklentisini düşür |
-| MKON355 aldım, telefon çalışmıyor | Hayır | CCURA GPS'tir — EVO-ONE + RF doğru yol |
-| Yanlış T-harness | Hayır | Flashlink teyit, değişim |
-| Montaj aşıyor | Belki | Sadece Faz 3'ü ustaya ver |
-| StarLine gümrükte takıldı | Hayır | Plan A Fortin'e geç |
+**SST:** Yaklaş-aç / uzaklaş-kapat; RF ile ısıtma (evden değil).
 
 ---
 
-## Hızlı referans dosyalar
+## Faz 6 — Walk-away (StarLine yolunda)
 
-| Dosya | İçerik |
+StarLine kurulduysa ve walk-away hâlâ isteniyorsa:
+
+- SLAVE + proximity tag (aksesuar)
+- Veya çıkarken StarLine uygulamasından kilitle
+
+SST zaten walk-away içerir — ayrı Faz gerekmez.
+
+---
+
+## Pes etme / erteleme rehberi
+
+| Durum | Ne yap |
 |-------|--------|
-| [parca-tedarik-tr.md](parca-tedarik-tr.md) | SKU, stok, karar ağacı |
-| [sistem-mimarisi.md](sistem-mimarisi.md) | Mimari diyagram |
-| [zorunlu-parcalar.md](zorunlu-parcalar.md) | BOM özet |
+| 25k TL yok | **Faz 0’da kal** — plan hazır, acele yok |
+| Walk-away önce, telefon sonra (iki marka) | **Dur** — fazli-butce-plani.md oku |
+| SST aldım, şimdi StarLine da istiyorum | SST muhtemelen sökülür — ek maliyet |
+| Sadece yaz kışın ısıtma lazım | Biriktir → StarLine tek atış |
+
+---
+
+## Hızlı referans
+
+| Hedef | Sistem | Tahmini |
+|-------|--------|---------|
+| Evden telefon | StarLine GSM ECO | ~22–26k TL |
+| Walk-away (yurtiçi) | SST-019 | ~15–20k TL |
+| Şimdilik | Hiçbiri | 0 TL |
 
 ---
 
