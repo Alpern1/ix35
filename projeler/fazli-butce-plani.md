@@ -23,7 +23,7 @@ Kur: 1 USD ≈ 46,87 TL (TCMB 09.07.2026)
 
 | Proje / paket | Ne verir | Tahmini toplam | Gümrük | Evden telefon | Walk-away |
 |---------------|----------|----------------|--------|---------------|-----------|
-| **A — StarLine GSM ECO (ithalat)** | Uzaktan çalıştırma + alarm + GSM | **~22.000–26.000 TL** | Evet | ✅ | ⚙️ ek (SLAVE/tag) |
+| **A — StarLine GSM ECO (ithalat)** | Uzaktan çalıştırma + alarm + GSM | **~22.000–26.000 TL** | Evet | ✅ | ⚠️ SST gibi değil — bkz. Bölüm 9 |
 | **B — Start-Stop TR SST-019** | Anahtarsız + walk-away + RF uzaktan (~50–70 m) | **~15.500–20.000 TL** | Hayır | ❌ | ✅ |
 | **C — Oto Yapay Zeka** | Telefon iddiası (~100 m) | ~19.000 TL + montaj | Hayır | ❌ gerçek GSM değil | ✅ |
 | **D — Fortin MK3 (RF)** | RF uzaktan menzil | ~15.000–18.000 TL (tahmin) | Hayır | ❌ | ❌ |
