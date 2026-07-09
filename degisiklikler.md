@@ -6,3 +6,6 @@
 
 - **Repo yapısı kuruldu** — Araba bilgileri, proje planları ve değişiklik takibi için klasör/dosya yapısı oluşturuldu.
 - **ix35** olarak başlangıç modeli README'de belirtildi.
+- **Araç bilgileri girildi** — 2012, 1.6 GDI benzin+LPG, manuel, 2WD, ~130.000 km.
+- **2 proje eklendi** — Uzaklaşınca otomatik kilit + uzaktan çalıştırma/klima; internet araştırması yapıldı.
+- **DIY tercihi kaydedildi** — Mümkün olduğunca kendin yapmak; usta son çare.

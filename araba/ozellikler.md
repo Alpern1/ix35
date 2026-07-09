@@ -8,8 +8,8 @@
 |------|-------|
 | Marka | Hyundai |
 | Model | ix35 |
-| Yıl | _henüz girilmedi_ |
-| Kas tipi | _henüz girilmedi_ (ör. SUV) |
+| Yıl | 2012 |
+| Kas tipi | SUV |
 | Renk | _henüz girilmedi_ |
 | Plaka | _isteğe bağlı — paylaşmak istemezsen boş bırak_ |
 
@@ -17,13 +17,13 @@
 
 | Alan | Değer |
 |------|-------|
-| Motor | _henüz girilmedi_ |
-| Hacim | _henüz girilmedi_ |
-| Güç (hp/kW) | _henüz girilmedi_ |
-| Tork | _henüz girilmedi_ |
-| Yakıt tipi | _henüz girilmedi_ |
-| Şanzıman | _henüz girilmedi_ (manuel / otomatik) |
-| Çekiş | _henüz girilmedi_ (2WD / 4WD) |
+| Motor | 1.6 GDI (benzin) |
+| Hacim | 1.6 L |
+| Güç (hp/kW) | _doğrulanacak — GDI tipik ~135 hp_ |
+| Tork | _doğrulanacak_ |
+| Yakıt tipi | Benzin + LPG (monte) |
+| Şanzıman | Manuel |
+| Çekiş | 2WD |
 
 ## Donanım & Özellikler
 
@@ -31,9 +31,9 @@
 
 ## Mevcut Durum
 
-- Kilometre: _henüz girilmedi_
-- Genel kondisyon: _henüz girilmedi_
-- Bilinen sorunlar / arızalar: _henüz girilmedi_
+- Kilometre: ~130.000 km
+- Genel kondisyon: İyi, şu an çok sorun yok
+- Bilinen sorunlar / arızalar: Yok (güncel)
 
 ## Fotoğraflar & Referanslar
 
@@ -41,4 +41,4 @@
 
 ---
 
-*Son güncelleme: 2026-07-09 — İlk şablon oluşturuldu*
+*Son güncelleme: 2026-07-09 — Araç bilgileri kullanıcıdan alındı*
