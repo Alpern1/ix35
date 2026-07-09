@@ -17,6 +17,8 @@
 
 | # | Proje | Durum | Öncelik | Dosya |
 |---|-------|-------|---------|-------|
+| — | **Master uygulama planı (fazlar)** | 📋 Planlama | **Yüksek** | [master-plan.md](master-plan.md) |
+| — | **Sistem mimarisi (kesin karar)** | 📋 Planlama | **Yüksek** | [sistem-mimarisi.md](sistem-mimarisi.md) |
 | — | **Teknik analiz (tam rapor)** | 📋 Planlama | — | [teknik-analiz.md](teknik-analiz.md) |
 | — | **Kullanım senaryoları (inme/binme)** | 📋 Planlama | — | [kullanim-senaryolari.md](kullanim-senaryolari.md) |
 | — | **Zorunlu parça listesi** | 📋 Planlama | — | [zorunlu-parcalar.md](zorunlu-parcalar.md) |

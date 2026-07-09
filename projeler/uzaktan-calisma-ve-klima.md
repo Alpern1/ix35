@@ -124,7 +124,7 @@ Uzaktan ısınma senaryosu için bu aslında **iyi** — soğuk LPG ile çalış
 | Aylık abonelik | ~$6–12/ay | DroneMobile Basic |
 | Kurulum (DIY değilse) | 3.000–8.000+ TL | Manuel + LPG bilgisi olan usta |
 
-**Kumanda:** 2-yönlü Compustar kumanda yedek olarak kalabilir (apartman/yakın mesafe). Asıl kullanım telefon.
+**Kumanda:** StarLine paket kumandası yakın mesafe yedek. **Günlük ritüel ve evden çalıştırma = telefon** (program nötr sonrası). Bkz. [sistem-mimarisi.md](sistem-mimarisi.md), [kullanim-senaryolari.md](kullanim-senaryolari.md).
 
 ---
 

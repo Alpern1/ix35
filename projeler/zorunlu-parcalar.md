@@ -1,7 +1,7 @@
 # Zorunlu Parçalar — 2012 ix35 (Smart Key, Manuel, Prins LPG)
 
-> Fiyat yok. Sadece: ne şart, ne işe yarar, ne değil.
-> Karar: modüler yol (Fortin + manuel uyumlu remote start + GSM) vs tek paket (TR/Rus) — uyumluluk doğrulanacak.
+> Fiyat yok. Sadece: ne şart, ne işe yarar.
+> **Kesin karar:** StarLine A93 v2 ECO 2CAN+2LIN + LTE telematik — detay [sistem-mimarisi.md](sistem-mimarisi.md)
 
 ---
 
@@ -9,141 +9,128 @@
 
 | Kısıt | Sonuç |
 |-------|-------|
-| Smart Key + START/STOP | Immobilizer bypass şart |
-| Manuel vites | Manuel uyumlu remote start şart; rezervasyon modu şart |
-| 2012 ix35 (LM = Tucson) | Fortin firmware: Tucson 2010–2013 Push-Start |
+| Smart Key + START/STOP | iKey immobilizer bypass (StarLine 2CAN) |
+| Manuel vites | Program nötr prosedürü şart |
+| 2012 ix35 (LM = Tucson) | can.starline.ru bağlantı şeması mevcut |
 | Prins LPG | Ekstra LPG modülü şart değil; benzinle başlar |
-| Telefon kontrolü isteniyor | GSM/LTE telematik modül şart |
-| Walk-away kilit isteniyor | Ayrı modül (remote start paketinin parçası değil) |
+| Telefon kontrolü isteniyor | GSM/LTE modül şart |
+| Walk-away kilit isteniyor | Faz 2 — ayrı modül veya StarLine ayarı |
 
 ---
 
-## GRUP 1 — Uzaktan çalıştırma (zorunlu)
+## GRUP 1 — Ana paket (zorunlu, tek seferde)
 
-### 1. Remote Start Beyni (manuel uyumlu)
+### 1. StarLine A93 v2 ECO 2CAN+2LIN
 
-**Ne işe yarar:** Motoru uzaktan çalıştırır/durdurur; rezervasyon modunu yönetir; güvenlik kontrollerini yapar.
+**Ne işe yarar:** Alarm + uzaktan çalıştırma beyni + CAN/LIN arayüzü + iKey bypass.
 
-**Şart:** "Manuel transmission" veya "reservation mode" desteklemeli. Otomatik vites kiti **kullanılmaz**.
+**Şart:** Autostart özellikli paket; manuel şanzıman profili.
 
-**Aday markalar:** Compustar CMX serisi, Viper/Clifford manuel serisi, Fortin EVO-ONE (manuel modda)
-
----
-
-### 2. Immobilizer Bypass + CAN Arayüzü
-
-**Ne işe yarar:** Smart key immobilizer'ı uzaktan çalıştırma sırasında geçici olarak devreye sokar; CAN bus üzerinden araca konuşur.
-
-**Şart:** 2012 ix35/Tucson Smart-Key için doğru firmware.
-
-**Kesin aday:** Fortin EVO-ONE veya EVO-ALL  
-**Firmware:** Hyundai Tucson Smart-Key 2010–2013 (Fortin guide #23691)
-
-**Olmadan:** Motor çalışmaz — immobilizer keser.
+**Olmadan:** Sistem yok.
 
 ---
 
-### 3. Kaput Switch'i (Hood Pin)
+### 2. StarLine LTE Master 4G (veya eşdeğer dahili LTE)
+
+**Ne işe yarar:** Evden / sınırsız menzil telefon kontrolü.
+
+**Şart:** Türkiye nano-SIM; StarLine 2 uygulaması.
+
+**Olmadan:** Sadece kumanda menzili (~50–150 m) — senin istediğin olmaz.
+
+---
+
+### 3. nano-SIM (Türkiye operatörü)
+
+**Ne işe yarar:** LTE modülün ağa bağlanması.
+
+**Şart:** Veri açık; minimal GB tarifesi yeter.
+
+---
+
+### 4. Kaput switch (hood pin)
 
 **Ne işe yarar:** Kaput açıkken uzaktan çalışmayı engeller.
 
-**Şart:** Zorunlu güvenlik — Fortin kılavuzu "MANDATORY INSTALL" diyor.
+**Şart:** Zorunlu güvenlik.
 
-**Olmadan:** Kurulmamalı.
-
----
-
-### 4. Kablolama / Sinyal Bağlantıları (modül değil ama şart)
-
-| Sinyal | Neden şart |
-|--------|------------|
-| Debriyaj switch | Manuel vites — marş için debriyaj bypass |
-| El freni switch | Vites boşta + el freni doğrulaması |
-| Kapı switch'leri | Rezervasyon modu — kapı açılınca iptal |
-| Tachometre (devir) | Manuel vites remote start — motor devrini algılar |
-| START/STOP düğmesi | Push-start simülasyonu |
-| Fren pedalı switch | Güvenlik + takeover |
-| CAN bus (OBD veya kick panel) | Immobilizer + kilit entegrasyonu |
-
-**T-harness:** 2012 ix35 push-start için plug-and-play yok. Kablo kablo bağlantı (Fortin guide #23691).
+**Bağlantı:** Fabrika kaput switch'i veya ek switch.
 
 ---
 
-### 5. Programlama Aracı
+### 5. Kurulum yazılımı — StarLine Master
 
-**Ne işe yarar:** Fortin modüle araç firmware'i yükler.
+**Ne işe yarar:** Firmware, fonksiyon tabloları, iKey öğrenme.
 
-**Şart:** Fortin FlashLink Updater (veya FlashLink Mobile)
+**Şart:** Kurulum günü (PC).
 
-**Not:** Kurulum için bir kez gerekir; arabada kalmaz.
-
----
-
-## GRUP 2 — Telefon kontrolü (zorunlu — senin isteğin)
-
-### 6. GSM / LTE Telematik Modül
-
-**Ne işe yarar:** Telefon uygulamasından sınırsız menzille çalıştır/durdur/kilit.
-
-**Şart:** Türkiye SIM / operatör uyumu.
-
-**Seçenekler (biri seçilecek):**
-
-| Seçenek | Yapı | TR uyumu |
-|---------|------|----------|
-| A | Fortin EVO-ONE + ayrı GSM modül (MK3 paketleri) | Sorulacak |
-| B | StarLine / Pandora (GSM entegre alarm) | TR'de satılıyor; ix35 CAN uyumu sorulacak |
-| C | Start-Stop TR SST serisi | Yerli; ix35 manuel uyumu sorulacak |
-| D | DroneMobile | TR LTE zayıf — **önerilmez** |
-
-**Olmadan:** Sadece kumanda menzili (~50–150 m) kalır — senin istediğin "evden çalıştırma" olmaz.
+**Not:** Arabada kalmaz.
 
 ---
 
-## GRUP 3 — Walk-away otomatik kilit (ayrı proje, ayrı modül)
+### 6. Kablolama (modül değil ama şart)
 
-### 7. Proximity Lock Modülü
+| Sinyal | Neden |
+|--------|-------|
+| CAN / LIN (2CAN+2LIN şeması) | Immobilizer, START/STOP, kilit, klima |
+| El freni switch | Program nötr + güvenlik |
+| Debriyaj switch | Manuel marş güvenliği |
+| Kapı switch'leri | Silahlanma / iptal |
+| START/STOP hattı | Push-start simülasyonu |
+| Servis butonu | iKey öğrenme, valet |
+
+**T-harness:** ix35 push-start için plug-and-play yok — şemaya göre kablo.
+
+---
+
+## GRUP 2 — Pakete dahil, ayrıca alınmaz
+
+| Parça | Not |
+|-------|-----|
+| LCD kumanda | Yakın mesafe yedek; günlük ritüelde zorunlu değil |
+| Siren | Alarm |
+| Servis butonu | iKey |
+| Antenler | LTE + (varsa) GPS |
+
+---
+
+## GRUP 3 — Walk-away (Faz 2, ayrı)
+
+### Proximity lock modülü
 
 **Ne işe yarar:** Uzaklaşınca kilit, yaklaşınca aç.
 
-**Şart:** Smart key CAN entegrasyonu.
+**Remote start ile aynı parça mı?** StarLine paketinde varsayılan değil; SLAVE/tag veya TR modül.
 
-**Remote start ile aynı parça mı?** Hayır — ayrı modül veya anahtarcı paketi.
-
-**MyKeyPremium:** Manuel vites uyumsuz — **bu araç için elendi**.
+**MyKeyPremium:** Manuel uyumsuz — **elendi**.
 
 ---
 
-## GRUP 4 — Opsiyonel (şimdilik karar verme)
+## GRUP 4 — Opsiyonel (şimdilik gerek yok)
 
-| Parça | Ne işe yarar | Zorunlu mu? |
-|-------|--------------|-------------|
-| 2-yönlü uzaktan kumanda | Menzil + geri bildirim (telefon yedeği) | Hayır ama faydalı |
-| Koltuk ısıtma aux kablosu | Uzaktan koltuk ısıtma tetikleme | Hayır |
-| Kabin sıcaklık sensörü (thermistor) | Uygulamada sıcaklık gösterme | Hayır |
-| Alarm/siren | Güvenlik | Hayır |
+| Parça | Ne işe yarar |
+|-------|--------------|
+| Kabin sıcaklık sensörü | Uygulamada sıcaklık gösterme |
+| Koltuk ısıtma aux | Uzaktan koltuk ısıtma tetikleme |
+| GPS modülü | Konum takibi (LTE paketine bağlı) |
 
 ---
 
-## Önerilen mimari (karar taslağı)
-
-Modüler ve dokümantasyonu net olan yol:
+## Kesin mimari
 
 ```
-[1] Compustar CMX (manuel remote start beyin)
+[1] StarLine A93 v2 ECO 2CAN+2LIN
         ↓
-[2] Fortin EVO-ONE (immobilizer bypass, Tucson 2010-2013 PTS firmware)
+[2] StarLine LTE Master 4G + nano-SIM
         ↓
-[3] Hood pin switch
+[3] Hood pin + şema kabloları
         ↓
-[4] Kablolama (debriyaj, el freni, kapı, tach, START/STOP, CAN)
+[4] StarLine Master (kurulum, bir kez)
         ↓
-[5] GSM modül (TR uyumlu — seçim bekliyor)
-        ↓
-[6] FlashLink (kurulum aracı, bir kez)
+[5] StarLine 2 uygulaması (telefon)
 ```
 
-**Ayrı:** [7] Walk-away modül (TR anahtarcı veya import — ayrı karar)
+**Ayrı (Faz 2):** Walk-away proximity modülü
 
 ---
 
@@ -151,19 +138,20 @@ Modüler ve dokümantasyonu net olan yol:
 
 | Parça / Yol | Neden |
 |-------------|-------|
+| Compustar + Fortin modüler yol | Telefon-only program nötr için StarLine daha uygun |
 | MyKeyPremium | Manuel vites desteklemiyor |
-| Otomatik vites remote start kiti | Güvenlik riski |
-| DroneMobile (TR için) | LTE/TR servis uyumsuz |
-| Blue Link / myHyundai | 2012 ix35'te donanım yok |
-| LPG'ye özel bypass modülü | Prins zaten benzinle başlıyor |
+| Start-Stop TR (tek başına) | Evden GSM menzili yok |
+| DroneMobile | TR LTE uyumsuz |
+| Blue Link | 2012'de donanım yok |
+| Aftermarket kumanda START ritüeli | Telefon silahlanma yeterli |
 
 ---
 
-## Sonraki adım (fiyattan önce)
+## Sonraki adım
 
-1. **GSM modül seçimi:** Fortin GSM paketi mi, StarLine/Pandora mı, Start-Stop TR mi? → Satıcıya "2012 ix35 manuel smart key" diye sor
-2. **Walk-away:** Aynı satıcıdan mı, ayrı mı?
-3. **Uyumluluk teyidi** gelince parça listesi kesinleşir → o zaman fiyat
+1. [master-plan.md](master-plan.md) → **Faz 1:** Satıcı teyidi
+2. Sipariş → Faz 2
+3. Kurulum → Faz 4–5
 
 ---
 
