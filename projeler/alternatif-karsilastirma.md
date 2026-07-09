@@ -12,8 +12,8 @@
 |------|-------|
 | StarLine’ı parça parça toplayıp sonra mı kurarız? | **Hayır.** GSM ECO tek kutu; modül modül biriktirme yok. Biriktir → tek seferde sipariş + gümrük. |
 | StarLine mecburi mi? | **Evden telefon + ix35 2012 push-start + manuel** için yurtiçinde kanıtlı alternatif yok. İthalatta **en iyi belgelenmiş** seçenek StarLine. |
-| Hem telefon hem walk-away tek cihaz? | **Evet, en yakın aday: Pandora VX-4G** (Hands Free modu). Ama **daha pahalı**, yine **ithalat**, ix35 kanıtı StarLine kadar net değil. |
-| Daha ucuz ve daha iyi bir şey var mı? | **Bu üçlü hedef için hayır.** Ucuz olanlar telefonu veya walk-away’i eksik bırakıyor; “ucuz” Çin kitleri ix35’te çalışmama riski taşıyor. |
+| Hem telefon hem walk-away tek cihaz? | **Evet: Pandora VX-4G v3** (Hands Free) — ix35 CLONE listede; [pandora-arastirma.md](pandora-arastirma.md) |
+| Daha ucuz ve daha iyi bir şey var mı? | **İkisini birden yapan başka yok.** Pandora GPS’siz ~1–2k TL StarLine üstü; ucuz olanlar bir özelliği eksik |
 
 ---
 
@@ -41,19 +41,28 @@ Detay: [fazli-butce-plani.md](fazli-butce-plani.md)
 
 ## 3. Tek cihaz: telefon + walk-away
 
-### A — Pandora VX-4G GPS v3 (en yakın “tek kutu” aday)
+### A — Pandora VX-4G v3 (önerilen — GPS’siz)
 
 | Özellik | Durum |
 |---------|--------|
 | Evden telefon (4G/LTE, uygulama) | ✅ Pandora Connect (iOS/Android) |
-| Uzaktan çalıştırma | ✅ RMD-4M otomotiv modülü pakette |
-| Walk-away benzeri | ✅ **Hands Free** — Bluetooth metka veya telefon; uzaklaşınca **otomatik silahlanma**, yaklaşınca **otomatik devre dışı** |
-| ix35 | ⚠️ Pandora prolab’da **ix35 2010–2015** listelenmiş (DXL 4710); 2012 için kurulum örneği var; StarLine `can.starline.ru` kadar tek merkezli şema yok |
-| Manuel vites | ⚠️ Kurulumda teyit gerekir |
-| Türkiye satışı | ❌ Yurtiçi SKU yok; Rusya ithalat |
-| Fiyat (cihaz) | **29.360 RUB** (~15.280 TL) — alarm.ru |
-| StarLine GSM ECO | **23.250 RUB** (~12.108 TL) — alarm.ru |
-| Gümrük sonrası tahmin | **~26.000–32.000 TL** | StarLine: **~22.000–26.000 TL** |
+| Uzaktan çalıştırma | ✅ RMD-4M v2 pakette |
+| Walk-away benzeri | ✅ **Hands Free** — telefon veya BT metka |
+| ix35 2012 | ✅ **loader.alarmtrade.ru:** ix35 Start-Stop **2010–2013** |
+| Manuel vites | ✅ Programlı nötr (MKPP) |
+| Cihaz fiyatı | **24.599 RUB** (~12.790 TL) |
+| StarLine GSM ECO | **23.250 RUB** (~12.090 TL) |
+| Gümrük sonrası tahmin | **~23.000–27.000 TL** | StarLine: **~22.000–26.000 TL** |
+
+**Tam araştırma:** [pandora-arastirma.md](pandora-arastirma.md)
+
+### A2 — Pandora VX-4G GPS v3 (GPS isteyenler)
+
+| Özellik | Durum |
+|---------|--------|
+| GPS takip | ✅ Dahili |
+| Cihaz fiyatı | **29.360 RUB** (~15.270 TL) |
+| Gümrük sonrası tahmin | **~26.000–32.000 TL** |
 
 **Hands Free ≠ SST walk-away birebir aynı şey değil:**
 
@@ -64,11 +73,12 @@ Detay: [fazli-butce-plani.md](fazli-butce-plani.md)
 | Varsayılan | Açık paket davranışı | **Fabrikada kapalı** — kurulumda açılır |
 | Telefon | ❌ (BT modülü yakın mesafe) | ✅ Telefon metka olarak kullanılabilir |
 
-**Sonuç:** İki özelliği **tek marka / tek kurulum** istiyorsan Pandora mantıklı aday — ama **StarLine’dan ucuz değil**, genelde **daha pahalı**.
+**Sonuç:** İki özelliği **tek marka / tek kurulum** istiyorsan **Pandora VX-4G v3** — StarLine’dan **~1–2k TL** pahalı; GPS’li model +4–6k TL.
 
 Kaynaklar:
-- https://alarm.ru/catalog/avtosignalizatsii/pandora-vx-4g-gps-v3.html
-- https://pandoraprolab.ru/.../hyundai-ix35-2010-2015/...
+- https://alarm.ru/catalog/avtosignalizatsii/pandora-vx-4g-v2.html (VX-4G v3)
+- https://alarm.ru/catalog/avtosignalizatsii/pandora-vx-4g-gps-v3.html (GPS v3)
+- https://loader.alarmtrade.ru/ (ix35 CLONE listesi)
 - Hands Free: https://alarmtrade.ua/ru/news/funktsiya_hands_free_v_signalizatsii_pandora_chto_ona_vypolnyaet_i_kak_rabotaet/
 
 ### B — StarLine A93 GSM ECO
@@ -105,7 +115,8 @@ Kur: 1 RUB ≈ 0,52 TL · Gümrük dahil toplam tahmin
 | Seçenek | Evden telefon | Walk-away | Cihaz | Toplam (tahmin) | ix35 kanıtı | Öneri |
 |---------|---------------|-----------|-------|-----------------|-------------|-------|
 | **StarLine A93 GSM ECO** | ✅ | ❌ | ~12.100 TL | **~22–26k** | ⭐⭐⭐⭐⭐ | **Telefon öncelik #1** |
-| **Pandora VX-4G GPS v3** | ✅ | ✅ Hands Free | ~15.300 TL | **~26–32k** | ⭐⭐⭐⭐ | **Tek kutu telefon+proximity** |
+| **Pandora VX-4G v3** | ✅ | ✅ Hands Free | ~12.790 TL | **~23–27k** | ⭐⭐⭐⭐⭐ CLONE | **Tek kutu #1** |
+| **Pandora VX-4G GPS v3** | ✅ | ✅ Hands Free | ~15.270 TL | **~26–32k** | ⭐⭐⭐⭐⭐ | GPS + proximity |
 | **StarLine Paket C (ucuz GSM)** | ✅ | ❌ | ~9.100 TL | **~19–23k** | ⭐⭐⭐ | Satıcı/GSM versiyonu **teyit şart** |
 | **SST-019** | ❌ | ✅ | ~15.500 TL | **~15–20k** | ⭐⭐⭐ | Sadece walk-away; telefon vazgeçilirse |
 | **Oto Yapay Zeka** | ❌ | ⚠️ | ~19.000 TL | ~19–24k | ⭐⭐ | **Önerilmez** (fabrika PTS) |

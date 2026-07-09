@@ -152,6 +152,7 @@ Walk-away **ayrı proje dosyasında** vardı; fiyat araştırması eksikti — *
 |-------|--------|
 | [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) | Yurtiçi/ithalat telefon + gümrük ~22–26k |
 | [alternatif-karsilastirma.md](alternatif-karsilastirma.md) | Pandora vs StarLine; tek kutu telefon+walk-away |
+| [pandora-arastirma.md](pandora-arastirma.md) | Pandora VX-4G detaylı araştırma (ix35, Hands Free, fiyat) |
 | [parca-tedarik-tr.md](parca-tedarik-tr.md) | Yurtiçi SKU listesi |
 | [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) | Walk-away seçenekleri + SST fiyat |
 | [master-plan.md](master-plan.md) | Uygulama fazları |

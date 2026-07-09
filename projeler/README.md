@@ -19,6 +19,7 @@
 |---|-------|-------|---------|-------|
 | — | **Fazlı bütçe planı (parça parça mı?)** | 📋 Planlama | **Yüksek** | [fazli-butce-plani.md](fazli-butce-plani.md) |
 | — | **Telefon kontrol araştırması (TR + gümrük)** | 📋 Planlama | **Yüksek** | [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) |
+| — | **Pandora VX-4G detaylı araştırma** | 📋 Planlama | **Yüksek** | [pandora-arastirma.md](pandora-arastirma.md) |
 | — | **Alternatif karşılaştırma (tek kutu / StarLine şart mı?)** | 📋 Planlama | **Yüksek** | [alternatif-karsilastirma.md](alternatif-karsilastirma.md) |
 | — | **Parça tedarik TR (SKU, stok)** | 📋 Planlama | **Yüksek** | [parca-tedarik-tr.md](parca-tedarik-tr.md) |
 | — | **Satın alma kanalları (internet)** | 📋 Planlama | — | [satin-alma-kanallari.md](satin-alma-kanallari.md) |
