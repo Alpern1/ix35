@@ -108,6 +108,45 @@ Walk-away = **otomatik pasif kilit** (modül tetikliyor).
 
 ---
 
+## 3b. "Ritüel" ne demek? (Sık sorulan)
+
+> **Senin yaptığın (vites boş + el freni) zaten doğru.** Ritüel dediğim şey bunlara **ek** bir adım — sadece "yarın uzaktan çalıştıracağım" demek için.
+
+### Normal park (bugün yaptığın)
+
+```
+Vites boş → El freni → START/STOP'a bas → motor KAPANIR → İn, git
+```
+
+Bu akış **değişmez**. Araba sen uzaklaşınca kendi kendine kapanmaz (walk-away ayrı proje).
+
+### Uzaktan çalıştırma istiyorsan (ek adım)
+
+```
+Vites boş → El freni → [EK ADIM: sistemi "silahlandır"] → Kapı kapanınca motor kapanır → Ertesi gün telefondan çalıştır
+```
+
+**EK ADIM** = Rezervasyon modu. Push-start + manuel için tipik olarak:
+- Compustar kumandasında Start tuşuna **2.5 saniye** bas, VEYA
+- Motor çalışırken prosedürü tamamla, kapı kapanınca motor kendiliğinden durur
+
+**Kritik fark:** START/STOP ile **normal şekilde** kapatırsan → sistem silahlanmaz → sabah uzaktan çalışmaz.
+
+| | Normal park | Uzaktan çalıştırma için |
+|--|-------------|-------------------------|
+| Vites boş | ✅ | ✅ |
+| El freni | ✅ | ✅ |
+| START/STOP ile kapat | ✅ | ❌ (veya prosedürün parçası) |
+| Ek silahlandırma adımı | Yok | **Gerekli** |
+| Sabah evden çalıştır | ❌ | ✅ |
+
+**START/STOP'a basmayacak mısın?**
+- Normal parkta: **evet**, basıp kapatırsın (bugünkü gibi)
+- Uzaktan çalıştırırken: **hayır**, telefon/modül START/STOP'u simüle eder
+- Araca bindiğinde: frene bas → START/STOP'a bir kez bas (devralma)
+
+---
+
 ## 4. PROJE B — Uzaktan çalıştırma + klima + telefon
 
 ### 4.1 Fortin onayı: ix35/Tucson 2010–2013 Smart Key
@@ -259,30 +298,62 @@ Hyundai'de koltuk ısıtma **soft-touch** — son konumu hatırlamaz.
 
 ---
 
-## 5. Parça listesi (tahmini)
+## 5. Parça listesi ve Türkiye satış kanalları
+
+### Türkiye'de satılan / bulunabilir
+
+| Kaynak | Ne satıyor? | Fiyat (yaklaşık) | Not |
+|--------|-------------|------------------|-----|
+| [MK3.com.tr](https://www.mk3.com.tr/kategori/fortin) | Fortin EVO-ONE, EVO-ALL, kumanda kitleri | EVO-ONE ~$170 (~6.000 TL) | Oto anahtar/elektronik tedarikçi |
+| [MK3 MKON355](https://www.mk3.com.tr/urun/fortin-evo-one-uzaktan-araba-calistirma-modulu-gsm-gprs-gps-takip-hepsi-bir-arada-ucretsiz) | EVO-ONE + GSM/GPS takip | ~$170 | **DroneMobile alternatifi olabilir** — TR SIM uyumu sorulmalı |
+| [Start-Stop Türkiye SST](https://fsatuning.com/urun/start-stop-turkiye-anahtarsiz-giris-anahtarsiz-calistirma-uzaktan-calistirma-sistemi-sst-011/) | Anahtarsız giriş + uzaktan çalıştırma + keypad | ~12.500 TL | Yerli; manuel/ix35 uyumu sorulmalı |
+| StarLine / Pandora | GSM alarm + uzaktan çalıştırma | 15.000–40.000+ TL (montaj dahil) | Rus/Doğu Avrupa pazarı; TR'de satanlar var |
+| Oto anahtarcılar | Komple paket + kurulum | Değişken | Hech, yerel anahtarcılar |
+
+**DroneMobile:** Resmi olarak Kuzey Amerika LTE ağına göre tasarlanmış. Türkiye'de doğrudan satış/servis sınırlı. Alternatif: Fortin EVO-ONE GSM/GPS paketi (MK3) veya StarLine/Pandora GSM modülü.
 
 ### Walk-away lock (tek başına)
 
 | Parça | Tahmini fiyat |
 |-------|---------------|
-| Proximity lock modülü | $150–250 USD veya TR anahtarcı fiyatı |
+| Proximity lock modülü | TR anahtarcı veya import ~5.000–15.000 TL |
 | Bağlantı kabloları | Dahil |
 
-### Uzaktan çalıştırma (tam paket)
+### Uzaktan çalıştırma — yol A: Fortin + Compustar (import)
 
-| Parça | Tahmini fiyat |
-|-------|---------------|
-| Compustar CMX (manuel uyumlu) | $300–500 USD |
-| Fortin EVO-ONE | $150–200 USD |
-| FlashLink Updater | ~$30 USD |
-| DroneMobile DR-5400 LTE | ~$150 USD |
-| Hood pin switch | ~$15 USD |
-| Diyotler, kablo, röle | ~$30 USD |
-| Thermistor (opsiyonel) | ~$20 USD |
-| Koltuk ısıtma kablolama (opsiyonel) | ~$20 USD |
-| **Toplam parça** | **~$700–950 USD** (~25.000–35.000 TL) |
-| DroneMobile abonelik | ~$6–12/ay |
-| Kurulum (DIY değilse) | 3.000–8.000 TL |
+| Parça | USD | TL (yaklaşık) |
+|-------|-----|---------------|
+| Compustar CMX (manuel) | $300–500 | 10.000–17.000 |
+| Fortin EVO-ONE (MK3'ten) | ~$170 | ~6.000 |
+| FlashLink Updater | ~$30 | ~1.000 |
+| Kumanda kiti | $100–200 | 3.500–7.000 |
+| Hood pin + malzeme | ~$30 | ~1.000 |
+| **Toplam parça** | **~$600–900** | **~22.000–32.000 TL** |
+| Kurulum (DIY değilse) | — | 3.000–8.000 TL |
+
+### Uzaktan çalıştırma — yol B: Yerli paket (Start-Stop TR vb.)
+
+| Parça | TL |
+|-------|-----|
+| SST-011 benzeri komple kit | ~12.500 |
+| Kurulum | 2.000–5.000 (tahmini) |
+| **Toplam** | **~15.000–18.000 TL** |
+
+> Yerli kitlerin manuel vites + 2012 ix35 + Prins LPG uyumu **satıcıya sorulmadan kesinleşmez.**
+
+### 10–15 dk rölanti yeter mi?
+
+| Senaryo | 10–15 dk yeterli mi? | Gerçekçi beklenti |
+|---------|----------------------|-------------------|
+| Yaz, +30°C, klima MAX soğutma | ✅ Genelde evet | Kabin belirgin serinler |
+| İlkbahar/sonbahar, 10–15°C | ✅ Makul | Ilık hava, buğu çözülür |
+| Kış, 0°C civarı (İstanbul) | ⚠️ Kısmen | Ilık hava gelir; "sıcacık" olmayabilir |
+| Kış, -10°C ve altı | ⚠️ Sınırlı | Rölantide kabin yavaş ısınır; 15 dk yetmeyebilir |
+| Koltuk ısıtma (aux ile) | ✅ Ek kablo varsa | Koltuklar daha hızlı ısınır |
+
+**Önemli:** Uzmanlar motorun ısınması için sürüşün rölantiden hızlı olduğunu söylüyor. Ama senin amacın "bindiğinde donmamak" — bu açıdan 10–15 dk **kabul edilebilir**, mükemmel değil.
+
+**Pratik öneri:** Modülü **15 dk** limitine ayarla. Kışın çok soğuksa 20 dk dene; yazın 10 dk yeterli olabilir.
 
 ---
 
