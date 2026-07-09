@@ -19,6 +19,7 @@
 |---|-------|-------|---------|-------|
 | — | **Fazlı bütçe planı (parça parça mı?)** | 📋 Planlama | **Yüksek** | [fazli-butce-plani.md](fazli-butce-plani.md) |
 | — | **Telefon kontrol araştırması (TR + gümrük)** | 📋 Planlama | **Yüksek** | [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) |
+| — | **Canlı kurulum anlatımı (kutu geldi → gün gün)** | 📋 Planlama | **Yüksek** | [kurulum-canli-anlatim.md](kurulum-canli-anlatim.md) |
 | — | **Hafta sonu kurulum planı (KESİN: StarLine)** | 📋 Planlama | **Yüksek** | [haftasonu-kurulum-plani.md](haftasonu-kurulum-plani.md) |
 | — | **Kendin kur (DIY) — montajcı şart mı?** | 📋 Planlama | **Yüksek** | [diy-kurulum.md](diy-kurulum.md) |
 | — | **Alternatif karşılaştırma (tek kutu / StarLine şart mı?)** | 📋 Planlama | **Yüksek** | [alternatif-karsilastirma.md](alternatif-karsilastirma.md) |

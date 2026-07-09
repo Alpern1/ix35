@@ -3,6 +3,8 @@
 > 2012 ix35 · 1.6 GDI · Smart Key · **Manuel** · Prins LPG · Kayseri · **Kendin kur**
 > Tarih: 2026-07-09
 
+**Kutu geldi, araç başındaysan:** Önce **[kurulum-canli-anlatim.md](kurulum-canli-anlatim.md)** dosyasını aç — gün gün, adım adım, araçta/laptopta ne yapacağını orada anlatıyoruz. Bu dosya özet karar + hafta sonu takvimi.
+
 ---
 
 ## KESİN KARAR (bundan sonra değişmiyor)
