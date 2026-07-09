@@ -1,7 +1,7 @@
 # Master Uygulama Planı
 
-> Gerçek iş fazları — "bayiye sor" değil, "yap / öğren / kur / test et".
-> Pes etme anın: teknik olarak imkânsız çıktığında veya inancını yitirdiğinde; adım listesi değil.
+> Gerçek iş fazları — "bayiye sor" değil, "sipariş ver / kur / test et".
+> **Güncelleme:** Faz 1 artık **parça tedarik** — StarLine yurtiçi satılmıyor; Fortin MK3 BOM aktif.
 
 ---
 
@@ -9,113 +9,122 @@
 
 ```
 Faz 1          Faz 2           Faz 3            Faz 4           Faz 5
-ANLA           SATIN AL        KUR              AYARLA          YAŞA
+KARAR+SİPARİŞ  TESLİM          KUR              AYARLA          YAŞA
 │              │               │                │               │
-can.starline   Kutu + SIM      Kablo işi        Firmware+iKey   Günlük ritüel
-Forum oku      elinde          (en zor kısım)   Fonksiyon 15    Sabah Siri
+parca-tedarik  Kutu aç         Kablo işi        Flashlink       Günlük ritüel
+karar ağacı    eksik kontrol   (en zor)         Ready Mode      RF / OEM
 ```
-
-Her faz **somut bir beceri** veya **fiziksel çıktı** — "birine mesaj at" değil.
 
 ---
 
-## Faz 1 — Anla (şu an, ücretsiz)
+## Faz 0 — Karar (şimdi, ücretsiz)
 
-**Ne öğreniyorsun:** Bu iş gerçekten senin aracında yapılmış mı, neye benziyor?
+**Soru:** Evden telefon için gümrük kabul ediyor musun?
 
-| Görev | Nereden | Bitti sayılır |
-|-------|---------|---------------|
-| ix35 bağlantı şemasını indir | [can.starline.ru](https://can.starline.ru) → Hyundai → ix35/Tucson → 2012 → Start-Stop | PDF elinde |
-| Forum kurulumunu oku | [ix35 2014 Start-Stop](https://support.starline.ru/communities/10/topics/41978-starline-a93-2can2lin-na-hyundai-tucson-ix35-2014-start-stop) | "CAN ile çalışıyor" kafanda oturdu |
-| Günlük akışı içselleştir | [kullanim-senaryolari.md](kullanim-senaryolari.md) | Akşam/sabah ne yapacağını biliyorsun |
-| Satın alma kanalını seç | [satin-alma-kanallari.md](satin-alma-kanallari.md) | Hangi siteden alacağın net |
+| Cevap | Yol | Dosya |
+|-------|-----|-------|
+| **Hayır** | Fortin MK3 BOM | [parca-tedarik-tr.md](parca-tedarik-tr.md) Bölüm 2 |
+| **Evet** | StarLine ithalat | [satin-alma-kanallari.md](satin-alma-kanallari.md) Plan B |
 
-**Bu fazda pes eder misin?** Sadece okuma. can.starline.ru'da ix35 şeması yoksa pes et — ama **var**.
+**Bitti sayılır:** Hangi BOM'u sipariş edeceğin yazılı net.
 
 ---
 
-## Faz 2 — Satın al (internet, kargo)
+## Faz 1 — Satın al (yurtiçi, internet)
 
-**Ne elde ediyorsun:** Kutu + SIM.
+**Ne elde ediyorsun:** Kutular elinde — montaja hazır parça.
+
+### Fortin yolu (gümrük yok)
 
 ```
-□ StarLine A93 v2 ECO 2CAN+2LIN
-□ LTE Master 4G (veya GSM dahil paket)
-□ nano-SIM (Türkiye operatör)
-□ StarLine 2 uygulaması yüklü (henüz bağlanmasa da)
+□ EVO-ONE MK20064 — mk3.com.tr
+□ Flashlink Mobile MK20126 — mk3.com.tr
+□ RFK442 MK20083 — mk3.com.tr
+□ T-Harness: Flashlink gelince SKU teyit → KHY3 veya KHY7 sipariş
+□ MKON355 ALMA
 ```
 
-Kanal listesi: [satin-alma-kanallari.md](satin-alma-kanallari.md)
+**Bitti sayılır:** EVO-ONE + Flashlink + RF açıldı; eksik parça yok.
 
-**Bitti sayılır:** Kutuyu açtın, pin-konvert kartı var, parçalar eksiksiz.
+**Pes etme?** MK3 tükenirse — Flashlink Mobile ve EVO-ONE stokta; T-harness alternatif SKU dene.
 
-**Bu fazda pes eder misin?** Kargo/gümrük sürprizi olursa alternatif satıcı dene — tek satıcıya bağlı kalma.
+### StarLine yolu (gümrük var)
+
+```
+□ A93 v2 2CAN+2LIN
+□ LTE Master 4G
+□ nano-SIM
+```
+
+Kanal: [satin-alma-kanallari.md](satin-alma-kanallari.md) Plan B.
 
 ---
 
-## Faz 3 — Kur (asıl iş — burası zor)
+## Faz 2 — Teslim ve doğrula
 
-**Ne yapıyorsun:** Telleri şemaya göre bağlıyorsun.
+| Görev | Bitti sayılır |
+|-------|---------------|
+| Kutuları aç, SKU etiketleri fotoğra | parca-tedarik-tr.md checklist |
+| Flashlink Mobile şarj / uygulama kur | Telefonda Flashlink açılıyor |
+| Fortin: uygulamada **2012 Tucson PTS** ara | Doğru T-harness SKU yazılı |
+| Eksik parça varsa | MK3 iade/değişim talebi |
 
-Bu fazın zorluğu montaj karmaşıklığında; adım sayısında değil.
+---
+
+## Faz 3 — Kur (asıl iş)
 
 | Alt adım | Zorluk |
 |----------|--------|
-| Konsol sökme, ünite montajı | Orta |
-| CAN/LIN tap noktaları | Zor — şemaya harfiyen uy |
-| START/STOP, el freni, debriyaj | Orta |
-| LTE anten yerleşimi | Kolay |
+| Konsol sökme, EVO-ONE montajı | Orta |
+| T-harness + guide #23691 kabloları | Zor |
+| Hood pin, el freni, debriyaj | Orta |
+| Manuel güvenlik loop kontrolü | Kritik — kesilmemiş olmalı |
 
-**Kaynak:** can.starline.ru şeması + ix35 forum fotoğrafları.
+**Kaynak:** https://fortin.ca/download/23691/EVO-ONE_IG_REG_BI_HYU-Tucson_2010-2013_PTS_B_23691.pdf
 
-**Bitti sayılır:** Akü bağlı, ünite açılıyor, kısa devre yok.
-
-**Bu fazda pes eder misin?** En olası yer burası. Çözüm: bir günde bitirme; önce kablo, sonra konsol. Takılırsan foruma foto at — bayi değil, topluluk.
-
-**Usta?** İstersen sadece bu fazı ustaya yaptır; geri kalanı sen. Tam DIY de mümkün.
+**Bitti sayılır:** Akü bağlı, kısa devre yok, modül LED yanıyor.
 
 ---
 
-## Faz 4 — Ayarla (yazılım + ilk çalıştırma)
-
-**Ne yapıyorsun:** Arabayı sisteme tanıtıyorsun.
+## Faz 4 — Ayarla (Flashlink + ilk çalıştırma)
 
 | Adım | Araç |
 |------|------|
-| Firmware güncelle | StarLine Master (PC) |
-| ix35 CAN firmware yükle | can.starline.ru |
-| Fonksiyon tabloları | Manuel şanzıman, **F15=kapı kapanınca**, turbo timer kapalı |
-| iKey öğrenme | 14× servis butonu + kontak |
-| İlk program nötr testi | Motor çalışırken in → kapı kapat → motor durmalı |
-| İlk uzaktan çalıştırma | Uygulamadan veya kumandadan |
-| GSM testi | Evden telefonla çalıştır |
+| ix35 PTS firmware yükle | Flashlink Mobile |
+| Manuel / Ready Mode ayarları | Flashlink seçenekleri |
+| Immobilizer öğrenme | Guide #23691 prosedürü |
+| İlk Ready Mode testi | Kapı kapanınca motor durmalı |
+| İlk uzaktan çalıştırma | RFK442 veya OEM 3× lock |
 
-Kritik ayarlar: [sistem-mimarisi.md](sistem-mimarisi.md), otomasyon: [telefon-otomasyon.md](telefon-otomasyon.md)
+**Bitti sayılır:** RF'den çalışıyor; klima son AUTO ile devrede.
 
-**Bitti sayılır:** Kapı kapanınca motor duruyor; evden telefonla çalışıyor; klima devrede.
-
-**Bu fazda pes eder misin?** iKey 4 bip verirse bağlantı hatası — forumda çözüm var ([ix35 obhod](https://support.starline.ru/communities/9/topics/85429-hyundai-ix35-ne-rabotaet-obhod)). Donanım doğruysa yazılım tarafı tekrarlanabilir.
+**Evden telefon:** Fortin yolunda bu fazda **yok** — StarLine seçtiysen GSM testi burada.
 
 ---
 
 ## Faz 5 — Yaşa (alışkanlık)
 
-**Ne yapıyorsun:** Günlük hayata geçiriyorsun.
+### Fortin (RF)
 
-| Hafta | Odak |
-|-------|------|
-| 1 | Akşam kapı-kapanınca ritüel |
-| 1 | Sabah telefon veya Siri çalıştır |
-| 2 | Siri cümlesi kaydet (sabah) |
-| 2 | Normal park vs uzaktan park farkını içselleştir |
+```
+Akşam:  N + el freni → Ready Mode prosedürü → kapı kapat → motor durur
+Sabah:  RF START veya OEM 3× lock → 10–15 dk → bin → frene bas → PTS bir kez
+```
 
-**Bitti sayılır:** Düşünmeden yapıyorsun; `araba/yapilanlar.md` güncellendi.
+### StarLine (ithalat yolu)
+
+```
+Akşam:  program nötr → kapı kapat (F15)
+Sabah:  StarLine 2 / Siri → çalıştır
+```
+
+Detay: [kullanim-senaryolari.md](kullanim-senaryolari.md)
 
 ---
 
 ## [Opsiyonel] Faz 6 — Walk-away
 
-Ayrı modül / SLAVE proximity. [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md)
+Start-Stop TR veya ayrı proximity. [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md)
 
 Uzaktan çalıştırma çalıştıktan sonra.
 
@@ -125,21 +134,21 @@ Uzaktan çalıştırma çalıştıktan sonra.
 
 | Durum | Pes et? | Alternatif |
 |-------|---------|------------|
-| can.starline.ru'da ix35 yok | Evet | — (ama var) |
-| Kutu gelmedi / sahte ürün | Hayır | Başka satıcı |
-| Kablo bağlantısı anlaşılmıyor | Hayır | Forum + bir gün mola |
-| iKey öğrenmiyor | Hayır | Bağlantı kontrol + forum |
-| Montaj seni aşıyor | **Belki** | Sadece Faz 3'ü ustaya ver, Faz 4–5 sen |
-| "Her akşam telefonla uğraşırım" korkusu | Hayır | Fonksiyon 15 — telefon yok akşam |
+| Yurtiçi + evden telefon ikisi şart | **Plan yok** | Gümrük kabul et veya menzil beklentisini düşür |
+| MKON355 aldım, telefon çalışmıyor | Hayır | CCURA GPS'tir — EVO-ONE + RF doğru yol |
+| Yanlış T-harness | Hayır | Flashlink teyit, değişim |
+| Montaj aşıyor | Belki | Sadece Faz 3'ü ustaya ver |
+| StarLine gümrükte takıldı | Hayır | Plan A Fortin'e geç |
 
 ---
 
-## Hızlı referans
+## Hızlı referans dosyalar
 
-```
-Akşam:  N + el freni → START bir kez → in → kapı kapat → motor durur
-Sabah:  Telefon / Siri → çalıştır → 15 dk → bin → sür
-```
+| Dosya | İçerik |
+|-------|--------|
+| [parca-tedarik-tr.md](parca-tedarik-tr.md) | SKU, stok, karar ağacı |
+| [sistem-mimarisi.md](sistem-mimarisi.md) | Mimari diyagram |
+| [zorunlu-parcalar.md](zorunlu-parcalar.md) | BOM özet |
 
 ---
 

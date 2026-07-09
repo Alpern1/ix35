@@ -1,184 +1,170 @@
 # Sistem Mimarisi — Kesin Tasarım Kararı
 
 > 2012 Hyundai ix35 · Smart Key · Manuel · Prins LPG · Telefon kontrolü şart
-> Bu dosya **açık soru bırakmadan** hangi sistemin, hangi parçalarla kurulacağını tanımlar.
+> **Güncelleme (2026-07-09):** Yurtiçi tedarik kısıtı eklendi. StarLine teknik olarak ideal; **satın alma yurtiçi değil**. Aktif yurtiçi mimari: **Fortin EVO-ONE (MK3)** — evden telefon bu pakette **yok**.
 
 ---
 
 ## 1. Tek cümlelik karar
 
-**StarLine A93 v2 ECO 2CAN+2LIN + GSM/LTE telematik** — ix35/Tucson push-start için kanıtlı, program nötrü **telefondan** yapılabilen, Türkiye SIM ile çalışan entegre paket.
+**Yurtiçi (gümrüksüz):** Fortin **EVO-ONE + Flashlink Mobile + T-Harness + RFK442** — mk3.com.tr'den sipariş edilebilir; ix35 push-start guide #23691 ile uyumlu.
 
-Walk-away otomatik kilit **aynı markadan zorunlu değil**; ikinci fazda TR proximity modülü veya StarLine SLAVE/proximity ayarı ile eklenir.
+**Evden telefon (hedef):** StarLine A93 v2 2CAN+2LIN + LTE — **sadece ithalat** (Plan B). Türkiye'de doğrudan satış yok.
 
----
-
-## 2. Neden bu sistem? (elenenler dahil)
-
-| Seçenek | Telefon (evden) | ix35 push-start | Manuel program nötr | Walk-away | Karar |
-|---------|-----------------|-----------------|---------------------|-----------|-------|
-| **StarLine A93 v2 2CAN+2LIN + GSM/LTE** | ✅ | ✅ (forum + can.starline.ru) | ✅ telefonla silahlanma | ⚙️ ayrı ayar | **SEÇİLDİ** |
-| Fortin EVO-ONE + Compustar + MK3 GSM | ✅ (MK3) | ✅ (guide #23691) | ⚠️ çoğunlukla kumanda START 2.5 sn | ❌ ayrı | Elendi — telefon-only ritüel zor |
-| Start-Stop TR SST serisi | ❌ (RF 50–200 m; BT modülü ~50 m) | ⚠️ sorulmalı | ⚙️ farklı protokol | ✅ pakette | Elendi — evden menzil yok |
-| DroneMobile | ❌ TR LTE | — | — | — | Elendi |
-| MyKeyPremium | — | — | ❌ manuel uyumsuz | ✅ | Elendi |
-| Blue Link / myHyundai | — | — | — | — | 2012'de donanım yok |
+Walk-away otomatik kilit **bu paketlerde varsayılan değil**; ikinci fazda Start-Stop TR proximity veya ayrı modül.
 
 ---
 
-## 3. Blok diyagramı
+## 2. Kısıt matrisi (neden böyle)
+
+| Kısıt | Etki |
+|-------|------|
+| Yurtdışından alamayız (gümrük) | StarLine, EVO-START LTE → **Plan B** |
+| Evden telefonla çalıştırma | StarLine ✅ · Fortin MK3 ❌ · SST BT ❌ |
+| ix35 push-start 2012 | StarLine ✅ · Fortin ✅ (#23691) · SST ⚠️ |
+| Manuel program nötr | StarLine F15 ✅ · Fortin Ready Mode ⚠️ · SST ⚠️ |
+| DIY | Her iki yol da mümkün; Fortin wire-to-wire zor |
+
+---
+
+## 3. Aktif mimari — Fortin (yurtiçi)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        SEN (ev / iş)                            │
-│                   StarLine mobil uygulama                       │
-│              (iOS / Android — StarLine 2)                     │
+│                        SEN                                     │
+│     RF kumanda (RFK442)  VEYA  OEM smart key 3× kilit          │
+│     Menzil: ~50–500 m (RF); fabrika kumanda menzili (OEM)       │
+│     ❌ Evden telefon bu pakette yok                             │
 └───────────────────────────┬─────────────────────────────────────┘
-                            │ GSM / LTE (sınırsız menzil)
+                            │ 433 MHz RF / OEM RF
                             ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│  StarLine LTE Master 4G  (veya pakette dahili GSM/LTE)          │
-│  + Türkiye nano-SIM (Turkcell / Vodafone / Türk Telekom)        │
+│  Fortin EVO-ONE (MK20064)                                        │
+│  · Immobilizer bypass (push-start)                              │
+│  · Remote start / alarm                                         │
+│  · Manuel: Ready Mode (kapı kapanınca motor durur — seçenek)    │
 └───────────────────────────┬─────────────────────────────────────┘
                             │
                             ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│  StarLine A93 v2 ECO — ana alarm + uzaktan çalıştırma beyni     │
+│  THAR-ONE-KHY3 veya KHY7 + Fortin kılavuz #23691 kabloları      │
 └───────────────────────────┬─────────────────────────────────────┘
-                            │
-                            ▼
-┌─────────────────────────────────────────────────────────────────┐
-│  StarLine 2CAN+2LIN modülü                                      │
-│  · ix35/Tucson 2010–2014 CAN/LIN bağlantı şeması                │
-│  · iKey immobilizer bypass (push-start, CopyKey gerekmez)       │
-│  · START/STOP simülasyonu                                       │
-│  · Klima / kilit / dörtlü entegrasyonu                          │
-└───────────────────────────┬─────────────────────────────────────┘
-                            │ CAN / LIN / düşük akım
+                            │ CAN / PTS / brake / clutch / park
                             ▼
 ┌─────────────────────────────────────────────────────────────────┐
 │  2012 Hyundai ix35                                              │
 │  Smart Key · START/STOP · Manuel · Otomatik klima · Prins LPG   │
 └─────────────────────────────────────────────────────────────────┘
 
-[İsteğe bağlı — Faz 2]
+[Kurulum — bir kez]
 ┌─────────────────────────────────────────────────────────────────┐
-│  Walk-away proximity modülü (TR anahtarcı veya StarLine tag)    │
+│  Flashlink Mobile (MK20126) + iOS/Android Flashlink uygulaması  │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 4. Parça listesi (kesin SKU mantığı)
-
-| # | Parça | Görev | Not |
-|---|-------|-------|-----|
-| 1 | **StarLine A93 v2 ECO 2CAN+2LIN** | Alarm + uzaktan çalıştırma ana ünite | Autostart fonksiyonu açık paket |
-| 2 | **2CAN+2LIN modülü** | ix35 CAN/LIN konuşması | Pakete dahil |
-| 3 | **GSM/LTE telematik** | Telefon kontrolü | Tercih: **StarLine LTE Master 4G** (A93 ile uyumlu); pakette dahili GSM varsa LTE tercih et |
-| 4 | **nano-SIM** | Ağ bağlantısı | Türkiye operatörü; sadece veri, minimal tarife |
-| 5 | **LCD kumanda** | Yakın mesafe yedek | Pakete dahil; günlük ritüelde zorunlu değil |
-| 6 | **Servis butonu** | iKey öğrenme, valet, PIN | Pakete dahil |
-| 7 | **Siren** | Alarm | Pakete dahil |
-| 8 | **Kaput switch (hood pin)** | Kaput açıkken çalıştırmayı engelle | Fabrika switch'e bağlanır veya ek switch |
-| 9 | **StarLine Master yazılımı** | Kurulum / firmware / fonksiyon tabloları | PC; kurulumda bir kez |
-| 10 | **StarLine 2 uygulaması** | Günlük kullanım | Ücretsiz |
-
-**Olmayacaklar:** Compustar beyin, Fortin EVO-ONE (ayrı), DroneMobile, MyKeyPremium, Blue Link modem.
+**Parça listesi (SKU):** [parca-tedarik-tr.md](parca-tedarik-tr.md)
 
 ---
 
-## 5. GSM / SIM — net spec
+## 4. Hedef mimari — StarLine (ithalat, Plan B)
 
-| Konu | Karar |
-|------|-------|
-| Modül | **StarLine LTE Master 4G** (2G kapanma riskine karşı; A93 v2 ile resmi uyumlu) |
-| SIM formatı | nano-SIM |
-| Operatör | Turkcell, Vodafone veya Türk Telekom — **herhangi biri** (StarLine dokümantasyonu operatör bağımsız) |
-| Tarife | Aylık düşük veri (komut + durum; GB'a gerek yok) |
-| Uygulama | **StarLine** (Android / iOS) |
-| Hesap | Kurulumda pin-konvertteki login/şifre ile starline.online / uygulama |
-| Aylık maliyet | SIM tarifesi (tek rakam değil; operatöre göre ~düşük GB paketi) |
+Gümrük kabul edilirse evden telefon için bu mimari geçerli kalır:
 
-**Komutlar telefondan:** Çalıştır, Durdur, Güvenlik kur/çöz, Kapı kilitle/aç, Konum (GPS modülü varsa).
+```
+Telefon (StarLine 2) → LTE Master 4G + nano-SIM → A93 v2 2CAN+2LIN → ix35 CAN/LIN
+```
 
----
-
-## 6. Kurulumda programlanacak kritik ayarlar
-
-Kurulumcuya **yazılı** verilecek liste (StarLine Fonksiyon tabloları):
+Detay: önceki StarLine blok diyagramı ve fonksiyon tabloları geçerli — [satin-alma-kanallari.md](satin-alma-kanallari.md) Plan B.
 
 | Fonksiyon | Değer | Neden |
 |-----------|-------|-------|
-| Şanzıman tipi | **Manuel (МКПП)** | Otomatik seçilirse güvenlik bozulur |
-| Fonksiyon 1 (autostart) | Seçenek 2, 3 veya 4 | Uzaktan çalıştırma açık |
-| Fonksiyon 12 (kontak desteği) | **El freni** veya **Otomatik** | Push-start ix35; kumanda START gerektirmez |
-| Fonksiyon 15 (program nötr bitiş) | **Kapı kapanınca** (V2) veya **kapı + 20 sn** (V3) | Telefondan güvenlik kur gerekmez |
-| iKey / immobilizer bypass | Açık | Smart key bypass |
-| Motor çalışma süresi | 10–15 dk (max 20) | Yağ seyreltmesi + Prins benzin başlangıcı |
-| SLAVE modu | İstenirse açık | Fabrika smart key ile kilit uyumu |
-| Turbo timer | **Kapalı** | Benzin 1.6 GDI — gereksiz |
-
-**iKey öğrenme (push-start):** Servis butonu 14× → 5 sn içinde kontak aç → CAN üzerinden öğrenme (CopyKey **gerekmez** — ix35 forum doğrulaması).
-
-**Bağlantı şeması:** [can.starline.ru](https://can.starline.ru) → Hyundai → Tucson / ix35 → 2010–2014 → Start-Stop.
+| Şanzıman | Manuel (МКПП) | Güvenlik |
+| Fonksiyon 15 | Kapı kapanınca | Akşam telefon gerekmez |
+| iKey bypass | Açık | Smart key |
+| LTE | Master 4G | 2G riski |
 
 ---
 
-## 7. Prins LPG etkisi
+## 5. Seçenek karşılaştırması (güncel)
+
+| Seçenek | Yurtiçi sipariş | Evden telefon | ix35 PTS | Manuel | Walk-away |
+|---------|-----------------|---------------|----------|--------|-----------|
+| **Fortin EVO-ONE MK3** | ✅ | ❌ | ✅ #23691 | ⚠️ Ready Mode | ❌ |
+| **StarLine A93 2CAN+2LIN** | ❌ gümrük | ✅ | ✅ | ✅ F15 | ⚙️ |
+| **Start-Stop TR SST-019** | ✅ | ❌ (BT ~50 m) | ⚠️ | ⚠️ | ✅ |
+| **MKON355 (CCURA GPS)** | ❌ tükendi | ❌ GPS only | — | — | — |
+| **EVO-START LTE** | ❌ ithalat + NA ağ | ⚠️ TR? | ✅ | ✅ | ❌ |
+
+---
+
+## 6. Fortin — kurulumda programlanacak ayarlar
+
+Flashlink ile ix35/Tucson 2010–2013 **Push-to-Start** firmware:
+
+| Ayar | Değer | Neden |
+|------|-------|-------|
+| Araç | Tucson/ix35 PTS 2010–2013 | Guide #23691 |
+| Şanzıman | **Manuel** — güvenlik loop kesilmemiş | Otomatik seçilirse tehlikeli |
+| Manuel sequence bitiş | **Kapı kapanınca** (mümkünse) | StarLine F15 benzeri ritüel |
+| Turbo timer | Kapalı | 1.6 GDI benzin |
+| Hood pin | Açık | Zorunlu güvenlik |
+| T-harness | KHY3 veya KHY7 | Flashlink sihirbazıyla doğrula |
+
+**Ready Mode (manuel):** El freni + nötr + kapı kapanınca motor durur → sonra RF/OEM ile uzaktan çalıştır. Detay: RFK442 kullanım kılavuzu.
+
+**iKey:** Fortin push-start prosedürü — PTS düğmesi ile programlama (guide #23691).
+
+---
+
+## 7. Prins LPG
 
 | Konu | Sonuç |
 |------|-------|
-| Ek LPG modülü | **Gerekmez** |
-| Uzaktan çalıştırma yakıtı | **Benzin** (Prins VSI her zaman benzinle başlar) |
-| Depoda benzin | Uzaktan çalıştırma öncesi benzin olmalı |
-| Rölanti LPG'ye geçiş | Motor ısındıktan sonra normal Prins davranışı |
+| Ek LPG modülü | Gerekmez |
+| Uzaktan çalıştırma yakıtı | Benzin (Prins VSI) |
+| Depoda benzin | Uzaktan çalıştırmadan önce olmalı |
 
 ---
 
-## 8. Klima beklentisi (değişmez gerçek)
+## 8. Klima beklentisi
 
 | Yapılır | Yapılmaz |
 |---------|----------|
-| Son bırakılan AUTO/sıcaklık ile çalışır | Uygulamadan °C ayarı |
-| Park öncesi AUTO + istenen dereceyi ayarla | Blue Link profili |
-| İsteğe bağlı: kabin sıcaklık sensörü (StarLine) | Koltuk ısıtma hafızası (soft touch — ayrı aux gerekir) |
+| Son AUTO/sıcaklık ile çalışır | Uygulamadan °C (Fortin'de evden app yok) |
+| Park öncesi AUTO ayarla | Blue Link |
 
 ---
 
-## 9. Walk-away stratejisi (Faz 2)
+## 9. Walk-away (Faz 2)
 
-| Yol | Açıklama |
-|-----|----------|
-| **A — StarLine SLAVE + tag** | Fabrika kumanda davranışı korunur; proximity tag ile tanıma |
-| **B — TR proximity modülü** | Start-Stop TR / anahtarcı "yaklaş aç uzaklaş kapat" |
-| **C — Sadece telefon** | Çıkarken uygulamadan kilitle (walk-away değil ama çalışır) |
-
-**Faz 1'de walk-away zorunlu değil** — uzaktan çalıştırma öncelik.
+| Yol | Yurtiçi? | Not |
+|-----|----------|-----|
+| Start-Stop TR SST | ✅ | Uzaktan çalıştırma hedefiyle çelişir |
+| StarLine SLAVE/tag | ❌ ithalat | StarLine seçilirse |
+| Telefonla kilitle | ✅ | Walk-away değil |
 
 ---
 
-## 10. Uyumluluk doğrulama (internet — bayi yok)
-
-| Kaynak | URL |
-|--------|-----|
-| Bağlantı şeması | [can.starline.ru](https://can.starline.ru) |
-| ix35 2014 kurulum | [support.starline.ru/.../41978](https://support.starline.ru/communities/10/topics/41978-starline-a93-2can2lin-na-hyundai-tucson-ix35-2014-start-stop) |
-| Satın alma kanalları | [satin-alma-kanallari.md](satin-alma-kanallari.md) |
-| Akşam otomasyon | [telefon-otomasyon.md](telefon-otomasyon.md) |
-
----
-
-## 11. Riskler ve önlemler
+## 10. Riskler
 
 | Risk | Önlem |
 |------|-------|
-| Yanlış şanzıman profili | Kurulumda manuel seçimi yazılı teyit |
-| Program nötr unutma | A prosedürünü her parkta; uygulamada N ikonu kontrol |
-| 2G SIM / modül | LTE Master 4G kullan |
-| DIY kablo hatası | CAN şemasına harfiyen uy; multimetre ile doğrula |
-| Kapalı garaj CO | Asla uzaktan çalıştırma |
-| Immobilizer öğrenme başarısız | 14× prosedür + bağlantı kontrolü; max 5 dk bekle |
+| Yanlış T-harness | Flashlink'te araç seç, sonra harness sipariş et |
+| MKON355 sanılması | CCURA = GPS; marş yapmaz |
+| Evden telefon beklentisi | Fortin BOM'da telematik yok — karar ağacına bak |
+| Manuel güvenlik loop | Kesme = otomatik mod; manuelde kesme |
+| Gümrük sürprizi | StarLine Plan B'yi bilinçli seç |
+
+---
+
+## 11. Kaynaklar
+
+| Kaynak | URL |
+|--------|-----|
+| Yurtiçi BOM | [parca-tedarik-tr.md](parca-tedarik-tr.md) |
+| İthalat kanalları | [satin-alma-kanallari.md](satin-alma-kanallari.md) |
+| Fortin PTS kılavuz | https://fortin.ca/download/23691/EVO-ONE_IG_REG_BI_HYU-Tucson_2010-2013_PTS_B_23691.pdf |
+| StarLine şema | https://can.starline.ru |
 
 ---
 

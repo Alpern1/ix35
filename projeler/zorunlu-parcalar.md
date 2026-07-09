@@ -1,7 +1,8 @@
 # Zorunlu Parçalar — 2012 ix35 (Smart Key, Manuel, Prins LPG)
 
-> Fiyat yok. Sadece: ne şart, ne işe yarar.
-> **Kesin karar:** StarLine A93 v2 ECO 2CAN+2LIN + LTE telematik — detay [sistem-mimarisi.md](sistem-mimarisi.md)
+> Fiyat yok. Sadece: ne şart, ne işe yarar, nereden alınır.
+> **Kesin karar (yurtiçi):** Fortin EVO-ONE paketi — detay [parca-tedarik-tr.md](parca-tedarik-tr.md)
+> **Evden telefon (ithalat):** StarLine Plan B — [satin-alma-kanallari.md](satin-alma-kanallari.md)
 
 ---
 
@@ -9,128 +10,91 @@
 
 | Kısıt | Sonuç |
 |-------|-------|
-| Smart Key + START/STOP | iKey immobilizer bypass (StarLine 2CAN) |
-| Manuel vites | Program nötr prosedürü şart |
-| 2012 ix35 (LM = Tucson) | can.starline.ru bağlantı şeması mevcut |
+| Smart Key + START/STOP | Immobilizer bypass şart (Fortin EVO-ONE veya StarLine 2CAN) |
+| Manuel vites | Program nötr / Ready Mode prosedürü şart |
+| 2012 ix35 (LM = Tucson) | Fortin guide #23691; StarLine can.starline.ru |
 | Prins LPG | Ekstra LPG modülü şart değil; benzinle başlar |
-| Telefon kontrolü isteniyor | GSM/LTE modül şart |
-| Walk-away kilit isteniyor | Faz 2 — ayrı modül veya StarLine ayarı |
+| Evden telefon | **Yurtiçi Fortin paketinde yok** — StarLine ithalat veya ödün ver |
+| Yurtdışı / gümrük yok | StarLine ve EVO-START LTE elenir (satın alma aşamasında) |
+| Walk-away kilit | Faz 2 — SST veya ayrı modül |
 
 ---
 
-## GRUP 1 — Ana paket (zorunlu, tek seferde)
+## YOL A — Yurtiçi Fortin (aktif BOM)
 
-### 1. StarLine A93 v2 ECO 2CAN+2LIN
+Tam tablo: [parca-tedarik-tr.md](parca-tedarik-tr.md)
 
-**Ne işe yarar:** Alarm + uzaktan çalıştırma beyni + CAN/LIN arayüzü + iKey bypass.
+### GRUP 1 — Sipariş listesi (MK3)
 
-**Şart:** Autostart özellikli paket; manuel şanzıman profili.
+| # | Parça | SKU | Olmadan |
+|---|-------|-----|---------|
+| 1 | Fortin EVO-ONE | MK20064 | Sistem yok |
+| 2 | Flashlink Mobile | MK20126 | ix35 firmware yüklenemez |
+| 3 | T-Harness KHY3 veya KHY7 | MK20139 / MK20141 | Kablo işi çok artar |
+| 4 | RFK442 2-yönlü RF kit | MK20083 | Uzaktan menzil yok (sadece OEM 3× lock) |
+| 5 | Hood pin | Pakette | Güvenlik ihlali |
 
-**Olmadan:** Sistem yok.
-
----
-
-### 2. StarLine LTE Master 4G (veya eşdeğer dahili LTE)
-
-**Ne işe yarar:** Evden / sınırsız menzil telefon kontrolü.
-
-**Şart:** Türkiye nano-SIM; StarLine 2 uygulaması.
-
-**Olmadan:** Sadece kumanda menzili (~50–150 m) — senin istediğin olmaz.
-
----
-
-### 3. nano-SIM (Türkiye operatörü)
-
-**Ne işe yarar:** LTE modülün ağa bağlanması.
-
-**Şart:** Veri açık; minimal GB tarifesi yeter.
-
----
-
-### 4. Kaput switch (hood pin)
-
-**Ne işe yarar:** Kaput açıkken uzaktan çalışmayı engeller.
-
-**Şart:** Zorunlu güvenlik.
-
-**Bağlantı:** Fabrika kaput switch'i veya ek switch.
-
----
-
-### 5. Kurulum yazılımı — StarLine Master
-
-**Ne işe yarar:** Firmware, fonksiyon tabloları, iKey öğrenme.
-
-**Şart:** Kurulum günü (PC).
-
-**Not:** Arabada kalmaz.
-
----
-
-### 6. Kablolama (modül değil ama şart)
-
-| Sinyal | Neden |
-|--------|-------|
-| CAN / LIN (2CAN+2LIN şeması) | Immobilizer, START/STOP, kilit, klima |
-| El freni switch | Program nötr + güvenlik |
-| Debriyaj switch | Manuel marş güvenliği |
-| Kapı switch'leri | Silahlanma / iptal |
-| START/STOP hattı | Push-start simülasyonu |
-| Servis butonu | iKey öğrenme, valet |
-
-**T-harness:** ix35 push-start için plug-and-play yok — şemaya göre kablo.
-
----
-
-## GRUP 2 — Pakete dahil, ayrıca alınmaz
+### GRUP 2 — Pakete dahil / ayrıca alınmaz
 
 | Parça | Not |
 |-------|-----|
-| LCD kumanda | Yakın mesafe yedek; günlük ritüelde zorunlu değil |
-| Siren | Alarm |
-| Servis butonu | iKey |
-| Antenler | LTE + (varsa) GPS |
+| Harness setleri (20-pin, CAN, relay) | EVO-ONE kutusunda |
+| Uyarı etiketi | Kutuda |
+| nano-SIM | Fortin RF yolunda **gerekmez** |
+
+### GRUP 3 — Bilerek alınmayacaklar
+
+| Parça | Neden |
+|-------|-------|
+| MKON355 (EVO-ONE + CCURA GPS) | Tükendi; CCURA marş yapmaz |
+| Flashlink 4 USB (MK20125) | Tükendi — Mobile kullan |
+| EVO-START LTE | MK3'te yok; ithalat + NA ağı |
+
+### GRUP 4 — Kablolama (modül değil, şart)
+
+| Sinyal | Neden |
+|--------|-------|
+| CAN (OBD veya T-harness) | Immobilizer, START/STOP |
+| PTS (START/STOP düğmesi) | Push-start simülasyonu |
+| El freni + debriyaj | Manuel güvenlik |
+| Kaput pin | Uzaktan çalışma kilidi |
+| Kapı switch | Ready Mode / alarm |
+
+Kılavuz: Fortin guide #23691 (wire-to-wire noktaları).
 
 ---
 
-## GRUP 3 — Walk-away (Faz 2, ayrı)
+## YOL B — StarLine (ithalat, evden telefon)
 
-### Proximity lock modülü
+Gümrük kabul edilirse:
 
-**Ne işe yarar:** Uzaklaşınca kilit, yaklaşınca aç.
+| # | Parça | Olmadan |
+|---|-------|---------|
+| 1 | StarLine A93 v2 ECO 2CAN+2LIN | Sistem yok |
+| 2 | StarLine LTE Master 4G | Evden telefon yok |
+| 3 | nano-SIM (TR operatör) | Ağ yok |
+| 4 | Hood pin | Güvenlik |
+| 5 | StarLine Master (PC, kurulum) | Firmware yüklenemez |
 
-**Remote start ile aynı parça mı?** StarLine paketinde varsayılan değil; SLAVE/tag veya TR modül.
-
-**MyKeyPremium:** Manuel uyumsuz — **elendi**.
-
----
-
-## GRUP 4 — Opsiyonel (şimdilik gerek yok)
-
-| Parça | Ne işe yarar |
-|-------|--------------|
-| Kabin sıcaklık sensörü | Uygulamada sıcaklık gösterme |
-| Koltuk ısıtma aux | Uzaktan koltuk ısıtma tetikleme |
-| GPS modülü | Konum takibi (LTE paketine bağlı) |
+Detay: önceki StarLine GRUP 1–4 içeriği geçerli — [satin-alma-kanallari.md](satin-alma-kanallari.md).
 
 ---
 
-## Kesin mimari
+## Kesin mimari (yurtiçi)
 
 ```
-[1] StarLine A93 v2 ECO 2CAN+2LIN
+[1] EVO-ONE MK20064
         ↓
-[2] StarLine LTE Master 4G + nano-SIM
+[2] Flashlink Mobile MK20126 (kurulum)
         ↓
-[3] Hood pin + şema kabloları
+[3] T-Harness KHY3/KHY7 + guide #23691 kabloları
         ↓
-[4] StarLine Master (kurulum, bir kez)
+[4] RFK442 MK20083
         ↓
-[5] StarLine 2 uygulaması (telefon)
+[5] RF kumanda veya OEM 3× lock ile çalıştır
 ```
 
-**Ayrı (Faz 2):** Walk-away proximity modülü
+**Evden telefon bu listede yok.**
 
 ---
 
@@ -138,20 +102,20 @@
 
 | Parça / Yol | Neden |
 |-------------|-------|
-| Compustar + Fortin modüler yol | Telefon-only program nötr için StarLine daha uygun |
-| MyKeyPremium | Manuel vites desteklemiyor |
-| Start-Stop TR (tek başına) | Evden GSM menzili yok |
+| MKON355 “GSM hediyeli” paket | GPS takip; uzaktan marş değil |
+| Start-Stop TR (tek başına, evden hedef) | GSM yok; BT menzil |
+| MyKeyPremium | Manuel uyumsuz |
 | DroneMobile | TR LTE uyumsuz |
 | Blue Link | 2012'de donanım yok |
-| Aftermarket kumanda START ritüeli | Telefon silahlanma yeterli |
+| Generic evrensel push-start | ix35 iKey/CAN yok |
 
 ---
 
 ## Sonraki adım
 
-1. [master-plan.md](master-plan.md) → **Faz 1:** Satıcı teyidi
-2. Sipariş → Faz 2
-3. Kurulum → Faz 4–5
+1. [parca-tedarik-tr.md](parca-tedarik-tr.md) → karar ağacı: evden telefon vs yurtiçi
+2. [master-plan.md](master-plan.md) → **Faz 1:** Parça siparişi
+3. Flashlink gelince → T-harness SKU teyidi → kurulum
 
 ---
 

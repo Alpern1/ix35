@@ -1,143 +1,156 @@
 # Satın Alma Kanalları — İnternet Araştırması
 
-> Bayi aramadan, internetten doğrulanabilir bilgiler.
 > Son güncelleme: 2026-07-09
+> **Öncelik:** Yurtiçi, gümrüksüz → [parca-tedarik-tr.md](parca-tedarik-tr.md)
+> StarLine ve yurtdışı kanallar → **Plan B (gümrük)** — bilinçli seçim için tutulur.
 
 ---
 
-## Önemli uyarı: Türkiye'de "StarLine" isim karışıklığı
+## Özet (tek bakış)
 
-Google'da `Starline site:.tr` aratınca çıkan sitelerin **çoğu iş güvenliği** (eldiven, baret, ayakkabı) satıyor. Bunlar **Rus otomobil alarm markası StarLine ile aynı değil**.
-
-| Aradığın | Değil |
-|---------|-------|
-| StarLine A93 / 2CAN+2LIN otomobil alarmı | Starline iş eldiveni, baret |
-| can.starline.ru bağlantı şemaları | Varol Elektrik iş güvenliği bayii |
-
----
-
-## Uyumluluk — bayi olmadan internetten doğrula
-
-**Tek kaynak:** [can.starline.ru](https://can.starline.ru)
-
-```
-Hyundai → Tucson / ix35 → 2012 → Start-Stop (smart key)
-```
-
-**Ne indirirsin:**
-- Bağlantı noktaları (hangi kablo nereye)
-- CAN/LIN firmware dosyası
-- iKey bypass prosedürü
-
-**Kanıt (forum):**
-- [ix35 2014 Start-Stop kurulum](https://support.starline.ru/communities/10/topics/41978-starline-a93-2can2lin-na-hyundai-tucson-ix35-2014-start-stop)
-- [ix35 2012 Start-Stop](https://support.starline.ru/communities/10/topics/62980-hyundai-ix35-2012-knopka-start-stop)
-- [iKey Hyundai/Kia 2012–2016](http://www.alarmstarline.com/2016/02/09/ikey-bypass-for-the-whole-model-range/)
-
-2012 ix35 push-start için can.starline.ru'da şema mevcut — bu, bayiye sormanın internet karşılığı.
+| Soru | Cevap |
+|------|-------|
+| Yurtiçi online, gümrüksüz parça var mı? | **Evet** — Fortin MK3 BOM |
+| Evden telefon yurtiçi pakette var mı? | **Hayır** — doğrulanabilir satıcı yok |
+| StarLine TR'den alınır mı? | **Hayır** — ithalat şart |
+| İlk sipariş ne? | [parca-tedarik-tr.md](parca-tedarik-tr.md) Bölüm 2 veya karar ağacı |
 
 ---
 
-## Alınacak paket (SKU mantığı)
+## PLAN A — Yurtiçi (önerilen satın alma)
 
-Tek paket hedefi — modüler parça avcılığına gerek yok:
+### MK3.com.tr — Fortin yetkili satıcı
+
+| | |
+|--|--|
+| **Artı** | Türkiye kargo; fatura; Fortin orijinal; SKU net |
+| **Eksi** | EVO-START LTE yok; MKON355 tükendi; Flashlink USB tükendi |
+| **URL** | https://www.mk3.com.tr/kategori/fortin-uzaktan-calistirma |
+| **BOM** | [parca-tedarik-tr.md](parca-tedarik-tr.md) |
+
+Sipariş edilecekler (özet):
+
+| SKU | Ürün |
+|-----|------|
+| MK20064 | EVO-ONE |
+| MK20126 | Flashlink Mobile |
+| MK20139 veya MK20141 | T-Harness KHY3/KHY7 |
+| MK20083 | RFK442 |
+
+**Alma:** MKON355 (GPS hediyesi marş yapmaz).
+
+### fsatuning.com — Start-Stop Türkiye
+
+| | |
+|--|--|
+| **Artı** | Walk-away pakette; Türkiye kargo |
+| **Eksi** | Evden telefon yok (BT ~50 m); ix35 uyumu site üzerinde yok |
+| **URL** | https://fsatuning.com/magaza/ |
+| **Ürün** | SST-019 (+ isteğe bağlı BT modülü) |
+
+### nano-SIM
+
+| | |
+|--|--|
+| **Fortin yolu** | Gerekmez |
+| **StarLine Plan B** | nano-SIM, veri tarifesi — operatör e-SIM veya mağaza |
+
+---
+
+## PLAN B — İthalat (gümrük — bilinçli seçim)
+
+> Kullanıcı kısıtı: yurtdışından alamayız. Bu bölüm **sadece** gümrük kabul edilirse geçerli.
+
+### Gümrük gerçeği (Türkiye)
+
+| Kalem | Not |
+|-------|-----|
+| Gümrük vergisi | Elektronik ithalatta oran değişken; GTİP ve menşe ülkeye bağlı |
+| KDV | İthalat üzerine |
+| Gümrük müşavirliği | Çoğu kargo bu aşamada ek maliyet |
+| Süre | Rusya 2–6 hafta; gümrükte bekleme eklenir |
+| Risk | Yanlış paket, firmware Rusça arayüz, iade zor |
+
+**Sonuç:** StarLine teknik olarak en iyi evden-telefon çözümü; **maliyet ve lojistik** nedeniyle şu an pasif.
+
+### StarLine — uyumluluk (internet, bayi değil)
+
+**Kaynak:** [can.starline.ru](https://can.starline.ru) → Hyundai → Tucson/ix35 → 2012 → Start-Stop
 
 | Parça | Aranacak isim |
 |-------|---------------|
-| Ana ünite | **StarLine A93 v2 ECO 2CAN+2LIN** |
-| Telematik | **StarLine LTE Master 4G** VEYA pakette **GSM/LTE dahil** versiyon |
-| Tam paket örneği | `A93 2CAN+2LIN GSM ECO` / `A93 2CAN+2LIN GSM GPS` |
+| Ana ünite | StarLine A93 v2 ECO 2CAN+2LIN |
+| Telematik | StarLine LTE Master 4G |
+| Tam paket | `A93 2CAN+2LIN GSM ECO` veya GSM/LTE dahil varyant |
 
-**Resmi mağaza paket fiyatı (Rusya, 2026):** A93 v2 2CAN+2LIN ≈ 20.650 RUB (GSM/LTE ayrı veya paket) — [store.starline.ru](https://store.starline.ru/catalog/avtosignalizatsii/starline_a93_v2_2can_2lin/)
+**Forum kanıtı:**
+- [ix35 2014 Start-Stop](https://support.starline.ru/communities/10/topics/41978-starline-a93-2can2lin-na-hyundai-tucson-ix35-2014-start-stop)
+- [ix35 2012 Start-Stop](https://support.starline.ru/communities/10/topics/62980-hyundai-ix35-2012-knopka-start-stop)
 
-LTE Master uyumlu modeller: A93 v2, A93 v2 2CAN+2LIN — [store.starline.ru LTE Master](https://store.starline.ru/catalog/dopolnitelnoe_oborudovanie/starline_lte_master_3_test/)
+### StarLine online kanallar (yurtdışı)
+
+| Site | URL | TR kargo |
+|------|-----|----------|
+| Resmi mağaza (RU) | https://store.starline.ru/catalog/avtosignalizatsii/starline_a93_v2_2can_2lin/ | Sipariş öncesi kontrol |
+| alarmstarline.com | https://www.alarmstarline.com/car-security-systems/ | Sipariş öncesi kontrol |
+| starlin-security.ru | https://starlin-security.ru/ | Belirsiz |
+
+### Fortin EVO-START LTE (ithalat)
+
+| | |
+|--|--|
+| **Ne işe yarar** | Fortin resmi evden telefon uygulaması |
+| **Eksi** | MK3'te satılmıyor; ağ kapsamı **Kuzey Amerika**; TR SIM kanıtı yok |
+| **Kaynak** | https://fortin.ca/en/resources/evo-start-lte/ |
+
+### Türkiye'de "StarLine" isim karışıklığı
+
+Google `Starline site:.tr` → çoğu **iş güvenliği** (eldiven, baret). Rus otomobil alarmı **değil**.
 
 ---
 
-## Online satın alma kanalları
+## Elendi kanallar
 
-### 1. Resmi — store.starline.ru (Rusya)
-
-| | |
-|--|--|
-| **Artı** | Doğru ürün, güncel firmware, LTE Master ayrıca satılıyor |
-| **Eksi** | Türkiye'ye kargo / gümrük / Rus ödeme — sipariş öncesi site kargo politikasını kontrol et |
-| **URL** | https://store.starline.ru/catalog/avtosignalizatsii/starline_a93_v2_2can_2lin/ |
-
-### 2. Uluslararası — alarmstarline.com
-
-| | |
-|--|--|
-| **Artı** | İngilizce; A93 2CAN+2LIN **GSM** paketleri listeleniyor; SLAVE açıklaması var |
-| **Eksi** | Türkiye kargo ve gümrük — sipariş öncesi "ships to Turkey" kontrol et |
-| **URL** | https://www.alarmstarline.com/car-security-systems/ |
-
-Listelenen varyantlar: A93 2CAN+2LIN, A93 2CAN+2LIN GSM, A93 2CAN+2LIN GSM GPS+GLONASS
-
-### 3. Rusya / Ukrayna e-ticaret
-
-| Site | Not |
-|------|-----|
-| [starlin-security.ru](https://starlin-security.ru/catalog/signalizatsii_s_avtozapuskom/701/) | A93 + montaj odaklı; kargo TR belirsiz |
-| [mircaraudio.com](https://mircaraudio.com/avtosignalizaciya-starline-a93-v2-2can-2lin/) | Ukrayna; TR kargo kontrol |
-
-### 4. Türkiye — yerli alternatifler (farklı ürün!)
-
-| Site | Ürün | Evden telefon? | ix35 push-start? |
-|------|------|----------------|------------------|
-| [startstopturkiye.com](https://startstopturkiye.com/) | SST serisi | ❌ RF 50–200 m | Sorulmalı; GSM yok |
-| [durer.com.tr](https://www.durer.com.tr/) | Çin evrensel kit | Uygulama var ama generic | Profesyonel montaj şart; ix35 kanıtı yok |
-| guvenix, smartrole vb. | Ev/iş alarmı | Ev alarmı — **araba değil** | ❌ |
-
-**Sonuç:** Türkiye'de StarLine A93'ü doğrudan satan güvenilir .tr e-ticaret sitesi **bulamadık**. TR pazarı çoğunlukla montajcı üzerinden işliyor. Online yol: **resmi Rus mağaza veya uluslararası satıcı + kargo**.
-
-### 5. SIM kart (Türkiye — kesin online)
-
-| | |
-|--|--|
-| **Ne alırsın** | nano-SIM, sadece veri, düşük GB |
-| **Nereden** | Operatör e-sim / online başvuru veya market |
-| **Not** | StarLine her operatör SIM'i ile çalışır (M21/M31/LTE dokümantasyonu) |
+| Site / ürün | Neden |
+|-------------|-------|
+| Oto Yapay Zeka | Fabrika start-stop uyarısı; iPhone zayıf |
+| durer.com.tr generic kit | ix35 kanıtı yok |
+| guvenix / smartrole ev alarmı | Araba değil |
+| Pandora .tr mağaza | Doğrulanamadı |
 
 ---
 
-## Sipariş öncesi kutu kontrol listesi (internetten sipariş verirken)
+## Sipariş öncesi kutu kontrolü
 
-Satıcı sayfasında şunlar **yazılı** olmalı:
+### Fortin (Plan A)
 
 ```
-□ StarLine A93 v2 (ECO değilse de olur ama v2 olmalı)
-□ 2CAN+2LIN modülü DAHİL (sadece "A93 base" değil)
-□ Uzaktan çalıştırma (autostart) destekli
-□ GSM veya LTE modülü — hangisi olduğu net
-□ LCD kumanda dahil
-□ Pin-konvert (login/şifre kartı) gelecek
+□ MK20064 EVO-ONE (MKON355 değil)
+□ MK20126 Flashlink Mobile
+□ Doğru T-harness (Flashlink teyidi sonrası)
+□ MK20083 RFK442 (uzaktan menzil için)
 ```
 
-**Alma:**
-- Sadece "Starline" yazan generic alarm
-- "Evrensel push start kit" (ix35 CAN/iKey yok)
-- GSM modülü olmadan paket (evden çalıştırma olmaz)
+### StarLine (Plan B)
+
+```
+□ A93 v2 + 2CAN+2LIN dahil
+□ GSM veya LTE modülü net
+□ Pin-konvert kartı
+□ Autostart destekli paket
+```
 
 ---
 
-## Gümrük / kargo notu
+## Karar
 
-Rusya veya Ukrayna'dan elektronik ithalat:
-- Gümrük vergisi ve kargo süresi değişken
-- Türkiye'ye gönderim yapan satıcıyı seç; göndermeyen satıcıdan alma
-- Bu belirsizlik "pes etme" sebebi değil — sipariş öncesi tek kontrol: **kargo adresine geliyor mu?**
+| Hedef | Kanal |
+|-------|-------|
+| Parça elinde, gümrük yok | **Plan A** → MK3 BOM |
+| Evden telefon şart, gümrük OK | **Plan B** → StarLine |
+| Walk-away öncelik, telefon ikincil | Start-Stop TR (Plan A alt) |
 
----
-
-## Özet karar
-
-| Soru | İnternet cevabı |
-|------|-----------------|
-| ix35 uyumlu mu? | **Evet** — can.starline.ru + forum |
-| TR'den online StarLine alarm sitesi? | **Nadiren**; resmi/uluslararası kargo yolu |
-| Hangi paket? | A93 v2 2CAN+2LIN + LTE/GSM |
-| Bayi şart mı? | **Hayır** — uyumluluk can.starline.ru'dan; montaj DIY veya sonra usta |
+Detaylı BOM ve stok: [parca-tedarik-tr.md](parca-tedarik-tr.md)
 
 ---
 
