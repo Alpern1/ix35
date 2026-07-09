@@ -7,12 +7,15 @@
 - **DIY öncelikli:** Mümkün olduğunca kendim yapmak istiyorum.
 - **Usta:** Yapamayacağım durumlarda usta devreye girer; ancak Türkiye'de usta maliyeti ve işçilik kalitesi riskli — dikkatli seçim gerekir.
 - **Bütçe:** Henüz net sınır belirlenmedi.
+- **Uzaktan çalıştırma:** Telefon şart değil ama **tercih edilen yöntem** — kumanda menzili kısa (~10 m), evden çalıştırma için LTE telefon modülü (DroneMobile vb.) mantıklı.
 
 ## Önemli Hatırlatmalar
 
-- Araç **LPG'li** — uzaktan çalıştırma / elektronik modifikasyonlarda LPG sistemi ve güvenlik kuralları göz önünde bulundurulmalı.
-- **Manuel şanzıman** — otomatik vitesli araçlardaki bazı uzaktan çalıştırma çözümleri burada geçerli olmayabilir veya farklı yaklaşım gerektirir.
-- **2012 model** — fabrika uzaktan erişim (Blue Link vb.) bu nesilde ya yok ya da çok sınırlı olabilir; aftermarket çözümler araştırılacak.
+- Araç **LPG'li (Prins)** — uzaktan çalıştırmada Prins VSI sistemi **her zaman benzinle** çalıştırır; depoda benzin olmalı. Motor ısındıktan sonra LPG'ye geçer — ısınma için uzaktan çalıştırma aslında uyumlu.
+- **Manuel şanzıman** — uzaktan çalıştırma için rezervasyon modu şart; MyKeyPremium gibi plug-and-play kitler **manuel vitesle uyumlu değil**.
+- **Smart Key + START/STOP** — walk-away otomatik kilit için uygun donanım mevcut.
+- **Otomatik klima** — uzaktan çalıştırmada avantaj sağlar ama Blue Link tarzı uygulamadan sıcaklık ayarı bu araçta mümkün değil (detay: proje dosyası).
+- **2012 model** — fabrika telematik (Blue Link) yok.
 
 ## Araştırma Linkleri
 

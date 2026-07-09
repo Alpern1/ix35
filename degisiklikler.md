@@ -9,3 +9,6 @@
 - **Araç bilgileri girildi** — 2012, 1.6 GDI benzin+LPG, manuel, 2WD, ~130.000 km.
 - **2 proje eklendi** — Uzaklaşınca otomatik kilit + uzaktan çalıştırma/klima; internet araştırması yapıldı.
 - **DIY tercihi kaydedildi** — Mümkün olduğunca kendin yapmak; usta son çare.
+- **Donanım detayları eklendi** — Smart key, otomatik klima, Prins LPG, koltuk ısıtma.
+- **Klima araştırması tamamlandı** — Uygulamadan °C ayarı bu araçta mümkün değil; otomatik klima + son ayar stratejisi + DroneMobile önerildi.
+- **MyKeyPremium elendi** — Manuel vites uyumsuz.

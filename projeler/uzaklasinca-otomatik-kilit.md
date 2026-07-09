@@ -6,8 +6,8 @@
 
 - **Durum:** 📋 Planlama
 - **Öncelik:** Orta
-- **Tahmini bütçe:** ~$150–250 USD (aftermarket modül) veya Türkiye'de anahtarcı fiyatı değişken
-- **Zorluk:** Orta–Zor (anahtar tipine bağlı)
+- **Tahmini bütçe:** ~$150–250 USD (aftermarket) veya TR anahtarcı fiyatı değişken
+- **Zorluk:** Orta (smart key var — avantaj)
 - **Oluşturulma:** 2026-07-09
 - **Son güncelleme:** 2026-07-09
 
@@ -15,89 +15,93 @@
 
 Araçtan inip uzaklaşırken kilit tuşuna basmayı unutmak. Fabrika özelliği olarak yok; aftermarket veya anahtarcı çözümü gerekir.
 
-## Önemli ön bilgi — henüz doğrulanmadı
+## Araç durumu (doğrulandı)
 
-2012 ix35'te **iki farklı anahtar sistemi** var (donanıma göre):
-
-| Tip | Nasıl anlaşılır? | Walk-away lock için |
-|-----|------------------|---------------------|
-| **Smart Key** (varsa) | Kontağa anahtar sokmuyorsun; START/STOP düğmesi var; kapı kolundan dokunarak kilitleme | Aftermarket proximity modüller **uygun aday** |
-| **Klasik kumandalı anahtar** | Anahtarı kontağa takıp çeviriyorsun; kumandada kilit/aç/kaput tuşları | Gerçek "uzaklaşınca kilit" zor; farklı çözüm gerekir |
-
-**→ Kullanıcıdan doğrulanacak: Hangi anahtar tipi var?**
+- **Smart Key + START/STOP düğmesi** — walk-away lock için doğru donanım mevcut
+- Proximity algılama altyapısı zaten var (kapı kolundan dokunarak kilitleme çalışıyor)
+- **Manuel vites** — bazı all-in-one paketleri (MyKeyPremium) bu yüzden eleniyor
 
 ## Araştırma Özeti
 
 ### Fabrika durumu
 
 - 2012 Hyundai ix35'te **walk-away auto lock fabrikadan gelmiyor**.
-- Yeni nesil Tucson/Palisade gibi modellerde bu özellik var; ix35'te yok.
+- Smart key donanımı var ama özellik yazılımla aktif değil.
 
-### Seçenek A — Smart Key varsa: Aftermarket proximity modül
+### ❌ Elenen: MyKeyPremium
 
-Yurtdışında Hyundai/Kia için popüler modüller:
+MyKeyPremium (walk-away + remote start paketi):
+- Manuel vitesle **uyumlu değil** — üretici açıkça belirtiyor
+- Forumda manuel vitesli araç sahibi sipariş edip iade etmiş
+- Bizim araç manuel → bu paket **kullanılamaz** (hem kilit hem uzaktan çalıştırma için)
 
-| Ürün | Ne yapıyor? | Not |
-|------|-------------|-----|
-| **MyKeyPremium** | Uzaklaşınca kilit, yaklaşınca aç; bazı modellerde OEM kumandayla remote start | 2012 ix35 uyumluluğu **net değil** — satıcıya sorulmalı |
-| **Shark Racing Proximity Smart Door Lock** | Benzer walk-away lock/unlock | Model yılı uyumluluğu kontrol edilmeli |
-| **Boyo iKeyFree Pro** | Telefon + proximity kilitleme | Forumda kullanılmış; hata/bug bildirimi var |
+### Seçenek A — Türkiye anahtarcı paketi (en olası TR çözümü)
 
-**Nasıl çalışıyor (genel):** Modül aracın akıllı anahtar / CAN bus sistemine bağlanıyor; anahtar veya telefon belirli mesafeden uzaklaşınca kilitliyor.
+Anahtarcıda duyduğun "modül" büyük ihtimalle bu:
 
-**Artıları:** Tam istenen özellik (gerçek walk-away)
-**Eksileri:** Türkiye'de bulmak/zor olabilir; kurulum teknik; uyumluluk riski
+- Keyless Go / smart key modülü
+- **Yaklaşınca açılma — uzaklaşınca kapanma**
+- Bazen uzaktan çalıştırma da aynı pakette
 
-### Seçenek B — Türkiye anahtarcı: Smart key yükseltme
+**Artıları:** Yerel destek, kodlama dahil, smart key zaten var
+**Eksileri:** Fiyat/kalite usta bağımlı; manuel vites + uzaktan çalıştırma birlikte sorulmalı
 
-Türkiye'deki oto anahtarcılar (Hech, Rem Anahtar vb.) şu hizmetleri reklam ediyor:
+**Anahtarcıya sorulacak sorular:**
+1. 2012 ix35 manuel vites + smart key — walk-away lock yapılabilir mi?
+2. Uzaktan çalıştırma da aynı modülde mi?
+3. Prins LPG ile uyumlu mu?
+4. Garanti / geri dönüşüm (orijinal sisteme dönebilir miyiz?)
 
-- Keyless Go / anahtarsız giriş
-- **Yaklaşınca kilit açılma — uzaklaşınca kilit kapama**
-- Uzaktan çalıştırma (bazı paketlerde)
+### Seçenek B — Shark Racing Proximity Smart Door Lock
 
-Bu genelde **yeni nesil smart anahtar + modül + kodlama** paketi demek. Anahtarcıda "modül" dediğin şey büyük ihtimalle bu.
+- Hyundai/Kia için aftermarket proximity modül
+- Walk-away lock/unlock
+- **2012 ix35 uyumluluğu** satıcıya sorulmalı
 
-**Artıları:** Yerel destek, kodlama dahil
-**Eksileri:** Fiyat belirsiz; kalite usta/parçaya bağlı; immobilizer kodlama riski
+### Seçenek C — Boyo iKeyFree Pro
 
-### Seçenek C — Klasik kumanda varsa: Zamanlayıcılı otomatik kilit
+- Telefon + proximity kilitleme
+- Forumda kullanılmış; bug bildirimi var
+- Daha az tercih edilir
 
-Smart key yoksa "anahtar cebindeyken uzaklaşınca kilit" **teknik olarak mümkün değil** (araç anahtarı algılayamaz).
+### Seçenek D — Sadece "gecikmeli otomatik kilit"
 
-Alternatifler:
-- Kapı kapandıktan X saniye sonra otomatik kilitleme modülü (Ioniq Guy tarzı — ama onlar yeni Hyundai modelleri için)
-- Sadece "unutma" çözümü: mevcut kumandadaki kilit tuşu alışkanlığı
+Gerçek walk-away değil; kapı kapandıktan X saniye sonra kilitler. Smart key proximity kadar şık değil ama daha basit olabilir.
 
 ## Açık sorular
 
-- [ ] Arabada **smart key mi** yoksa **klasik kontak anahtarı + kumanda** mı var?
-- [ ] Otomatik katlanır ayna var mı? (bazı modüllerde yaklaşınca açma ile birlikte geliyor)
-- [ ] Mevcut kumanda kaç tuşlu? (kilit / aç / bagaj / panic)
-- [ ] Türkiye'de güvenilir bir oto anahtarcı önerisi var mı?
+- [x] Smart key — evet (START/STOP)
+- [ ] Otomatik katlanır ayna var mı?
+- [ ] Mevcut kumanda kaç tuşlu?
+- [ ] Türkiye'de güvenilir oto anahtarcı önerisi?
+- [ ] Anahtarcıya fiyat araştırması yapıldı mı?
 
 ## İlk değerlendirme
 
 | Kriter | Puan |
 |--------|------|
-| DIY uygunluğu | Düşük–Orta (smart key modülü kablolama gerektirir) |
-| Maliyet riski (TR usta) | Orta–Yüksek |
-| İstenen özelliğe yakınlık | Smart key varsa yüksek; klasik anahtarda düşük |
+| DIY uygunluğu | Düşük–Orta |
+| Smart key avantajı | Yüksek — doğru donanım var |
+| MyKeyPremium | ❌ Manuel uyumsuz |
+| En olası TR yolu | Anahtarcı modül paketi |
 
 ## Linkler
 
-- [Hyundai Forum — Walk Away Lock tartışması](https://www.hyundai-forums.com/threads/walk-away-automatic-door-locking.677371/)
-- [MyKeyPremium — walk-away lock](https://mykeypremium.com/blogs/news/forgot-to-lock-car-walk-away-auto-lock-hyundai-kia)
-- [Shark Racing — Proximity Door Lock](https://sharkracing.com) _(model uyumluluğu sorulacak)_
-- [Hech — ix35 yedek anahtar / keyless seçenekleri (TR)](https://hech.com.tr/urun/hyundai-ix35-yedek-anahtar-fiyati/)
+- [Hyundai Forum — Walk Away Lock](https://www.hyundai-forums.com/threads/walk-away-automatic-door-locking.677371/)
+- [MyKeyPremium — walk-away lock (otomatik vites)](https://mykeypremium.com/blogs/news/forgot-to-lock-car-walk-away-auto-lock-hyundai-kia)
+- [MyKeyPremium technicals — manuel uyumsuz](https://mykeypremium.com/pages/technicals)
+- [Hech — ix35 keyless seçenekleri (TR)](https://hech.com.tr/urun/hyundai-ix35-yedek-anahtar-fiyati/)
 
 ## Kararlar
 
 | Tarih | Karar | Gerekçe |
 |-------|-------|---------|
-| 2026-07-09 | Önce anahtar tipi netleştirilecek | Çözüm yolu tamamen buna bağlı |
+| 2026-07-09 | Smart key doğrulandı | START/STOP düğmesi var |
+| 2026-07-09 | MyKeyPremium elendi | Manuel vites desteklemiyor |
+| 2026-07-09 | TR anahtarcı öncelikli araştırma | Yerel çözüm + kodlama |
 
 ## Notlar
 
-- Kullanıcı anahtarcıda modül olduğunu duymuş — bu muhtemelen smart key upgrade paketinin parçası.
-- Bu proje, Proje 2 (uzaktan çalıştırma) ile **aynı anahtarcı/modül paketinde** birleştirilebilir; fiyat araştırmasında ikisini birlikte sormak mantıklı.
+- Walk-away kilit, uzaktan çalıştırma projesinden **bağımsız** çözülebilir.
+- Anahtarcı paketinde ikisi birlikte sorulursa fiyat avantajı olabilir.
+- Uzaktan çalıştırma için Compustar+DroneMobile yolu ayrı değerlendiriliyor (bkz. diğer proje dosyası).

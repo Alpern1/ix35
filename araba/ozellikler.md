@@ -27,7 +27,13 @@
 
 ## Donanım & Özellikler
 
-- _Henüz kayıt yok — birlikte dolduracağız_
+| Özellik | Durum |
+|---------|-------|
+| Anahtar sistemi | Smart Key (START/STOP düğmesi) |
+| Klima | Otomatik |
+| Koltuk ısıtma | Var |
+| LPG sistemi | Prins marka |
+| Otomatik katlanır ayna | _henüz doğrulanmadı_ |
 
 ## Mevcut Durum
 
@@ -41,4 +47,4 @@
 
 ---
 
-*Son güncelleme: 2026-07-09 — Araç bilgileri kullanıcıdan alındı*
+*Son güncelleme: 2026-07-09 — Donanım detayları eklendi (smart key, otomatik klima, Prins LPG, koltuk ısıtma)*
