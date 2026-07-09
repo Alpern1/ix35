@@ -18,6 +18,8 @@
 | # | Proje | Durum | Öncelik | Dosya |
 |---|-------|-------|---------|-------|
 | — | **Teknik analiz (tam rapor)** | 📋 Planlama | — | [teknik-analiz.md](teknik-analiz.md) |
+| — | **Kullanım senaryoları (inme/binme)** | 📋 Planlama | — | [kullanim-senaryolari.md](kullanim-senaryolari.md) |
+| — | **Zorunlu parça listesi** | 📋 Planlama | — | [zorunlu-parcalar.md](zorunlu-parcalar.md) |
 | 1 | Uzaklaşınca otomatik kilitlenme | 📋 Planlama | Orta | [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) |
 | 2 | Uzaktan çalıştırma & klima | 📋 Planlama | Orta | [uzaktan-calisma-ve-klima.md](uzaktan-calisma-ve-klima.md) |
 

@@ -15,3 +15,4 @@
 - **Teknik analiz raporu eklendi** — Yapılabilirlik, dokunulacak yerler, parça listesi, rölanti analizi.
 - **Ritüel açıklaması netleştirildi** — Normal park vs uzaktan çalıştırma silahlandırma farkı.
 - **Türkiye satıcı/fiyat araştırması eklendi** — MK3, Start-Stop TR, StarLine/Pandora.
+- **Kullanım senaryoları ve zorunlu parça listesi eklendi** — İnme/binme akışı netleştirildi; fiyat öncesi parça kararı.
