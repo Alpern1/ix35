@@ -15,6 +15,8 @@
 | En iyi fiyat/performans (ithalat)? | **StarLine A93 v2 2CAN+2LIN GSM ECO** — ~23.250 RUB |
 | Türkiye’ye toplam maliyet (tahmin)? | **~22.000–32.000 TL** (gümrük rejimine göre) |
 | ix35 kanıtı + manuel + iPhone? | **StarLine** — forum + can.starline.ru; StarLine 2 iOS uygulaması |
+| Hem telefon hem walk-away tek cihaz? | **Pandora VX-4G** (Hands Free) — ithalat, **daha pahalı**, bkz. [alternatif-karsilastirma.md](alternatif-karsilastirma.md) |
+| Daha ucuz ve ikisini birden yapan? | **Bulunamadı** — ucuz olanlar bir özelliği eksik bırakıyor |
 
 ---
 

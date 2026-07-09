@@ -19,6 +19,7 @@
 |---|-------|-------|---------|-------|
 | — | **Fazlı bütçe planı (parça parça mı?)** | 📋 Planlama | **Yüksek** | [fazli-butce-plani.md](fazli-butce-plani.md) |
 | — | **Telefon kontrol araştırması (TR + gümrük)** | 📋 Planlama | **Yüksek** | [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) |
+| — | **Alternatif karşılaştırma (tek kutu / StarLine şart mı?)** | 📋 Planlama | **Yüksek** | [alternatif-karsilastirma.md](alternatif-karsilastirma.md) |
 | — | **Parça tedarik TR (SKU, stok)** | 📋 Planlama | **Yüksek** | [parca-tedarik-tr.md](parca-tedarik-tr.md) |
 | — | **Satın alma kanalları (internet)** | 📋 Planlama | — | [satin-alma-kanallari.md](satin-alma-kanallari.md) |
 | — | **Telefon / otomasyon seçenekleri** | 📋 Planlama | — | [telefon-otomasyon.md](telefon-otomasyon.md) |
@@ -27,7 +28,7 @@
 | — | **Teknik analiz (tam rapor)** | 📋 Planlama | — | [teknik-analiz.md](teknik-analiz.md) |
 | — | **Kullanım senaryoları (inme/binme)** | 📋 Planlama | — | [kullanim-senaryolari.md](kullanim-senaryolari.md) |
 | — | **Zorunlu parça listesi** | 📋 Planlama | — | [zorunlu-parcalar.md](zorunlu-parcalar.md) |
-| 1 | Uzaklaşınca otomatik kilitlenme | 📋 Planlama | Orta | [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) |
+| 1 | Uzaklaşınca otomatik kilitlenme | 📋 Planlama | Orta | [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) (SST ~15k; fiyat araştırıldı) |
 | 2 | Uzaktan çalıştırma & klima | 📋 Planlama | Orta | [uzaktan-calisma-ve-klima.md](uzaktan-calisma-ve-klima.md) |
 
 ---
