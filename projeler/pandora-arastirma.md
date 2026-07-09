@@ -260,14 +260,14 @@ Kaynak: https://termomir.com/kakaya-signalizacziya-luchshe-pandora-ili-starlajn/
 | Forum (genel) | Basit Japon/Kore | 7.000–10.000 RUB |
 | Forum (genel) | Smart-key + şehir | 9.000–15.000 RUB |
 
-**Türkiye’de:** Oto alarm montajcısına **~5.000–15.000 TL** varsay (Pandora deneyimi olan biri bulmak zor). İlk kez Pandora kuran montajcı → risk.
+**Türkiye’de:** Montajcı **zorunlu değil** — DIY ana yol; detay: [diy-kurulum.md](diy-kurulum.md)
 
-### DIY (kendin kur)
+### DIY (kendin kur) — önerilen yol
 
-- Alarm Studio + ix35 bağlantı şeması (yazılımda)
-- CAN hattı: gösterge paneli civarı (Pandora ix35 projelerinde)
-- **Zorluk:** Yüksek — smart-key + CLONE + manuel nötr ayarı
-- StarLine DIY topluluğu TR’de daha geniş
+- `can.starline.ru` + StarLine Master + ix35 forum DIY başlıkları
+- StarLine forumda ix35’e **kendi kuran** kullanıcılar var
+- Süre: ~12–20 saat (2–3 hafta sonu)
+- Montajcı tasarrufu: ~5.000–15.000 TL
 
 ---
 
