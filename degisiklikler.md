@@ -12,3 +12,4 @@
 - **Donanım detayları eklendi** — Smart key, otomatik klima, Prins LPG, koltuk ısıtma.
 - **Klima araştırması tamamlandı** — Uygulamadan °C ayarı bu araçta mümkün değil; otomatik klima + son ayar stratejisi + DroneMobile önerildi.
 - **MyKeyPremium elendi** — Manuel vites uyumsuz.
+- **Teknik analiz raporu eklendi** — Yapılabilirlik, dokunulacak yerler, parça listesi, rölanti analizi.
