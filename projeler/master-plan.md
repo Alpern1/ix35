@@ -5,6 +5,20 @@
 
 ---
 
+## KESİN KARAR (2026-07-09)
+
+**Sistem: StarLine A93 v2 2CAN+2LIN GSM ECO** — montajcı yok, kendin kur.
+
+| Dosya | Ne için |
+|-------|---------|
+| [haftasonu-kurulum-plani.md](haftasonu-kurulum-plani.md) | **Cumartesi-Pazar adım adım** — sigorta, kutu, kablo |
+| [diy-kurulum.md](diy-kurulum.md) | DIY genel, alet listesi |
+| [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) | Sipariş + gümrük ~22–26k TL |
+
+Pandora bu projede **yok** — arşiv: [pandora-arastirma.md](pandora-arastirma.md). Walk-away = çıkarken StarLine 2 ile kilitle.
+
+---
+
 ## Önce oku
 
 | Dosya | Ne için |
