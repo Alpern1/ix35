@@ -17,6 +17,7 @@
 
 | # | Proje | Durum | Öncelik | Dosya |
 |---|-------|-------|---------|-------|
+| — | **Telefon kontrol araştırması (TR + gümrük)** | 📋 Planlama | **Yüksek** | [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) |
 | — | **Parça tedarik TR (SKU, stok)** | 📋 Planlama | **Yüksek** | [parca-tedarik-tr.md](parca-tedarik-tr.md) |
 | — | **Satın alma kanalları (internet)** | 📋 Planlama | — | [satin-alma-kanallari.md](satin-alma-kanallari.md) |
 | — | **Telefon / otomasyon seçenekleri** | 📋 Planlama | — | [telefon-otomasyon.md](telefon-otomasyon.md) |

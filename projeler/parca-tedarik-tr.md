@@ -6,6 +6,16 @@
 
 ---
 
+## 0. Telefon kontrolü (evden GSM) — güncel araştırma
+
+**Evden telefon şartsa:** yurtiçinde kanıtlı SKU **yok**. Detaylı fiyat + gümrük hesabı:
+
+→ **[telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md)**
+
+Özet: StarLine A93 GSM ECO ithalat ~12.100 TL ürün + ~9.000–14.000 TL kargo/gümrük/müşavir ≈ **~22.000–26.000 TL toplam**.
+
+---
+
 ## 1. Dürüst özet (önce bunu oku)
 
 Önceki plan **StarLine A93** üzerine kuruluydu. StarLine teknik olarak ix35'e uyuyor; fakat **Türkiye'de doğrudan satan güvenilir e-ticaret sitesi yok** — Rusya/ukrayna kargo + gümrük gerekir. **Yurtdışından alamayız** kısıtıyla StarLine **şu an satın alınamaz**.
