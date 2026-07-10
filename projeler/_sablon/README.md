@@ -11,6 +11,10 @@
 - **Oluşturulma:** YYYY-MM-DD
 - **Son güncelleme:** YYYY-MM-DD
 
+## Araç bilgisi (ortak)
+
+Kalıcı kayıt: [araba/ozellikler.md](../../araba/ozellikler.md) · [araba/notlar.md](../../araba/notlar.md)
+
 ## Motivasyon
 
 _Neden bu projeyi yapmak istiyoruz? Ne kadar eğlenceli / faydalı olacak?_

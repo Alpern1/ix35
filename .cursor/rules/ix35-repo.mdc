@@ -1,33 +1,35 @@
 ---
-description: ix35 repo — araba hafızası ve ayrı proje dosyaları çalışma kuralı
+description: ix35 repo — araba/ ortak hafıza, projeler/ klasör başına bir proje
 alwaysApply: true
 ---
 
-# ix35 repo kuralları
+# ix35 repo yapısı
 
-Bu repo Hyundai ix35 için kalıcı araba bilgisi + ayrı proje dosyaları tutar.
+```
+araba/                    → Ortak hafıza (özellikler, notlar, yapilanlar)
+projeler/<proje-adi>/     → Her proje izole klasör
+  README.md               → Ana proje dosyası
+  *.md                    → Sadece bu projeye ait destek dosyaları
+projeler/_sablon/         → Yeni proje şablonu
+```
 
-## Yeni konu / yeni fikir geldiğinde
+## Yeni konu / yeni fikir
 
-1. Önce oku: `araba/ozellikler.md`, `araba/notlar.md`, `araba/yapilanlar.md`
-2. `projeler/README.md` ile mevcut projeleri kontrol et
-3. Yeni proje ise: `projeler/_sablon.md` → `projeler/<yeni-isim>.md`; `projeler/README.md` ve `degisiklikler.md` güncelle
-4. **Eski proje dosyalarına dokunma** — sadece yeni proje veya kullanıcının istediği proje
+1. Oku: `araba/ozellikler.md`, `araba/notlar.md`, `araba/yapilanlar.md`
+2. Kontrol: `projeler/README.md`
+3. Yeni proje: `projeler/_sablon/` → `projeler/<yeni-isim>/` kopyala, `README.md` doldur
+4. **Başka proje klasörlerine dokunma**
 
-## Araba bilgisi nereye yazılır
+## Nereye yazılır
 
-- Sabit özellikler → `araba/ozellikler.md`
-- Kısıtlar, tercihler, hatırlatmalar → `araba/notlar.md`
-- Yapılan fiziksel işler → `araba/yapilanlar.md`
+| Bilgi | Dosya |
+|-------|-------|
+| Araç özelliği | `araba/ozellikler.md` |
+| Kısıt / tercih | `araba/notlar.md` |
+| Yapılan fiziksel iş | `araba/yapilanlar.md` |
+| Proje hedefi / karar | `projeler/<proje>/README.md` |
+| Proje araştırması | `projeler/<proje>/<konu>.md` |
 
-Proje dosyalarında araç bilgisini kopyalama; `araba/` dosyalarına link ver.
+Proje dosyalarında araç bilgisi tekrarlama — `../../araba/` linki kullan.
 
-## Proje yapısı
-
-- Her proje: bir ana dosya (`projeler/<isim>.md`)
-- O projeye özel araştırma/kurulum dosyaları ana dosyada listelenir; ayrı proje sayılmaz
-- Tamamlanan proje → durum ✅ + özet `araba/yapilanlar.md`
-
-## Referans
-
-Tam akış: `NASIL-CALISIRIZ.md`
+Tam yapı: `NASIL-CALISIRIZ.md`

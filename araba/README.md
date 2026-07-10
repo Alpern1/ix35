@@ -1,31 +1,24 @@
 # Araba — Ortak Hafıza
 
-> Tüm projeler bu bilgilere dayanır. Yeni proje açarken **önce burayı oku**.
+> Tüm `projeler/<isim>/` klasörleri bu bilgilere dayanır.
 
 ## Dosyalar
 
 | Dosya | İçerik |
 |-------|--------|
-| [ozellikler.md](ozellikler.md) | Marka, model, motor, donanım, km — değişmeyen gerçekler |
-| [notlar.md](notlar.md) | LPG, manuel vites, DIY, bütçe, teknik kısıtlar |
-| [yapilanlar.md](yapilanlar.md) | Yapılmış modifikasyon ve bakımlar (kronolojik) |
+| [ozellikler.md](ozellikler.md) | Marka, model, motor, donanım, km |
+| [notlar.md](notlar.md) | LPG, manuel, DIY, bütçe, kısıtlar |
+| [yapilanlar.md](yapilanlar.md) | Yapılan modifikasyon ve bakımlar |
 
-## Hızlı özet (2012 ix35)
+## Hızlı özet
 
-| | |
-|--|--|
-| Motor | 1.6 GDI benzin + **Prins LPG** |
-| Şanzıman | **Manuel** |
-| Anahtar | Smart Key + START/STOP |
-| Klima | Otomatik |
-| Km | ~130.000 |
-| Konum | Kayseri |
+2012 ix35 · 1.6 GDI + Prins LPG · manuel · Smart Key · ~130.000 km · Kayseri
 
 ## Kural
 
-- Proje dosyasında araç bilgisi tekrarlanacaksa → `araba/` dosyasına yaz, projede link ver.
-- Fiziksel bir iş yapıldıysa → mutlaka `yapilanlar.md`.
+- Proje klasöründe araç bilgisi tekrarlama → buraya yaz, `../../araba/` linki ver
+- Fiziksel iş yapıldı → `yapilanlar.md`
 
 ---
 
-*Ana rehber: [NASIL-CALISIRIZ.md](../NASIL-CALISIRIZ.md)*
+*Yapı: [NASIL-CALISIRIZ.md](../NASIL-CALISIRIZ.md) · Projeler: [projeler/README.md](../projeler/README.md)*

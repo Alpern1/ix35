@@ -140,7 +140,7 @@ Sen **telefon kontrolü** istiyorsun; fiyat **şu an çok**; **walk-away** da is
 
 Walk-away **ayrı proje dosyasında** vardı; fiyat araştırması eksikti — **tamamlandı:**
 
-→ [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md)
+→ [uzaklasinca-otomatik-kilit.md](../uzaklasinca-kilit/README.md)
 
 **Özet:** Walk-away tek başına ~5.000 TL’lik bir “modül” olarak satılmıyor. En net yurtiçi paket **SST-019 ~15.500 TL** (walk-away dahil, RF uzaktan da dahil ama evden değil).
 
@@ -154,7 +154,7 @@ Walk-away **ayrı proje dosyasında** vardı; fiyat araştırması eksikti — *
 | [alternatif-karsilastirma.md](alternatif-karsilastirma.md) | Pandora vs StarLine; tek kutu telefon+walk-away |
 | [pandora-arastirma.md](pandora-arastirma.md) | Pandora VX-4G detaylı araştırma (ix35, Hands Free, fiyat) |
 | [parca-tedarik-tr.md](parca-tedarik-tr.md) | Yurtiçi SKU listesi |
-| [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) | Walk-away seçenekleri + SST fiyat |
+| [uzaklasinca-otomatik-kilit.md](../uzaklasinca-kilit/README.md) | Walk-away seçenekleri + SST fiyat |
 | [master-plan.md](master-plan.md) | Uygulama fazları |
 | [sistem-mimarisi.md](sistem-mimarisi.md) | Teknik mimari |
 

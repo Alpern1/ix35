@@ -190,7 +190,7 @@ Bütçe sıkışık
 |-------|--------|
 | [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) | Yurtiçi/ithalat telefon + gümrük detayı |
 | [fazli-butce-plani.md](fazli-butce-plani.md) | Parça parça neden kötü fikir |
-| [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) | SST walk-away fiyatları |
+| [uzaklasinca-otomatik-kilit.md](../uzaklasinca-kilit/README.md) | SST walk-away fiyatları |
 | [master-plan.md](master-plan.md) | Aktif faz: Faz 0 |
 
 ---

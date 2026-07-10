@@ -25,7 +25,7 @@ Pandora bu projede **yok** — arşiv: [pandora-arastirma.md](pandora-arastirma.
 |-------|---------|
 | [fazli-butce-plani.md](fazli-butce-plani.md) | **Parça parça mı, tek seferde mi?** Walk-away vs telefon önceliği |
 | [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) | Evden telefon + gümrük ~22–26k TL |
-| [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) | Walk-away ~15–20k TL (SST) |
+| [uzaklasinca-otomatik-kilit.md](../uzaklasinca-kilit/README.md) | Walk-away ~15–20k TL (SST) |
 | [parca-tedarik-tr.md](parca-tedarik-tr.md) | SKU / stok |
 
 ---
@@ -59,7 +59,7 @@ plan oku       VEYA SST ~16k       Hepsini bir seferde
 | Öncelik | Sipariş |
 |---------|---------|
 | **Evden telefon** (asıl hedef) | StarLine GSM ECO — [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) |
-| Walk-away, telefon ertelendi | SST-019 — [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) |
+| Walk-away, telefon ertelendi | SST-019 — [uzaklasinca-otomatik-kilit.md](../uzaklasinca-kilit/README.md) |
 | **İkisini sırayla iki marka** | ❌ Yapma — [fazli-butce-plani.md](fazli-butce-plani.md) |
 
 ---
@@ -83,7 +83,7 @@ Toplam: **~22.000–26.000 TL** — [telefon-kontrol-arastirma.md](telefon-kontr
 □ Montaj randevusu (startstopturkiye.com)
 ```
 
-Toplam: **~15.500–20.000 TL** — [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md)
+Toplam: **~15.500–20.000 TL** — [uzaklasinca-otomatik-kilit.md](../uzaklasinca-kilit/README.md)
 
 **Yol A + B birlikte:** ❌
 

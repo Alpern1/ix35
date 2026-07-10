@@ -1,86 +1,64 @@
-# Nasıl Çalışırız — ix35 Repo Sözleşmesi
+# Nasıl Çalışırız
 
-> Bu repo **arabanın hafızası** + **ayrı ayrı projeler** için.  
-> Yeni fikir geldiğinde eski projelere dokunmadan ilerleriz.
+> Bu dosya repo yapısını tanımlar. **Hatırlatmana gerek yok** — klasör yapısı kendini anlatır.
 
----
-
-## Üç katman
+## Klasör ağacı
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│  araba/          Arabanın kalıcı bilgisi (ortak hafıza) │
-├─────────────────────────────────────────────────────────┤
-│  projeler/       Her proje kendi dosyasında / klasöründe│
-├─────────────────────────────────────────────────────────┤
-│  degisiklikler   Neden değişti? (kısa günlük)           │
-└─────────────────────────────────────────────────────────┘
+ix35/
+├── README.md                 ← Giriş
+├── NASIL-CALISIRIZ.md        ← Bu dosya (yapı sözleşmesi)
+├── degisiklikler.md          ← Önemli değişiklik günlüğü
+│
+├── araba/                    ← ORTAK HAFIZA (tüm projeler buradan beslenir)
+│   ├── README.md
+│   ├── ozellikler.md         ← Sabit araç bilgisi
+│   ├── notlar.md             ← Kısıtlar, tercihler, hatırlatmalar
+│   └── yapilanlar.md         ← Fiziksel olarak yapılan işler
+│
+└── projeler/                 ← PROJELER (birbirinden izole)
+    ├── README.md             ← Proje listesi
+    ├── _sablon/              ← Yeni proje şablonu
+    │   └── README.md
+    ├── uzaktan-calisma-klima/    ← Proje 1
+    │   ├── README.md             ← Ana proje dosyası
+    │   ├── master-plan.md
+    │   ├── kurulum-canli-anlatim.md
+    │   └── … (sadece bu projeye ait)
+    └── uzaklasinca-kilit/        ← Proje 2
+        └── README.md
 ```
 
-### 1. `araba/` — Unutmayacağımız bilgiler
+## Kurallar
 
-| Dosya | Ne zaman güncellenir |
-|-------|----------------------|
-| [ozellikler.md](araba/ozellikler.md) | Model, motor, donanım, km — **sabit gerçekler** |
-| [notlar.md](araba/notlar.md) | LPG, manuel vites, DIY tercihi, kısıtlar |
-| [yapilanlar.md](araba/yapilanlar.md) | Arabada **fiziksel olarak yapılan** her iş |
+### Araba bilgisi → `araba/`
 
-**Kural:** Proje dosyalarına araba özelliği kopyalamak yerine `araba/` dosyalarına yaz; projeler oraya link versin.
+| Ne | Nereye |
+|----|--------|
+| Model, motor, donanım, km | `araba/ozellikler.md` |
+| LPG, manuel, DIY, bütçe, kısıtlar | `araba/notlar.md` |
+| Yapılan mod / bakım | `araba/yapilanlar.md` |
 
-### 2. `projeler/` — Projeler birbirinden ayrı
+Proje dosyalarında araç bilgisini kopyalama — `../../araba/` linki ver.
 
-Her **proje** = bir ana dosya (veya klasör + `README.md`).
+### Her proje → `projeler/<isim>/`
 
-| Tür | Örnek | Kural |
-|-----|-------|-------|
-| **Ana proje** | `uzaktan-calisma-ve-klima.md` | Hedef, durum, kararlar burada |
-| **Destek / araştırma** | `telefon-kontrol-arastirma.md` | Sadece o projeye bağlı; listesi ana dosyada |
-| **Yeni proje** | `projeler/<yeni-isim>.md` | Eski proje dosyalarına **dokunma** |
+- Klasör adı: küçük harf, tire (`cam-filmi`, `multimedya`)
+- **`README.md`** = ana proje (hedef, durum, kararlar)
+- Diğer `.md` = o projeye özel araştırma / kurulum / plan
+- **Başka proje klasörüne yazma**
 
-Proje listesi: [projeler/README.md](projeler/README.md)
+### Yeni fikir geldiğinde
 
-### 3. Yeni fikir geldiğinde (sen + asistan)
+1. `araba/` oku
+2. `projeler/README.md` — aynı proje var mı?
+3. Yoksa: `_sablon/` kopyala → `projeler/<yeni-isim>/`
+4. `projeler/README.md` + `degisiklikler.md` güncelle
 
-```
-1. araba/ozellikler.md + araba/notlar.md oku
-2. projeler/README.md — aynı proje var mı bak
-3. Yoksa: _sablon.md kopyala → yeni proje dosyası
-4. projeler/README.md listesine ekle
-5. degisiklikler.md kısa not
-6. Eski proje dosyalarını değiştirme (sadece yeni dosya)
-```
+### Proje bittiğinde
 
-**Senin cümlen:** *"Aklımda yeni bir şey var: …"*  
-**Beklenen:** Yeni `projeler/xxx.md` açılır; StarLine / walk-away dosyalarına karışılmaz.
-
----
-
-## Proje grupları (şu an)
-
-| # | Proje | Ana dosya | Durum |
-|---|-------|-----------|-------|
-| 1 | Uzaktan çalıştırma & klima (StarLine) | [uzaktan-calisma-ve-klima.md](projeler/uzaktan-calisma-ve-klima.md) | 📋 Planlama |
-| 2 | Uzaklaşınca otomatik kilit | [uzaklasinca-otomatik-kilit.md](projeler/uzaklasinca-otomatik-kilit.md) | 📋 Planlama |
-
-Proje 1'in destek dosyaları (kurulum, tedarik, karşılaştırma…) ana dosyada listelenir — ayrı proje sayılmaz.
-
----
-
-## Tamamlanan iş
-
-Proje bittiğinde:
-
-1. Proje dosyasında durum → ✅ Tamamlandı  
-2. Özet + parça/maliyet → `araba/yapilanlar.md`  
-3. Arabaya kalıcı etki varsa → `araba/ozellikler.md` veya `notlar.md`
-
----
-
-## Şablon
-
-Yeni proje: [projeler/_sablon.md](projeler/_sablon.md) kopyala.
-
-Dosya adı: küçük harf, tire — ör. `cam-filmi.md`, `jant-boyama.md`
+1. `README.md` durum → ✅
+2. Özet → `araba/yapilanlar.md`
 
 ---
 

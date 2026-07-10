@@ -4,8 +4,10 @@
 
 ## 2026-07-10
 
-- **Çoklu proje yapısı netleştirildi** — `NASIL-CALISIRIZ.md`, `araba/README.md`, `.cursor/rules/ix35-repo.mdc`; projeler birbirinden ayrı; yeni fikir = yeni dosya kuralı.
-- **projeler/README.md** — Ana projeler vs Proje 1 destek dosyaları ayrıldı.
+- **Repo klasörlere ayrıldı** — `projeler/uzaktan-calisma-klima/`, `projeler/uzaklasinca-kilit/`, `projeler/_sablon/`; her proje kendi klasöründe, `README.md` = ana dosya.
+- **Çoklu proje yapısı** — `NASIL-CALISIRIZ.md`, `araba/README.md`, `.cursor/rules/ix35-repo.mdc`.
+
+## 2026-07-10 (önceki)
 
 ## 2026-07-09
 

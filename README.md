@@ -1,37 +1,33 @@
-# ix35 — Araba Projeleri
+# ix35 — Araba Bilgisi & Projeler
 
-Bu repo, **2012 Hyundai ix35** için kalıcı araba bilgisi ve **birbirinden ayrı proje planları** tutar. Sohbetler kaybolur; dosyalar kalır.
+2012 Hyundai ix35 için **kalıcı araba hafızası** ve **ayrı proje klasörleri**.
 
-## Nasıl çalışıyoruz?
-
-Detaylı akış: **[NASIL-CALISIRIZ.md](NASIL-CALISIRIZ.md)**
+## Yapı (tek bakışta)
 
 ```
-araba/     → Arabanın hafızası (özellikler, notlar, yapılanlar)
-projeler/  → Her proje ayrı dosya; yeni fikir = yeni dosya
+araba/      → Arabanın unutulmayacak bilgileri
+projeler/   → Her proje kendi klasöründe
 ```
 
-**Yeni bir şey aklına gelince:** *"Aklımda yeni bir şey var: …"* de — eski projelere karışmadan yeni proje dosyası açılır, araba bilgileri `araba/` klasöründen okunur.
+Detay: [NASIL-CALISIRIZ.md](NASIL-CALISIRIZ.md)
 
-## Klasör yapısı
+## Araba
 
-| Dosya / Klasör | Ne için? |
-|----------------|----------|
-| [NASIL-CALISIRIZ.md](NASIL-CALISIRIZ.md) | Repo sözleşmesi — sen + asistan nasıl ilerler |
-| [araba/](araba/) | Arabanın sabit bilgileri, kısıtlar, yapılan işler |
-| [projeler/README.md](projeler/README.md) | Tüm projelerin listesi |
-| [projeler/_sablon.md](projeler/_sablon.md) | Yeni proje şablonu |
-| [degisiklikler.md](degisiklikler.md) | Önemli değişiklik günlüğü |
+| Dosya | İçerik |
+|-------|--------|
+| [araba/ozellikler.md](araba/ozellikler.md) | Model, motor, donanım |
+| [araba/notlar.md](araba/notlar.md) | LPG, manuel, DIY, kısıtlar |
+| [araba/yapilanlar.md](araba/yapilanlar.md) | Yapılan işler |
 
-## Aktif projeler (özet)
+## Projeler
 
-| # | Proje | Dosya |
-|---|-------|-------|
-| 1 | Uzaktan çalıştırma & klima (StarLine) | [projeler/uzaktan-calisma-ve-klima.md](projeler/uzaktan-calisma-ve-klima.md) |
-| 2 | Uzaklaşınca otomatik kilit | [projeler/uzaklasinca-otomatik-kilit.md](projeler/uzaklasinca-otomatik-kilit.md) |
+| Klasör | Ne |
+|--------|-----|
+| [projeler/uzaktan-calisma-klima/](projeler/uzaktan-calisma-klima/) | Uzaktan çalıştırma & klima (StarLine) |
+| [projeler/uzaklasinca-kilit/](projeler/uzaklasinca-kilit/) | Uzaklaşınca otomatik kilit |
 
-## Yeni proje eklemek
+Tam liste: [projeler/README.md](projeler/README.md)
 
-1. `projeler/_sablon.md` → `projeler/<proje-adi>.md`
-2. `projeler/README.md` listesine ekle
-3. `degisiklikler.md` kısa not
+## Yeni proje
+
+`projeler/_sablon/` klasörünü kopyala → `projeler/<yeni-isim>/`

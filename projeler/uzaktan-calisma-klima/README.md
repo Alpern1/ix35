@@ -25,22 +25,22 @@
 | [alternatif-karsilastirma.md](alternatif-karsilastirma.md) | Marka karşılaştırma |
 | [teknik-analiz.md](teknik-analiz.md) | Teknik rapor |
 
-Araç bilgisi (ortak): [araba/ozellikler.md](../araba/ozellikler.md) · [araba/notlar.md](../araba/notlar.md)
+Araç bilgisi (ortak): [araba/ozellikler.md](../../araba/ozellikler.md) · [araba/notlar.md](../../araba/notlar.md)
 
 ## Motivasyon
 
 Kışın ısıtılmış, yazın serinletilmiş araca binmek. **Evden / uzaktan** telefonla çalıştırmak — kumanda menzili (~10 m) yeterli değil.
 
-## Araç bilgileri (doğrulandı)
+## Araç bilgileri
+
+Kalıcı kayıt: [araba/ozellikler.md](../../araba/ozellikler.md) · Kısıtlar: [araba/notlar.md](../../araba/notlar.md)
 
 | Özellik | Değer |
 |---------|-------|
 | Anahtar | Smart Key + START/STOP |
 | Klima | **Otomatik** |
-| Koltuk ısıtma | **Var** |
 | LPG | **Prins** |
 | Şanzıman | Manuel |
-| Telefon tercihi | Evet — LTE modül ile sınırsız menzil |
 
 ---
 
