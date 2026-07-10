@@ -2,6 +2,11 @@
 
 > Plan veya kayıtlarda yapılan önemli değişiklikler. "Neden değişti?" sorusunun cevabı burada.
 
+## 2026-07-10
+
+- **Çoklu proje yapısı netleştirildi** — `NASIL-CALISIRIZ.md`, `araba/README.md`, `.cursor/rules/ix35-repo.mdc`; projeler birbirinden ayrı; yeni fikir = yeni dosya kuralı.
+- **projeler/README.md** — Ana projeler vs Proje 1 destek dosyaları ayrıldı.
+
 ## 2026-07-09
 
 - **Telefon-only ritüel düzeltildi** — Kumanda START 2.5 sn adımı kaldırıldı; StarLine program nötr + telefondan silahlanma akışı yazıldı.

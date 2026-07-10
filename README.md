@@ -1,26 +1,37 @@
 # ix35 — Araba Projeleri
 
-Bu repo, Hyundai ix35 üzerinde planlanan eğlenceli ve detaylı projeleri birlikte düşünmek, araştırmak ve kayıt altına almak için kullanılır.
+Bu repo, **2012 Hyundai ix35** için kalıcı araba bilgisi ve **birbirinden ayrı proje planları** tutar. Sohbetler kaybolur; dosyalar kalır.
 
 ## Nasıl çalışıyoruz?
 
-1. **Sohbet & soru-cevap** — Fikirleri konuşuruz, birlikte karar veririz.
-2. **Kayıt** — Önemli her şey dosyalara yazılır; plan değişince güncellenir.
-3. **Git** — Değişiklikler commit edilir; hiçbir şey kaybolmaz.
+Detaylı akış: **[NASIL-CALISIRIZ.md](NASIL-CALISIRIZ.md)**
+
+```
+araba/     → Arabanın hafızası (özellikler, notlar, yapılanlar)
+projeler/  → Her proje ayrı dosya; yeni fikir = yeni dosya
+```
+
+**Yeni bir şey aklına gelince:** *"Aklımda yeni bir şey var: …"* de — eski projelere karışmadan yeni proje dosyası açılır, araba bilgileri `araba/` klasöründen okunur.
 
 ## Klasör yapısı
 
 | Dosya / Klasör | Ne için? |
 |----------------|----------|
-| [`araba/ozellikler.md`](araba/ozellikler.md) | Arabanın sabit bilgileri (model, motor, donanım…) |
-| [`araba/yapilanlar.md`](araba/yapilanlar.md) | Yapılmış işler, modifikasyonlar, bakımlar |
-| [`araba/notlar.md`](araba/notlar.md) | Unutulmaması gereken genel notlar |
-| [`projeler/README.md`](projeler/README.md) | Tüm projelerin listesi ve durumları |
-| [`projeler/_sablon.md`](projeler/_sablon.md) | Yeni proje planı şablonu |
-| [`degisiklikler.md`](degisiklikler.md) | Plan ve kayıt değişiklik günlüğü |
+| [NASIL-CALISIRIZ.md](NASIL-CALISIRIZ.md) | Repo sözleşmesi — sen + asistan nasıl ilerler |
+| [araba/](araba/) | Arabanın sabit bilgileri, kısıtlar, yapılan işler |
+| [projeler/README.md](projeler/README.md) | Tüm projelerin listesi |
+| [projeler/_sablon.md](projeler/_sablon.md) | Yeni proje şablonu |
+| [degisiklikler.md](degisiklikler.md) | Önemli değişiklik günlüğü |
+
+## Aktif projeler (özet)
+
+| # | Proje | Dosya |
+|---|-------|-------|
+| 1 | Uzaktan çalıştırma & klima (StarLine) | [projeler/uzaktan-calisma-ve-klima.md](projeler/uzaktan-calisma-ve-klima.md) |
+| 2 | Uzaklaşınca otomatik kilit | [projeler/uzaklasinca-otomatik-kilit.md](projeler/uzaklasinca-otomatik-kilit.md) |
 
 ## Yeni proje eklemek
 
-1. `projeler/_sablon.md` dosyasını kopyala → `projeler/<proje-adi>.md`
+1. `projeler/_sablon.md` → `projeler/<proje-adi>.md`
 2. `projeler/README.md` listesine ekle
-3. `degisiklikler.md` dosyasına kısa not düş
+3. `degisiklikler.md` kısa not

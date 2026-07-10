@@ -1,0 +1,33 @@
+---
+description: ix35 repo — araba hafızası ve ayrı proje dosyaları çalışma kuralı
+alwaysApply: true
+---
+
+# ix35 repo kuralları
+
+Bu repo Hyundai ix35 için kalıcı araba bilgisi + ayrı proje dosyaları tutar.
+
+## Yeni konu / yeni fikir geldiğinde
+
+1. Önce oku: `araba/ozellikler.md`, `araba/notlar.md`, `araba/yapilanlar.md`
+2. `projeler/README.md` ile mevcut projeleri kontrol et
+3. Yeni proje ise: `projeler/_sablon.md` → `projeler/<yeni-isim>.md`; `projeler/README.md` ve `degisiklikler.md` güncelle
+4. **Eski proje dosyalarına dokunma** — sadece yeni proje veya kullanıcının istediği proje
+
+## Araba bilgisi nereye yazılır
+
+- Sabit özellikler → `araba/ozellikler.md`
+- Kısıtlar, tercihler, hatırlatmalar → `araba/notlar.md`
+- Yapılan fiziksel işler → `araba/yapilanlar.md`
+
+Proje dosyalarında araç bilgisini kopyalama; `araba/` dosyalarına link ver.
+
+## Proje yapısı
+
+- Her proje: bir ana dosya (`projeler/<isim>.md`)
+- O projeye özel araştırma/kurulum dosyaları ana dosyada listelenir; ayrı proje sayılmaz
+- Tamamlanan proje → durum ✅ + özet `araba/yapilanlar.md`
+
+## Referans
+
+Tam akış: `NASIL-CALISIRIZ.md`
