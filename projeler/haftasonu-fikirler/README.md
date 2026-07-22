@@ -1,240 +1,107 @@
-# Hafta sonu fikirleri — detaylı anlatım
+# Hafta sonu fikirleri — detaylı (güncel sohbet)
 
-> Amaç: Hafta sonu vakit geçir, bitsin, **her gün kullanasın**.  
-> Araç: 2012 ix35 · DIY · Kayseri · LPG Prins · Smart Key  
+> Araç: 2012 ix35 · Android teyp var · bagajda LPG tüpü · DIY  
 > 2026-07-22
 
-Kısa liste: **dashcam · bagaj düzen · kapı yalıtımı · USB-C PD** (+ **akü bakım prizi / voltmetre** ne alaka).
-
 ---
 
-# 1) Dashcam (ön + arka) — sabit tesisat
+## Senin notların → güncel durum
 
-## Nedir?
-
-Aracın ön camına (ve tercihen arkaya) sürekli kayıt yapan kamera.  
-**Sabit tesisat** = çakmaklık adaptörüyle değil; sigorta kutusundan çekilen kablo ile sürekli/ACC’li besleme.
-
-## Ne işe yarar?
-
-| Durum | Fayda |
+| Fikir | Durum |
 |-------|--------|
-| Trafik kazası | Kimin hatalı olduğu netleşir |
-| Parkta çizik / ayna kırığı | “Kim vurdu” kaydı (park modu varsa) |
-| Sigorta / savcılık | Kanıt |
-| Garip olay | Yol kenarı tartışma, kırmızı ışık vs. |
-
-ix35’te Blue Link / fabrika kamera yok (veya zayıf) → bu boşluğu doldurur.
-
-## Nasıl olur? (DIY)
-
-```
-1. Cihaz seç: ön + arka, mümkünse “park mode” (akü korumalı)
-2. Sigorta kutusundan Add-A-Circuit ile:
-   - Sarı: sürekli +12V (park kaydı)
-   - Kırmızı: ACC (kontak açıkken)
-   - Siyah: şasi
-3. Kabloyu A sütunu / tavan kenarı trimlerinin altından gizle
-4. Arka kamera: bagaja kablo (sol veya sağ eşik altı)
-5. Kamerayı dikiz arkasına / cam üstüne gizle (görüşü kesme)
-```
-
-**Hafta sonu:** Cumartesi ön + kablo; Pazar arka.  
-**Maliyet:** ~3–8k TL (70mai, Viofo, 70mai benzeri sınıf).  
-**Dikkat:** Park modu aküyü yer — düşük voltaj kesmeli model al (aşağıdaki voltmetre/akü bakımıyla da ilişkili).
+| Dashcam / 360 / Android’de yan görüş | Netleştirildi aşağıda |
+| Bagaj düzen | **İptal** — tüp yanı zaten dolu |
+| Kapı yalıtımı | Davlumbaz şart mı? → hayır, kapı yeter başlangıç |
+| USB-C PD | Sök-tak mı adaptör mü? → aşağıda |
+| Akü “priz” | Ev prizi değil → düz anlatım aşağıda |
 
 ---
 
-# 2) Bagaj düzen + sabit 12V / USB
+# 1) Kamera işi — üç ayrı şey karışmasın
 
-## Nedir?
+| | Dashcam | Android’e yan kamera | 360 kuş bakışı |
+|--|---------|----------------------|----------------|
+| Ne | Sürekli **kayıt** (ön±arka) | Manevrada **canlı** sağ/sol | 4 kamera birleşik üstten bakış |
+| Nerede izlersin | Kendi ekranı / app | **Senin Android teyp** | Android (360 app şart) |
+| Fiyat | 3–8k TL | Kamera+kablo ~1–4k TL | Ucuz kit ~50–200$; düzgün 500–600$ |
 
-Bagajın tabanına / kenarına **sabit düzen**: kutu, kayış, bölmeli organizer.  
-Yanına veya paneline **sabit priz**: 12V çakmak ve/veya USB-C — çakmaklıktan uzatma kablosu değil.
+### Senin cümlen
+> Android ekrana bağlayıp sağı solu görmek
 
-## Ne işe yarar?
+Bu **dashcam değil**. Android teybin kamera girişine (AHD/AV) **sağ + sol kamera** bağlamak.
 
-SUV bagajı boş bırakılınca:
+- 500–600$ 360 **şart değil** (kuş bakışı birleştirme o yüzden pahalı).  
+- Ucuz Çin 360 var ama teypte “360” uygulaması/modül olmalı; kalibrasyon uğraştırır, kalite değişken.  
+- **Pratik DIY:** Sağ + sol AHD kamera (ayna altı / kapı altı) + geri kamera → park/manevrada sağı solu görürsün.  
+- **Kayıt** ayrı ihtiyaçsa: küçük dashcam ayrıca (Android kapalıyken de kaydeder).
 
-- Jumper kablosu, üçgen, yelek, kompresör, alet, market poşeti **kayar dağılır**
-- LPG’li araçta bazen hortum/adaptör/yedek parça da bagajda gezer
-- Gece bir şey ararken her şeyi boşaltırsın
-
-Düzen + priz olunca:
-
-- Her şey yerinde  
-- Bagajda lastik şişirme, telefon/tablet, küçük soğutucu (opsiyon) beslenir  
-- “Nerede bu kablo?” bitar
-
-## Nasıl olur? (DIY)
-
-```
-1. Bagaj taban ölçüsü al (ix35: tekerlek yuvaları / eşik)
-2. Seçenek A: Hazır kayışlı organizer (hızlı)
-   Seçenek B: 9–12 mm kontrplak + halı kaplama + bölmeler (daha “proje”)
-3. 12V hattı: arka sigorta / bagaj lambası ACC veya sürekli (sigortalı)
-4. USB-C PD soketi panela göm
-5. Vida / cırt — sökülebilir olsun (stepne erişimi)
-```
-
-**Hafta sonu:** Ölç + kes + monte = 1 gün.  
-**Maliyet:** 500–3k TL.  
-**DIY keyfi:** Yüksek — kendi düzenin.
+Önce Android teypte bak: geri kamera girişi var mı, ek “front/left/right” veya 360 app var mı?
 
 ---
 
-# 3) Kapı ses yalıtımı (kısmi)
+# 2) Bagaj düzen — iptal
 
-## Nedir?
-
-Kapı sacının içine / döşeme arkasına **butil (yumuşak kauçuk tabaka)** + üzerine **keçe / köpük**.  
-Tüm arabayı “ses stüdyosu” yapmak değil — **4 kapı** (istersen önce ön 2).
-
-## Ne işe yarar?
-
-| Önce | Sonra |
-|------|--------|
-| Yol, rüzgâr, yan araç gürültüsü net | Daha boğuk, yorgunluk azalır |
-| Kapı “teneke” kapanır | Daha dolu kapanma sesi |
-| Müzik / konuşma boğulur | Biraz daha net |
-
-Kayseri–yol kombinasyonunda uzun yolda gerçekten hissedilir. Performans artışı yok; **konfor**.
-
-## Nasıl olur? (DIY)
-
-```
-1. Kapı panelini sök (vida + klips — klips seti al)
-2. Nem bariyeri / naylon varsa dikkatli aç
-3. Dış sacın düz yerlerine butil yapıştır (hava kabarcığı olmadan)
-4. Üzerine keçe
-5. Speker çevresini abartma (titreşim/akustik)
-6. Paneli tak — cam/kilit kabloları sıkışmasın
-```
-
-**Hafta sonu:** 1 kapı = yarım–1 gün → 2 hafta sonu 4 kapı.  
-**Maliyet:** 2–5k TL malzeme (STP, Comfortmat tarzı).  
-**Dikkat:** Ağırlık artar (az); su tahliye deliklerini kapama.
+Stepne yerinde tüp; sağı soluna her şey + kamp sandalyesi girmiş. Extra organizer gerekmez.
 
 ---
 
-# 4) Konsol USB-C PD + kablo düzeni
+# 3) Ses yalıtımı — sadece kapı?
 
-## Nedir?
+**Evet, sadece kapı da işe yarar.** Davlumbaz zorunlu değil.
 
-Eski çakmak / zayıf USB yerine **gerçek telefon şarjı**: USB-C Power Delivery (ör. 30–45–60W).  
-Kabloyu konsol içinden geçirip telefon standına gizli götürmek.
+| Bölge | Ne azaltır | Zorluk |
+|-------|------------|--------|
+| Kapı | Yan/rüzgâr/teneke sesi | Hafta sonu DIY |
+| Davlumbaz | Yol/çakıl/lastik | Daha zor, sonra |
 
-## Ne işe yarar?
-
-| Eski | Yeni |
-|------|------|
-| Çakmak + kalın adaptör, dağınık | Tek soket, hızlı şarj |
-| “Şarj olmuyor / yavaş” | Navigasyon açıkken bile besler |
-| Kablo vites/kol dayama arası | Gizli hat, tek uç dışarı |
-
-Her gün en az bir kez telefon kullanıyorsun — bu doğrudan günlük iş. StarLine/telefon dönemi gelince de konsolda temiz güç olur.
-
-## Nasıl olur? (DIY)
-
-```
-1. Çakmak soketinin arkasındaki + / − bul (ACC olmalı)
-2. PD QC soket modülü tak (veya çakmak→PD dönüştürücü göm)
-3. Sigorta değerini aşma (genelde 10A hat)
-4. İnce USB-C kabloyu konsol boşluğundan telefon yerine çek
-5. Mıknatıs / vent stand (camı kaplama)
-```
-
-**Hafta sonu:** ½–1 gün.  
-**Maliyet:** 300–1.5k TL.  
-**Dikkat:** Ucuz “PD yazıyor ama 5W” adaptör alma; gerçek PD çipli olsun.
+“Davlumbaz yapmadan başlamayayım” engeli yanlış.  
+Öneri: **ön 2 kapı** → beğenirsen arka → hâlâ rahatsızsa davlumbaz.
 
 ---
 
-# 5) Sabit akü bakım prizi + voltmetre — ne alaka?
+# 4) USB-C PD — ne oluyor?
 
-Bu dörtlüden ayrı ama **senin arabana özel mantıklı**; onun için ayrıca anlattım.
+| Yol | Ne yaparsın | Sonuç |
+|-----|-------------|--------|
+| **A** | Çakmağa USB-C adaptör tak | Sökme yok; kablo ortada; zayıf “proje” |
+| **B** | Çakmak kovanını sök → aynı yere USB-C panel soket | Konsolda USB-C deliği; temiz |
+| **C** | Çakmak kalsın, yanına ek USB-C deliği | İkisi birden |
 
-## Senin araçta akü neden yorulur?
-
-| Ne | Aküyü yer (kontak kapalıyken bile) |
-|----|-------------------------------------|
-| **Smart Key / SMK** | Anahtarı sürekli dinler |
-| **Prins LPG beyni** | Küçük standby |
-| Alarm / radyo bellek | Klasik çekiş |
-| İleride dashcam park modu | Ciddi çekiş |
-| İleride StarLine GSM | Ciddi çekiş |
-
-Araba 3–4 gün durunca (iş seyahati, kış) akü eşiğe gelir → start zorlar veya Smart Key saçmalar.  
-Bu “araba bozuk” değil; **elektronik + bekleme akımı**.
-
-## Sabit bakım prizi nedir?
-
-Motor bölmesine (veya bagaja) **kalıcı bir soket** (çoğu CTEK / NOCO uyumlu “comfort connect” tipi).
-
-```
-Akü kutupları ──sigorta──► sabit priz (ön kaput yanında)
-                              ▲
-                         Evdeki akü bakıcı
-                      (haftada bir tak-çıkar)
-```
-
-**Ne işe yarar?**  
-Her seferinde akü borusunu söküp krokodil takmazsın. Kaputu aç, bakıcıyı tak, sabah çıkar. Özellikle kış / uzun park.
-
-## Voltmetre ne alaka?
-
-Kabinde (veya çakmakta) **küçük volt göstergesi**:
-
-| Gösterge | Anlam |
-|----------|--------|
-| Kontak açık, motor kapalı ~12.0–12.5 V | Normal dinlenme civarı |
-| Motor çalışırken ~13.8–14.5 V | Şarj (alternatör) çalışıyor |
-| Motor çalışırken 12.5 V altı | Şarj zayıf / kayış / alternatör |
-| Sabah 11.8 V | Akü bitmiş sayılır |
-
-**Ne işe yarar?**  
-- “Bu hafta akü yumuşak”ı arıza lambasından önce görürsün  
-- Dashcam park modu / ek elektronik takınca “aküyü öldürdü mü?” diye bakarsın  
-- LPG + Smart Key kombinasyonunda **erken uyarı**
-
-Bakım prizi = **doldur/koru**.  
-Voltmetre = **gör, karar ver**.  
-İkisi birlikte: “neden start zor?” sorusunun yarısını çözer.
-
-## Nasıl olur? (DIY)
-
-```
-1. Akü + yakınına sigortalı kablo (kısa mesafe)
-2. CTEK comfort plug / benzeri paneli çamurluk / su tutmayan yer
-3. Kabinde: çakmak tipi USB+voltmetre VEYA gömülü mini display
-4. İsteğe bağlı: akıllı bakıcı (CTEK, NOCO) evde kalır
-```
-
-**Hafta sonu:** ½ gün.  
-**Maliyet:** Priz + kablo ~300–800 TL; bakıcı cihaz ~1.5–4k; voltmetre ~100–400 TL.
-
-## Dörtlüyle bağlantısı
-
-- Dashcam park modu alacaksan → **voltmetre + bakıcı** neredeyse şart  
-- USB-C / bagaj 12V eklersen → çekiş artar → yine aynı mantık  
-Yani süs değil; senin elektronik profiline **altyapı**.
+“Direkt alet takıp USB mu?” = **Yol A** (adaptör).  
+Kalıcı/güzeli = **Yol B** (çakmağın yerine gömülü USB-C; arkada aynı ACC kabloları).
 
 ---
 
-# Hangisini seçmeli?
+# 5) Akü bakım prizi — ev prizi DEĞİL
 
-| İstediğin | Seç |
-|-----------|-----|
-| “Her gün somut güvenlik” | **Dashcam** |
-| “Bagaj çöplüğünden bıktım + DIY zevki” | **Bagaj düzen** |
-| “Yolda yoruluyorum, sessizlik” | **Kapı yalıtımı** |
-| “Küçük iş, hemen bitsin, her gün şarj” | **USB-C PD** |
-| “Akü / Smart Key / ileride kamera korkusu” | **Bakım prizi + voltmetre** |
+### Yanlış
+Arabaya 220V mutfak prizi takmak. Yok.
 
-İkisini birleştirmek de mantıklı: örn. **USB-C (kolay) + voltmetre** aynı gün; veya **dashcam + bakım prizi**.
+### Doğru
+Evde küçük bir **akü bakıcı** var (CTEK vb.). Fişi eve (220V), diğer uç 12V ile aküyü yavaş doldurur.
 
-Birini söyle → `projeler/<isim>/` açıp malzeme + Cumartesi-Pazar adımlarını yazarız.
+Zahmet: Her seferinde kaput + aküye timsah pensesi.
+
+**Sabit bakım prizi:** Aküye bağlı, kaput yanında küçük **12V fiş**.  
+Bakıcının ucunu pensesiz bu fişe takarsın.
+
+```
+Ev prizi 220V → [Bakıcı cihaz] → fiş → [Arabadaki sabit 12V soket] → akü
+```
+
+- Şarj eden: bakıcı (evde)  
+- Arabaya eklenen: sadece kolay bağlantı soketi  
+
+**Voltmetre:** Kabinde “kaç volt?” — akü bitiyor mu, motor çalışınca şarj var mı görürsün.  
+Smart Key + LPG beyni araba kapalıyken aküyü yer; dashcam park modu da yer → bu yüzden alaka.
 
 ---
 
-*StarLine / koltuk soğutma / walk-away’e karışmaz.*
+# Güncel adaylar
+
+1. **Android’e sağ/sol kamera** (± ayrıca ucuz dashcam)  
+2. **Kapı ses yalıtımı** (önce kapı)  
+3. **USB-C gömme (Yol B)**  
+4. **Akü fişi + voltmetre** (istersen)
+
+Hangisini derinleştirelim?
