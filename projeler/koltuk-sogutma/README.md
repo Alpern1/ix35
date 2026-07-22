@@ -9,6 +9,114 @@ Araç: [araba/ozellikler.md](../../araba/ozellikler.md) · [araba/notlar.md](../
 
 ---
 
+## Basit anlatım — terleyen bel/sırt/göt (önce bunu oku)
+
+### Senin sorun ne?
+
+Klima açık, sen serinsin ama **koltuğa değen yerler** (bel, sırt, oturma) terliyor.  
+Sebep: Vücut ile deri arasında **hava yok**. Ter buharlaşamıyor → ıslak / yapışkan his.
+
+Klima kabini soğutur; **koltukla vücut arasını** soğutmaz.
+
+### Ventilasyon bunu çözer mi?
+
+**Evet — tam bu iş için.** Elite Plus “soğutma” da bunu yapıyor.
+
+Fan, o sıkışmış tabakaya **hava hareketi** verir:
+- Ter buharlaşır → kurur  
+- Yapışma kesilir  
+- Klima açıksa o hava zaten serin → daha iyi his  
+
+Buz gibi üfleme değil; **“artık terle yapışmıyorum”** hissi. Yazın Kayseri’de asıl ihtiyaç bu.
+
+---
+
+### Hava kanalı ne demek? (basit)
+
+Koltuk süngeri şu an **kapalı köpük** — hava içinden geçemez.  
+Biz süngere **delik / oyuk / kanal** açıyoruz; fan oradan üflüyor veya emiyor; hava delikli deriden çıkıp **sırtınla koltuk arasına** giriyor.
+
+Düşün: Minderin altında fan, minder yüzeyinde binlerce küçük delik. Oturunca fan çalışınca sırtının arkasından hafif esinti gelir.
+
+```
+ŞİMDİ (sorun):
+  sırtın ████████  (ter sıkışır)
+  deri   ────────
+  sünger ████████  (hava yok)
+
+SONRA (ventilasyon):
+  sırtın
+  hava   ≈≈≈≈≈≈   ← fan buraya üflüyor / çekiyor
+  deri   ········  (delikli)
+  sünger ░█░█░█░   (içinden kanal)
+  fan    [FAN]
+```
+
+---
+
+### Mevcut koltuğa adım adım ne yapılır?
+
+Koltuk **arabadan sökülür**, kılıf açılır. (Araç içinde “sünger delinir bitir” değil.)
+
+| Adım | Ne olur |
+|------|---------|
+| 1 | Koltuk raylardan çıkar |
+| 2 | Deri kılıf sökülür → sünger + ısıtma matı görünür |
+| 3 | **Isıtma matı** dikkatle kenara alınır veya yerinde bırakılıp etrafı işlenir (kesilmeden) |
+| 4 | Süngerde oturma + sırt bölgelerinde **fan yuvası** ve **hava delikleri/kanalları** açılır |
+| 5 | Fanlar bu oyuklara / süngerin **arka-alt** yüzüne vidalanır |
+| 6 | Üste hava dağıtan mesh/sünger konur |
+| 7 | Isıtma matı tekrar üst katmana (hava yolu açık kalacak şekilde) |
+| 8 | Deri **delinir** veya delikli kılıf geçirilir |
+| 9 | Kılıf kapanır, koltuk arabaya takılır, anahtar bağlanır |
+
+Evet: **sünger kesilir / delinir** — bu normal ve Elite Plus fabrika süngerinde de böyle boşluklar vardır. Koltuk “çöker” diye değil; fanın oturacağı ve havanın geçeceği yer açılır.
+
+---
+
+### “Isıtma üstteyse fanı alta nasıl koyacağım?”
+
+İkisi **aynı katmanda değil** — sandviç gibi:
+
+```
+Sen oturuyorsun
+      ↓
+[ Delikli deri ]     ← dokunduğun yer
+[ Isıtma matı ]      ← ince tabaka, kışın ısınır (hava geçsin diye delikli/geçirgen olmalı)
+[ Kanal süngeri ]    ← havayı yayar
+[ Ana sünger ]       ← içinden DELİKLER (hava yolu)
+[ FAN ]              ← süngerin ALTINDA, iskelete yakın
+[ Metal iskelet ]
+```
+
+Nasıl koyulur pratikte:
+1. Kılıf + ısıtma açılınca süngerin **ön yüzü** görünür  
+2. Süngeri çevirirsin / alttan bakarsın → **arka yüz**  
+3. Alta fan yuvası kesilir, fan oraya oturur  
+4. Süngerin içinden yukarı doğru delik açılır → hava ısıtma/deriye ulaşır  
+5. Isıtma tekrar üste konur  
+
+Yani fanı “ısıtmanın üstünden geçirip alta sokmuyorsun”. Koltuk **açıkken** süngerin altını görüyorsun; fan oraya takılıyor. Isıtma sonra yine üste geliyor.
+
+Isıtma çalışırken fan erimez: arada sünger var, yüzey ılık (sauna değil).
+
+---
+
+### Aklındaki sorular — tek tek
+
+| Soru | Cevap |
+|------|--------|
+| Belim terliyor, çözer mi? | **Evet, asıl hedef bu** |
+| Klima varken neden terliyorum? | Koltuk hava geçirmiyor |
+| Hava kanalı mantıklı mı? | Fanın üflediği havanın sırtına ulaşması için yol şart |
+| Sünger delinir mi? | **Evet** |
+| Sünger kesilir mi? | **Evet** (fan yuvası + kanallar) |
+| Isıtma üstte fan altta nasıl? | Koltuk açıkken katman katman; fan sünger altına |
+| Deri delikli değilse? | Delinir veya değişir — yoksa hava çıkmaz |
+| Minder gibi üstüne mi konur? | Hayır — **içine** gömülür, OEM gibi |
+
+---
+
 ## Tucson Elite Plus’ta ne var? (referans model)
 
 TR donanım listesinde Elite Plus: **“Koltuk Soğutma Sistemi (Ön)”** yazar.  
