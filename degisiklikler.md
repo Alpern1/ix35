@@ -2,6 +2,11 @@
 
 > Plan veya kayıtlarda yapılan önemli değişiklikler. "Neden değişti?" sorusunun cevabı burada.
 
+## 2026-07-22
+
+- **Yeni proje: yazılım/kodlama araştırması** — `projeler/yazilim-kodlama/` (BCM auto-lock, chip MED17.9.8, SMK, multimedya ayrımı).
+- **GSI notu** — sürekli vites göstergesi fikri reddedildi (`araba/notlar.md`).
+
 ## 2026-07-10
 
 - **Repo klasörlere ayrıldı** — `projeler/uzaktan-calisma-klima/`, `projeler/uzaklasinca-kilit/`, `projeler/_sablon/`; her proje kendi klasöründe, `README.md` = ana dosya.
