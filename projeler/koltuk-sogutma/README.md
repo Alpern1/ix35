@@ -15,7 +15,8 @@ Araç: [araba/ozellikler.md](../../araba/ozellikler.md) · [araba/notlar.md](../
 |-------|-----|
 | [README.md](README.md) | Ana plan, mantık, Elite Plus |
 | [malzemeler.md](malzemeler.md) | İnternet tedarik: OEM blower, kit, BOM |
-| [usta-listesi.md](usta-listesi.md) | Kayseri / Ankara aday atölyeler + IG arama |
+| [usta-listesi.md](usta-listesi.md) | Kayseri / Ankara adaylar (yedek; DIY öncelikli) |
+| [diy-kurulum.md](diy-kurulum.md) | **Ana yol:** kendin kur adımları |
 
 ---
 
@@ -465,6 +466,7 @@ OEM görünüm istiyor musun?
 | 2026-07-22 | Öncelik: ventilated (Elite Plus ile aynı) | NX4 “soğutma” = fan, TED değil |
 | 2026-07-22 | Isıtma: sağlamsa koru; bozuksa açıkken yenile | Zorunlu upgrade değil |
 | 2026-07-22 | Deliksiz deri → perforasyon veya yeni kılıf şart | Fan tek başına yetmez |
+| 2026-07-22 | **DIY ana yol** | Kayseri usta/kılıfcıya güven yok; malzeme + kendin kur |
 
 ---
 

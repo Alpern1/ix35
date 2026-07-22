@@ -4,6 +4,14 @@
 > Tarih: 2026-07-22  
 > **Not:** “ix35 ventilated specialist” diye reklam eden yer az. Aşağıdakiler **aday** — hepsine aynı soruyu sor, referans foto iste.
 
+## Karar — Kayseri usta yolu (2026-07-22)
+
+**Yerel döşemeciye güvenilmiyor** (kılıf/dikiş odaklı; iç fan + OEM görünüm beklenmiyor).  
+**Asıl yol: malzeme bul → kendin kur (DIY).**  
+Ankara/İstanbul VIP atölye = isteğe bağlı Plan B (yol + pahalı); zorunlu değil.
+
+---
+
 ## Arayınca söyle
 
 ```

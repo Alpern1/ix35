@@ -1,7 +1,21 @@
 # Malzeme tedariki — kaliteli blower / kit
 
 > Soru: İnternetten OEM kalitesinde malzeme bulunur mu?  
-> Tarih: 2026-07-22
+> Tarih: 2026-07-22  
+> **Karar:** Kayseri usta yok sayılır → **DIY**. Malzeme internetten, iş sen.
+
+---
+
+## DIY öncelik (güncel)
+
+Yerelde doğru dürüst iç-fan montajı beklenmiyor. Yol:
+
+1. Kaliteli **embedded kit** sipariş (gümrük bilinçli) veya TR’de aracı satıcı  
+2. **Bir koltuk** ile öğren (şoför)  
+3. Ses/ok → ikinci koltuk  
+4. Deri delme: ya kendin şablonla, ya sadece “perforasyon” için tek sefer dışarı (kılıf diktirme değil)
+
+Bobin/MAP tecrübesi olan adam fan+kablo+sünger keser; asıl zor kısım **deri/dikiş** — onu minimal tut (mevcut kılıfı sök-tak, yeni kılıf diktirme).
 
 ---
 
