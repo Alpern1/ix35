@@ -9,7 +9,21 @@ Araç bilgisi: [araba/ozellikler.md](../../araba/ozellikler.md) · [araba/notlar
 
 ---
 
-## Kısa cevap
+## Önemli ayrım (senin asıl planın)
+
+**Uzaktan çalıştırma / uzaklaşınca kilit / telefondan kontrol** → fabrika beyninden “açılan gizli özellik” değil.  
+İnternette bunu yapanlar **aftermarket kutu** takıyor (StarLine, Pandora, Start-Stop TR, MyKeyPremium…). Bu repo’daki asıl plan da o:
+
+| Senin hedef | İnsanlar ne yapmış? | Repo |
+|-------------|---------------------|------|
+| Evden telefon + marş | StarLine/Pandora GSM, Fortin+LTE, DIY foto raporlar | [uzaktan-calisma-klima](../uzaktan-calisma-klima/) |
+| Uzaklaşınca kilit | MyKeyPremium / SST / GSM uygulamadan kilitle | [uzaklasinca-kilit](../uzaklasinca-kilit/) |
+
+Aşağıdaki “yazılım/kodlama” listesi **başka** dünya (chip, BCM auto-lock…). Otomatik kapı kilidi peşine düşülmeyecek.
+
+---
+
+## Kısa cevap (fabrika yazılımı)
 
 2012 ix35 **VW/BMW kadar “gizli özellik cenneti” değil**. Yine de üç ayrı dünyada yazılım işi var:
 
@@ -218,6 +232,8 @@ Bu **beyin yazılımı projesi değil**; ayrı proje konusu olabilir.
 |-------|-------|---------|
 | 2026-07-22 | Araştırma dosyası açıldı | “Yazılımla ne yapılır?” merakı |
 | 2026-07-22 | Sürekli vites göstergesi elendi | GSI tahmin; konum sensörü yok |
+| 2026-07-22 | Otomatik kapı kilidi peşine düşülmeyecek | Kullanıcı: lazım değil |
+| 2026-07-22 | Asıl hedef aftermarket (StarLine vb.) | Fabrika kodlama ile uzaktan marş/walk-away yok |
 
 ---
 
