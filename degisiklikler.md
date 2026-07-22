@@ -4,8 +4,10 @@
 
 ## 2026-07-22
 
+- **Yeni proje: koltuk soğutma** — `projeler/koltuk-sogutma/` (ventilated vs TED, OEM görünüm, TR yolları).
 - **Yeni proje: yazılım/kodlama araştırması** — `projeler/yazilim-kodlama/` (BCM auto-lock, chip MED17.9.8, SMK, multimedya ayrımı).
 - **GSI notu** — sürekli vites göstergesi fikri reddedildi (`araba/notlar.md`).
+- **Katlanır ayna** doğrulandı (`araba/ozellikler.md`).
 
 ## 2026-07-10
 

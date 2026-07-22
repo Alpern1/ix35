@@ -26,6 +26,7 @@ Detay: [NASIL-CALISIRIZ.md](NASIL-CALISIRIZ.md)
 | [projeler/uzaktan-calisma-klima/](projeler/uzaktan-calisma-klima/) | Uzaktan çalıştırma & klima (StarLine) |
 | [projeler/uzaklasinca-kilit/](projeler/uzaklasinca-kilit/) | Uzaklaşınca otomatik kilit |
 | [projeler/yazilim-kodlama/](projeler/yazilim-kodlama/) | Yazılım / kodlama / chip araştırması |
+| [projeler/koltuk-sogutma/](projeler/koltuk-sogutma/) | Koltuk soğutma / havalandırma (OEM) |
 
 Tam liste: [projeler/README.md](projeler/README.md)
 
