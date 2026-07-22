@@ -115,6 +115,42 @@ Isıtma çalışırken fan erimez: arada sünger var, yüzey ılık (sauna deği
 | Deri delikli değilse? | Delinir veya değişir — yoksa hava çıkmaz |
 | Minder gibi üstüne mi konur? | Hayır — **içine** gömülür, OEM gibi |
 
+### Fan sesi çıkmaz mı? (OEM nasıl sessiz tutuyor?)
+
+**Tamamen sessiz değil** — ama doğru sistemde motor/yol sesinin altında kalır; “bilgisayar fanı gibi vızıldama” olmamalı.
+
+#### Son model arabalar (Tucson Elite Plus dahil) nasıl yapıyor?
+
+| Yöntem | Ne işe yarar |
+|--------|----------------|
+| **Özel otomotiv blower** (ASPINA vb.) | Dengeli, düşük gürültülü fan — PC fanı değil |
+| **Koltuk süngerinin içine gömülü** | Ses yutar; dışarı az sızar |
+| **Düşük kademe RPM** | 1–2. kademe çok sessiz; 3. biraz daha duyulur |
+| **Titreşim yalıtımı** | Lastik/ped; metal iskelete titreşim basmaz |
+| **Kanal / diffuser tasarımı** | Rüzgâr ıslığı azalır |
+| Oturunca sünger basınca | Ses bir miktar daha kısılır |
+
+OEM lab değerleri kabaca **~49–57 dB(A)** fan başına (mesafe/koşula göre). Kabinde klima + yol sesi varken çoğu sürücü **fark eder ama rahatsız olmaz**; bazıları “açık mı emin değilim” der.
+
+#### Ucuz aftermarket neden gürültülü?
+
+- Bilgisayar/PC tipi fan, kötü denge  
+- Süngere sağlam oturtulmamış → titreşim  
+- Tek kademe full hız  
+- Açıkta / zayıf yalıtım  
+
+→ “Vızırtı” duyulur. Bu yüzden **kaliteli oto blower + usta montaj** şart; 200 TL’lik fan kiti ile OEM sessizliği beklenmez.
+
+#### Senin için gerçekçi beklenti
+
+| | |
+|--|--|
+| “Hiç ses duymayacağım” | Gerçekçi değil (OEM’de de mikro ses var) |
+| “Klima/yolda fark etmem, park halinde hafif uğultu” | **Hedef bu** — OEM benzeri |
+| Nasıl emin oluruz? | Montaj öncesi fanı dinlet; mümkünse Elite Plus Tucson’a oturup 2 dk dinle |
+
+Kural: Sessizlik istiyorsan **parça kalitesi + montaj** = soğutma kadar önemli.
+
 ---
 
 ## Tucson Elite Plus’ta ne var? (referans model)
