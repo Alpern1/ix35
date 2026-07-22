@@ -148,6 +148,65 @@ Ucuz olabilir; ömür/ses belirsiz. Deneme için, garanti yok.
 
 ---
 
+## 7) Çin dışı / Türkiye — gümrük istemiyorum
+
+### Gerçekçi tablo
+
+| Kaynak | ix35 için uygun mu? | Gümrük |
+|--------|----------------------|--------|
+| **TR’de hazır “ix35 ventilated kit” perakende** | **Neredeyse yok** | — |
+| **TR usta / döşemeci (montaj dahil paket)** | **En iyi TR yolu** | Sen ödemezsin; usta stokundan |
+| **TR’de satılan Waeco MagicComfort kılıf** | Var ama **minder/kılıf** — OEM iç montaj değil | Yok (TR stok) |
+| **Mercedes W206 orijinal ısıtma/soğutma** (~30k TL) | Sadece Mercedes’e | Yok ama **arabana uymaz** |
+| **Ender Elektronik Audi paneli** (72k+) | Audi odaklı, ix35 şüpheli | Yok ama pahalı/yanlış platform |
+| **AB / Almanya BMW retrofit kiti** | BMW’ye özel | TR’ye yine gümrük |
+| **Hyundai OEM blower ABD/EU** | Uyarlanır | Yine gümrük |
+
+Yani: Çin’den **sen** sipariş edince gümrük var. Avrupa’dan da var.  
+**Gümrüksüz** yol = **Türkiye’de zaten satılıp montaj yapılan** iş.
+
+### Türkiye’de ne satılıyor?
+
+**1) Waeco MagicComfort (Aes Tuning vb.)**  
+- Alman/Dometic marka koltuk **soğutucu kılıf** (çakmak 12V, 2 kademe)  
+- Link örneği: [aestuning.com.tr — Waeco MCS](https://www.aestuning.com.tr/waeco-magiccomfort-koltuk-sogutucu-kilif-mcs-20-mcs-10-)  
+- Artı: TR stok, gümrük yok, bilinen marka, görece sessiz fan iddiası  
+- Eksi: **Üstten kılıf** — senin “OEM görünsün, koltuk içine gömülü” hedefine uymaz  
+
+**2) Marka özel paketler (Mercedes vb.)**  
+- Örn. SNT Garage: Mercedes W206 orijinal koltuk ısıtma/soğutma ~**30.000 TL**  
+- DRS Tuning: W206 süngerli soğutma (stok değişken)  
+- Bunlar **o araca özel**; ix35’e takılmaz  
+
+**3) Döşemeci / tuning “koltuk soğutma montajı”**  
+- İstanbul/Ankara’da “sonradan koltuk havalandırma” yapan yerler var  
+- Malzemeyi **onlar** getirir (çoğu yine Çin menşeli kit), sana **TL fatura + işçilik** satar  
+- Sen gümrükle uğraşmazsın; fiyatın içinde ithalat payı olur  
+- Bu, gümrük korkusu için **en mantıklı TR modeli**
+
+**4) Sahibinden / yedek**  
+- “Koltuk soğutma fan” araması: çoğunlukla minder veya Mercedes parçası  
+- Hyundai ix35’e hazır universal embedded kit listesi **seyrek / yok**
+
+### Pratik öneri (gümrük istemiyorsan)
+
+```
+1. Kayseri + İstanbul/Ankara döşemeci / oto elektrik:
+   “Ön iki koltuk, mevcut ısıtma kalsın, delikli deri,
+    iç fan (minder değil), sessiz, anahtar OEM tarzı,
+    malzeme sizde, toplam TL fiyat”
+2. 2–3 yerden keşif + referans foto iste
+3. Fanı montajdan önce dinlet
+4. Waeco kılıf = sadece “geçici / ucuz dene” Plan C (OEM değil)
+```
+
+**Çin harici “kaliteli blower kutusu” TR raftında yok** denebilir.  
+Var olan TR ürünleri: (a) kılıf/minder, (b) Mercedes/Audi özel, (c) ustanın arkasındaki ithal kit.
+
+Avrupa’dan kendin getirmek gümrüğü **çözmez** — Çin’den farkı menşei; vergi yine çıkar.
+
+---
+
 ## Karar (şimdilik)
 
 | | |
