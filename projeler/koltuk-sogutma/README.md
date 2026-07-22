@@ -15,6 +15,7 @@ Araç: [araba/ozellikler.md](../../araba/ozellikler.md) · [araba/notlar.md](../
 |-------|-----|
 | [README.md](README.md) | Ana plan, mantık, Elite Plus |
 | [malzemeler.md](malzemeler.md) | İnternet tedarik: OEM blower, kit, BOM |
+| [usta-listesi.md](usta-listesi.md) | Kayseri / Ankara aday atölyeler + IG arama |
 
 ---
 
