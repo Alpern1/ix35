@@ -9,22 +9,84 @@ Araç: [araba/ozellikler.md](../../araba/ozellikler.md) · [araba/notlar.md](../
 
 ---
 
+## Tucson Elite Plus’ta ne var? (referans model)
+
+TR donanım listesinde Elite Plus: **“Koltuk Soğutma Sistemi (Ön)”** yazar.  
+Fabrika kullanım kılavuzu adı: **Air ventilation seat** — teknoloji:
+
+```
+Koltuk altı fan → sünger kanalları → yüzeydeki küçük delikler → üfleme
+```
+
+| Soru | Cevap |
+|------|--------|
+| Peltier / aktif soğutucu var mı? | **Hayır** (NX4 Tucson — ventilation) |
+| Ne yapıyor? | Kabin havasını deliklerden geçiriyor |
+| Klima açıkken? | Daha “soğuk” his — çünkü kabin havası soğuk |
+| Elite vs Elite Plus | Elite: ön+arka **ısıtma**; Elite Plus: + ön **soğutma/havalandırma** |
+
+Yani Hyundai’nin “soğutma” dediği şey = **ventilated (fan)**. Biz de aynı teknolojiyi hedefliyoruz — Genesis climate seat / TED değil.
+
+Kaynak: [2025 Tucson air ventilation seat](https://ownersmanual.hyundai.com/full_webhelp/NX4/2025/en_GN/id6511e4eba18.html) · [Hyundai TR donanımlar](https://www.hyundai.com/tr/tr/modeller/tucson/donanimlar.html)
+
+---
+
+## Biz nasıl yapacağız? (ix35 planı)
+
+Elite Plus ile **aynı mantık**, aftermarket parçayla:
+
+1. Koltuk kılıfını aç  
+2. Oturma + sırta **fan + kanal süngeri**  
+3. Deriyi **delikli** hale getir (veya delikli kılıf)  
+4. Anahtar: koltuk yanı OEM tarzı (ısıtma yanına 2. düğme veya kombine)  
+5. Mevcut **ısıtmayı koru** — matı kesme  
+
+```
+ix35 (şimdi)          →  hedef (Elite Plus benzeri)
+ısıtma ✅              →  ısıtma ✅ (aynı / yenilenmiş mat)
+düz deri (muhtemel)   →  delikli deri
+fan yok               →  fan + kanal
+```
+
+### Delikli değilse ne olur?
+
+Hava çıkamaz → fan sadece gürültü yapar. **Şart:**
+
+| Seçenek | Ne |
+|---------|-----|
+| **A — Mevcut deriyi del** | Makine ile düzenli perforasyon (döşemeci) — desen bozulmasın |
+| **B — Yeni delikli kılıf** | Daha temiz OEM görünüm, maliyet + dikiş |
+
+Önce koltuğa bak / foto: gerçekten düz mü, yoksa ince delik var mı?
+
+### Isıtmayı da günceller miyiz? (koltuk açıkken)
+
+| Durum | Ne yap |
+|-------|--------|
+| Isıtma iyi çalışıyor | **Koruyarak** devam et — matı sökmeye gerek yok; fan süngeri matın altına/üstüne doğru katmanda |
+| Mat yaşlı, tek taraf ısıtmıyor, yanık kokusu | Açıkken **yeni ısıtma matı** tak (mantıklı) |
+| “Daha hızlı/güçlü ısıtma” merakı | Gerekmez — fabrika matı yeterli; asıl iş ventilasyon |
+| TED’li klima koltuğu kit | Eski ısıtma matı **çıkarılır**, TED hem ısıtır hem soğutur — Elite Plus yolu **değil**, pahalı |
+
+**Pratik karar:** Koltuk açıkken ısıtmayı **kontrol et**. Sağlamsa dokunma; bozuk/zayıfsa aynı işte yenile. “Güncelleme” = opsiyonel bakım, ventilasyonun parçası değil.
+
+Dikkat: Isıtma matı ile fan aynı yerde çakışırsa usta sırayı bilir — mat delinirse o bölge ısınmaz / kısa yapar.
+
+---
+
 ## Kısa hüküm
 
 **Yapılabilir.** 2012 ix35’te fabrika ventilated seat yok; aftermarket / döşemeci ile ekleniyor.  
 “OEM gibi” istiyorsan **koltuk kılıfı / minder değil** — koltuğun içine fan + delikli yüzey + gizli anahtar.
 
-Ama dil önemli: Çoğu insanın “koltuk soğutma” dediği şey aslında **havalandırma (ventilated)**. Gerçek **soğutulmuş hava (cooled / climate seat)** daha pahalı ve nadir.
+Hedef teknoloji = **Tucson Elite Plus ile aynı: fanlı havalandırma (ventilated)**, Peltier değil.
 
-| | Ventilated (yaygın) | Cooled / Climate (premium) |
-|--|---------------------|----------------------------|
-| Ne yapar | Kabin havasını koltuktan geçirir; teri kurutur | Havayı **aktif soğutur** (Peltier) |
+| | Ventilated (= Elite Plus “soğutma”) | Cooled / Climate (TED) |
+|--|-------------------------------------|-------------------------|
+| Ne yapar | Kabin havasını koltuktan geçirir | Havayı **aktif soğutur** (Peltier) |
 | His | Serinlik / kuruluk | Gerçekten daha soğuk hava |
-| Güncel araçlarda | Çoğu SUV/sedan “ventilated” | Genesis, lüks, bazı üst Hyundai |
-| ix35 retrofit | **En gerçekçi OEM yolu** | Mümkün ama pahalı / güçlü / zor |
-| TR’de isim | “Koltuk soğutma” diye satılır | Gerçek TED’li paket az |
-
-**Öneri (senin araç + OEM hedef):** Önce **ventilated (fan)** düşün. Gerçek Peltier ancak bütçe ve beklenti çok yüksekse.
+| Tucson Elite Plus | **Bu** | Yok |
+| ix35 retrofit | **Bizim yol** | Gerekmez / pahalı |
 
 ---
 
@@ -219,7 +281,9 @@ OEM görünüm istiyor musun?
 | Tarih | Karar | Gerekçe |
 |-------|-------|---------|
 | 2026-07-22 | Araştırma açıldı | OEM görünümlü koltuk soğutma merakı |
-| 2026-07-22 | Öncelik adayı: ventilated | Gerçekçi, OEM hissi, maliyet/fayda |
+| 2026-07-22 | Öncelik: ventilated (Elite Plus ile aynı) | NX4 “soğutma” = fan, TED değil |
+| 2026-07-22 | Isıtma: sağlamsa koru; bozuksa açıkken yenile | Zorunlu upgrade değil |
+| 2026-07-22 | Deliksiz deri → perforasyon veya yeni kılıf şart | Fan tek başına yetmez |
 
 ---
 
