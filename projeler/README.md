@@ -21,6 +21,7 @@
 | [uzaklasinca-kilit/](uzaklasinca-kilit/) | Uzaklaşınca otomatik kilit (walk-away) | 📋 Planlama | Orta |
 | [yazilim-kodlama/](yazilim-kodlama/) | Yazılım / BCM kodlama / chip — ne yapılabilir? | 💡 Fikir | Orta |
 | [koltuk-sogutma/](koltuk-sogutma/) | Koltuk soğutma / havalandırma (OEM görünüm) | 💡 Fikir | Orta |
+| [haftasonu-fikirler/](haftasonu-fikirler/) | Hafta sonu: işe yarar DIY fikir havuzu | 💡 Fikir | Yüksek |
 
 Her klasörde **`README.md`** = ana proje dosyası. Diğer `.md` dosyaları o projeye özel destek dokümanlarıdır.
 
