@@ -34,6 +34,7 @@
 | Koltuk ısıtma | Var |
 | LPG sistemi | Prins marka |
 | Otomatik katlanır ayna | **Var** — kilitleyince katlanıyor (2026-07-22 doğrulandı) |
+| Multimedya | Aftermarket **Android teyp** (marka/model netleşecek — yan kamera projesi) |
 
 ## Mevcut Durum
 

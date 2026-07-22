@@ -1,107 +1,46 @@
-# Hafta sonu fikirleri — detaylı (güncel sohbet)
+# Hafta sonu fikirleri — durum (2026-07-22)
 
-> Araç: 2012 ix35 · Android teyp var · bagajda LPG tüpü · DIY  
-> 2026-07-22
-
----
-
-## Senin notların → güncel durum
-
-| Fikir | Durum |
-|-------|--------|
-| Dashcam / 360 / Android’de yan görüş | Netleştirildi aşağıda |
-| Bagaj düzen | **İptal** — tüp yanı zaten dolu |
-| Kapı yalıtımı | Davlumbaz şart mı? → hayır, kapı yeter başlangıç |
-| USB-C PD | Sök-tak mı adaptör mü? → aşağıda |
-| Akü “priz” | Ev prizi değil → düz anlatım aşağıda |
+> Araç: 2012 ix35 · Android teyp · bagajda LPG tüpü · DIY
 
 ---
 
-# 1) Kamera işi — üç ayrı şey karışmasın
+## Skor tablosu
 
-| | Dashcam | Android’e yan kamera | 360 kuş bakışı |
-|--|---------|----------------------|----------------|
-| Ne | Sürekli **kayıt** (ön±arka) | Manevrada **canlı** sağ/sol | 4 kamera birleşik üstten bakış |
-| Nerede izlersin | Kendi ekranı / app | **Senin Android teyp** | Android (360 app şart) |
-| Fiyat | 3–8k TL | Kamera+kablo ~1–4k TL | Ucuz kit ~50–200$; düzgün 500–600$ |
-
-### Senin cümlen
-> Android ekrana bağlayıp sağı solu görmek
-
-Bu **dashcam değil**. Android teybin kamera girişine (AHD/AV) **sağ + sol kamera** bağlamak.
-
-- 500–600$ 360 **şart değil** (kuş bakışı birleştirme o yüzden pahalı).  
-- Ucuz Çin 360 var ama teypte “360” uygulaması/modül olmalı; kalibrasyon uğraştırır, kalite değişken.  
-- **Pratik DIY:** Sağ + sol AHD kamera (ayna altı / kapı altı) + geri kamera → park/manevrada sağı solu görürsün.  
-- **Kayıt** ayrı ihtiyaçsa: küçük dashcam ayrıca (Android kapalıyken de kaydeder).
-
-Önce Android teypte bak: geri kamera girişi var mı, ek “front/left/right” veya 360 app var mı?
+| # | Fikir | Durum | Not |
+|---|--------|--------|-----|
+| 1 | Android’de sağ/sol kamera | **Aktif proje** | → [`../android-yan-kamera/`](../android-yan-kamera/) |
+| 2 | Kapı ses yalıtımı | **Kenarda** | “Belki yaparım, haber ederim” |
+| 3 | USB-C gömme | **İptal (şimdilik)** | Gerek yok |
+| 4 | Akü bakıcı / “priz” | **İptal / yanlış öneri** | Aşağıda dümdüz anlatım |
+| — | Bagaj düzen | **İptal** | Tüp yanı dolu |
 
 ---
 
-# 2) Bagaj düzen — iptal
+## 4 neydi, neden saçma geldi? (haklısın)
 
-Stepne yerinde tüp; sağı soluna her şey + kamp sandalyesi girmiş. Extra organizer gerekmez.
+**Akü bakıcı =** evde prize takılan küçük kutu. Arabayı “hızlı şarj” etmez. Haftalarca duran / aküsü biten arabayı **yavaş yavaş** dolu tutmak için.
 
----
+Kim kullanır?
+- Araba günlerce/haftalarca hiç çalışmıyorsa  
+- Smart Key / alarm / dashcam park modu aküyü bitiriyorsa  
 
-# 3) Ses yalıtımı — sadece kapı?
+**Sende:** Evde bakıcı yok. Akü bitiyor demedin. O zaman **evden arabayı şarj etmek diye bir iş yok** — öneri senin hayatına uymuyordu.
 
-**Evet, sadece kapı da işe yarar.** Davlumbaz zorunlu değil.
+“Arabaya priz” derken kastedilen de mutfak 220V prizi değildi; bakıcıyı pensesiz takmak için 12V fiş. Bakıcı olmayınca fişin de anlamı yok.
 
-| Bölge | Ne azaltır | Zorluk |
-|-------|------------|--------|
-| Kapı | Yan/rüzgâr/teneke sesi | Hafta sonu DIY |
-| Davlumbaz | Yol/çakıl/lastik | Daha zor, sonra |
-
-“Davlumbaz yapmadan başlamayayım” engeli yanlış.  
-Öneri: **ön 2 kapı** → beğenirsen arka → hâlâ rahatsızsa davlumbaz.
+→ **Kapattık.** Akü bir gün sürekli düşerse o zaman konuşulur; şimdi alma.
 
 ---
 
-# 4) USB-C PD — ne oluyor?
+## 2 — Kapı yalıtımı (kenarda)
 
-| Yol | Ne yaparsın | Sonuç |
-|-----|-------------|--------|
-| **A** | Çakmağa USB-C adaptör tak | Sökme yok; kablo ortada; zayıf “proje” |
-| **B** | Çakmak kovanını sök → aynı yere USB-C panel soket | Konsolda USB-C deliği; temiz |
-| **C** | Çakmak kalsın, yanına ek USB-C deliği | İkisi birden |
-
-“Direkt alet takıp USB mu?” = **Yol A** (adaptör).  
-Kalıcı/güzeli = **Yol B** (çakmağın yerine gömülü USB-C; arkada aynı ACC kabloları).
+Davlumbaz şart değil; sadece ön kapı da fark eder.  
+Sen “yaparsam haber ederim” dedin → proje klasörü **açılmadı**. Haber gelince açılır.
 
 ---
 
-# 5) Akü bakım prizi — ev prizi DEĞİL
+## 1 — Kamera (devam)
 
-### Yanlış
-Arabaya 220V mutfak prizi takmak. Yok.
+Derinleştirildi: [`../android-yan-kamera/`](../android-yan-kamera/)
 
-### Doğru
-Evde küçük bir **akü bakıcı** var (CTEK vb.). Fişi eve (220V), diğer uç 12V ile aküyü yavaş doldurur.
-
-Zahmet: Her seferinde kaput + aküye timsah pensesi.
-
-**Sabit bakım prizi:** Aküye bağlı, kaput yanında küçük **12V fiş**.  
-Bakıcının ucunu pensesiz bu fişe takarsın.
-
-```
-Ev prizi 220V → [Bakıcı cihaz] → fiş → [Arabadaki sabit 12V soket] → akü
-```
-
-- Şarj eden: bakıcı (evde)  
-- Arabaya eklenen: sadece kolay bağlantı soketi  
-
-**Voltmetre:** Kabinde “kaç volt?” — akü bitiyor mu, motor çalışınca şarj var mı görürsün.  
-Smart Key + LPG beyni araba kapalıyken aküyü yer; dashcam park modu da yer → bu yüzden alaka.
-
----
-
-# Güncel adaylar
-
-1. **Android’e sağ/sol kamera** (± ayrıca ucuz dashcam)  
-2. **Kapı ses yalıtımı** (önce kapı)  
-3. **USB-C gömme (Yol B)**  
-4. **Akü fişi + voltmetre** (istersen)
-
-Hangisini derinleştirelim?
+**Senden tek şey:** Android teyp marka/model + mümkünse arka soket / kamera ayarları foto. Ona göre AHD mi, kaç giriş netleşir.
