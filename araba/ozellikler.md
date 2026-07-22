@@ -33,7 +33,7 @@
 | Klima | Otomatik |
 | Koltuk ısıtma | Var |
 | LPG sistemi | Prins marka |
-| Otomatik katlanır ayna | _henüz doğrulanmadı_ |
+| Otomatik katlanır ayna | **Var** — kilitleyince katlanıyor (2026-07-22 doğrulandı) |
 
 ## Mevcut Durum
 
@@ -47,4 +47,4 @@
 
 ---
 
-*Son güncelleme: 2026-07-09 — Donanım detayları eklendi (smart key, otomatik klima, Prins LPG, koltuk ısıtma)*
+*Son güncelleme: 2026-07-22 — Otomatik katlanır ayna doğrulandı*
