@@ -72,6 +72,33 @@ Hava çıkamaz → fan sadece gürültü yapar. **Şart:**
 
 Dikkat: Isıtma matı ile fan aynı yerde çakışırsa usta sırayı bilir — mat delinirse o bölge ısınmaz / kısa yapar.
 
+### Fanlar nereye? Isıtma eritir mi?
+
+**Hayır — doğru katmanda fan ısıtmanın “üstüne yapışık” olmaz.** Elite Plus’ta da ikisi aynı koltuktadır.
+
+Katman (yukarıdan aşağı, tipik OEM / doğru retrofit):
+
+```
+1. Delikli deri
+2. İnce spacer / mesh (hava yayıcı)
+3. Isıtma matı  ← senin mevcut matın burada kalır (hava geçirgen olmalı / delikli)
+4. Kanal süngeri / reticulated foam
+5. Ana sünger (içinden dikey hava delikleri)
+6. FAN  ← süngerin ALTINDA veya sünger içi oyukta, koltuk iskeletine yakın
+7. Koltuk iskeleti / ray
+```
+
+| Endişe | Gerçek |
+|--------|--------|
+| Isıtma fanı eritir mi? | Koltuk yüzeyi ~35–45°C (termostatlı). Fan plastik bu sıcaklıkta erimez; fan **matın yanında değil, altında**. |
+| Aynı anda açılırsa? | Yazın soğutma, kışın ısıtma — ikisi birden nadiren; yine de OEM’de birlikte tasarlanır. |
+| Mat havayı keser mi? | Düz, deliksiz kalın mat keser → ventilated için **hava geçirgen / delikli mat** veya matta delik hizası gerekir. |
+| Yanlış montaj | Fanı matın hemen altına sıkıştırmak, matı kesip kısa yapmak — usta hatası. |
+
+**Pratik:** Fan = koltuğun **altında / sünger oyuğunda**. Isıtma = derinin hemen **altında**. Aralarında sünger + kanal var. Birbirini yakmazlar.
+
+Senin düz (muhtemel) ısıtma matın hava geçirmiyorsa usta ya matta hizalı delik açar ya da ventilated uyumlu ince karbon mat ile değiştirir — “fanı ısıtmanın üstüne koyma” değil.
+
 ---
 
 ## Kısa hüküm
