@@ -9,6 +9,15 @@ Araç: [araba/ozellikler.md](../../araba/ozellikler.md) · [araba/notlar.md](../
 
 ---
 
+## Bu projenin dosyaları
+
+| Dosya | Ne |
+|-------|-----|
+| [README.md](README.md) | Ana plan, mantık, Elite Plus |
+| [malzemeler.md](malzemeler.md) | İnternet tedarik: OEM blower, kit, BOM |
+
+---
+
 ## Basit anlatım — terleyen bel/sırt/göt (önce bunu oku)
 
 ### Senin sorun ne?
