@@ -1,72 +1,35 @@
-# Stokta olanlar — canlı doğrulama
+# Stok / alış — güncel
 
-> Kontrol: **2026-07-25** · Kaynak: Amazon.com.tr / satıcı sayfası  
-> **Yeni kural:** Form faktörü (“ince kaset”) için ürün fotoğrafı şart → [gorsel-dogrulama.md](gorsel-dogrulama.md)  
-> Fiyat/stok sipariş anında değişir.
-
----
-
-## Ön cam — sabit ince kaset
-
-### Hedef sınıf (fotoğraflı referans, şu an stoksuz)
-
-| | |
-|--|--|
-| Ürün | **Baseus Auto Close** 64 cm (CRZYD-B0S) |
-| Link | https://www.parcabayisi.com/urun/baseus-auto-close-arac-on-cam-guneslik-otomatik-geri-cekilebilir-64cm |
-| Stok | **Gelince haber ver** (satın alınamaz) |
-| Fiyat | ~517 TL (sayfa) |
-| Fotoğraf | **Var** — ince metal tüp + vantuz; kapalıyken A sütunu kenarı |
-| Not | Bu, “ince sabit ön kaset” derken kastedilen şey. Stok gelmeden sipariş yok. Ralf / aynı aile alternatiflerini **fotoğrafa bakarak** ara. |
-
-### Elenen / geri çekilen
-
-| ASIN | Neden |
-|------|--------|
-| https://www.amazon.com.tr/dp/B0H8ZTSLP5 | Başlıkta “makaralı”; **ürün görseli yok**. İnce kaset denemez. Stok olsa bile öneri değil. |
-
-### Tak-çıkar paneller (senin “sabit” şartına uymaz — sadece stok notu)
-
-MallArt 150×70, metalize balonlu, Romofy, şemsiye tipi — fotoğraflı ve çoğu stoklu ama **her parkta tak-çıkar**. Bu projede ön çözüm değiller.
+> **2026-07-26:** Yan karar değişti → delikli mesh. Opak makara yan listeden düştü.  
+> Detay: [yan-mesh-karar.md](yan-mesh-karar.md)
 
 ---
 
-## Yan cam (park örtüsü) — fotoğraflı makara
+## Yan cam — kilitli (mesh / çerçeve)
 
-### 1) CARUB otomatik makaralı 2’li — 36×45 cm ✅ fotoğraf doğrulandı
-
-| | |
-|--|--|
-| Link | https://www.amazon.com.tr/dp/B0F9FHNBGX |
-| Stok | Son kontrolde sepete eklenebiliyordu (az adet olabilir) |
-| Fiyat | ~799 TL (2’li) |
-| Montaj | Vantuz; kaset **üst kenar** |
-| Fotoğraf | **Var** — ince üst tüp + siyah perde (2 adet) |
-| Not | 4 cam için **2 paket**. 36 cm geniş — ix35 arka camda dar kalabilir, ölç. |
-
-### 2) Buffer 50×125 cm — ihtiyatlı
+TR Amazon’da ix35 özel Car Shades yok sayılır. EU sipariş:
 
 | | |
 |--|--|
-| Link | https://www.amazon.com.tr/dp/B07DXQP9Y2 |
-| Açıklama | Metinde “makaralı + vantuz” |
-| Risk | Başlıkta “katlanabilir”; bu turda görsel teyit zayıf |
-| Kullan | **Ancak** sayfada net makara/tüp fotoğrafı görürsen; yoksa Carub’u tercih et |
+| Öneri | Car Shades ix35 2010–2015 **arka yan 2’li** |
+| Fiyat | ~66–77 € |
+| Örnek | https://www.carshades.de/Sonnenschutz-fuer-Hyundai-ix35-BJ-2010-2015-Blenden-2-teilig-hintere-Tueren |
+| Alternatif | https://www.amazon.com.be/dp/B07NQQNM46 · CarParts-Expert |
+| Cam | ✅ çerçeve klipsi |
+| Malzeme | Delikli file (içeriden görünür) |
 
-### 3) MallArt akordeon vantuzlu — fotoğraflı ama makara değil
-
-| | |
-|--|--|
-| Link | https://www.amazon.com.tr/dp/B0H6M798L6 |
-| Fotoğraf | **Var** — akordeon katlanır (ön camda da gösterilmiş) |
-| Not | Makaralı ince kaset **değil**. Farklı mekanizma; istersen ayrı dene, “stor” değil. |
+Mıknatıs istersen: Trokot / Snap Shades ix35 — [yan-mesh-karar.md](yan-mesh-karar.md).
 
 ---
 
-## Özet paket (dürüst)
+## Ön cam — hâlâ açık
 
-| Bölge | Bugün ne yapılır |
-|------|------------------|
-| **Ön** | Baseus sınıfı stok bekle / başka satıcıda **aynı tüp fotoğraflı** ilan bul. Görselsiz Amazon jeneriğine güvenme. |
-| **Yan** | Carub 2’li ×2 — fotoğraf + (stok varsa) alınabilir aday |
-| **Alma** | Görselsiz “makaralı” ilanlar; raylı/vidalı perdeler; klasik katlanır karton/şemsiye (ön sabit hedefiyle çelişir) |
+Baseus Auto Close sınıfı (fotoğraflı ince tüp); stok gelince. Görselsiz Amazon jeneriği yok.
+
+Tak-çıkar paneller sabit şartına uymaz — yan mesh’ten bağımsız konu.
+
+---
+
+## Elenen (yan için)
+
+Carub / Buffer vantuzlu opak makara — cama yapışır + opak; senin mesh + cam serbest hedefinle uyumsuz.
