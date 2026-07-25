@@ -1,13 +1,13 @@
 # Cam stor / park güneşliği (ön + yan)
 
-> Katlanır karton güneşlik yerine: parkta kullanılan, sade roller/stor. Sadece park — sürüşte kapalı.
+> Motorsuz, basit, kaba durmayan roller/stor. Sadece park. Ön + dört yan.
 
 ## Durum
 
-- **Durum:** 📋 Planlama (araştırma tamam — seçim bekleniyor)
+- **Durum:** 📋 Planlama — yön kilitlendi, ölçü/sipariş sırada
 - **Öncelik:** Orta
-- **Tahmini bütçe:** Ön ~500–4.000+ TL · Yan ~300–1.500 TL (kaliteye göre)
-- **Zorluk:** Kolay–Orta (deliksiz montajlar DIY)
+- **Tahmini bütçe:** ~800–3.000 TL (TR, motorsuz paket)
+- **Zorluk:** Kolay
 - **Oluşturulma:** 2026-07-25
 - **Son güncelleme:** 2026-07-25
 
@@ -15,56 +15,43 @@
 
 [araba/ozellikler.md](../../araba/ozellikler.md) · [araba/notlar.md](../../araba/notlar.md)
 
-- 2012 ix35 · katlanır ayna var
-- Kullanım: **sadece park**
-- Kapı plastiğine vida/delik **istenmiyor**
-
 ## Motivasyon
 
-Klasik katlanır ön cam güneşliğinden nefret. Arka cam OEM stor gibi sabit hissi veren, göze batmayan çözüm. Ön şart; yan da merak edildi.
+Katlanır karton güneşlik istemiyor. Motor/otomatik istemiyor. Basit ve iş gören, kötü durmayan — ön ve yanlar.
 
 ## Hedef
 
-Parkta ön (+ isteğe yan) camları örtmek; sürüşte tamamen açık / görüşü bozmayan montaj. Kapı kartına zarar yok.
+Parkta ön + yan camlar örtülü; sürüşte toplanmış; kapı plastiğine vida yok.
 
-## Araştırma özeti
+## Kilitli paket
 
-Detay: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
+→ Detay: [onerilen-yol.md](onerilen-yol.md)
 
-| Bölge | Gerçekçi yol | Montaj | Kapıya zarar? |
-|-------|--------------|--------|---------------|
-| **Ön** | A) Yan–yan çekmeli roller (kaset yolcu direğinde) | Cama 3M braket | Hayır (cama yapışır) |
-| **Ön** | B) Alt/üst vantuzlu “otomatik geri sarımlı” universal | Vantuz | Hayır |
-| **Ön** | C) Custom katlanır panel (ix35 2010–15 var) | Siperlik + yerleştir | Hayır — ama **nefret edilen tip** |
-| **Yan** | Vantuzlu / sıkıştırma ayaklı makaralı stor | Cama veya cam üst kenara | Hayır |
-| **Yan** | Cam lastiğine / üst kenara kanca | Deliksiz | Hayır |
+| Bölge | Ürün | Montaj |
+|------|------|--------|
+| Ön | Manuel geri sarımlı, **siyah/gri ince kaset** | Vantuz (önce) veya cama braket |
+| Yan ×4 | Manuel makaralı stor, **siyah** | Vantuz / üst kenar sıkıştırma |
 
-**OEM tarzı “tavandan aşağı inen motorlu ön cam perde”** ix35’te hazır kit olarak yok (Tesla vb. modele özel ürünler var). Ev tipi perde mekanizması arabaya uydurmak DIY cehennemi — peşine düşülmeyecek.
+Araştırma arka planı: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
 
-### Yön: yukarı–aşağı vs sağ–sol
-
-| | Ön cam | Yan cam |
-|--|--------|---------|
-| Yukarı–aşağı | Vantuzlu roller’larda sık; kaset altta veya üstte | Klasik yan stor |
-| Sağ–sol (yolcu→sürücü) | Kaliteli “retractable shade” (Dash Designs tipi) tam böyle | Nadir / anlamsız |
-
-Ön camda **sağ–sol roller aslında görüşü ortadan ikiye bölen perde değil** — parkta tüm camı örter, sürüşte kaset dar şerit olarak A sütunu yanında durur. Kullanıcı endişesi (“görüş engeller mi?”) **sadece açık unutulursa** geçerli; kural: motor çalışmadan önce topla.
-
-## Kararlar (şimdilik)
+## Kararlar
 
 | Tarih | Karar | Gerekçe |
 |-------|-------|---------|
-| 2026-07-25 | Sadece park | Sürüşte ön cam örtü yasak/tehlikeli |
+| 2026-07-25 | Sadece park | Sürüşte ön örtü yok |
 | 2026-07-25 | Kapıya vida yok | Kullanıcı şartı |
-| 2026-07-25 | Custom katlanır panel hedef değil | Nefret edilen sınıf |
-| 2026-07-25 | Motorlu OEM ön perde peşine düşülmeyecek | ix35’e hazır yok; pahalı/zor |
+| 2026-07-25 | **Motor / otomatik yok** | İstenmiyor; gerek de yok |
+| 2026-07-25 | Ön + yanlar (4) | Kullanıcı netleştirdi |
+| 2026-07-25 | Görünüm: siyah ince kaset; gümüş çadır / bebek file yok | Kaba durmasın |
+| 2026-07-25 | Katlanır panel hedef değil | Nefret edilen sınıf |
+| 2026-07-25 | İlk deneme: vantuzlu manuel ön + makaralı yan | Ucuz, sökülür, iade kolay |
 
-## Açık sorular (seçim için)
+## Açık (sipariş öncesi)
 
-- [ ] Öncamda öncelik: **kalıcı ince kaset** (3M cama) mi, **tamamen sökülebilir vantuz** mu?
-- [ ] Yan cam: sadece arka 2 mi, dört yan mı?
-- [ ] Görünüm: gümüş yansıtıcı (daha serin) mi, siyah (daha sade iç görünüm) mi?
+- [ ] Ön cam iç ölçü (genişlik × yükseklik)
+- [ ] Yan cam ölçü (en az bir arka kapı)
+- [ ] Ürün link shortlist (ölçü gelince)
 
 ## Sonraki adım
 
-Kullanıcı seçim yapınca: ölçü + TR/yurt dışı ürün shortlist + tek kapı / ön cam deneme checklist.
+Ölçü → siyah manuel set sipariş → bir kapı + ön deneme.

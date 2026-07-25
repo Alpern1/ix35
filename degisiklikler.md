@@ -5,6 +5,7 @@
 ## 2026-07-25
 
 - **Yeni proje: cam-stor-guneslik** — Park-only ön+yan cam stor/roller araştırması (`on-cam.md`, `yan-cam.md`). Kapıya vida yok; katlanır panel hedef değil.
+- **Cam stor yön kilit** — motorsuz; ön + 4 yan; siyah ince kaset; `onerilen-yol.md`.
 
 ## 2026-07-22
 
