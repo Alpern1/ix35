@@ -49,6 +49,7 @@ Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
 | 2026-07-25 | Görünüm: siyah ince kaset; gümüş çadır / bebek file yok | Kaba durmasın |
 | 2026-07-25 | Katlanır panel hedef değil | Nefret edilen sınıf |
 | 2026-07-25 | İlk deneme: vantuzlu manuel ön + makaralı yan | Ucuz, sökülür, iade kolay |
+| 2026-07-25 | **Ön = MallArt panel; yan = Buffer makara** | Vantuz ön görünümü reddedildi; stoklu Amazon; ısı + sürüşte boş cam öncelik |
 
 ## Açık (sipariş öncesi)
 
@@ -56,19 +57,19 @@ Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
 - [ ] Yan cam ölçü (en az bir arka kapı)
 - [ ] Ürün link shortlist (ölçü gelince)
 
-## Son öneri (2026-07-25 — stoklu Amazon TR)
+## Son öneri (düzeltildi — sabit kalacak)
 
 | Bölge | Öneri | Link | Neden |
 |-------|--------|------|--------|
-| **Ön** | MallArt 150×70 katlanır yansıtıcı panel | https://www.amazon.com.tr/dp/B0H2B9S33G | Vantuz/kaset yok → sürüşte fazlalık yok; ısı kesimi iyi; stokta; kapıya zarar yok |
-| **Yan** | Buffer makaralı 50×125 (önce arka 2, sonra ön 2) | https://www.amazon.com.tr/dp/B07DXQP9Y2 | Stokta; ucuz deneme; makaralı opak; üst kenara koyunca daha az yama |
+| **Ön** | **58×125 PVC makaralı** (sabit ince kaset, cama vantuz) | https://www.amazon.com.tr/dp/B0H8ZTSLP5 | Parkta çek / sürüşte kaset kenarda kalır — **tak-çıkar yok**; stokta |
+| **Yan** | Buffer 50×125 makaralı — kaset **cam üst kenarında** sabit | https://www.amazon.com.tr/dp/B07DXQP9Y2 | Aşağı çek / yukarı sar; cam inip çıksın diye perde toplanır; stokta |
 
-Yedek ön: Romofy 150×70 (`B0D2Y3CMS8`). Yedek yan: Carub 2’li (`B0F9FHNBGX`, az stok / dar olabilir).
+**Önceki hata:** MallArt panel önerisi yanlıştı — kullanıcı sabit istemişti, tak-çıkar istememişti.
 
-Detay gerekçe: [stokta-olanlar.md](stokta-olanlar.md) · karar notu aşağıda.
+Kullanım anlatımı: [kullanim-on-yan.md](kullanim-on-yan.md)
 
 ## Sonraki adım
 
-1. Ön: MallArt 150×70 sipariş + 1 park günü test  
-2. Yan: Buffer ×2 (arka) → üst kenar montaj → beğenince +2  
-3. Kapalı/açık foto; beğenmezsen iade
+1. Ön: 58×125 → yolcu kenarına ince kaset sabitle  
+2. Yan: Buffer ×2 arka → kaset üste  
+3. Test: kapalı görünüm + cam açma + kapı kapanma
