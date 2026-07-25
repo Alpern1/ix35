@@ -56,9 +56,19 @@ Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
 - [ ] Yan cam ölçü (en az bir arka kapı)
 - [ ] Ürün link shortlist (ölçü gelince)
 
+## Son öneri (2026-07-25 — stoklu Amazon TR)
+
+| Bölge | Öneri | Link | Neden |
+|-------|--------|------|--------|
+| **Ön** | MallArt 150×70 katlanır yansıtıcı panel | https://www.amazon.com.tr/dp/B0H2B9S33G | Vantuz/kaset yok → sürüşte fazlalık yok; ısı kesimi iyi; stokta; kapıya zarar yok |
+| **Yan** | Buffer makaralı 50×125 (önce arka 2, sonra ön 2) | https://www.amazon.com.tr/dp/B07DXQP9Y2 | Stokta; ucuz deneme; makaralı opak; üst kenara koyunca daha az yama |
+
+Yedek ön: Romofy 150×70 (`B0D2Y3CMS8`). Yedek yan: Carub 2’li (`B0F9FHNBGX`, az stok / dar olabilir).
+
+Detay gerekçe: [stokta-olanlar.md](stokta-olanlar.md) · karar notu aşağıda.
+
 ## Sonraki adım
 
-1. Ön cam + 1 arka yan ölçü  
-2. Ön: Baseus/eşdeğer 64 cm sınıfı dene  
-3. Yan: siyah makaralı (üste montaj) önce arka 2  
-4. Kapalı/açık foto ile “yama mı?” kontrol
+1. Ön: MallArt 150×70 sipariş + 1 park günü test  
+2. Yan: Buffer ×2 (arka) → üst kenar montaj → beğenince +2  
+3. Kapalı/açık foto; beğenmezsen iade
