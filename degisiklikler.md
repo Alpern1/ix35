@@ -2,6 +2,26 @@
 
 > Plan veya kayıtlarda yapılan önemli değişiklikler. "Neden değişti?" sorusunun cevabı burada.
 
+## 2026-07-25
+
+- **Yeni proje: cam-stor-guneslik** — Park-only ön+yan cam stor/roller araştırması (`on-cam.md`, `yan-cam.md`). Kapıya vida yok; katlanır panel hedef değil.
+
+## 2026-07-22
+
+- **Yeni proje: android-yan-kamera** — Android teypte sağ/sol canlı görüş; 360 değil. `nasil-yapilir.md` + malzemeler.
+- **Hafta sonu fikirleri sadeleşti** — kamera aktif; kapı yalıtımı kenarda; USB-C iptal; akü bakıcı fikri iptal (evde bakıcı yok, akü sorunu yok).
+- **Yeni proje: koltuk soğutma** — `projeler/koltuk-sogutma/` (ventilated vs TED, OEM görünüm, TR yolları).
+- **Yeni proje: yazılım/kodlama araştırması** — `projeler/yazilim-kodlama/` (BCM auto-lock, chip MED17.9.8, SMK, multimedya ayrımı).
+- **GSI notu** — sürekli vites göstergesi fikri reddedildi (`araba/notlar.md`).
+- **Katlanır ayna** doğrulandı (`araba/ozellikler.md`).
+
+## 2026-07-10
+
+- **Repo klasörlere ayrıldı** — `projeler/uzaktan-calisma-klima/`, `projeler/uzaklasinca-kilit/`, `projeler/_sablon/`; her proje kendi klasöründe, `README.md` = ana dosya.
+- **Çoklu proje yapısı** — `NASIL-CALISIRIZ.md`, `araba/README.md`, `.cursor/rules/ix35-repo.mdc`.
+
+## 2026-07-10 (önceki)
+
 ## 2026-07-09
 
 - **Telefon-only ritüel düzeltildi** — Kumanda START 2.5 sn adımı kaldırıldı; StarLine program nötr + telefondan silahlanma akışı yazıldı.

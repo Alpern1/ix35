@@ -9,22 +9,38 @@
 - **Tahmini bütçe:** Kurulum dahil ~10.000–25.000+ TL (Türkiye, kaliteye göre değişir)
 - **Zorluk:** Zor (manuel vites + LPG + eski model)
 - **Oluşturulma:** 2026-07-09
-- **Son güncelleme:** 2026-07-09
+- **Son güncelleme:** 2026-07-10
+
+## Bu projenin dosyaları
+
+> **Ana proje dosyası burası.** Aşağıdakiler bu projeye özel destek dokümanlarıdır — başka projelere karıştırma.
+
+| Dosya | Ne için |
+|-------|---------|
+| [master-plan.md](master-plan.md) | Fazlar, bütçe |
+| [haftasonu-kurulum-plani.md](haftasonu-kurulum-plani.md) | Kesin karar + takvim |
+| [kurulum-canli-anlatim.md](kurulum-canli-anlatim.md) | Gün gün kurulum |
+| [diy-kurulum.md](diy-kurulum.md) | DIY rehber |
+| [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) | Sipariş, gümrük |
+| [alternatif-karsilastirma.md](alternatif-karsilastirma.md) | Marka karşılaştırma |
+| [teknik-analiz.md](teknik-analiz.md) | Teknik rapor |
+
+Araç bilgisi (ortak): [araba/ozellikler.md](../../araba/ozellikler.md) · [araba/notlar.md](../../araba/notlar.md)
 
 ## Motivasyon
 
 Kışın ısıtılmış, yazın serinletilmiş araca binmek. **Evden / uzaktan** telefonla çalıştırmak — kumanda menzili (~10 m) yeterli değil.
 
-## Araç bilgileri (doğrulandı)
+## Araç bilgileri
+
+Kalıcı kayıt: [araba/ozellikler.md](../../araba/ozellikler.md) · Kısıtlar: [araba/notlar.md](../../araba/notlar.md)
 
 | Özellik | Değer |
 |---------|-------|
 | Anahtar | Smart Key + START/STOP |
 | Klima | **Otomatik** |
-| Koltuk ısıtma | **Var** |
 | LPG | **Prins** |
 | Şanzıman | Manuel |
-| Telefon tercihi | Evet — LTE modül ile sınırsız menzil |
 
 ---
 

@@ -88,7 +88,7 @@ Kapalı garajda asla.
 
 ## E) Walk-away (ayrı proje, sonra)
 
-Uzaktan çalıştırma akışından bağımsız. Bkz. [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md).
+Uzaktan çalıştırma akışından bağımsız. Bkz. [uzaklasinca-otomatik-kilit.md](../uzaklasinca-kilit/README.md).
 
 ---
 

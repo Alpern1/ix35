@@ -1,0 +1,35 @@
+---
+description: ix35 repo — araba/ ortak hafıza, projeler/ klasör başına bir proje
+alwaysApply: true
+---
+
+# ix35 repo yapısı
+
+```
+araba/                    → Ortak hafıza (özellikler, notlar, yapilanlar)
+projeler/<proje-adi>/     → Her proje izole klasör
+  README.md               → Ana proje dosyası
+  *.md                    → Sadece bu projeye ait destek dosyaları
+projeler/_sablon/         → Yeni proje şablonu
+```
+
+## Yeni konu / yeni fikir
+
+1. Oku: `araba/ozellikler.md`, `araba/notlar.md`, `araba/yapilanlar.md`
+2. Kontrol: `projeler/README.md`
+3. Yeni proje: `projeler/_sablon/` → `projeler/<yeni-isim>/` kopyala, `README.md` doldur
+4. **Başka proje klasörlerine dokunma**
+
+## Nereye yazılır
+
+| Bilgi | Dosya |
+|-------|-------|
+| Araç özelliği | `araba/ozellikler.md` |
+| Kısıt / tercih | `araba/notlar.md` |
+| Yapılan fiziksel iş | `araba/yapilanlar.md` |
+| Proje hedefi / karar | `projeler/<proje>/README.md` |
+| Proje araştırması | `projeler/<proje>/<konu>.md` |
+
+Proje dosyalarında araç bilgisi tekrarlama — `../../araba/` linki kullan.
+
+Tam yapı: `NASIL-CALISIRIZ.md`
