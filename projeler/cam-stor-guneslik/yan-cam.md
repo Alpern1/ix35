@@ -66,6 +66,8 @@ Mantıklı paket:
 
 Kapı plastiği: A/B/C yollarıyla **zarar vermeden yapılabilir**. Vida yok.
 
+**Cam serbest kalan (çerçeve) modeller:** [yan-cam-serbest.md](yan-cam-serbest.md) — Car Shades / Snap / Trokot sınıfı; ix35 2010–2015 özel.
+
 ---
 
 ## Deneme checklist (tek kapı — 30 dk)

@@ -38,9 +38,9 @@ Parkta ön + yan camlar örtülü; sürüşte toplanmış; kapı plastiğine vid
 | Bölge | Ürün (bugün) | Açık | Kapalı (hedef) | Kanıt |
 |------|------|------|----------------|-------|
 | Ön | **SKU yok** — hedef: Baseus Auto Close sınıfı ince yan tüp | Yan çek, ört | A sütunu kenarında ince tüp | Form: Baseus fotoğrafları ✓ · Stok: parcabayisi **gelince haber ver** |
-| Yan ×4 | Carub makaralı 2’li (`B0F9FHNBGX`) ×2 paket | Aşağı çek | Cam **üst** kenarında ince kaset | Fotoğraf ✓ · **cam indirme: kaset cama yapışıksa hayır** (camla iner) |
+| Yan ×4 | **İki yol:** (A) cama makara = cam kilitli · (B) çerçeve mesh (ix35 özel) = cam serbest | Aşağı çek veya panel takılı | A: üstte kaset · B: çerçevede file | Detay: [yan-cam-serbest.md](yan-cam-serbest.md) |
 
-Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
+Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md) · **[yan-cam-serbest.md](yan-cam-serbest.md)** (cam düzgün kullanılan modeller)
 
 ## Kararlar
 
@@ -54,7 +54,8 @@ Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
 | 2026-07-25 | Katlanır panel / tak-çıkar **hedef değil** | Sabit kalsın; uğraşmak istemiyor |
 | 2026-07-25 | MallArt panel önerisi **yanlıştı → iptal** | Sabit şartı unutulmuştu |
 | 2026-07-25 | `B0H8ZTSLP5` “ince kaset” **geri çekildi** | Ürün görseli yok |
-| 2026-07-26 | Yan: “cam normal iner” iddiası **yanlıştı** | Kaset cama yapışıksa camla iner |
+| 2026-07-26 | Yan: “cam normal iner” iddiası **yanlıştı** (cama makara için) | Kaset cama yapışıksa camla iner |
+| 2026-07-26 | **Çerçeve montajlı** modeller bulundu (ix35 özel) | Cam serbest; mesh; park blackout zayıf — [yan-cam-serbest.md](yan-cam-serbest.md) |
 
 ## Açık (sipariş öncesi)
 
@@ -68,12 +69,12 @@ Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
 | Bölge | Durum | Not |
 |-------|--------|-----|
 | **Ön** | SKU kilitli değil | Hedef: Baseus tipi ince tüp (fotoğraflı); görselsiz Amazon yok |
-| **Yan** | Carub sınıfı aday | Fotoğraflı ince makara; **cama yapışıkken cam normal kullanılmaz** |
+| **Yan** | Karar: cam serbest mi, park blackout mı? | A=Carub cama · B=ix35 çerçeve mesh — [yan-cam-serbest.md](yan-cam-serbest.md) |
 
 Kullanım: [kullanim-on-yan.md](kullanim-on-yan.md) · Görsel kural: [gorsel-dogrulama.md](gorsel-dogrulama.md)
 
 ## Sonraki adım
 
 1. Ön: Baseus/eş sınıfı — fotoğraf + stok  
-2. Yan: Camı sık açıyorsan vantuzlu cam-üstü kaset uygun değil; park-only + cam kapalı kabul ediyorsan Carub dene  
-3. Tek kapıda test: kapı kapanma + (bilinçli) cam indirme riski
+2. Yan: **Camı sık açıyorsan** → çerçeve/mıknatıs (Car Shades/Snap/Trokot ix35) — [yan-cam-serbest.md](yan-cam-serbest.md). Park blackout öncelikli + cam kapalı kabul → cama makara.  
+3. Tek kapıda test

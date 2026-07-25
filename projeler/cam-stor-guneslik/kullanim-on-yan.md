@@ -46,7 +46,9 @@ Kaset camın **hareket eden** yüzeyinde. Cam iner → kaset de iner → kapı c
 
 Yani bu sınıf: **park örtüsü + sürüşte perde yukarı, cam kapalı/çok az aralık**. “Kaset oradayken cam fabrika gibi inip çıksın” iddiası yanlıştı — geri çekildi.
 
-Gerçekten cam serbest kalsın dersen kasetin **sabit çerçeveye / kapıya** tutunması gerekir (vida istemiyorsun; plastiğe vantuz da zayıf). Bu trade-off ayrı.
+Gerçekten cam serbest kalsın dersen → **çerçeve montajı** (klips/mıknatıs). Bu sınıf var; ix35 2010–2015 için özel kesim örnekleri var. Detay: [yan-cam-serbest.md](yan-cam-serbest.md)
+
+> Not: “Sıkıştırma ayaklı” ucuz makara çoğunlukla yine **cam üzerine** — çerçeve demek değil.
 
 ### Sabit kısım nerede?
 - Kaset camın **üst kenarına** (ortaya değil) vantuzla.
