@@ -117,7 +117,7 @@ Açıkken en iyi örtü olabilir; kapalıyken bagajda → her sefer tak-çıkar.
 2. Bir **ön** kapı camı ölçü (şekil farklı)  
 3. 2’li siyah makaralı set × 2 (önce arka 2’yi dene)  
 4. Montaj: kaset **üste**, cam temiz/kuru  
-5. Kapı tam kapanıyor mu, cam inip çıkıyor mu (perde toplanmış)  
+5. Kapı tam kapanıyor mu? Cam açma ihtiyacı varsa: kaset cama yapışıkken **normal cam yok** — kabul mü?  
 6. Kapalı foto: dışarıdan + içeriden — kaset çerçeveyle bir mi, ortada mı?  
 7. Beğenince ön kapılara geç / ölçü uymuyorsa ayrı beden
 
