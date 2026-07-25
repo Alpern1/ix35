@@ -40,4 +40,4 @@ cp -r projeler/_sablon projeler/<yeni-isim>
 
 ---
 
-*Son güncelleme: 2026-07-22*
+*Son güncelleme: 2026-07-25*

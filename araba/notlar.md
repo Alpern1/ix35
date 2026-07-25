@@ -19,6 +19,7 @@
 - **Manuel vites göstergesi (GSI):** Hız göstergesi ortasındaki sayı “şu anki vites” değil; **önerilen vites** (▲/▼). Vites konum sensöründen okumaz; devir+hız tahminidir. Sürekli gösterim için beyin yazılımı yolu yok / peşine düşülmeyecek.
 - **Akü bakıcı:** Evde yok; akü bitme şikâyeti yok → “evden akü şarj / bakım prizi” peşine düşülmeyecek (yanlış hafta sonu önerisiydi).
 - **Android yan kamera:** 360 ($500–600) istenmiyor; hedef teypte canlı sağ/sol. Teyp marka/model + soket foto bekleniyor.
+- **Cam stor / park güneşliği:** Katlanır karton tipi istenmiyor. Sadece park; ön cam öncelik + yan mümkün. Kapı plastiğine vida/delik yok.
 
 ## Araştırma Linkleri
 
