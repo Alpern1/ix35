@@ -38,7 +38,7 @@ Parkta ön + yan camlar örtülü; sürüşte toplanmış; kapı plastiğine vid
 | Bölge | Ürün (bugün) | Açık | Kapalı (hedef) | Kanıt |
 |------|------|------|----------------|-------|
 | Ön | **SKU yok** — hedef: Baseus Auto Close sınıfı ince yan tüp | Yan çek, ört | A sütunu kenarında ince tüp | Form: Baseus fotoğrafları ✓ · Stok: parcabayisi **gelince haber ver** |
-| Yan ×4 | Carub makaralı 2’li (`B0F9FHNBGX`) ×2 paket | Aşağı çek | Cam **üst** kenarında ince kaset | Amazon ürün fotoğrafı ✓ · stok kontrol et |
+| Yan ×4 | Carub makaralı 2’li (`B0F9FHNBGX`) ×2 paket | Aşağı çek | Cam **üst** kenarında ince kaset | Fotoğraf ✓ · **cam indirme: kaset cama yapışıksa hayır** (camla iner) |
 
 Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
 

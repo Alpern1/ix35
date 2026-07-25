@@ -13,7 +13,9 @@
 - Yazın vantuz kayması, camda halka iz → temizle  
 - Örnek sınıflar: Carub/Piranha vantuzlu yan perde, “makaralı 2’li” setler  
 
-**Park için:** Cam kapalı + perde inik. Cam indirme → sıkışma.
+**Park için:** Cam kapalı + perde inik.
+
+**Cam kullanımı (kritik):** Kaset **cama** yapışıksa cam iner → kaset de iner. Perde toplanmış olsa bile **normal cam kullanımı yok**; tam indirme sıkışma/düşme riski. Cam açacaksan kaseti sök.
 
 ### B) Sıkıştırma ayağı / üst kenar kancası
 
@@ -70,9 +72,10 @@ Kapı plastiği: A/B/C yollarıyla **zarar vermeden yapılabilir**. Vida yok.
 
 - [ ] Cam temiz, kuru  
 - [ ] Kaset/vantuz oturdu, kapı tam kapanıyor  
-- [ ] Cam tam inip çıkıyor (perde toplanmışken)  
-- [ ] Perde inikken cam indirme — sıkışma var mı?  
+- [ ] Cam tam inip çıkıyor mu? (**vantuz cama yapışıksa beklenen cevap: hayır / riskli** — kaset camla iner)
+- [ ] Perde inikken cam indirme — sıkışma var mı? (yapma)
 - [ ] 1 gün yaz sıcağında vantuz düştü mü / iz?  
 - [ ] İçeriden görünüm: “oyuncak” mı “sade” mi?
+- [ ] Cam açmak için kaseti sökmek kabul edilebilir mi?
 
 Beğenilmezse sök → iz temizle → başka ürüne geç. Kapı kartı aynı kalır.
