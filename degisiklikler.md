@@ -9,6 +9,7 @@
 - **Cam stor nasıl** — ön/yan ayrı anlatım + TR örnekler (`nasil-on-yan.md`); kapalı görünüm şartı netleşti.
 - **Cam stor TR örnekler** — Baseus/Ralf/Carub/Allesgo linkleri; vantuz vs zarar skalası (`tr-ornekler-ve-montaj.md`).
 - **Cam stor güncel mallar** — 2026-07-25 canlı fiyatlı vantuz/sıkıştırma listesi; ölü/kötü ilanlar elendi (`guncel-ornek-mallar.md`).
+- **Cam stor stokta olanlar** — Amazon.com.tr’de Sepete ekle + stok doğrulanmış liste; her üründe fark açıklaması (`stokta-olanlar.md`).
 
 ## 2026-07-22
 
