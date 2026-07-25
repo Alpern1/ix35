@@ -28,50 +28,20 @@ Sürüş → sadece kenarda ince tüp + (istersen) küçük karşı vantuz
 
 ---
 
-## 2) Yan — Carub / aynı sınıf makaralı (fotoğraflı)
+## 2) Yan — delikli mesh, çerçeve (kilitli)
 
-https://www.amazon.com.tr/dp/B0F9FHNBGX · ürün görseli: ince üst tüp + siyah perde
+→ Tam karar + sipariş linkleri: [yan-mesh-karar.md](yan-mesh-karar.md)
 
-### Cam açılır mı? (net cevap)
+OEM tarzı: içeriden dışarı görünür, dışarıdan zor; **cama değil çerçeveye** tutunur.
 
-**Kaset cama vantuzla yapışıksa → hayır, camı normal kullanamazsın.**
-
-Kaset camın **hareket eden** yüzeyinde. Cam iner → kaset de iner → kapı cebine / conta / çerçeveye çarpar, düşer veya sıkışır. Perde toplanmış olsa bile fark etmez; sorun perde değil, **cama yapışık tüp**.
-
-| Durum | Cam indirme |
-|-------|-------------|
-| Kaset cama yapışık (Carub tipi) | **Yapma** — tam indirme riskli |
-| Perde inik (park) | Zaten cam kapalı kalır |
-| Camı açmak istiyorsan | Önce kaseti sök, sonra indir |
-
-Yani bu sınıf: **park örtüsü + sürüşte perde yukarı, cam kapalı/çok az aralık**. “Kaset oradayken cam fabrika gibi inip çıksın” iddiası yanlıştı — geri çekildi.
-
-Gerçekten cam serbest kalsın dersen → **çerçeve montajı** (klips/mıknatıs). Bu sınıf var; ix35 2010–2015 için özel kesim örnekleri var. Detay: [yan-cam-serbest.md](yan-cam-serbest.md)
-
-> Not: “Sıkıştırma ayaklı” ucuz makara çoğunlukla yine **cam üzerine** — çerçeve demek değil.
-
-### Sabit kısım nerede?
-- Kaset camın **üst kenarına** (ortaya değil) vantuzla.
-- Park ritüeli yok diye orada kalır — ama **cam indirme özgürlüğü pahasına**.
+### Cam açılır mı?
+**Evet.** Perde yerinde kalır, cam iner/çıkar.
 
 ### Nasıl kullanılır?
 ```
-Park   → perdeyi AŞAĞI çek, altı tut
-Çıkış  → perdeyi YUKARI sar
-Sürüş  → kaset üstte kalır; camı tam indirme
-Cam aç → önce kaseti sök
+Bir kez klipslere oturt → bırak
+Cam → istediğin gibi
+Sökmek → klipsten çıkar (gerekirse)
 ```
 
-### Cam kullanımı / kalabalık
-| Şart | Karşılar mı? |
-|------|----------------|
-| Kapı plastiğine vida yok | Evet |
-| Cam normal inip çıksın (kaset dururken) | **Hayır** — kaset camla iner |
-| Kalabalık olmasın | Kısmen: üstte ince kaset. Ortaya koyma. |
-| Park örtüsü | Evet — cam kapalıyken |
-
-### Kurulum (tek kapı deneme)
-1. Camı sil, kuru olsun  
-2. Kaseti üst kenara yapıştır  
-3. Kapı kapanıyor mu, sürtme var mı?  
-4. **Camı indirme** — sıkışma/düşme görürsen bu ürün “cam serbest” işi değil; sök veya başka sınıfa bak
+Opak Carub makara yan için **artık önerilmiyor** (sen mesh + cam istiyorsun).

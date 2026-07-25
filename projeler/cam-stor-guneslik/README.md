@@ -4,14 +4,15 @@
 
 ## Durum
 
-- **Durum:** 📋 Planlama — yön net; **ön SKU kilitli değil** (görselsiz öneri geri çekildi)
+- **Durum:** 📋 Planlama — **yan kilitlendi** (mesh/çerçeve); ön SKU ayrı
 - **Öncelik:** Orta
-- **Tahmini bütçe:** ~800–3.000 TL (TR, motorsuz paket)
+- **Tahmini bütçe:** Yan ~66–80 € (+ kargo/gümrük) · ön ayrı ~400–1.500 TL bandı
 - **Zorluk:** Kolay
 - **Oluşturulma:** 2026-07-25
-- **Son güncelleme:** 2026-07-25
+- **Son güncelleme:** 2026-07-26
 
-> Düzeltme: Amazon `B0H8ZTSLP5` için “ince kaset” denmişti — **ürün görseli yok**. Form faktörü iddiası geçersiz. Kural: [gorsel-dogrulama.md](gorsel-dogrulama.md)
+> Yan: OEM tarzı delikli perde, cam serbest → [yan-mesh-karar.md](yan-mesh-karar.md)  
+> Ön görsel kuralı: [gorsel-dogrulama.md](gorsel-dogrulama.md)
 
 ## Araç bilgisi (ortak)
 
@@ -38,9 +39,9 @@ Parkta ön + yan camlar örtülü; sürüşte toplanmış; kapı plastiğine vid
 | Bölge | Ürün (bugün) | Açık | Kapalı (hedef) | Kanıt |
 |------|------|------|----------------|-------|
 | Ön | **SKU yok** — hedef: Baseus Auto Close sınıfı ince yan tüp | Yan çek, ört | A sütunu kenarında ince tüp | Form: Baseus fotoğrafları ✓ · Stok: parcabayisi **gelince haber ver** |
-| Yan ×4 | **İki yol:** (A) cama makara = cam kilitli · (B) çerçeve mesh (ix35 özel) = cam serbest | Aşağı çek veya panel takılı | A: üstte kaset · B: çerçevede file | Detay: [yan-cam-serbest.md](yan-cam-serbest.md) |
+| Yan (öncelik arka 2) | **ix35 özel delikli mesh** — çerçeve klips (Car Shades sınıfı) | Takılı kalır | Çerçevede file; içeriden görünür | Cam ✅ · [yan-mesh-karar.md](yan-mesh-karar.md) |
 
-Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md) · **[yan-cam-serbest.md](yan-cam-serbest.md)** (cam düzgün kullanılan modeller)
+Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md) · [yan-cam-serbest.md](yan-cam-serbest.md) · **[yan-mesh-karar.md](yan-mesh-karar.md)** (kilitli yan karar)
 
 ## Kararlar
 
@@ -55,26 +56,27 @@ Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md) · **[yan-cam-se
 | 2026-07-25 | MallArt panel önerisi **yanlıştı → iptal** | Sabit şartı unutulmuştu |
 | 2026-07-25 | `B0H8ZTSLP5` “ince kaset” **geri çekildi** | Ürün görseli yok |
 | 2026-07-26 | Yan: “cam normal iner” iddiası **yanlıştı** (cama makara için) | Kaset cama yapışıksa camla iner |
-| 2026-07-26 | **Çerçeve montajlı** modeller bulundu (ix35 özel) | Cam serbest; mesh; park blackout zayıf — [yan-cam-serbest.md](yan-cam-serbest.md) |
+| 2026-07-26 | **Yan kilit:** delikli mesh + çerçeve (OEM tarzı) | Cam serbest; opak makara yan için iptal — [yan-mesh-karar.md](yan-mesh-karar.md) |
 
 ## Açık (sipariş öncesi)
 
 - [ ] Ön cam iç ölçü (genişlik × yükseklik)
 - [ ] Yan cam ölçü (en az bir arka kapı)
-- [ ] Ön: fotoğraflı Baseus sınıfı stok
-- [ ] Yan: cam açma ihtiyacı vs kaset camda kalsın trade-off kararı
+- [ ] Yan: Car Shades sınıfı arka 2 sipariş (EU kargo/gümrük)
+- [ ] Ön: fotoğraflı Baseus sınıfı stok (ayrı)
+- [ ] Ön yan mesh istenirse Trokot/Snap front set (ikinci aşama)
 
 ## Son durum
 
 | Bölge | Durum | Not |
 |-------|--------|-----|
 | **Ön** | SKU kilitli değil | Hedef: Baseus tipi ince tüp (fotoğraflı); görselsiz Amazon yok |
-| **Yan** | Karar: cam serbest mi, park blackout mı? | A=Carub cama · B=ix35 çerçeve mesh — [yan-cam-serbest.md](yan-cam-serbest.md) |
+| **Yan** | **Kilitli:** Car Shades sınıfı ix35 mesh (arka 2) | ~66–77 € · cam serbest · [yan-mesh-karar.md](yan-mesh-karar.md) |
 
 Kullanım: [kullanim-on-yan.md](kullanim-on-yan.md) · Görsel kural: [gorsel-dogrulama.md](gorsel-dogrulama.md)
 
 ## Sonraki adım
 
 1. Ön: Baseus/eş sınıfı — fotoğraf + stok  
-2. Yan: **Camı sık açıyorsan** → çerçeve/mıknatıs (Car Shades/Snap/Trokot ix35) — [yan-cam-serbest.md](yan-cam-serbest.md). Park blackout öncelikli + cam kapalı kabul → cama makara.  
-3. Tek kapıda test
+2. Yan: **Car Shades / eşdeğer ix35 2010–2015 arka mesh** sipariş (EU) — [yan-mesh-karar.md](yan-mesh-karar.md)  
+3. Tak: klips çerçeveye; cam inme testi; beğenirsen ön yan / bagaj genişlet

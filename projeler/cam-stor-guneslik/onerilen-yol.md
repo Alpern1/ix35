@@ -9,7 +9,7 @@
 | Bölge | Ne | Neden |
 |-------|----|--------|
 | **Ön** | Manuel **geri sarımlı** güneşlik — ince kaset, **siyah/gri** (gümüş çadır görünümü değil) | Çek-bırak; bagaja atılmaz; motorsuz |
-| **Yan (4 cam)** | Manuel **makaralı stor** — siyah, vantuz veya üst kenar sıkıştırma | Kapı plastiğine dokunmaz; aynı dil |
+| **Yan (4 cam veya arka 2)** | **Delikli mesh**, çerçeve klips/mıknatıs (ix35 özel) | Cam serbest; OEM tarzı; opak makara değil — [yan-mesh-karar.md](yan-mesh-karar.md) |
 
 İki montaj ailesi de **elle**: yaylı makara / çek-tut. Elektrik, buton, OBD yok.
 
@@ -47,23 +47,23 @@ Isı vs görünüm: dıştan gümüş daha serin tutar ama içeriden/dışarıda
 
 ---
 
-## Yan — tek manevra
+## Yan — kilitli manevra
 
-- 4× makaralı siyah stor (veya 2’li set × 2)
-- Montaj: vantuz **veya** cam üst kenar sıkıştırma — hangisi üründe varsa
-- Ön kapılar dahil; parkta dördü de inik olabilir
-- Sürüşe çıkmadan hepsini yukarı sar (alışkanlık; 10 sn)
+- ix35 2010–2015 **araç özel mesh** (Car Shades sınıfı)
+- Montaj: çerçeve klipsi (cama değil)
+- Cam istediğin gibi iner; perde yerinde kalır
+- İlk alış: arka 2 kapı → sonra isteğe ön yan / bagaj
+- Detay + linkler: [yan-mesh-karar.md](yan-mesh-karar.md)
 
 ---
 
 ## Kullanım ritüeli
 
 ```
-Park → ön çek + yanları indir → kilitle / çık
-Dönüş → yanları sar + önü topla → sonra kontak
+Yan mesh → takılı kalsın (cam serbest)
+Park → ön ört (ayrı çözüm) + yanlar zaten mesh
+Dönüş → önü topla; yana dokunma
 ```
-
-Unutursan sürüşte ön açık kalmasın — tek kritik kural bu.
 
 ---
 
@@ -81,8 +81,7 @@ Daha pahalı Tip B ön ayrı (yurt dışı custom ~$40–100 + kargo/gümrük).
 
 ## Sonraki somut adım
 
-1. Ön cam iç genişlik + yükseklik ölç (mezura, foto)
-2. Yan arka cam genişlik × yükseklik (bir kapı yeter, simetri)
-3. **Ön:** Baseus/Ralf sınıfı — sadece **ürün fotoğrafı + sepete ekle** olan ilan; görselsiz Amazon jeneriği alma ([gorsel-dogrulama.md](gorsel-dogrulama.md))
-4. **Yan:** Carub makaralı (fotoğraflı) stok varsa 1 paket dene → 4 cam
-5. Tek kapıda 1 gün deneme → beğenince diğerleri
+1. Yan: EU’dan Car Shades ix35 arka 2 sipariş — [yan-mesh-karar.md](yan-mesh-karar.md)
+2. Ön cam ölçü + Baseus sınıfı fotoğraflı stok
+3. Mesh tak → cam inme / kapı kapanma testi
+4. Beğenirsen ön yan veya bagaj genişlet
