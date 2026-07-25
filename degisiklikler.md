@@ -8,6 +8,7 @@
 - **Cam stor yön kilit** — motorsuz; ön + 4 yan; siyah ince kaset; `onerilen-yol.md`.
 - **Cam stor nasıl** — ön/yan ayrı anlatım + TR örnekler (`nasil-on-yan.md`); kapalı görünüm şartı netleşti.
 - **Cam stor TR örnekler** — Baseus/Ralf/Carub/Allesgo linkleri; vantuz vs zarar skalası (`tr-ornekler-ve-montaj.md`).
+- **Cam stor güncel mallar** — 2026-07-25 canlı fiyatlı vantuz/sıkıştırma listesi; ölü/kötü ilanlar elendi (`guncel-ornek-mallar.md`).
 
 ## 2026-07-22
 

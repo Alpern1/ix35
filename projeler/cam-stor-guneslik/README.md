@@ -26,7 +26,8 @@ Parkta ön + yan camlar örtülü; sürüşte toplanmış; kapı plastiğine vid
 ## Kilitli paket
 
 → Nasıl (ön/yan ayrı): [nasil-on-yan.md](nasil-on-yan.md)  
-→ TR mallar + vantuz/zarar dürüstlüğü: [tr-ornekler-ve-montaj.md](tr-ornekler-ve-montaj.md)  
+→ TR mallar + vantuz/zarar: [tr-ornekler-ve-montaj.md](tr-ornekler-ve-montaj.md)  
+→ **Güncel canlı örnekler (vantuz vs sıkıştırma):** [guncel-ornek-mallar.md](guncel-ornek-mallar.md)  
 → Kısa paket: [onerilen-yol.md](onerilen-yol.md)
 
 | Bölge | Ürün | Açık | Kapalı (hedef) |
