@@ -83,5 +83,6 @@ Daha pahalı Tip B ön ayrı (yurt dışı custom ~$40–100 + kargo/gümrük).
 
 1. Ön cam iç genişlik + yükseklik ölç (mezura, foto)
 2. Yan arka cam genişlik × yükseklik (bir kapı yeter, simetri)
-3. Sipariş: siyah geri sarımlı ön + siyah makaralı yan set
-4. Tek kapıda 1 gün deneme → beğenince diğerleri
+3. **Ön:** Baseus/Ralf sınıfı — sadece **ürün fotoğrafı + sepete ekle** olan ilan; görselsiz Amazon jeneriği alma ([gorsel-dogrulama.md](gorsel-dogrulama.md))
+4. **Yan:** Carub makaralı (fotoğraflı) stok varsa 1 paket dene → 4 cam
+5. Tek kapıda 1 gün deneme → beğenince diğerleri
