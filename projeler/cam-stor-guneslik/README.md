@@ -25,14 +25,15 @@ Parkta ön + yan camlar örtülü; sürüşte toplanmış; kapı plastiğine vid
 
 ## Kilitli paket
 
-→ Detay: [onerilen-yol.md](onerilen-yol.md)
+→ Nasıl (ön/yan ayrı + TR örnekler): [nasil-on-yan.md](nasil-on-yan.md)  
+→ Kısa paket: [onerilen-yol.md](onerilen-yol.md)
 
-| Bölge | Ürün | Montaj |
-|------|------|--------|
-| Ön | Manuel geri sarımlı, **siyah/gri ince kaset** | Vantuz (önce) veya cama braket |
-| Yan ×4 | Manuel makaralı stor, **siyah** | Vantuz / üst kenar sıkıştırma |
+| Bölge | Ürün | Açık | Kapalı (hedef) |
+|------|------|------|----------------|
+| Ön | Baseus tipi yan kaset geri sarımlı | Folyo + siyah, tam örtü | A sütunu kenarında ince tüp |
+| Yan ×4 | Carub tipi makaralı opak siyah | Opak örtü | Cam **üst** kenarında ince kaset |
 
-Araştırma arka planı: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
+Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
 
 ## Kararlar
 
@@ -54,4 +55,7 @@ Araştırma arka planı: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
 
 ## Sonraki adım
 
-Ölçü → siyah manuel set sipariş → bir kapı + ön deneme.
+1. Ön cam + 1 arka yan ölçü  
+2. Ön: Baseus/eşdeğer 64 cm sınıfı dene  
+3. Yan: siyah makaralı (üste montaj) önce arka 2  
+4. Kapalı/açık foto ile “yama mı?” kontrol
