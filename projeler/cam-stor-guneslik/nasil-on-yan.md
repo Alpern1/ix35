@@ -90,6 +90,7 @@ Açıkken en iyi örtü olabilir; kapalıyken bagajda → her sefer tak-çıkar.
 **Nasıl kötü durmaz?**
 - Kaseti camın **üst kenarına** (çerçeveye bitişik) koy — OEM arka stor hissi  
 - Siyah kaset + siyah kumaş; metal çerçeveli renkli “bebek seti” alma  
+- **Cam indirme:** Kaset cama yapışıksa camla birlikte iner → normal cam kullanımı **yok**; cam açacaksan sök  
 - ix35 arka kapı camı ~40×45’ten büyük olabilir → **ölç, büyük beden ara** (45–50+ cm genişlik)  
 - Ön kapı camları şekilli (üçgen) — tek ölçü her kapıya oturmayabilir; gerekirse ön/arka ayrı ölçü
 

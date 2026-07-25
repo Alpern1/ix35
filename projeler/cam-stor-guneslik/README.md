@@ -53,27 +53,27 @@ Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
 | 2026-07-25 | Görünüm: siyah ince kaset; gümüş çadır / bebek file yok | Kaba durmasın |
 | 2026-07-25 | Katlanır panel / tak-çıkar **hedef değil** | Sabit kalsın; uğraşmak istemiyor |
 | 2026-07-25 | MallArt panel önerisi **yanlıştı → iptal** | Sabit şartı unutulmuştu |
-| 2026-07-25 | **Ön = 58×125 sabit kaset; yan = Buffer üstte** | Stoklu; tak-çıkar yok; ince kalıp |
+| 2026-07-25 | `B0H8ZTSLP5` “ince kaset” **geri çekildi** | Ürün görseli yok |
+| 2026-07-26 | Yan: “cam normal iner” iddiası **yanlıştı** | Kaset cama yapışıksa camla iner |
 
 ## Açık (sipariş öncesi)
 
 - [ ] Ön cam iç ölçü (genişlik × yükseklik)
 - [ ] Yan cam ölçü (en az bir arka kapı)
-- [ ] Ürün link shortlist (ölçü gelince)
+- [ ] Ön: fotoğraflı Baseus sınıfı stok
+- [ ] Yan: cam açma ihtiyacı vs kaset camda kalsın trade-off kararı
 
-## Son öneri (düzeltildi — sabit kalacak)
+## Son durum
 
-| Bölge | Öneri | Link | Neden |
-|-------|--------|------|--------|
-| **Ön** | **58×125 PVC makaralı** (sabit ince kaset, cama vantuz) | https://www.amazon.com.tr/dp/B0H8ZTSLP5 | Parkta çek / sürüşte kaset kenarda kalır — **tak-çıkar yok**; stokta |
-| **Yan** | Buffer 50×125 makaralı — kaset **cam üst kenarında** sabit | https://www.amazon.com.tr/dp/B07DXQP9Y2 | Aşağı çek / yukarı sar; cam inip çıksın diye perde toplanır; stokta |
+| Bölge | Durum | Not |
+|-------|--------|-----|
+| **Ön** | SKU kilitli değil | Hedef: Baseus tipi ince tüp (fotoğraflı); görselsiz Amazon yok |
+| **Yan** | Carub sınıfı aday | Fotoğraflı ince makara; **cama yapışıkken cam normal kullanılmaz** |
 
-**Önceki hata:** MallArt panel önerisi yanlıştı — kullanıcı sabit istemişti, tak-çıkar istememişti.
-
-Kullanım anlatımı: [kullanim-on-yan.md](kullanim-on-yan.md)
+Kullanım: [kullanim-on-yan.md](kullanim-on-yan.md) · Görsel kural: [gorsel-dogrulama.md](gorsel-dogrulama.md)
 
 ## Sonraki adım
 
-1. Ön: 58×125 → yolcu kenarına ince kaset sabitle  
-2. Yan: Buffer ×2 arka → kaset üste  
-3. Test: kapalı görünüm + cam açma + kapı kapanma
+1. Ön: Baseus/eş sınıfı — fotoğraf + stok  
+2. Yan: Camı sık açıyorsan vantuzlu cam-üstü kaset uygun değil; park-only + cam kapalı kabul ediyorsan Carub dene  
+3. Tek kapıda test: kapı kapanma + (bilinçli) cam indirme riski
