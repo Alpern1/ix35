@@ -16,6 +16,7 @@
 - **Smart Key + START/STOP** — walk-away otomatik kilit için uygun donanım mevcut.
 - **Otomatik klima** — uzaktan çalıştırmada avantaj sağlar ama Blue Link tarzı uygulamadan sıcaklık ayarı bu araçta mümkün değil (detay: proje dosyası).
 - **2012 model** — fabrika telematik (Blue Link) yok.
+- **Devir / yakıt:** [devir-ve-yakit.md](devir-ve-yakit.md) — ekonomik ~1800–2400; yükte ~1700 altı lug yok.
 
 ## Araştırma Linkleri
 
@@ -23,4 +24,4 @@
 
 ---
 
-*Son güncelleme: 2026-07-09*
+*Son güncelleme: 2026-07-27 — devir/yakıt rehberi*
