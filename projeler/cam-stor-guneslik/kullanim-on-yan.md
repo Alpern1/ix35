@@ -28,20 +28,16 @@ Sürüş → sadece kenarda ince tüp + (istersen) küçük karşı vantuz
 
 ---
 
-## 2) Yan — delikli mesh, çerçeve (kilitli)
+## 2) Yan — delikli mesh (TR)
 
-→ Tam karar + sipariş linkleri: [yan-mesh-karar.md](yan-mesh-karar.md)
+→ [yan-mesh-karar.md](yan-mesh-karar.md)
 
-OEM tarzı: içeriden dışarı görünür, dışarıdan zor; **cama değil çerçeveye** tutunur.
+**Koçtaş TROBUS SUV** (~255–300 TL / 2’li). Manyetik/streç mesh; cam serbest hedefi.
 
-### Cam açılır mı?
-**Evet.** Perde yerinde kalır, cam iner/çıkar.
-
-### Nasıl kullanılır?
 ```
-Bir kez klipslere oturt → bırak
-Cam → istediğin gibi
-Sökmek → klipsten çıkar (gerekirse)
+Tak → bırak
+Cam → dene (in/çık)
+Uymazsa → iade (14 gün)
 ```
 
-Opak Carub makara yan için **artık önerilmiyor** (sen mesh + cam istiyorsun).
+Opak Carub makara yan için yok. Almanya linki varsayılan değil.

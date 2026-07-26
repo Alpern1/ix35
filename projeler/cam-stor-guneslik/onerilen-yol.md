@@ -47,13 +47,12 @@ Isı vs görünüm: dıştan gümüş daha serin tutar ama içeriden/dışarıda
 
 ---
 
-## Yan — kilitli manevra
+## Yan — kilitli manevra (TR)
 
-- ix35 2010–2015 **araç özel mesh** (Car Shades sınıfı)
-- Montaj: çerçeve klipsi (cama değil)
-- Cam istediğin gibi iner; perde yerinde kalır
-- İlk alış: arka 2 kapı → sonra isteğe ön yan / bagaj
-- Detay + linkler: [yan-mesh-karar.md](yan-mesh-karar.md)
+- **TROBUS SUV mesh** — Koçtaş / idefix (~255–300 TL / 2’li)
+- Delikli örgü; cam açılınca hava (ilan)
+- İlk: arka 2 → sonra ön 2
+- Linkler: [yan-mesh-karar.md](yan-mesh-karar.md)
 
 ---
 
@@ -81,7 +80,6 @@ Daha pahalı Tip B ön ayrı (yurt dışı custom ~$40–100 + kargo/gümrük).
 
 ## Sonraki somut adım
 
-1. Yan: EU’dan Car Shades ix35 arka 2 sipariş — [yan-mesh-karar.md](yan-mesh-karar.md)
-2. Ön cam ölçü + Baseus sınıfı fotoğraflı stok
-3. Mesh tak → cam inme / kapı kapanma testi
-4. Beğenirsen ön yan veya bagaj genişlet
+1. Koçtaş: TROBUS SUV mesh (arka ± ön) — [yan-mesh-karar.md](yan-mesh-karar.md)
+2. Tak, cam dene; uymazsa iade
+3. Ön cam için ayrı opaque/kaset (TR, fotoğraflı)

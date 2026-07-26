@@ -1,35 +1,32 @@
-# Stok / alış — güncel
+# Stok / alış — TR
 
-> **2026-07-26:** Yan karar değişti → delikli mesh. Opak makara yan listeden düştü.  
-> Detay: [yan-mesh-karar.md](yan-mesh-karar.md)
+> **2026-07-26:** Yan = TR mesh. Almanya/EU varsayılan değil.
 
 ---
 
-## Yan cam — kilitli (mesh / çerçeve)
-
-TR Amazon’da ix35 özel Car Shades yok sayılır. EU sipariş:
+## Yan — TROBUS SUV mesh (TR)
 
 | | |
 |--|--|
-| Öneri | Car Shades ix35 2010–2015 **arka yan 2’li** |
-| Fiyat | ~66–77 € |
-| Örnek | https://www.carshades.de/Sonnenschutz-fuer-Hyundai-ix35-BJ-2010-2015-Blenden-2-teilig-hintere-Tueren |
-| Alternatif | https://www.amazon.com.be/dp/B07NQQNM46 · CarParts-Expert |
-| Cam | ✅ çerçeve klipsi |
-| Malzeme | Delikli file (içeriden görünür) |
+| Öneri | **TROBUS SUV** delikli/örgü yan güneşlik |
+| Fiyat | ~255–300 TL / 2’li |
+| Ön 2’li (manyetik) | https://www.koctas.com.tr/trobus-2-adet-manyetik-on-yan-cam-gunesligi-suv-arac-uyumlu-uv-koruma-kolay-kurulum/p/5001076851 |
+| Marka / arka SUV | https://www.koctas.com.tr/trobus/b/b-4795 |
+| Alternatif | https://www.idefix.com/trobus-citroen-c5-aircross-2017-sonrasi-suv-uyumlu-yan-cam-gunesligi-on-veya-arka-p-3451076 |
+| Not | ix35 özel kesim değil — SUV bandı; uymazsa iade |
 
-Mıknatıs istersen: Trokot / Snap Shades ix35 — [yan-mesh-karar.md](yan-mesh-karar.md).
-
----
-
-## Ön cam — hâlâ açık
-
-Baseus Auto Close sınıfı (fotoğraflı ince tüp); stok gelince. Görselsiz Amazon jeneriği yok.
-
-Tak-çıkar paneller sabit şartına uymaz — yan mesh’ten bağımsız konu.
+Detay: [yan-mesh-karar.md](yan-mesh-karar.md)
 
 ---
 
-## Elenen (yan için)
+## Ön cam — ayrı / açık
 
-Carub / Buffer vantuzlu opak makara — cama yapışır + opak; senin mesh + cam serbest hedefinle uyumsuz.
+Baseus sınıfı ince tüp; fotoğraflı + stoklu TR ilan. Görselsiz Amazon jeneriği yok.
+
+---
+
+## Elenen
+
+- Yan opak vantuz makara  
+- EU/Almanya’yı “ilk sipariş” sanmak  
+- “ix35 2021 manyetik” dropship (yanlış kasa)

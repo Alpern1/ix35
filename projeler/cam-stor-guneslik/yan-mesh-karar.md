@@ -1,97 +1,79 @@
-# Yan cam — kilitli karar: delikli (mesh) çerçeve perde
+# Yan cam — TR alış (delikli mesh)
 
-> **Karar (2026-07-26):** Yanlar için opak makara **değil**.  
-> OEM tarzı **delikli/mesh** perde: içeriden dışarı görünür, dışarıdan mahremiyet; tutunma **çerçevede** → **cam normal iner**.
-
-Bu, bazı araçlarda fabrika seçeneği olan yan stor/file ile aynı mantık.
+> **Sen Türkiye’desin.** Önce TR link. EU/Almanya yedek değil, varsayılan değil.  
+> Karar aynı: delikli mesh, cam serbest, opak makara yok.
 
 ---
 
-## Ne istiyorsun (eşleştirme)
+## TR gerçeği (dürüst)
 
-| İstek | Bu sınıf |
-|-------|----------|
-| Cam düzgün açılsın | ✅ çerçeve klips / mıknatıs |
-| Tam kararan opak perde değil | ✅ delikli mesh |
-| İçeriden dışarı görülsün | ✅ “one-way” mesh |
-| Kapıya vida yok | ✅ klips veya 3M mıknatıs plakası |
-| ix35 uyumu | ✅ 2010–2015 özel kesim var |
+Trendyol / Hepsiburada / Amazon TR / Koçtaş’ta **ix35 2010–2015’e özel kesilmiş** Car Shades kalitesinde ilan **bulunamadı**.
+
+TR’de raflarda olan: **SUV ölçü bandı mesh** (manyetik / streç). Araç özel lazer kesim değil; uyum **deneme + iade** ile.
 
 ---
 
-## Önerilen ürün sınıfı
+## Şimdi alınabilecek (TR)
 
-**Araç özel mesh yan perde (Car Shades / eşdeğer)**  
-- Kesim: Hyundai **ix35 2010–2015**  
-- Montaj: çerçeve **klipsi** (trim/lastik arkası) veya mıknatıs  
-- Kullanım: takılı kalır; cam iner, perde yerinde  
-- Görünüm: siyah file panel (üstte makara tüpü yok)
-
-### Somut alış (arka 2 kapı — OEM’e en yakın başlangıç)
-
-| Satıcı | Ne | Fiyat (yaklaşık) | Link |
-|--------|-----|------------------|------|
-| carshades.de | Arka yan 2’li, Car Shades | **~66 €** | https://www.carshades.de/Sonnenschutz-fuer-Hyundai-ix35-BJ-2010-2015-Blenden-2-teilig-hintere-Tueren |
-| CarParts-Expert | Aynı sınıf arka yan | **~69 €** | https://www.carparts-expert.com/interior/car-window-shades/sun-shades-hyundai-ix35-2010-2015-car-shades---rear-side-doors-detail.html |
-| Amazon BE | Car Shades arka 2’li | **~70–77 €** | https://www.amazon.com.be/dp/B07NQQNM46 |
-| Fullcartuning | Car Shades arka yan | **~70 €** (teslimat uzun olabilir) | https://fullcartuning.com/147854-car-shades-rear-sunscreen-only-side-windows-fabric-hyundai-ix35 |
-
-Kod referansı (üretici): **HYU-IX35-5-A-18** / PV HYIX355A18 sınıfı.
-
-### Mıknatıslı alternatif (aynı iş)
+### 1) TROBUS — SUV mesh (ana aday)
 
 | | |
 |--|--|
-| Trokot ix35 arka 2’li | https://trokot.co.uk/product/car-window-shades-rear-doors-set-2pcs-for-hyundai-ix35-2010-2015-suv-5-doors/ · ~£79 |
-| Snap Shades HYU004-2 | https://snapshades.com/hyundai-ix35-tucson-ix-tucson-2nd-generation-car-rear-window-shades-2010-2015/ |
+| Ne | Örgü/mesh yan güneşlik; cam açıkken hava geçer (ilan iddiası) |
+| Ölçü | **SUV** yazanı al (sedan/HB alma) |
+| Fiyat | ~255–300 TL / 2’li set |
+| Nereden | **Koçtaş** (en temiz kanal) |
 
-Mıknatısta bazen çerçeveye **3M metal plaka** yapışır (vida yok; sökülünce bant izi riski). Klipsli Car Shades çoğu araçta trim arkasına girer — plaka gerekmeyebilir.
+**Ön yan (manyetik) 2’li — Koçtaş:**  
+https://www.koctas.com.tr/trobus-2-adet-manyetik-on-yan-cam-gunesligi-suv-arac-uyumlu-uv-koruma-kolay-kurulum/p/5001076851  
 
----
+**Arka yan — Koçtaş marka sayfası (SUV katlanabilir 2’li ara):**  
+https://www.koctas.com.tr/trobus/b/b-4795  
+→ “2 Adet Katlanabilir Arka Yan Cam Güneşliği - Suv”
 
-## Ön yan kapılar?
+**Aynı sınıf (idefix, ~265 TL, ön veya arka diye satılıyor):**  
+https://www.idefix.com/trobus-citroen-c5-aircross-2017-sonrasi-suv-uyumlu-yan-cam-gunesligi-on-veya-arka-p-3451076  
 
-- Fabrika seçeneği çoğu araçta **sadece arka**.  
-- Car Shades da genelde **ön vermez** (sürücü görüşü).  
-- Ön yan da mesh istersen: Trokot/Snap “front doors” set — parkta tamam; sürüşte ön yolcu tarafı dikkat (görüş/yasal).  
-- İlk sipariş: **arka 2** → beğenirsen genişlet.
+Not: idefix/Trendyol’da “Citroen / Buick / Skoda uyumlu” yazan TROBUS’lar çoğu **aynı SUV universali** — model adı SEO. Senin için önemli olan: **SUV** + mesh + manyetik/streç.
 
-Bagaj camı / küçük yan camlar ayrı setlerde (elevendi “full rear” vb.).
+**Pratik paket (4 yan):**  
+1× ön SUV manyetik 2’li + 1× arka SUV 2’li ≈ **~500–600 TL**
 
----
-
-## Nasıl kullanılır?
+### 2) Trendyol arama (kendin doğrula)
 
 ```
-Takılı kalsın (haftalarca) → camı istediğin gibi indir/kaldır
-Park / yol → mesh zaten yerinde; makara çekme yok
-Sökmek istersen → klipsten çıkar, çantaya (setle gelir)
+TROBUS manyetik SUV güneşlik
+manyetik yan cam güneşlik mesh
 ```
 
-Yüksek hızda camı **tam** açık bırakma (emilme) — üreticiler genelde yarı açık önerir.
+Glanz “mıknatıslı bebek perdesi” → önce fotoğrafa bak; opak/emzirme tipi olabilir, OEM mesh olmayabilir.
 
 ---
 
-## Alma listesi (yan için artık)
+## Alma (TR)
 
-| Ürün | Neden alma |
-|------|------------|
-| Carub / Buffer vantuzlu **opak makara** | Cama yapışır; cam kilitler; sen mesh istiyorsun |
-| “Sıkıştırmalı makara cam üzerine” | Yine cam ailesi |
-| Universal bebek vantuzlu file | Uyumsuz, düşer, çirkin; çerçeve özel değil |
-| Raylı vida perde | Kapı hasarı |
-
----
-
-## TR notu
-
-Amazon TR / Trendyol’da ix35 **2010–2015 özel** kaliteli Car Shades stoku zayıf.  
-Pratik yol: DE/BE/NL EU sitesi → TR adres (gümrük/KDV hesaba kat).  
-Sipariş öncesi: satıcıya “Turkey shipping?” sor.
+| Ne | Neden |
+|----|--------|
+| Vantuzlu opak makara (Carub vb.) | Cam kilitler; sen mesh istiyorsun |
+| noiz / novaakademi “ix35 2021 manyetik” | Yanlış kasa yılı + çoğu alüminyum film, mesh değil |
+| Almanya/UK Car Shades | TR’de yaşayan için gereksiz ilk adım |
 
 ---
 
-## Ön cam ayrı
+## Montaj / cam
 
-Yan mesh park ısısının çoğunu çözmez (ön cam asıl kaynak).  
-Ön için ayrı opaque/kaset kararı duruyor — yan kararı bundan **bağımsız kilitlendi**.
+- Tutunma: çerçeve metaline mıknatıs veya streç kenar (ürüne göre)  
+- Cam: ilan “pencere açıkken hava” diyor → hedef bu  
+- ix35’te metal çerçeve azsa mıknatıs zayıf kalabilir → Koçtaş/idefix **14 gün iade** kullan  
+- İlk test: tek arka kapı → cam inme, kapı kapanma, rüzgârda düşme
+
+---
+
+## Sipariş sırası
+
+1. Koçtaş’tan **SUV arka 2’li** (veya ön+arka)  
+2. Tak, 1 gün dene  
+3. Uymazsa iade  
+4. Ön yan ayrı set
+
+Ön cam (opaque/kaset) bu işten **ayrı** kalır.

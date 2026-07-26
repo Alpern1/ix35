@@ -6,13 +6,13 @@
 
 - **Durum:** 📋 Planlama — **yan kilitlendi** (mesh/çerçeve); ön SKU ayrı
 - **Öncelik:** Orta
-- **Tahmini bütçe:** Yan ~66–80 € (+ kargo/gümrük) · ön ayrı ~400–1.500 TL bandı
+- **Tahmini bütçe:** Yan ~500–600 TL (4 cam, TROBUS SUV) · ön ayrı
 - **Zorluk:** Kolay
 - **Oluşturulma:** 2026-07-25
 - **Son güncelleme:** 2026-07-26
 
-> Yan: OEM tarzı delikli perde, cam serbest → [yan-mesh-karar.md](yan-mesh-karar.md)  
-> Ön görsel kuralı: [gorsel-dogrulama.md](gorsel-dogrulama.md)
+> Yan: TR’den TROBUS SUV mesh — [yan-mesh-karar.md](yan-mesh-karar.md)  
+> EU/Almanya link varsayılan değil.
 
 ## Araç bilgisi (ortak)
 
@@ -39,7 +39,7 @@ Parkta ön + yan camlar örtülü; sürüşte toplanmış; kapı plastiğine vid
 | Bölge | Ürün (bugün) | Açık | Kapalı (hedef) | Kanıt |
 |------|------|------|----------------|-------|
 | Ön | **SKU yok** — hedef: Baseus Auto Close sınıfı ince yan tüp | Yan çek, ört | A sütunu kenarında ince tüp | Form: Baseus fotoğrafları ✓ · Stok: parcabayisi **gelince haber ver** |
-| Yan (öncelik arka 2) | **ix35 özel delikli mesh** — çerçeve klips (Car Shades sınıfı) | Takılı kalır | Çerçevede file; içeriden görünür | Cam ✅ · [yan-mesh-karar.md](yan-mesh-karar.md) |
+| Yan (öncelik arka 2) | **TR: TROBUS SUV mesh** (Koçtaş) | Takılı / streç-manyetik | Delikli örgü; cam açık iddiası | [yan-mesh-karar.md](yan-mesh-karar.md) |
 
 Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md) · [yan-cam-serbest.md](yan-cam-serbest.md) · **[yan-mesh-karar.md](yan-mesh-karar.md)** (kilitli yan karar)
 
@@ -56,27 +56,27 @@ Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md) · [yan-cam-serb
 | 2026-07-25 | MallArt panel önerisi **yanlıştı → iptal** | Sabit şartı unutulmuştu |
 | 2026-07-25 | `B0H8ZTSLP5` “ince kaset” **geri çekildi** | Ürün görseli yok |
 | 2026-07-26 | Yan: “cam normal iner” iddiası **yanlıştı** (cama makara için) | Kaset cama yapışıksa camla iner |
-| 2026-07-26 | **Yan kilit:** delikli mesh + çerçeve (OEM tarzı) | Cam serbest; opak makara yan için iptal — [yan-mesh-karar.md](yan-mesh-karar.md) |
+| 2026-07-26 | **Yan kilit TR:** TROBUS SUV mesh (Koçtaş) | Almanya linki yanlış varsayıldı → düzeltildi |
 
 ## Açık (sipariş öncesi)
 
 - [ ] Ön cam iç ölçü (genişlik × yükseklik)
 - [ ] Yan cam ölçü (en az bir arka kapı)
-- [ ] Yan: Car Shades sınıfı arka 2 sipariş (EU kargo/gümrük)
+- [ ] Yan: Koçtaş TROBUS SUV arka (± ön) mesh
 - [ ] Ön: fotoğraflı Baseus sınıfı stok (ayrı)
-- [ ] Ön yan mesh istenirse Trokot/Snap front set (ikinci aşama)
+- [ ] Uymazsa 14 gün iade
 
 ## Son durum
 
 | Bölge | Durum | Not |
 |-------|--------|-----|
 | **Ön** | SKU kilitli değil | Hedef: Baseus tipi ince tüp (fotoğraflı); görselsiz Amazon yok |
-| **Yan** | **Kilitli:** Car Shades sınıfı ix35 mesh (arka 2) | ~66–77 € · cam serbest · [yan-mesh-karar.md](yan-mesh-karar.md) |
+| **Yan** | **TR kilit:** Koçtaş TROBUS SUV mesh | ~255–300 TL/2’li · [yan-mesh-karar.md](yan-mesh-karar.md) |
 
 Kullanım: [kullanim-on-yan.md](kullanim-on-yan.md) · Görsel kural: [gorsel-dogrulama.md](gorsel-dogrulama.md)
 
 ## Sonraki adım
 
 1. Ön: Baseus/eş sınıfı — fotoğraf + stok  
-2. Yan: **Car Shades / eşdeğer ix35 2010–2015 arka mesh** sipariş (EU) — [yan-mesh-karar.md](yan-mesh-karar.md)  
-3. Tak: klips çerçeveye; cam inme testi; beğenirsen ön yan / bagaj genişlet
+2. Yan: **Koçtaş TROBUS SUV mesh** (arka ± ön) — [yan-mesh-karar.md](yan-mesh-karar.md)  
+3. Tak → cam inme / iade testi
