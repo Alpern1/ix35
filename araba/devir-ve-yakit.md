@@ -33,6 +33,23 @@ Kabaca şehir: trafik izin verirse **2000–2800**’de vites değiştir. Yol: *
 
 ---
 
+## “4’ten 6’ya atlama / 5. vites şart” efsanesi
+
+**Hayır — 5. vites kutsal değil.** Atlamak yasak değil; kritik olan **atlama sonrası devir**.
+
+| Durum | Doğru mu? |
+|-------|-----------|
+| 4 → 6, hız yeter, 6’da ~1800+ kalıyor | Olur |
+| 4 → 6, 6’da 1500’e düşüp gaza basıyorsun | Yanlış (lug) — o yüzden “5’i kullan” deniyor |
+| 6 → 4 sollama | Olur (5’e uğramak zorunlu değil) |
+| 2 → 4, 3 → 5 (yeterli hızda) | Olur |
+
+Bu kutuda 6. genelde **uzun overdrive** (düz yol seyri). Erken 6 = düşük devir. Sorun 5’i esgeçmek değil, **erken 6**.
+
+Pratik: Atladıktan sonra göstergeye bak — **~1800 altı + yük** varsa bir vites kıs (veya 5’e in).
+
+---
+
 ## Motor sağlığı — altına düşme / üstüne çıkma
 
 ### Alt sınır (önemli)
