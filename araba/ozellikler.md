@@ -19,8 +19,8 @@
 |------|-------|
 | Motor | 1.6 GDI (benzin) |
 | Hacim | 1.6 L |
-| Güç (hp/kW) | _doğrulanacak — GDI tipik ~135 hp_ |
-| Tork | _doğrulanacak_ |
+| Güç (hp/kW) | **~135 hp @ 6300–6400 d/d** (G4FD Gamma) |
+| Tork | **~164 Nm @ ~4200 d/d** (atmosferik; tepe tork görece yüksek) |
 | Yakıt tipi | Benzin + LPG (monte) |
 | Şanzıman | Manuel |
 | Çekiş | 2WD |
