@@ -69,9 +69,15 @@ Alternatif anahtar: Rico 9" ~571 TL — [dgnteknikhirdavat](https://www.dgntekni
 
 | # | Nereden | Ne | Not |
 |---|---------|-----|-----|
-| **1** | **AliExpress** | **10 pcs** `14x20x1.5` veya `14x20x2` crush washer | Başlıkta açıkça **14x20** olsun (sadece “M14” yetmez). Bakır veya alüminyum OK. ~1–5 $ + kargo; 1–3 hafta. [arama](https://www.aliexpress.com/w/wholesale-14x20-oil-drain-washer-10pcs.html) |
-| **2** | **hyundaiorijinal.com.tr** | OEM **21513-23001** · **2–5 adet** | Set değil; “Uzmana sor” + şase. [ürün](https://www.hyundaiorijinal.com.tr/hyundai/yedek-parca/2151323001-yag-tapasi-contasi/) |
-| **3** | **Cepoto SMS** | Elring **726.760** stok gelince (tek/az adet) | [sayfa](https://cepoto.com/urun/726760-elring) — yağ+filtreyle birleşir |
+| **1** | **Bakıbey Otomotiv** (TR imalat) | Metrik **M14 = 14×20** bakır pul · **5–10 adet** sor | Katalogda ölçü açık. Tel/WA: **+90 543 714 24 00**. [katalog](https://www.bakibeyotomotiv.net/bakir-pul-din-7603-cu-conta-rondela-metrik-unf-inch-mm-tapa-pulu-imalat-uretim-enjektor-pul-set) |
+| **2** | **GKS Bağlantı** (İkitelli) | DIN **7603** bakır/alüminyum · **14×20** az adet | Tel: **0505 863 59 19** · [din7603](https://gksbaglanti.com/din7603) |
+| **3** | **hyundaiorijinal.com.tr** | OEM **21513-23001** · **2–5 adet** | “Uzmana sor” + şase. [ürün](https://www.hyundaiorijinal.com.tr/hyundai/yedek-parca/2151323001-yag-tapasi-contasi/) |
+| **4** | **AliExpress** | **10 pcs** `14x20x1.5` / `14x20x2` | Başlıkta **14x20** şart. [arama](https://www.aliexpress.com/w/wholesale-14x20-oil-drain-washer-10pcs.html) |
+| **5** | **Alvadi / Elart / Allpart24** (AB) | Elring **726.760** (14×20×2 Al) **tek adet** stokta | Parça ~0,4–0,8 €; **kargo** pahalı olabilir — sipariş öncesi TR kargo tutarına bak. [Alvadi](https://alvadi.ee/en/item/elring-726-760) · [Elart](https://elartcom.eu/products/seal-ring-oil-drain-plug-726-760-elring) · [Allpart24](https://www.allpart24.de/de/i23320/elring-726-760-dichtring-oelablassschraube/726-760) |
+| **6** | **Cepoto SMS** | Elring **726.760** gelince | [sayfa](https://cepoto.com/urun/726760-elring) |
+
+**Bakıbey mesaj taslağı:**  
+`Merhaba, metrik bakır pul M14 (14×20) — 10 adet istiyorum. Adet fiyatı + kargo (Kayseri)?`
 
 **hyundaiorijinal mesaj taslağı:**  
 `2012 ix35 1.6 GDI, şase: …… — yağ tapası contası 21513-23001’den 3 adet istiyorum. Fiyat + kargo?`
@@ -162,7 +168,7 @@ Edge / Mobil 1 ESP (~2.400+ TL) bu araç için şart değil.
 
 1. **Cepoto:** Magnatec 5W-30 (A5 teyit) + Mann W811/80  
 2. **Lastiksanayi:** FkF02 sehpa + Retta filtre anahtarı  
-3. **Conta:** TR’de 10’luk doğru ölçü yok denecek kadar az → **AliExpress 14×20 10pcs** veya **hyundaiorijinal 21513-23001** ×2–5  
+3. **Conta:** önce **Bakıbey / GKS** (14×20 az adet telefonla); olmazsa **hyundaiorijinal** ×2–5 veya **AliExpress 10pcs**
 4. Leğen yerel  
 
 İlk sefer alet+sarf ≈ birkaç bin TL; sonraki değişimde sadece yağ+filtre+conta.
