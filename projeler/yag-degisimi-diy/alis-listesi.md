@@ -1,19 +1,27 @@
 # Alış listesi — aynı mağaza / az kargo
 
-> Güncelleme: **2026-08-08** · Linkler HTTP ile doğrulandı (Trendyol/n11 bot engeli yüzünden uygulama içinden teyit et).  
-> Araç: 2012 ix35 1.6 GDI · yağ **5W-30 tam sentetik** · filtre **26300-35503** / Mann **W811/80** / Bosch **0451103316**.
+> Güncelleme: **2026-08-08** (conta stok yeniden kontrol) · Linkler HTTP ile doğrulandı (Trendyol/n11 bot engeli yüzünden uygulama içinden teyit et).  
+> Araç: 2012 ix35 1.6 GDI · yağ **5W-30 tam sentetik** · filtre **26300-35503** / Mann **W811/80** / Bosch **0451103316**.  
+> Conta: OEM **21513-21000** · muadil **Elring 726.760** / **Febi 32456** · ölçü **14×20×2** (alüminyum crush washer). **Tapa vidası değil, sadece pul.**
 
 **Önemli:** Aynı uygulamada (Trendyol vb.) farklı satıcı = çoğu zaman **ayrı kargo**. Gerçek tasarruf = **aynı satıcı / aynı site sepeti** veya her kalemde “kargo bedava”.
 
 ---
 
-## Önerilen plan: 2 sipariş + yerel
+## Önerilen plan: 3 sipariş
 
 | # | Nereden | Ne | Neden |
 |---|---------|-----|--------|
 | **1** | **Cepoto** | Yağ + filtre | Tek site, tek kargo; Mann + Castrol var |
 | **2** | **Lastiksanayi** | Sehpa + filtre anahtarı | İkisi de stokta; tek sipariş |
-| **3** | **Yerel** | Conta + leğen | Birkaç TL / yapı market — kargo yazma |
+| **3** | **ParcaTedarik** | Conta (Febi 32456) | Cepoto/Lastiksanayi’de doğru conta **yok / stoksuz** |
+
+**Conta stok gerçeği (kontrol anı):**
+- Cepoto **Elring 726.760** → **STOK YOK** ([sayfa](https://cepoto.com/urun/726760-elring))
+- Cepoto’da stokta görünen **114.600** → **14×18** bakır — ix35 için **yanlış**, alma
+- Cepoto Blueprint **ADH20102** / Elring **243.600** (OEM çaprazı) → **STOK YOK**
+- **Lastiksanayi** → tapa/conta kategorisi yok (arama 404); sehpa+anahtar sepetine **eklenemez**
+- **parcacidan** → karter tapa pulu sonucu yok
 
 ---
 
@@ -40,7 +48,7 @@ Alternatif (yine tek site): **parcacidan** — Shell HX8 4 L + Bosch filtre (ix3
 | Sehpa | **FkF02 3 ton ×2** (4 ayaklı) | ~1.794 TL | Stokta | [lastiksanayi FkF02](https://www.lastiksanayi.com/3-ton-arac-alti-sehpa-2-adet-fk) |
 | Anahtar | **Retta RVF6111** vidalı 60–110 mm | ~738 TL | Stokta | [lastiksanayi Retta](https://www.lastiksanayi.com/vidali-yag-filtre-anahtari-60-110-mm-retta) |
 
-İkisini aynı sepete koy → tek kargo.
+İkisini aynı sepete koy → tek kargo. Conta buraya **girmez**.
 
 Alternatif sehpa (stok sor): DHT D12010003 ~1.530–1.650 TL  
 - [hirdavat20](https://www.hirdavat20.com/dht-3-ton-kriko-standi-1-cift-d12010003-araba-sehpasi-pmu13)  
@@ -51,12 +59,17 @@ Alternatif anahtar: Rico 9" ~571 TL — [dgnteknikhirdavat](https://www.dgntekni
 
 ---
 
-## Yerel (kargo yok)
+## Sipariş 3 — Conta (Cepoto/Lastiksanayi’ye ortak edilemiyor)
 
-| Kalem | Ne al |
-|-------|--------|
-| Conta | **M14** bakır tapa pulu (14×20 civarı) — sanayi / nalbur |
-| Yağ kabı | ≥8–10 L plastik leğen + kapaklı bidon (Koçtaş / BM / yapı market) |
+| Tercih | Ürün | ~Fiyat | Stok | Not | Link |
+|--------|------|--------|------|-----|------|
+| **1 (önerilen)** | **Febi 32456** alüminyum tapa conta | ~19 TL/adet | **STOKTA VAR** | OEM listesinde **21513-21000** var; sitede ölçü **14,4×22×2** yazıyor (OEM ideal **14×20×2**). Crush washer — OD biraz büyük genelde oturur. **Min. sipariş 10 adet** (~190 TL) | [parcatedarik Febi 32456](https://parcatedarik.com/febi-bilstein--32456-karter-yag-tapa-contasi-3600377) |
+| 2 | DIN 7603 **M14 / 14×20** bakır pul | sanayi fiyatı | imalat / paket | Doğru dış çap; bakır da olur. Cepoto sepetine girmez | [Bakibey metrik bakır](https://www.bakibeyotomotiv.net/metrik-bakir-pul-unf-din-7603-cu) · [Pınar Pul 14×20](http://www.pinarpul.com/tr/UrunDetay/64/14_METRIK_BAKIR_PUL) |
+| 3 | Hyundai bayi OEM **21513-21000** | bayi fiyatı | sor | En temiz çözüm; tek parça | Bayi / orijinal parça |
+
+**Alma:** Cepoto [Elring 114.600](https://cepoto.com/urun/114600-elring) (stokta ama **14×18**).
+
+Leğen: ≥8–10 L plastik + kapaklı bidon — yapı market / BM (kargo yazmaya değmez).
 
 ---
 
@@ -97,7 +110,8 @@ Edge / Mobil 1 ESP (~2.400+ TL) bu araç için şart değil.
 
 1. **Cepoto:** Magnatec 5W-30 (A5 teyit) + Mann W811/80  
 2. **Lastiksanayi:** FkF02 sehpa + Retta filtre anahtarı  
-3. **Yerel:** M14 conta + leğen  
+3. **ParcaTedarik:** Febi 32456 ×10 (veya Bakibey/Pınar 14×20 bakır / Hyundai bayi OEM)  
+4. Leğen yerel  
 
 İlk sefer alet+sarf ≈ birkaç bin TL; sonraki değişimde sadece yağ+filtre+conta.
 
@@ -107,9 +121,12 @@ Edge / Mobil 1 ESP (~2.400+ TL) bu araç için şart değil.
 
 | Link tipi | Durum |
 |-----------|--------|
+| Cepoto Elring **726.760** | Sayfa var, **STOK YOK** |
+| Cepoto Elring **114.600** | Stokta ama ölçü **yanlış** (14×18) |
 | lastiksanayi Rico 013-KK1117 | **404** |
 | lastiksanayi DHT D12010003 sayfası | **404** |
 | lastiksanayi NT Tools yağ leğeni | **404** |
+| lastiksanayi “tapa conta / bakır pul” arama | **404** — bu sitede yok |
 | indirimli.com | Karşılaştırma; mağaza değil |
 | HırdavatDükkan DHT / WorldForce sehpa | Sayfa var ama **stokta yok** (kontrol anı) |
 | Trendyol Magnatec C2/S1 | Spec yanlış olabilir |
@@ -120,6 +137,6 @@ Edge / Mobil 1 ESP (~2.400+ TL) bu araç için şart değil.
 
 1. Yağ etiketinde **5W-30** + tam sentetik + tercihen **A5/B5** (veya A3/B4).  
 2. Filtre: **26300-35503** / W811/80 / Bosch 0451103316.  
-3. Conta **M14**.  
+3. Conta: OEM **21513-21000** / **14×20** (14×18 alma).  
 4. Sehpa: **2 adet**, pimli, 3 ton sınıfı.  
 5. Aynı sitede sepeti birleştir; Trendyol’da satıcı adına bak.
