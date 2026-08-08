@@ -1,125 +1,125 @@
-# Alış listesi — fiyat/performans linkler (TR)
+# Alış listesi — aynı mağaza / az kargo
 
-> Araştırma tarihi: **2026-08-08**. Fiyatlar hızlı değişir; sipariş öncesi stok + satıcı puanı kontrol et.  
-> Araç: 2012 ix35 1.6 GDI · hedef yağ **5W-30 tam sentetik** · filtre OEM **26300-35503** / Mann **W811/80**.
+> Güncelleme: **2026-08-08** · Linkler HTTP ile doğrulandı (Trendyol/n11 bot engeli yüzünden uygulama içinden teyit et).  
+> Araç: 2012 ix35 1.6 GDI · yağ **5W-30 tam sentetik** · filtre **26300-35503** / Mann **W811/80** / Bosch **0451103316**.
 
-**Öneri sırası:** her kategoride üstteki = fiyat/performans birincil tercih.
-
----
-
-## 1) Motor yağı — 5W-30 · 4 L · tam sentetik
-
-Spec: API SN/SP+ · tercihen ACEA **A5/B5**. Edge / Mobil 1 ESP bu araç için şart değil (2× fiyat).
-
-| Sıra | Ürün | ~Fiyat | Link |
-|------|------|--------|------|
-| **1** | **Castrol Magnatec Stop-Start 5W-30 A5 4 L** | ~1.050–1.300 TL | [indirimli.com karşılaştırma](https://indirimli.com/urun/castrol-magnatec-stop-start-5w-30-a5-4-lt-motor-yagi) · [uzmanparca](https://www.uzmanparca.com/urun/castrol-magnatec-5w30-a5-motor-ya%C4%9F%C4%B1-4-litre-yeni-ambalaj_10882) · [madeniyagfiltre](https://madeniyagfiltre.com.tr/castrol-magnatec-a5-5w-30-start-stop-4-litre/) |
-| **2** | **Shell Helix HX8 Synthetic 5W-30 4 L** | ~1.250–1.500 TL | [parcacidan ~1.350 TL](https://www.parcacidan.com/urun/helix-hx8-5w30-tam-sentetik-motor-yagi-4-litre-5011987029477) · [indirimli.com](https://indirimli.com/urun/shell-helix-hx8-synthetic-5w-30-4-lt-motor-yagi) · [tozlumadeniyag](https://www.tozlumadeniyag.com/urun/shell-helix-hx8-5w-30-tam-sentetik-motor-yagi-4l-979) |
-| 3 (isteğe) | Mobil 1 / Castrol Edge 5W-30 | ~2.400–2.600 TL | Premium; bütçe sıkıysa alma |
-
-**Alma:** 10W-40 mineral, “LPG özel” 20W-50, sahte ambalaj (çok ucuz + bilgisiz satıcı).
+**Önemli:** Aynı uygulamada (Trendyol vb.) farklı satıcı = çoğu zaman **ayrı kargo**. Gerçek tasarruf = **aynı satıcı / aynı site sepeti** veya her kalemde “kargo bedava”.
 
 ---
 
-## 2) Yağ filtresi — OEM 26300-35503 sınıfı
+## Önerilen plan: 2 sipariş + yerel
 
-| Sıra | Ürün | ~Fiyat | Link |
-|------|------|--------|------|
-| **1** | **Mann W811/80** | ~180–370 TL | [cepoto (ix35 1.6 GDI listeli)](https://cepoto.com/urun/w81180-mann) · [parcatedarik ~236 TL](https://parcatedarik.com/mann-filter-w81180-yag-filtresi-accent-1-3-1-5-1-6-94-05-era-1-4-gl-1-6gls-elantra-1-6-1-8-2-0-getz-1-3-1-4-1-6-i20-2630022800-2630035531-0rf0323802-2) · [indirimli.com](https://indirimli.com/urun/mann-filter-yag-filtresi-w811-80) |
-| **2** | **Bosch 0 451 103 316** | ~160–210 TL | [otoparcasan ~208 TL](https://otoparcasan.com/yag-filtresi-bosch-0451103316) · [alpar ~201 TL](https://www.alparotoyedekparca.com/bosch-yag-filtresi-0451103316-getz-1.3-1.4-1.6-i20-i30-1.4) |
-| **3** | **Mando MOF4459 / 26300-35503** | ~150–230 TL | [Trendyol Mando](https://www.trendyol.com/mando/mof4459-26300-35503-yag-filtresi-accent-getz-elantra-cerato-rio-ceed-hyund-p-67891538) |
-
-İsimsiz “çok ucuz filtre” alma. Siparişte **ix35 1.6 GDI / 26300-35503** yazıp satıcıya teyit ettir.
+| # | Nereden | Ne | Neden |
+|---|---------|-----|--------|
+| **1** | **Cepoto** | Yağ + filtre | Tek site, tek kargo; Mann + Castrol var |
+| **2** | **Lastiksanayi** | Sehpa + filtre anahtarı | İkisi de stokta; tek sipariş |
+| **3** | **Yerel** | Conta + leğen | Birkaç TL / yapı market — kargo yazma |
 
 ---
 
-## 3) Drenaj tapa contası (crush washer)
+## Sipariş 1 — Cepoto (yağ + filtre)
 
-Ölçü tipik: **M14** bakır pul (**14×20×1,5** civarı). Arabada tapa dişini doğrula.
+| Kalem | Ürün | Not | Link |
+|-------|------|-----|------|
+| Yağ | Castrol Magnatec Start/Stop **5W-30 4 L** (kod 15C964) | Siparişte WhatsApp’tan **A5** olduğunu teyit et; C2/C3 alma | [cepoto.com/…magnatec…](https://cepoto.com/urun/castrol-magnatec-start-stop-5w-30-4-litre) |
+| Filtre | **Mann W811/80** | ix35 1.6 GDI listeli | [cepoto.com/…w81180-mann](https://cepoto.com/urun/w81180-mann) |
 
-| Sıra | Nereden | Link / arama |
-|------|---------|----------------|
-| **1** | Yerel yedek parça / nalbur | “M14 bakır tapa pulu” — birkaç TL, en ucuz ve hızlı |
-| **2** | Bakır pul imalat / toptan | [bakibeyotomotiv — m14 14×20](https://www.bakibeyotomotiv.net/bakir-pul-din-7603-cu-conta-rondela-metrik-unf-inch-mm-tapa-pulu-imalat-uretim-enjektor-pul-set) |
-| **3** | Trendyol paket | [Bakır conta arama](https://www.trendyol.com/bakir-conta-y-s309311) — **M14 / 14×20** yaz; manyetik tapa seti şart değil |
+Alternatif (yine tek site): **parcacidan** — Shell HX8 4 L + Bosch filtre (ix35 yazıyor).
 
-Contasız sıkma → sızıntı. Eski contayı tekrar kullanma.
-
----
-
-## 4) Araç altı sehpa (jack stand) ×2 — **zorunlu**
-
-SUV için **3 ton** sınıfı tercih et. 2 ton “arabaya yeter” deme; güvenlik payı lazım.  
-**Sadece kriko ile altına yatılmaz.**
-
-| Sıra | Ürün | ~Fiyat | Link |
-|------|------|--------|------|
-| **1** | **DHT 3 ton 2’li** (D12010003) | ~1.300–1.550 TL | [Trendyol sehpa listesi](https://www.trendyol.com/arac-alti-sehpa-y-s291786) · [hirdavat20 ~1.530 TL](https://www.hirdavat20.com/dht-3-ton-kriko-standi-1-cift-d12010003-araba-sehpasi-pmu13) · [viktec](https://www.viktec.com.tr/urun/3-ton-kriko-standi-arac-alti-sehpa-d12010003) |
-| **2** | **FkF02 3 ton 2’li** (4 ayaklı) | ~1.790 TL | [lastiksanayi](https://www.lastiksanayi.com/3-ton-arac-alti-sehpa-2-adet-fk) |
-| **3** | **Rico 3 ton 2’li** | ~1.900 TL | [Trendyol Rico](https://www.trendyol.com/rico/3-ton-arac-alti-sehpa-kriko-standi-2-adet-p-639497063) |
-
-Satın alırken: **pimli kilit**, geniş ayak, “2 adet set” yazısı. Bazı ilanlarda “3 ton = çift toplam” yazabiliyor — ürün açıklamasını oku.
+| Kalem | ~Fiyat | Link |
+|-------|--------|------|
+| Shell Helix HX8 5W-30 4 L | ~1.350 TL | [parcacidan HX8](https://www.parcacidan.com/urun/helix-hx8-5w30-tam-sentetik-motor-yagi-4-litre-5011987029477) |
+| Bosch 0451103316 (OEM 26300-35500 sınıfı) | ~155 TL | [parcacidan Bosch / ix35](https://www.parcacidan.com/urun/hyundai-kia-benzinli-genel-yag-filtresi-26300-35500) |
 
 ---
 
-## 5) Yağ filtresi anahtarı (kayışlı)
+## Sipariş 2 — Lastiksanayi (sehpa + anahtar)
 
-| Sıra | Ürün | ~Fiyat | Link |
-|------|------|--------|------|
-| **1** | **Rico kayışlı 9"** (013-KK1117) | ~470–590 TL | [rico-magaza ~473 TL](https://rico-magaza.com.tr/urun/rico-kayisli-yag-filtre-sokme-anahtari-9/) · [lastiksanayi ~590 TL](https://www.lastiksanayi.com/rico-013-kk1117-kayisli-kemerli-filtre-anahtari-9) · [Trendyol Rico 9"](https://www.trendyol.com/rico/kemerli-yag-filtre-sokme-takma-anahtari-9-p-374165958) |
-| **2** | Rico 12" (daha geniş kavrama) | ~760 TL | [hakantorna](https://www.hakantorna.com.tr/urun/rico-kayisli-yag-filtre-sokme-anahtari-12/) |
-| 3 | İzeltaş kayışlı | pahalı | DIY için gerekmez; Rico yeter |
+| Kalem | Ürün | ~Fiyat | Stok | Link |
+|-------|------|--------|------|------|
+| Sehpa | **FkF02 3 ton ×2** (4 ayaklı) | ~1.794 TL | Stokta | [lastiksanayi FkF02](https://www.lastiksanayi.com/3-ton-arac-alti-sehpa-2-adet-fk) |
+| Anahtar | **Retta RVF6111** vidalı 60–110 mm | ~738 TL | Stokta | [lastiksanayi Retta](https://www.lastiksanayi.com/vidali-yag-filtre-anahtari-60-110-mm-retta) |
 
-Zincirli de olur; kayışlı genelde filtreye daha az zarar verir.
+İkisini aynı sepete koy → tek kargo.
 
----
+Alternatif sehpa (stok sor): DHT D12010003 ~1.530–1.650 TL  
+- [hirdavat20](https://www.hirdavat20.com/dht-3-ton-kriko-standi-1-cift-d12010003-araba-sehpasi-pmu13)  
+- [atolyeteam ~1.650 TL, stokta](https://www.atolyeteam.com/dht-3-ton-arac-alti-sehpasi-kriko-standi-d12010003)  
 
-## 6) Yağ boşaltma kabı / leğen (≥5 L)
-
-Profesyonel 100 L tank alma. Geniş ağızlı plastik leğen veya ≥8–10 L yağ toplama tavası yeter.
-
-| Sıra | Seçenek | Link / not |
-|------|---------|------------|
-| **1** | Geniş plastik leğen / tepsi (yapı market, Koçtaş, BM) | Yerel — en ucuz; ≥5 L, mümkünse 8–10 L |
-| **2** | Servis tipi yağ toplama leğeni | [Lastiksanayi yağ boşaltma kategorisi](https://www.lastiksanayi.com/) içinde “yağ toplama leğeni” ara (NT Tools vb.) |
-| **3** | Atık yağ saklama (boşaltmadan sonra) | Kapaklı 5 L teneke: [Trendyol örnek](https://www.trendyol.com/pause-art-home/5-lt-yag-tenekesi-baskisiz-5000-cc-zeytinyag-tenekesi-kapakli-ici-bos-p-779707394) — boşaltırken değil, **taşımak** için |
-
-Boşaltırken geniş leğen; taşımak için kapaklı bidon. Belediye / sanayi atık yağ noktasına götür.
+Alternatif anahtar: Rico 9" ~571 TL — [dgnteknikhirdavat](https://www.dgnteknikhirdavat.com/urun/rico-kemerli-filtre-anahtari-9)  
+*(Lastiksanayi’deki eski Rico linki 404; kullanma.)*
 
 ---
 
-## 7) Küçükler (opsiyonel ama işe yarar)
+## Yerel (kargo yok)
 
-| Kalem | Not |
-|-------|-----|
-| Huni | Plastik huni yeter; Rico metal 2 L şart değil |
-| Eldiven + bez | Nalbur |
-| 17 mm lokma | Tapa genelde 17 mm — arabada doğrula |
-| Tekerlek takozu | 2 adet veya kalas |
+| Kalem | Ne al |
+|-------|--------|
+| Conta | **M14** bakır tapa pulu (14×20 civarı) — sanayi / nalbur |
+| Yağ kabı | ≥8–10 L plastik leğen + kapaklı bidon (Koçtaş / BM / yapı market) |
 
 ---
 
-## Minimum sepet (fiyat/performans)
+## Trendyol — tek uygulama, ama satıcıya bak
 
-| Kalem | Tercih | ~Toplam bandı |
-|-------|--------|----------------|
-| Yağ 4 L | Magnatec 5W-30 A5 | ~1.050–1.300 |
-| Filtre | Mann W811/80 veya Bosch | ~180–370 |
-| Conta | M14 bakır | ~10–50 |
-| Sehpa 2’li | DHT 3 ton | ~1.300–1.550 |
-| Filtre anahtarı | Rico 9" | ~470–590 |
-| Leğen | yerel | ~50–200 |
-| **İlk sefer (alet+sarf)** | | **~3.100–4.000 TL** |
-| **Sonraki değişim (sadece sarf)** | | **~1.300–1.700 TL** |
+Hepsi Trendyol’da; **aynı satıcıdan** seçersen tek kargo. Değilse çoğu “kargo bedava” — yine de paket ayrı gelebilir.
 
-Krikon varsa sehpa + anahtar bir kez alınır; 2. değişimden itibaren usta işçiliğinden ucuza gelir.
+| Kalem | Doğrulanmış ürün sayfası | ~Fiyat |
+|-------|--------------------------|--------|
+| Filtre Mann W811/80 | [p-51906757](https://www.trendyol.com/mann-filter/w811-80-26300-35056-hyundai-accent-era-getz-benzinli-yag-filtresi-p-51906757) | ~385 TL |
+| Filtre Mando 26300-35503 | [p-67891538](https://www.trendyol.com/mando/mof4459-26300-35503-yag-filtresi-accent-getz-elantra-cerato-rio-ceed-hyund-p-67891538) | ~230 TL bandı |
+| Filtre anahtarı Rico 9" | [p-374165958](https://www.trendyol.com/rico/kemerli-yag-filtre-sokme-takma-anahtari-9-p-374165958) | ~785 TL |
+| Sehpa Rico 3 ton ×2 | [p-639497063](https://www.trendyol.com/rico/3-ton-arac-alti-sehpa-kriko-standi-2-adet-p-639497063) | ~1.900 TL |
+| Sehpa DHT 3 ton | [arama: araç altı sehpa](https://www.trendyol.com/arac-alti-sehpa-y-s291786) → “DHT 3 Ton … 2 Adet” (~1.200–1.350 sepette) | satıcı/stok kontrol |
+| Yağ Shell HX8 5W-30 4L | [Shell Helix listesi](https://www.trendyol.com/shell-helix-motor-yagi-y-s276320) → **HX8 5W-30 4L** (~1.300 TL) | **ECT C3 / Ultra değil**; HX8 Synthetic |
+
+**Trendyol’da Magnatec dikkat:** Çıkanlar çoğu **C2 / S1**. Senin için istenen **A5**. Yanlış spec alma.
 
 ---
 
-## Sipariş öncesi kontrol
+## Başka yerde belirgin ucuzsa (ayrı kargo olabilir)
 
-1. Yağ etiketinde **5W-30** + **tam sentetik** + API **SN/SP** (A5/B5 bonus).  
-2. Filtre kodu **26300-35503** / W811/80 / Bosch 0451103316 — satıcı teyidi.  
+Sadece **fark kargo ücretinden büyükse** ayır:
+
+| Ürün | ~Fiyat | Link | Not |
+|------|--------|------|-----|
+| Magnatec A5 4 L | ~666 TL (indirimli görünüyor) | [motoroil.com.tr](https://www.motoroil.com.tr/castrol-magnatec-stopstart-5w-30-a5-4-litre-motor-yagi) | **Çok ucuz** — üretim yılı / orijinallik / stok teyit et. 750 TL üzeri kargo bedava yazıyor |
+| Magnatec A5 4 L | ~1.050 TL bandı | [pttavm Magnatec A5](https://www.pttavm.com/castrol-magnatec-stop-start-5w-30-a5-4-lt-motor-yagi-2024-p-1400143869) | Karşılaştırmada sık dip; kargo bedava iddiası |
+| Magnatec A5 4 L | — | [n11 Magnatec A5](https://www.n11.com/urun/castrol-magnatec-stop-start-5w-30-a5-tam-sentetik-motor-yagi-4-l-2424517) | A5 yazıyor; mağaza puanı bak |
+| HX8 5W-30 4 L | ~1.045 TL | [yagmarket](https://www.yagmarket.com/shell-helix-hx8-5w-30-4-l) | “Stok-fiyat sorunuz” — sipariş öncesi sor |
+| Bosch filtre | ~208 TL | [otoparcasan](https://otoparcasan.com/yag-filtresi-bosch-0451103316) | Cepoto/parcacidan ile birleştirilemiyorsa gerek yok |
+
+Edge / Mobil 1 ESP (~2.400+ TL) bu araç için şart değil.
+
+---
+
+## Özet sepet (pratik)
+
+1. **Cepoto:** Magnatec 5W-30 (A5 teyit) + Mann W811/80  
+2. **Lastiksanayi:** FkF02 sehpa + Retta filtre anahtarı  
+3. **Yerel:** M14 conta + leğen  
+
+İlk sefer alet+sarf ≈ birkaç bin TL; sonraki değişimde sadece yağ+filtre+conta.
+
+---
+
+## Bozuk / kullanma (önceki listeden)
+
+| Link tipi | Durum |
+|-----------|--------|
+| lastiksanayi Rico 013-KK1117 | **404** |
+| lastiksanayi DHT D12010003 sayfası | **404** |
+| lastiksanayi NT Tools yağ leğeni | **404** |
+| indirimli.com | Karşılaştırma; mağaza değil |
+| HırdavatDükkan DHT / WorldForce sehpa | Sayfa var ama **stokta yok** (kontrol anı) |
+| Trendyol Magnatec C2/S1 | Spec yanlış olabilir |
+
+---
+
+## Sipariş öncesi
+
+1. Yağ etiketinde **5W-30** + tam sentetik + tercihen **A5/B5** (veya A3/B4).  
+2. Filtre: **26300-35503** / W811/80 / Bosch 0451103316.  
 3. Conta **M14**.  
-4. Sehpa **2 adet**, pimli, 3 ton sınıfı.  
-5. Sahte yağ: çok ucuz + fotoğrafı bulanık ambalaj → geç.
+4. Sehpa: **2 adet**, pimli, 3 ton sınıfı.  
+5. Aynı sitede sepeti birleştir; Trendyol’da satıcı adına bak.
