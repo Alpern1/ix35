@@ -14,14 +14,15 @@
 |---|---------|-----|--------|
 | **1** | **Cepoto** | Yağ + filtre | Tek site, tek kargo; Mann + Castrol var |
 | **2** | **Lastiksanayi** | Sehpa + filtre anahtarı | İkisi de stokta; tek sipariş |
-| **3** | **ParcaTedarik** | Conta (Febi 32456) | Cepoto/Lastiksanayi’de doğru conta **yok / stoksuz** |
+| **3** | **Conta (ayrı)** | OEM kodlu veya ölçü yazılı paket | Cepoto/Lastiksanayi’de doğru conta yok; yerel “M14 ver” riskine girme |
 
 **Conta stok gerçeği (kontrol anı):**
-- Cepoto **Elring 726.760** → **STOK YOK** ([sayfa](https://cepoto.com/urun/726760-elring))
+- Cepoto **Elring 726.760** → **STOK YOK** ([sayfa](https://cepoto.com/urun/726760-elring)) — “gelince SMS” bırakılabilir
 - Cepoto’da stokta görünen **114.600** → **14×18** bakır — ix35 için **yanlış**, alma
 - Cepoto Blueprint **ADH20102** / Elring **243.600** (OEM çaprazı) → **STOK YOK**
-- **Lastiksanayi** → tapa/conta kategorisi yok (arama 404); sehpa+anahtar sepetine **eklenemez**
+- **Lastiksanayi** → tapa/conta yok; sehpa+anahtar sepetine **eklenemez**
 - **parcacidan** → karter tapa pulu sonucu yok
+- **ParcaTedarik** → stok görünüyor ama pratikte **ticari/B2B** ağırlıklı; perakende için güvenilir seçenek sayma
 
 ---
 
@@ -59,17 +60,24 @@ Alternatif anahtar: Rico 9" ~571 TL — [dgnteknikhirdavat](https://www.dgntekni
 
 ---
 
-## Sipariş 3 — Conta (Cepoto/Lastiksanayi’ye ortak edilemiyor)
+## Sipariş 3 — Conta (ortak edilemiyor; kod/ölçü yazılı al)
 
-| Tercih | Ürün | ~Fiyat | Stok | Not | Link |
-|--------|------|--------|------|-----|------|
-| **1 (önerilen)** | **Febi 32456** alüminyum tapa conta | ~19 TL/adet | **STOKTA VAR** | OEM listesinde **21513-21000** var; sitede ölçü **14,4×22×2** yazıyor (OEM ideal **14×20×2**). Crush washer — OD biraz büyük genelde oturur. **Min. sipariş 10 adet** (~190 TL) | [parcatedarik Febi 32456](https://parcatedarik.com/febi-bilstein--32456-karter-yag-tapa-contasi-3600377) |
-| 2 | DIN 7603 **M14 / 14×20** bakır pul | sanayi fiyatı | imalat / paket | Doğru dış çap; bakır da olur. Cepoto sepetine girmez | [Bakibey metrik bakır](https://www.bakibeyotomotiv.net/metrik-bakir-pul-unf-din-7603-cu) · [Pınar Pul 14×20](http://www.pinarpul.com/tr/UrunDetay/64/14_METRIK_BAKIR_PUL) |
-| 3 | Hyundai bayi OEM **21513-21000** | bayi fiyatı | sor | En temiz çözüm; tek parça | Bayi / orijinal parça |
+Yerel nalbur riski gerçek: “M14 bakır” deyince çoğu **14×18** verir (Cepoto’daki 114.600 gibi). Çözüm: **üzerinde kod veya 14×20 yazan** paket / OEM torba — gelince kumpasla 2 sn ölçersin, yanlışsa iade.
 
-**Alma:** Cepoto [Elring 114.600](https://cepoto.com/urun/114600-elring) (stokta ama **14×18**).
+| Tercih | Ürün | ~Fiyat | Neden güvenilir | Link |
+|--------|------|--------|-----------------|------|
+| **1 (en temiz)** | Hyundai OEM **21513-23001** (eski **21513-21000** yerine geçen) | sor / “Uzmana sor” | Torba/etikette **OEM kod** yazar; şase ile teyit ettir, **5–10 adet** söyle | [hyundaiorijinal 2151323001](https://www.hyundaiorijinal.com.tr/hyundai/yedek-parca/2151323001-yag-tapasi-contasi/) |
+| **2 (ölçü yazılı, ucuz paket)** | Sadece **m14 / 14×20** bakır (10–50 adet) | üreticiye sor | Sayfada ölçü net: **m14 = 14×20**. WhatsApp’tan “sadece 14×20, 20 adet kargo” de | [Bakibey m14 14×20](https://www.bakibeyotomotiv.net/metrik-bakir-pul-unf-din-7603-cu) · [Pınar 14 metrik](http://www.pinarpul.com/tr/UrunDetay/64/14_METRIK_BAKIR_PUL) |
+| **3 (evde dursun set)** | **Worldforce 11081** bakır pul seti 400 p. | ~3.400–3.650 TL | İçerik listesinde açıkça **14×20×1 (10 adet)** var (+ 14×18 ayrı; karıştırma). Perakende sepet: [bin1 stokta](https://www.bin1.com.tr/urun/worldforce-11081-bakir-pul-seti-400-parca-4093) · [worldforce](https://www.worldforce.com.tr/urun/bakir-pul-seti-400-parca) · [al.com.tr](https://www.al.com.tr/urun/worldforce-bakir-pul-seti-400-parca) |
+| 4 (orta set) | Metrik bakır pul seti 116 adet (içinde **14mm**) | ~1.140 TL | Sepet var ama **“stok sorunuz”** — yazıp sor | [hidrolikdunyasi set](https://www.hidrolikdunyasi.com/urun/metrik-bakir-pul-set) |
 
-Leğen: ≥8–10 L plastik + kapaklı bidon — yapı market / BM (kargo yazmaya değmez).
+**Kullanma / düş:**
+- Cepoto [Elring 114.600](https://cepoto.com/urun/114600-elring) → **14×18**
+- Tanca **Febi 39733** → VW ölçüsü, ix35 değil
+- Stark / Würth 14×20 → doğru ölçü ama **“sadece ticari”**
+- ParcaTedarik Febi 32456 → ölçü/OEM çaprazı var ama B2B; gerek yok
+
+Leğen: ≥8–10 L plastik + kapaklı bidon — yapı market / BM.
 
 ---
 
@@ -110,7 +118,7 @@ Edge / Mobil 1 ESP (~2.400+ TL) bu araç için şart değil.
 
 1. **Cepoto:** Magnatec 5W-30 (A5 teyit) + Mann W811/80  
 2. **Lastiksanayi:** FkF02 sehpa + Retta filtre anahtarı  
-3. **ParcaTedarik:** Febi 32456 ×10 (veya Bakibey/Pınar 14×20 bakır / Hyundai bayi OEM)  
+3. **Conta:** hyundaiorijinal **21513-23001** ×5–10 **veya** Bakibey/Pınar sadece **14×20** paket (Worldforce set sadece “evde dursun” dersen)  
 4. Leğen yerel  
 
 İlk sefer alet+sarf ≈ birkaç bin TL; sonraki değişimde sadece yağ+filtre+conta.
