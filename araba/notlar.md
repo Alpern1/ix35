@@ -16,6 +16,7 @@
 - **Smart Key + START/STOP** — walk-away otomatik kilit için uygun donanım mevcut.
 - **Otomatik klima** — uzaktan çalıştırmada avantaj sağlar ama Blue Link tarzı uygulamadan sıcaklık ayarı bu araçta mümkün değil (detay: proje dosyası).
 - **2012 model** — fabrika telematik (Blue Link) yok.
+- **Yağ değişimi DIY:** [projeler/yag-degisimi-diy/README.md](../projeler/yag-degisimi-diy/README.md) — 5W-30 sentetik ~3,6 L; **kriko sehpası şart**.
 
 ## Araştırma Linkleri
 
@@ -23,4 +24,4 @@
 
 ---
 
-*Son güncelleme: 2026-07-09*
+*Son güncelleme: 2026-08-08 — yağ değişimi DIY*
