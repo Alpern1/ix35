@@ -82,6 +82,20 @@ Alternatif anahtar: Rico 9" ~571 TL — [dgnteknikhirdavat](https://www.dgntekni
 **hyundaiorijinal mesaj taslağı:**  
 `2012 ix35 1.6 GDI, şase: …… — yağ tapası contası 21513-23001’den 3 adet istiyorum. Fiyat + kargo?`
 
+### Alternatif ölçü: **14×22** (iç×dış) — kabul edilebilir plan B
+
+OEM/ideal **14×20**; **14×22** biraz daha geniş dış çap — tapa başının altına oturursa genelde sızdırmaz. Kodlar: Febi **32456** / Blue Print **ADH20102** / Honda OEM **94109-14000** tarzı (~**14×22×2** Al). **14×18 alma.**
+
+| # | Nereden | Ne | Not |
+|---|---------|-----|-----|
+| **A** | **Çapa Yedek Parça** | Bakır pul **14.2×22×1** · ~14–16 TL · **23 adet stok** · Sepete | Perakende net bulgu. Kalınlık **1 mm** (ideal 1,5–2); sıkı ama abartmadan sık. [ürün](https://capayedekparcam.com.tr/antrac-capa-makinalari-yedekparca/200-350-360/govde-dumen-grubu/prd-bakir-pul-14-2x22x1-20404670016) |
+| **B** | **Amazon.com.tr Keenso 10’lu** | **94109-14000** için 14 mm Al crush · tipik **14×22×2** | Başlıkta/ölçüde **dış 22** teyit et (sadece “M14” yetmez). Arama: `Keenso 94109-14000` |
+| **C** | **AliExpress** | `14x22x2` oil drain washer **10 pcs** | Başlıkta **14x22** yazacak |
+| **D** | **Bakıbey / GKS** | Telefonda **14×22** (veya 14×20) **5–10 adet** sor | Aynı hatlar; ölçü söyle |
+| **E** | **ParcaTedarik / AB** | Febi **32456** (14,4×22×2) | ParcaTedarik **B2B**; AB’de tek adet var ama kargo pahalı |
+
+**Pratik:** Conta şart değil (eski pul OK). Yeni alacaksan: **14×20** yoksa **Çapa 14.2×22** veya **Keenso 10’lu (22 teyit)** — 200’lük sete gerek yok.
+
 ### Bizlik değil (ele — senin teyidinle)
 
 | Ne | Neden |
