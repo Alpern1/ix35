@@ -65,21 +65,24 @@ Alternatif anahtar: Rico 9" ~571 TL — [dgnteknikhirdavat](https://www.dgntekni
 **İstenen:** 14×20, az adet (5–20), internet, set değil.  
 **TR gerçeği (2026-08):** Marketplace’teki “M14 10’lu”ların çoğu **14×18** (Amazon Site Hırdavat dahil — bizlik değil). DIN/hırdavat siteleri **200’lük kutu / 500 TL min sepet**. Cepoto Elring **726.760** doğru ama **stoksuz**.
 
-### Bizlik kalan seçenekler
+### Bizlik kalan seçenekler (küçük paket)
 
 | # | Nereden | Ne | Not |
 |---|---------|-----|-----|
-| **1** | **AliExpress** | **10 pcs** `14x20x1.5` veya `14x20x2` crush washer / oil drain gasket | Başlıkta **14x20** yazacak. ~1–5 $ + kargo; 1–3 hafta. Arama: [14x20 oil drain 10pcs](https://www.aliexpress.com/w/wholesale-14x20-oil-drain-washer-10pcs.html) |
-| **2** | **hyundaiorijinal.com.tr** | OEM **21513-23001** · 2–5 adet söyle | Set değil; “Uzmana sor” + şase. [2151323001](https://www.hyundaiorijinal.com.tr/hyundai/yedek-parca/2151323001-yag-tapasi-contasi/) |
-| **3** | **Cepoto SMS** | Elring **726.760** gelince | [sayfa](https://cepoto.com/urun/726760-elring) — “gelince SMS”; yağ+filtreyle birleşir |
+| **1** | **AliExpress** | **10 pcs** `14x20x1.5` veya `14x20x2` crush washer | Başlıkta açıkça **14x20** olsun (sadece “M14” yetmez). Bakır veya alüminyum OK. ~1–5 $ + kargo; 1–3 hafta. [arama](https://www.aliexpress.com/w/wholesale-14x20-oil-drain-washer-10pcs.html) |
+| **2** | **hyundaiorijinal.com.tr** | OEM **21513-23001** · **2–5 adet** | Set değil; “Uzmana sor” + şase. [ürün](https://www.hyundaiorijinal.com.tr/hyundai/yedek-parca/2151323001-yag-tapasi-contasi/) |
+| **3** | **Cepoto SMS** | Elring **726.760** stok gelince (tek/az adet) | [sayfa](https://cepoto.com/urun/726760-elring) — yağ+filtreyle birleşir |
 
-### Bizlik değil (ele)
+**hyundaiorijinal mesaj taslağı:**  
+`2012 ix35 1.6 GDI, şase: …… — yağ tapası contası 21513-23001’den 3 adet istiyorum. Fiyat + kargo?`
+
+### Bizlik değil (ele — senin teyidinle)
 
 | Ne | Neden |
 |----|--------|
-| Amazon / Site Hırdavat M14 10’lu | Çoğu **14×18** |
+| Amazon Site Hırdavat M14 10’lu | **14×18** çıktı |
 | Uçar / Tuzla / 200’lük DIN kutuları | Min sepet / kutu fazla |
-| Worldforce 400’lü / 252’li asorti setler | Gereksiz kalabalık |
+| Worldforce 400’lü / 252’li asorti | Gereksiz kalabalık |
 | ParcaTedarik / Stark | B2B |
 
 Leğen: ≥8–10 L plastik + kapaklı bidon — yapı market / BM.
