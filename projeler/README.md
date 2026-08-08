@@ -29,7 +29,8 @@
 | — | **Zorunlu parça listesi** | 📋 Planlama | — | [zorunlu-parcalar.md](zorunlu-parcalar.md) |
 | 1 | Uzaklaşınca otomatik kilitlenme | 📋 Planlama | Orta | [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) |
 | 2 | Uzaktan çalıştırma & klima | 📋 Planlama | Orta | [uzaktan-calisma-ve-klima.md](uzaktan-calisma-ve-klima.md) |
+| — | **Motor yağı değişimi DIY** | 📋 Planlama | Orta | [yag-degisimi-diy/README.md](yag-degisimi-diy/README.md) |
 
 ---
 
-*Son güncelleme: 2026-07-09*
+*Son güncelleme: 2026-08-08 — yağ değişimi DIY*
