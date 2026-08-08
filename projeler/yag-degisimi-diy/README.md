@@ -86,6 +86,8 @@ Sehpasız “biraz kaldırıp uzanayım” = kaza riski. Sehpa yoksa işi ertele
 - [ ] (İsteğe) alt muhafaza vidası yedek — koparsa
 - [ ] Eski yağ için bidon / belediye atık yağı noktası
 
+**Fiyat/performans linkler (2–3 / kategori):** → [`alis-listesi.md`](alis-listesi.md)
+
 ---
 
 ## Ucuz nasıl?
