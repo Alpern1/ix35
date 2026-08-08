@@ -60,35 +60,27 @@ Alternatif anahtar: Rico 9" ~571 TL — [dgnteknikhirdavat](https://www.dgntekni
 
 ---
 
-## Sipariş 3 — Conta (internet, toplu OK)
+## Sipariş 3 — Conta (gerçekçi durum)
 
-Elring **726.760** / OEM **21513-*** Cepoto’da stoksuz. Aşağıdakiler **perakende sepet + kargo** (yerel değil). Ideal ölçü: **14×20** (DIN 7603 M14 = genelde 14×20). Gelince dış çapı kontrol et; **14×18** iade.
+**İstenen:** 14×20, az adet (5–20), internet, set değil.  
+**TR gerçeği (2026-08):** Marketplace’teki “M14 10’lu”ların çoğu **14×18** (Amazon Site Hırdavat dahil — bizlik değil). DIN/hırdavat siteleri **200’lük kutu / 500 TL min sepet**. Cepoto Elring **726.760** doğru ama **stoksuz**.
 
-### Öncelik sırası (bulunan siteler)
+### Bizlik kalan seçenekler
 
-| # | Site | Ürün | ~Fiyat | Stok / sipariş | Not |
-|---|------|------|--------|----------------|-----|
-| **1** | **Uçar Yapı Market** | **M14 bakır pul DIN 7603** | **9,55 TL/adet** | **775 adet stokta**, Sepete Ekle | En net bulgu. Min. sepet **500 TL** → ~**53+ adet** al (toplu tamam). Bireysel OK yazıyor. [ucaryapimarket M14 DIN 7603](https://ucaryapimarket.com/urun/m14-bakir-pul-din-7603/) |
-| **2** | **Amazon.com.tr** | Site Hırdavat **M14 bakır karter tapa pulu 10 adet** | ~340 TL bandı | Sepete | ASIN [B0BHHJDP11](https://www.amazon.com.tr/dp/B0BHHJDP11) — başlıkta sadece “M14”; foto/açıklamada **14×20** yazıyorsa al, yoksa satıcıya sor. 50’li: Pazarama’da aynı satıcı listelenmiş |
-| **3** | **Amazon.com.tr** | **252 parça alüminyum pul seti** (karter tapa) | ~1.150 TL | Sepete | ASIN [B08DG1TLYS](https://www.amazon.com.tr/dp/B08DG1TLYS) — sette M14 olmalı; içerik listesinde **14×20** ara |
-| **4** | **Tuzla Hırdavat** | **M14 bakır pul** | ~7,4 TL/adet | Stok var, Sepete | [tuzlahirdavat BP14](https://tuzlahirdavat.com.tr/m14-bakir-pul-bp14) — sipariş öncesi WhatsApp: “dış çap 20 mi?” |
-| **5** | **Worldforce / bin1 / al.com.tr** | **11081 bakır pul seti 400 p.** | ~3.400–3.650 TL | Stokta (bin1) | İçerikte açıkça **14×20×1 (10 adet)** var. [bin1](https://www.bin1.com.tr/urun/worldforce-11081-bakir-pul-seti-400-parca-4093) · [worldforce](https://www.worldforce.com.tr/urun/bakir-pul-seti-400-parca) |
-| **6** | **Hidrolik Dünyası** | Metrik bakır pul seti 116 p. (içinde 14 mm) | ~1.140 TL | “Stok sorunuz” | [hidrolikdunyasi](https://www.hidrolikdunyasi.com/urun/metrik-bakir-pul-set) |
-| **7** | **hyundaiorijinal.com.tr** | OEM **21513-23001** | sor | “Uzmana sor” | Kod yazılı torba. [2151323001](https://www.hyundaiorijinal.com.tr/hyundai/yedek-parca/2151323001-yag-tapasi-contasi/) |
-| **8** | **AliExpress** | `M14x20` / `14x20x2` aluminum crush washer 50–100 pcs | ucuz + gümrük/kargo | TR’ye gelir | Arama: **“14x20x2 oil drain crush washer”** — ölçü yazmayanı alma |
+| # | Nereden | Ne | Not |
+|---|---------|-----|-----|
+| **1** | **AliExpress** | **10 pcs** `14x20x1.5` veya `14x20x2` crush washer / oil drain gasket | Başlıkta **14x20** yazacak. ~1–5 $ + kargo; 1–3 hafta. Arama: [14x20 oil drain 10pcs](https://www.aliexpress.com/w/wholesale-14x20-oil-drain-washer-10pcs.html) |
+| **2** | **hyundaiorijinal.com.tr** | OEM **21513-23001** · 2–5 adet söyle | Set değil; “Uzmana sor” + şase. [2151323001](https://www.hyundaiorijinal.com.tr/hyundai/yedek-parca/2151323001-yag-tapasi-contasi/) |
+| **3** | **Cepoto SMS** | Elring **726.760** gelince | [sayfa](https://cepoto.com/urun/726760-elring) — “gelince SMS”; yağ+filtreyle birleşir |
 
-### Pratik öneri
-- Sadece conta + ucuz toplu: **Uçar’dan ~55–100 adet** (500 TL barajını geç).  
-- Marketplace iade kolaylığı: Amazon **B0BHHJDP11** (önce 14×20 teyit).  
-- “Ölçü listede yazılı set”: Worldforce 11081.
+### Bizlik değil (ele)
 
-**Kullanma / düş:**
-- Cepoto [Elring 114.600](https://cepoto.com/urun/114600-elring) → **14×18**
-- Cepoto [726.760](https://cepoto.com/urun/726760-elring) → doğru kod ama **STOK YOK**
-- Tanca Febi 39733 → yanlış ölçü
-- Stark / Würth → “sadece ticari”
-- ParcaTedarik → B2B
-- royalsuits vb. şüpheli dropship OEM kopyaları
+| Ne | Neden |
+|----|--------|
+| Amazon / Site Hırdavat M14 10’lu | Çoğu **14×18** |
+| Uçar / Tuzla / 200’lük DIN kutuları | Min sepet / kutu fazla |
+| Worldforce 400’lü / 252’li asorti setler | Gereksiz kalabalık |
+| ParcaTedarik / Stark | B2B |
 
 Leğen: ≥8–10 L plastik + kapaklı bidon — yapı market / BM.
 
@@ -167,7 +159,7 @@ Edge / Mobil 1 ESP (~2.400+ TL) bu araç için şart değil.
 
 1. **Cepoto:** Magnatec 5W-30 (A5 teyit) + Mann W811/80  
 2. **Lastiksanayi:** FkF02 sehpa + Retta filtre anahtarı  
-3. **Conta (internet):** tercihen [Uçar M14 DIN 7603](https://ucaryapimarket.com/urun/m14-bakir-pul-din-7603/) ~55+ adet **veya** Amazon [B0BHHJDP11](https://www.amazon.com.tr/dp/B0BHHJDP11) (14×20 teyit)  
+3. **Conta:** TR’de 10’luk doğru ölçü yok denecek kadar az → **AliExpress 14×20 10pcs** veya **hyundaiorijinal 21513-23001** ×2–5  
 4. Leğen yerel  
 
 İlk sefer alet+sarf ≈ birkaç bin TL; sonraki değişimde sadece yağ+filtre+conta.
