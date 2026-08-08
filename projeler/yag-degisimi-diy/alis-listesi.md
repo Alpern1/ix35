@@ -81,6 +81,42 @@ Leğen: ≥8–10 L plastik + kapaklı bidon — yapı market / BM.
 
 ---
 
+## Yerelde conta — kandırılmadan nasıl alırsın
+
+Online bitince yerel **mantıklı**. Risk: “M14 bakır” deyince **14×18** uzatmaları. Sen ölçüyü söyle + ölç.
+
+### Ne isteyeceksin (ezberle)
+
+1. **“Karter tapa pulu / crush washer — iç 14, dış 20, kalınlık ~1,5–2 mm”**  
+   veya kısa: **“14×20 bakır veya alüminyum tapa conta”**
+2. Varsa kod: **21513-21000** / **21513-23001** / Elring **726.760**
+3. **Tapa vidası değil** — sadece **pul/conta**. (Vida genelde eskisini kullanırsın.)
+
+Nereye: Hyundai/Kia yedek parçacı, sanayi “bakır pul / DIN 7603”, oto elektrik-hidrolik. Nalburda “vida pulu” rafları çoğu zaman yanlış ölçü.
+
+### Nasıl anlarsın doğru olduğunu
+
+| Kontrol | Doğru | Yanlış / şüphe |
+|---------|--------|----------------|
+| İç delik | Tapaya **rahat** geçer, fazla boşluk yok (~14 mm) | Çok sıkı / çok gevşek |
+| Dış çap | Eski pul ile **aynı veya ±1 mm**; ideal **~20 mm** | Belirgin dar (**~18 mm** = klasik yanlış) |
+| Kalınlık | ~**1,5–2 mm**, yumuşak metal (bakır/alüminyum) | İnce çelik rondela, plastik |
+| Malzeme | Bakır veya alüminyum (ezilir) | Sert çelik vida pulu |
+| Etiket | 14×20 / OEM kod | Sadece “M14” yazıp ölçüsüz |
+
+**En sağlam yöntem:** Eski pulu sökmeden önce veya sökerken **yanına koy**. Dış çapı gözle/kumpasla birebir karşılaştır. Eski 20’likse yeni 18’lik hemen belli olur.
+
+Kumpas yoksa: eski pulun üstüne yeniyi koy — dış kenarlar **çakışmalı**; yeni belirgin küçükse alma.
+
+### Pratik ipuçları
+
+- **2–5 adet** al; ucuz, sonraki değişime kalır.
+- Parçacı “14×18 de olur” derse → **olmaz**, teşekkür et çık.
+- Yetkili/orijinalciye şase + **21513-23001** dersen kandırma ihtimali çok düşük.
+- Alırken torbaya **ölçüyü yazdır** veya foto çek; tartışma olursa delil.
+
+---
+
 ## Trendyol — tek uygulama, ama satıcıya bak
 
 Hepsi Trendyol’da; **aynı satıcıdan** seçersen tek kargo. Değilse çoğu “kargo bedava” — yine de paket ayrı gelebilir.
@@ -118,7 +154,7 @@ Edge / Mobil 1 ESP (~2.400+ TL) bu araç için şart değil.
 
 1. **Cepoto:** Magnatec 5W-30 (A5 teyit) + Mann W811/80  
 2. **Lastiksanayi:** FkF02 sehpa + Retta filtre anahtarı  
-3. **Conta:** hyundaiorijinal **21513-23001** ×5–10 **veya** Bakibey/Pınar sadece **14×20** paket (Worldforce set sadece “evde dursun” dersen)  
+3. **Conta:** Online zor → **yerel** tamam; iste **14×20** (veya OEM 21513-23001), eski pul ile karşılaştır  
 4. Leğen yerel  
 
 İlk sefer alet+sarf ≈ birkaç bin TL; sonraki değişimde sadece yağ+filtre+conta.
