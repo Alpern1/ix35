@@ -4,7 +4,7 @@
 
 ---
 
-## 1) Ön — 58×125 makara
+## 1) Ön — 68×125 makara
 
 Kaset **A sütunu kenarına**. Karşıya çek.
 

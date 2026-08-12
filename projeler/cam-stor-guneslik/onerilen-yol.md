@@ -8,7 +8,7 @@
 
 | Bölge | Ne | Neden |
 |-------|----|--------|
-| **Ön** | **58×125 makaralı stor** (Amazon B0H8Q74GGP) | Yanlarla aynı çek-bırak — [on-cam-karar.md](on-cam-karar.md) |
+| **Ön** | **68×125 makaralı stor** (Polham / PVC) | Ön ölçü; 58×125 küçük — [on-cam-karar.md](on-cam-karar.md) |
 | **Yan (4 veya arka 2)** | **Opak makaralı stor** (Carub sınıfı) | [yan-makara-karar.md](yan-makara-karar.md) |
 
 Elle: yaylı makara. Elektrik yok.
@@ -24,8 +24,8 @@ Elle: yaylı makara. Elektrik yok.
 
 ## Ön — kilit
 
-- Amazon **B0H8Q74GGP** 58×125 siyah ~300 TL — [on-cam-karar.md](on-cam-karar.md)
-- Baseus stoksuz; şemsiye/panel yok
+- Pazarama **Polham 68×125** ~610 TL — [on-cam-karar.md](on-cam-karar.md)
+- 58×125 alma (yan/küçük ön). Baseus stoksuz; şemsiye/panel yok
 
 ---
 
@@ -51,7 +51,7 @@ Dönüş → önü topla + yanları topla (kasetler yerinde kalır)
 
 | | Kaba |
 |--|------|
-| Ön 58×125 | ~300 TL |
+| Ön 68×125 | ~400–610 TL |
 | Yan 2’li × 1–2 | ~550–1.400 TL |
 | **Toplam** | **~850–1.700 TL** |
 
@@ -59,6 +59,6 @@ Dönüş → önü topla + yanları topla (kasetler yerinde kalır)
 
 ## Sonraki somut adım
 
-1. Ön: Amazon B0H8Q74GGP — [on-cam-karar.md](on-cam-karar.md)
+1. Ön: Pazarama Polham 68×125 — [on-cam-karar.md](on-cam-karar.md)
 2. Yan: 1× makaralı 2’li arka — [yan-makara-karar.md](yan-makara-karar.md)
 3. Tak, 1 gün; uymazsa iade

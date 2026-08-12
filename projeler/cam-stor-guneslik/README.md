@@ -6,12 +6,12 @@
 
 - **Durum:** 📋 Planlama — ön+yan **makaralı stor** kilit (SKU stoklu)
 - **Öncelik:** Orta
-- **Tahmini bütçe:** Ön ~300 TL · yan ~550–1.400 TL
+- **Tahmini bütçe:** Ön ~400–610 TL · yan ~550–1.400 TL
 - **Zorluk:** Kolay
 - **Oluşturulma:** 2026-07-25
 - **Son güncelleme:** 2026-08-12
 
-> Ön: 58×125 makara — [on-cam-karar.md](on-cam-karar.md)  
+> Ön: **68×125** makara — [on-cam-karar.md](on-cam-karar.md)  
 > Yan: opak makara — [yan-makara-karar.md](yan-makara-karar.md)  
 > Mesh/TROBUS **iptal**. **Alış kuralı:** gelince haber ver yok.
 
@@ -39,7 +39,7 @@ Parkta ön + yan camlar örtülü; sürüşte toplanmış; kapı plastiğine vid
 
 | Bölge | Ürün (bugün) | Açık | Kapalı (hedef) | Kanıt |
 |------|------|------|----------------|-------|
-| Ön | **58×125 makaralı** Amazon B0H8Q74GGP (~300 TL) | Çek, ört | Kenarda ince kaset | [on-cam-karar.md](on-cam-karar.md) |
+| Ön | **68×125 makaralı** Polham / PVC stor (~400–610 TL) | Çek, ört | Kenarda ince kaset | [on-cam-karar.md](on-cam-karar.md) |
 | Yan (öncelik arka 2) | **Opak makaralı 2’li** (Carub/Carlone) | Aşağı çek, ört | Üst kenarda ince kaset | [yan-makara-karar.md](yan-makara-karar.md) |
 
 Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md) · [yan-cam-serbest.md](yan-cam-serbest.md) · **[yan-makara-karar.md](yan-makara-karar.md)**
@@ -60,13 +60,14 @@ Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md) · [yan-cam-serb
 | 2026-07-26 | Yan kilit TROBUS mesh | **2026-08-12 iptal** — tül, konuşulan stor değil |
 | 2026-08-12 | Ön Baseus/Ralf alış linkleri **kaldırıldı** | Gelince haber ver |
 | 2026-08-12 | **Yan kilit:** opak makaralı stor | Ön camdaki gibi çek-bırak |
-| 2026-08-12 | **Ön kilit:** Amazon 58×125 B0H8Q74GGP | Yanlarla aynı sınıf, Sepete ekle |
+| 2026-08-12 | **Ön kilit:** Amazon 58×125 B0H8Q74GGP | **Aynı gün düzeltildi** — 58 yan/küçük ön |
+| 2026-08-12 | **Ön kilit:** **68×125** Polham / PVC makara | Üretici: 68×125 ön; 58×125 küçük |
 
 ## Açık (sipariş öncesi)
 
-- [ ] Ön cam iç ölçü — 58×125 kısa/alçak kalabilir
+- [ ] Ön cam iç ölçü — 68×125 yükseklik yakın; 125 cm çekim kısa kalabilir
 - [ ] Yan cam ölçü (arka kapı) — 36 cm dar kalabilir
-- [ ] Ön: B0H8Q74GGP — [on-cam-karar.md](on-cam-karar.md)
+- [ ] Ön: 68×125 — [on-cam-karar.md](on-cam-karar.md)
 - [ ] Yan: 1× makaralı 2’li — [yan-makara-karar.md](yan-makara-karar.md)
 - [ ] Uymazsa 14 gün iade
 
@@ -74,13 +75,13 @@ Araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md) · [yan-cam-serb
 
 | Bölge | Durum | Not |
 |-------|--------|-----|
-| **Ön** | **Kilit:** 58×125 makara | Amazon B0H8Q74GGP ~300 TL |
+| **Ön** | **Kilit:** 68×125 makara | Pazarama Polham ~610 TL |
 | **Yan** | **Kilit:** opak makaralı 2’li | aksesuaryeri 549 TL / Amazon B0F9FHNBGX |
 
 Kullanım: [kullanim-on-yan.md](kullanim-on-yan.md)
 
 ## Sonraki adım
 
-1. Ön: Amazon B0H8Q74GGP  
+1. Ön: Pazarama Polham **68×125**  
 2. Yan: arka 2 — makaralı 2’li  
 3. Tak → ölçü / iade

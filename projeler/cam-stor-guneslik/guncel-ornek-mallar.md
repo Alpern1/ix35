@@ -22,8 +22,8 @@ TR’de “sadece üst kenar sıkıştırma, vantuz yok” diye **ayrı premium 
 | Durum | Açıklama |
 |-------|----------|
 | Hedef | Baseus Auto Close / Ralf sınıfı — kenar tüp, yaylı geri sarma |
-| TR stok (2026-08-12) | **Yok** — parcabayisi Baseus + Ralf = gelince haber ver; Ally = 0 stok |
-| Alış | **Bekle** veya her gün Sepete ekle görünen yeni ilan ara; stoksuz link alma |
+| TR stok (2026-08-12) | **68×125** Pazarama Polham / PVC stor — Sepete ekle. Baseus/Ralf hâlâ gelince haber ver |
+| Alış | [on-cam-karar.md](on-cam-karar.md) — 58×125 alma |
 
 Form referansı (alış değil): [gorsel-dogrulama.md](gorsel-dogrulama.md)
 
@@ -31,6 +31,7 @@ Form referansı (alış değil): [gorsel-dogrulama.md](gorsel-dogrulama.md)
 
 | Ürün | Montaj | Fiyat | Link | Not |
 |------|--------|-------|------|-----|
+| **Amazon 58×125** B0H8Q74GGP | Vantuz makara | **~300 TL** | https://www.amazon.com.tr/dp/B0H8Q74GGP | Sepete ekle · **küçük ön / yan ölçü** — kilit değil |
 | **Sunup SN-22132** | Vantuz, geri sarımlı | **~164 TL** | https://www.govimarket.com/sunup-vantuzlu-siyah-40-x-125-cm-guneslik-22132 | Sepete ekle ✓ · 40×125 · gözenekli · tam ön cam için kısa |
 | **XMOD şemsiye** 135×80 | Şemsiye (sabit değil) | **499 TL** | https://www.amazon.com.tr/dp/B0GV27NVYY | Sepete ekle ✓ · “sabit kaset” şartını karşılamaz |
 
@@ -63,6 +64,7 @@ Form referansı (alış değil): [gorsel-dogrulama.md](gorsel-dogrulama.md)
 | Neden | Örnek |
 |-------|--------|
 | Gelince haber ver / OutOfStock | Baseus Auto Close (parcabayisi), Ralf (parcabayisi), Ally Universal (akilliphone) |
+| Küçük ölçü (ön değil) | Amazon 58×125 B0H8Q74GGP |
 | Makara değil, file/katlanır | Hepsiburada Meyzone 44×38 vantuzlu perde |
 | Vida/delik | Raylı Pandami vb. |
 | Dropship sahte stok | durer / aselicyapi “₺40 stokta” aynaları |
@@ -73,8 +75,8 @@ Form referansı (alış değil): [gorsel-dogrulama.md](gorsel-dogrulama.md)
 
 | Hedef | Ne yap |
 |-------|--------|
-| Ön, **sabit** ince kaset | Stok gelene kadar **bekle** — stoksuz Baseus/Ralf alma |
-| Ön, şimdi bir şey lazımsa | Ya Sunup (kısmi/mesh) ya şemsiye (XMOD) — ikisi de hedef değil; dürüst seç |
+| Ön, **sabit** ince kaset | **68×125** Polham / PVC — [on-cam-karar.md](on-cam-karar.md) |
+| Ön, 58×125 / şemsiye / mesh | Hedef değil |
 | Yan | Opak makaralı 2’li — [yan-makara-karar.md](yan-makara-karar.md) |
 
 Sipariş öncesi: ix35 cam ölçüsü + sayfada **Sepete ekle** kontrolü.

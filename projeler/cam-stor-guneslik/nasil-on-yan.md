@@ -19,7 +19,7 @@
 
 | | |
 |--|--|
-| Örnek | **Amazon B0H8Q74GGP** 58×125 siyah · Sepete ekle ~300 TL — [on-cam-karar.md](on-cam-karar.md) |
+| Örnek | **Polham 68×125** Pazarama · Sepete ekle ~610 TL — [on-cam-karar.md](on-cam-karar.md) |
 | Açık | Dış alüminyum folyo + iç siyah kumaş → **ısı kesimi iyi** (orijinal katlanır güneşliğe yakın mantık) |
 | Kapalı | Yolcu tarafında ~64 cm dikey tüp + 2 vantuz; karşıda sabitleme vantuzu kalabilir |
 | Montaj | Camı sil → tüpü yolcu kenarına vantuzla → parkta çek → karşı vantuz/kancaya tut |

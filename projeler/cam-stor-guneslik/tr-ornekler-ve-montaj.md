@@ -26,7 +26,7 @@ Dürüst TR gerçeği: Raftaki çoğu “roller / geri sarımlı” **yine vantu
 
 ## A) ÖN CAM — TR örnek mallar
 
-> **2026-08-12:** Aşağıdaki Baseus/Ralf = **stoksuz** (gelince haber ver). Alış linki olarak kullanma. Form/sınıf referansı.
+> **2026-08-12:** Baseus/Ralf = **stoksuz**. Stoklu ön kilit: **68×125** — [on-cam-karar.md](on-cam-karar.md).
 
 ### 1) Baseus Auto Close 64 cm (yan kaset, yaylı) — stoksuz referans
 
@@ -46,10 +46,17 @@ Dürüst TR gerçeği: Raftaki çoğu “roller / geri sarımlı” **yine vantu
 | Montaj | **Vantuz** |
 | Alış | **Yok** — aynı aile, aynı stok sorunu |
 
-### 3) Stoklu ama hedef dışı (dürüst)
+### 3) Stoklu ön — 68×125 (kilit)
 
 | | |
 |--|--|
+| Polham 68×125 | Sepete ekle · https://www.pazarama.com/polhammobile/arka-cam-perde-k-K12220 · [on-cam-karar.md](on-cam-karar.md) |
+
+### 3b) Stoklu ama hedef dışı (dürüst)
+
+| | |
+|--|--|
+| Amazon 58×125 B0H8Q74GGP | Sepete ekle · küçük ön / yan ölçü |
 | Sunup SN-22132 | Sepete ekle ✓ · https://www.govimarket.com/sunup-vantuzlu-siyah-40-x-125-cm-guneslik-22132 · 40×125 gözenekli — tam ön değil |
 | XMOD şemsiye 135×80 | Sepete ekle ✓ · https://www.amazon.com.tr/dp/B0GV27NVYY · sabit kaset değil |
 

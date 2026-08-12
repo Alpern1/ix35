@@ -5,14 +5,15 @@
 
 ---
 
-## Ön — makaralı stor (kilit)
+## Ön — 68×125 makaralı stor (kilit)
 
 Detay: [on-cam-karar.md](on-cam-karar.md)
 
 | Ürün | Ölçü | Fiyat | Link | Stok |
 |------|------|-------|------|------|
-| **PVC makaralı** siyah | 58×125 cm | **300 TL** | https://www.amazon.com.tr/dp/B0H8Q74GGP | Sepete ekle · ~10 adet |
-| Aynı sınıf | 58×125 cm | **535 TL** | https://www.amazon.com.tr/dp/B0H8ZTSLP5 | Sepete ekle · galeri var |
+| **Polham sürgülü / geri çekilebilen** | **68×125 cm** | **~610 TL** | https://www.pazarama.com/polhammobile/arka-cam-perde-k-K12220 | Sepete ekle |
+| PVC makaralı (siyah noktalı) | **68×125 cm** | Sepete ekle | https://www.pazarama.com/suscaroto-aksesuar-ic-guneslikler-otomatik-surgulu-68cm-125cm-676823856-p-676823856 | PVC + vantuz |
+| Ucuz 68×125 ilan | **68×125 cm** | **~399 TL** | https://www.pazarama.com/araba-gunesligi-on-cam-guneslik-geri-cekilebilir-koruyucu-guneslik-68-x125-cm-benekli-p-fyz0115 | File fotoğrafı varsa alma |
 
 ---
 
@@ -32,6 +33,7 @@ Detay: [yan-makara-karar.md](yan-makara-karar.md)
 
 ## Elenen
 
+- Amazon **58×125** B0H8Q74GGP — yan/küçük ön; ix35 ön için alçak
 - TROBUS / tül / gözenekli Nekuba-Sunup — file ailesi
 - Baseus/Ralf parcabayisi — gelince haber ver
 - Şemsiye / katlanır panel
