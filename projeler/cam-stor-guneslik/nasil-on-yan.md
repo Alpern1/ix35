@@ -56,7 +56,7 @@ Açıkken en iyi örtü olabilir; kapalıyken bagajda → her sefer tak-çıkar.
 ## Ön cam — pratik yapım sırası
 
 1. Ön cam iç genişlik ölç (A–A, dikiz altından) + yükseklik  
-2. **58×125 siyah makaralı** al — Amazon B0H8Q74GGP ([on-cam-karar.md](on-cam-karar.md))  
+2. **68×125 siyah makaralı** al — Pazarama Polham ([on-cam-karar.md](on-cam-karar.md))  
 3. Deneme montaj: sadece **kenar**, 1 park günü  
 4. Açıkken boşluk / ışık kaçağı var mı bak  
 5. Kapalıyken sürücü koltuğundan foto — “fazla mı duruyor?”  
@@ -152,6 +152,6 @@ Detaylı paket: [onerilen-yol.md](onerilen-yol.md)
 
 ## TR örnek linkler
 
-- Ön kilit: [on-cam-karar.md](on-cam-karar.md) — Amazon B0H8Q74GGP  
+- Ön kilit: [on-cam-karar.md](on-cam-karar.md) — **68×125** Polham  
 - Yan kilit: [yan-makara-karar.md](yan-makara-karar.md)  
 - Mesh sapması iptal: [yan-mesh-karar.md](yan-mesh-karar.md)
