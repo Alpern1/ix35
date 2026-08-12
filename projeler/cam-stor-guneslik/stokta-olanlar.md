@@ -5,18 +5,19 @@
 
 ---
 
-## Yan — TROBUS SUV mesh (TR)
+## Yan — opak makaralı stor (kilit)
 
-| | |
-|--|--|
-| Öneri | **TROBUS SUV** delikli/örgü yan güneşlik |
-| Fiyat | ~255–300 TL / 2’li |
-| Ön 2’li (manyetik) | https://www.koctas.com.tr/trobus-2-adet-manyetik-on-yan-cam-gunesligi-suv-arac-uyumlu-uv-koruma-kolay-kurulum/p/5001076851 |
-| Marka / arka SUV | https://www.koctas.com.tr/trobus/b/b-4795 |
-| Alternatif | https://www.idefix.com/trobus-citroen-c5-aircross-2017-sonrasi-suv-uyumlu-yan-cam-gunesligi-on-veya-arka-p-3451076 |
-| Not | ix35 özel kesim değil — SUV bandı; uymazsa iade |
+Detay: [yan-makara-karar.md](yan-makara-karar.md)
 
-Detay: [yan-mesh-karar.md](yan-mesh-karar.md)
+| Ürün | Ölçü | Fiyat | Link | Stok |
+|------|------|-------|------|------|
+| **Carlone / Carub** makaralı 2’li | 36×54 cm | **549 TL** | https://www.aksesuaryeri.com/makarali-otomatik-yan-cam-perde-2li-36x54cm-guneslik-arac-cam-gunesligi | InStock · Sepete ekle · 20+ |
+| **CARUB** makaralı 2’li | 36×45 cm | **699 TL** | https://www.amazon.com.tr/dp/B0F9FHNBGX | Sepete ekle · 2 adet · fotoğraflı |
+| **Carub** 36×54 | 36×54 cm | **649 TL** | https://zbir.com.tr/urun/carub-otomatik-makarali-arac-ici-guneslik-36x54-cm/ | Sepete ekle |
+
+4 cam = 2 paket. Önce arka 1 paket.
+
+Mesh/TROBUS **yok** — iptal.
 
 ---
 
@@ -33,16 +34,16 @@ Hedef form (foto referans, alış değil): ince kenar tüp + yaylı geri sarma �
 
 | Ürün | Tip | Fiyat | Link | Neden hedef değil |
 |------|-----|-------|------|-------------------|
-| **Sunup SN-22132** | Vantuzlu geri sarımlı | **~164 TL** | https://www.govimarket.com/sunup-vantuzlu-siyah-40-x-125-cm-guneslik-22132 | Sepete ekle ✓ · **40×125 cm** (yükseklik kısa) · **gözenekli** mesh · tam opak ön örtü değil |
-| **XMOD şemsiye** 135×80 | Şemsiye tip (parkta aç) | **499 TL** | https://www.amazon.com.tr/dp/B0GV27NVYY | Stokta var / Sepete ekle ✓ · **sabit kaset değil** (her parkta aç-kapa) |
+| **Sunup SN-22132** | Vantuzlu geri sarımlı | **~164 TL** | https://www.govimarket.com/sunup-vantuzlu-siyah-40-x-125-cm-guneslik-22132 | 40×125 · gözenekli · tam opak ön değil |
+| **XMOD şemsiye** 135×80 | Şemsiye | **499 TL** | https://www.amazon.com.tr/dp/B0GV27NVYY | Sabit kaset değil |
 
-Katlanır çantalı panel (WONKEY vb.) → zaten **istemediğin** sınıf; önermiyoruz.
+Katlanır çantalı panel (WONKEY vb.) → önermiyoruz.
 
 ---
 
 ## Elenen (bugün)
 
-- Baseus Auto Close 64 cm (parcabayisi) — gelince haber ver  
-- Ralf universal (parcabayisi) — gelince haber ver  
-- Ally Universal 120×72 (akilliphone) — stockCount 0  
-- Dropship “stokta var” 40 TL’lik AliExpress aynaları (durer vb.)
+- TROBUS / tül / manyetik mesh — konuşulan stor değil
+- Baseus Auto Close / Ralf (parcabayisi) — gelince haber ver
+- Ally Universal (akilliphone) — stockCount 0
+- yokyok Carub — “WhatsApp ile stok sor”

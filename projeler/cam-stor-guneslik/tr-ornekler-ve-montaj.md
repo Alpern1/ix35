@@ -76,17 +76,15 @@ Dash Designs The Shade tipi — kapalı ~1.5", **kapıya zarar yok**, sadece cam
 
 ## B) YAN CAM — TR örnek mallar
 
-### 1) Carub makaralı 2’li 40×45 (vantuz)
+### 1) Carub / Carlone makaralı 2’li (opak stor)
 
 | | |
 |--|--|
-| Link | https://www.yokyokotoyedekparca.com/urun/carub-otomatik-makarali-guneslik-yan-cam-perde-2li |
-| Toptan ref | https://www.toptanotoaksesuarlari.com/toptan-makarali-otomatik-yan-cam-perde-2li-40x45cm (kod CRB-BR4955702) |
-| Pazarama | “CARUB Güneşlik Perde Otomatik Makaralı 2Lİ” araması (~36×54 / 40×45) |
-| Montaj | **Vantuz** |
-| Açık | Makaralı opak → park için file’den iyi |
-| Kapalı | Üst kenara koymazsan camda yama |
-| 4 cam için | 2 paket |
+| Stoklu | [yan-makara-karar.md](yan-makara-karar.md) |
+| Montaj | **Vantuz** — kaseti **üste** koy |
+| Açık | Makaralı opak |
+| Kapalı | Üst kenara yaslarsan ince çizgi |
+| 4 cam | 2 paket |
 
 ### 2) Jenerik makaralı — vantuz **veya** sıkıştırma ayak
 
@@ -124,7 +122,7 @@ Park **ısısı** için zayıf; görünüm “bebek aksesuarı”. Bu proje içi
 
 | Yol | Ön | Yan | Zarar | Kapalı görünüm |
 |-----|----|-----|-------|----------------|
-| **1 — En az hasar, kabul edilebilir aksesuar** | Baseus sınıfı vantuz **kenara** (stok gelince) | TROBUS mesh / sıkıştırmalı makara | Yok | Biraz aksesuar kalır |
+| **1 — En az hasar, kabul edilebilir aksesuar** | Baseus sınıfı vantuz **kenara** (stok gelince) | Opak makaralı, **üste** | Yok | Biraz aksesuar kalır |
 | **2 — Sürüşte temiz (önerim eğer vantuzdan nefret)** | Parkta takılan kaliteli yansıtıcı panel / roller; sürüşte torpido altı | Parkta makara veya lastikli; sürüşte sök | Yok | Sürüşte en iyi |
 | **3 — Sabit ince, ithal** | Cama 3M braketli yan–yan kaset | Üst kenar makara veya sökülebilir | Cam bandı riski sadece | En “az fazlalık” sabit |
 

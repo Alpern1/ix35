@@ -34,14 +34,14 @@ Form referansı (alış değil): [gorsel-dogrulama.md](gorsel-dogrulama.md)
 | **Sunup SN-22132** | Vantuz, geri sarımlı | **~164 TL** | https://www.govimarket.com/sunup-vantuzlu-siyah-40-x-125-cm-guneslik-22132 | Sepete ekle ✓ · 40×125 · gözenekli · tam ön cam için kısa |
 | **XMOD şemsiye** 135×80 | Şemsiye (sabit değil) | **499 TL** | https://www.amazon.com.tr/dp/B0GV27NVYY | Sepete ekle ✓ · “sabit kaset” şartını karşılamaz |
 
-## Yan cam (makaralı, vantuz vurgulu)
+## Yan cam (makaralı opak — kilit)
 
-| Ürün | Ölçü | Fiyat (önceki kontrol) | Link | Not |
-|------|------|------------------------|------|-----|
-| **Carub** otomatik makaralı 2’li | 40×45 cm | ~670 TL | https://www.yokyokotoyedekparca.com/urun/carub-otomatik-makarali-guneslik-yan-cam-perde-2li | Yan için; sipariş öncesi **stok teyit** |
-| **Carlone / Carub sınıfı** makaralı 2’li | 36×54 cm | ~549 TL | https://www.aksesuaryeri.com/makarali-otomatik-yan-cam-perde-2li-36x54cm-guneslik-arac-cam-gunesligi | Ölç · stok teyit |
+| Ürün | Ölçü | Fiyat | Link | Not |
+|------|------|-------|------|-----|
+| **Carlone / Carub** 2’li | 36×54 cm | **549 TL** | https://www.aksesuaryeri.com/makarali-otomatik-yan-cam-perde-2li-36x54cm-guneslik-arac-cam-gunesligi | Sepete ekle · InStock |
+| **CARUB** Amazon | 36×45 cm | **699 TL** | https://www.amazon.com.tr/dp/B0F9FHNBGX | Sepete ekle · 2 adet · fotoğraflı |
 
-**Yan karar zaten mesh:** [yan-mesh-karar.md](yan-mesh-karar.md) — makaralı yan opsiyonel.
+**Yan kilit: opak makara** — [yan-makara-karar.md](yan-makara-karar.md). Mesh iptal.
 
 ---
 
@@ -75,6 +75,6 @@ Form referansı (alış değil): [gorsel-dogrulama.md](gorsel-dogrulama.md)
 |-------|--------|
 | Ön, **sabit** ince kaset | Stok gelene kadar **bekle** — stoksuz Baseus/Ralf alma |
 | Ön, şimdi bir şey lazımsa | Ya Sunup (kısmi/mesh) ya şemsiye (XMOD) — ikisi de hedef değil; dürüst seç |
-| Yan | **TROBUS SUV mesh** — [yan-mesh-karar.md](yan-mesh-karar.md) |
+| Yan | Opak makaralı 2’li — [yan-makara-karar.md](yan-makara-karar.md) |
 
 Sipariş öncesi: ix35 cam ölçüsü + sayfada **Sepete ekle** kontrolü.

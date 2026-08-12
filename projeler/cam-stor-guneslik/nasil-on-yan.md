@@ -153,5 +153,6 @@ Detaylı paket: [onerilen-yol.md](onerilen-yol.md)
 ## TR örnek linkler
 
 - Ön stok durumu: [stokta-olanlar.md](stokta-olanlar.md) — Baseus/Ralf stoksuz, alış yok  
-- Yan kilit: [yan-mesh-karar.md](yan-mesh-karar.md)  
+- Yan kilit: [yan-makara-karar.md](yan-makara-karar.md)  
+- Mesh sapması iptal: [yan-mesh-karar.md](yan-mesh-karar.md)  
 - Kapalı görünüm referansı (yurt dışı ince kaset): Dash Designs The Shade (~1.5" A sütunu)

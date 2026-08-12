@@ -1,6 +1,6 @@
 # Önerilen yol — basit, motorsuz, kötü durmasın
 
-> Karar: motor yok. Ön + yanlar. Park only. Kapıya vida yok.
+> Karar: motor yok. Ön + yanlar. Park only. Kapıya vida yok. **Tül/mesh yok.**
 
 ---
 
@@ -8,78 +8,59 @@
 
 | Bölge | Ne | Neden |
 |-------|----|--------|
-| **Ön** | Manuel **geri sarımlı** güneşlik — ince kaset, **siyah/gri** (gümüş çadır görünümü değil) | Çek-bırak; bagaja atılmaz; motorsuz |
-| **Yan (4 cam veya arka 2)** | **Delikli mesh**, çerçeve klips/mıknatıs (ix35 özel) | Cam serbest; OEM tarzı; opak makara değil — [yan-mesh-karar.md](yan-mesh-karar.md) |
+| **Ön** | Manuel **geri sarımlı** — ince kaset, siyah/gri | Çek-bırak; bagaja atılmaz |
+| **Yan (4 veya arka 2)** | **Opak makaralı stor** (Carub sınıfı) | Aynı mantık: çek-bırak; file değil — [yan-makara-karar.md](yan-makara-karar.md) |
 
-İki montaj ailesi de **elle**: yaylı makara / çek-tut. Elektrik, buton, OBD yok.
-
----
-
-## Görünüm kuralları (kaba durmasın)
-
-**Al:**
-- İnce siyah/koyu gri kaset
-- Düz kumaş veya sık dokuma (file “bebek perdesi” değil)
-- Vantuz sayısı az, şeffaf veya siyah; kaset cam kenarına yakın
-- Ön: mümkünse tek parça, dikiz etrafından geçen tip
-
-**Alma:**
-- Kalın gümüş folyo “kamp tüpü”
-- Renkli çerçeveli mesh bebek seti
-- Kalın beyaz stor
-- Torpido üstünde duran hantal mekanizma
-- Motorlu / uzaktan kumandalı herhangi bir şey
-
-Isı vs görünüm: dıştan gümüş daha serin tutar ama içeriden/dışarıdan daha “aksesuar” durur. **Sade görünüm öncelikli → siyah opaklı tercih.** Biraz daha ısınır; yine de katlanır güneşlik ritüelinden iyidir.
+Elle: yaylı makara. Elektrik yok.
 
 ---
 
-## Ön — iki kabul edilebilir alt tip
+## Görünüm kuralları
 
-| | Tip A — vantuzlu geri sarımlı (TR kolay) | Tip B — yan–yan ince kaset + cama braket |
-|--|------------------------------------------|------------------------------------------|
+**Al:** ince siyah/koyu gri kaset · düz opak kumaş · vantuz az · kaset kenara/üste yakın  
+**Alma:** gümüş çadır · **mesh/tül bebek perdesi** · kalın beyaz stor · torpido tüpü · motorlu
+
+---
+
+## Ön — iki alt tip
+
+| | Tip A — vantuzlu geri sarımlı | Tip B — yan–yan ince kaset + braket |
+|--|------------------------------|-------------------------------------|
 | Kullanım | Çek / bırak | Çek / kenara kilitle |
-| Kalıcılık | İsteyince tamamen sök | Braket camda kalır |
-| Görünüm riski | Vantuz izi, ucuz model kaba | İyi ürün daha “OEM-adjacent” |
-| Öneri | **Önce bunu dene** (ucuz, iade kolay) | Beğenirsen / vantuz yetmezse yükselt |
-
-İlk alışveriş: Tip A, **siyah**, ölçüsü ix35 ön cam genişliğine yakın (iç genişlik ölç → öyle al).
+| Öneri | **Önce bunu** (stok gelince) | Vantuz yetmezse |
 
 ---
 
-## Yan — kilitli manevra (TR)
+## Yan — kilit
 
-- **TROBUS SUV mesh** — Koçtaş / idefix (~255–300 TL / 2’li)
-- Delikli örgü; cam açılınca hava (ilan)
+- Opak otomatik makaralı 2’li (36×54 / 36×45)
 - İlk: arka 2 → sonra ön 2
-- Linkler: [yan-mesh-karar.md](yan-mesh-karar.md)
+- Linkler: [yan-makara-karar.md](yan-makara-karar.md)
+- TROBUS mesh **iptal**
 
 ---
 
 ## Kullanım ritüeli
 
 ```
-Yan mesh → takılı kalsın (cam serbest)
-Park → ön ört (ayrı çözüm) + yanlar zaten mesh
-Dönüş → önü topla; yana dokunma
+Park  → ön ört + yan makaraları çek
+Dönüş → önü topla + yanları topla (kasetler yerinde kalır)
 ```
 
 ---
 
-## Kabaca bütçe (TR, motorsuz)
+## Kabaca bütçe
 
 | | Kaba |
 |--|------|
-| Ön Tip A | ~400–1.500 TL |
-| Yan 4 cam | ~400–1.500 TL |
-| **Toplam** | **~800–3.000 TL** |
-
-Daha pahalı Tip B ön ayrı (yurt dışı custom ~$40–100 + kargo/gümrük).
+| Ön Tip A | ~400–1.500 TL (stok gelince) |
+| Yan 2’li × 1–2 | ~550–1.400 TL |
+| **Toplam** | **~1.000–3.000 TL** |
 
 ---
 
 ## Sonraki somut adım
 
-1. Koçtaş: TROBUS SUV mesh (arka ± ön) — [yan-mesh-karar.md](yan-mesh-karar.md)
-2. Tak, cam dene; uymazsa iade
-3. Ön: Baseus sınıfı **Sepete ekle** stok — stoksuz / gelince haber ver yok ([stokta-olanlar.md](stokta-olanlar.md))
+1. Arka kapı ölç → 1× makaralı 2’li ([yan-makara-karar.md](yan-makara-karar.md))
+2. Tak, 1 gün; uymazsa iade
+3. Ön: Baseus sınıfı **Sepete ekle** — [stokta-olanlar.md](stokta-olanlar.md)
