@@ -16,7 +16,7 @@
 |-------------|----------|--------|
 | Amazon `B0H8ZTSLP5` (58×125 “makaralı”) | **Yok** (galeri boş / kullanılamaz) | Ön öneriden **çekildi**. “İnce panel” diyemezdim. |
 | Amazon Carub `B0F9FHNBGX` | **Var** — iki ince makaralı stor, üst tüp | Yan için form faktörü **görüldü** |
-| Baseus Auto Close 64 cm (parcabayisi) | **Var** — metal ince tüp, A sütunu kenarı | “İnce ön kaset” referansı bu; sayfada **Gelince haber ver** (stok yok) |
+| Baseus Auto Close 64 cm (parcabayisi) | **Var** — metal ince tüp, A sütunu kenarı | “İnce ön kaset” **form referansı**; alış değil (stok yok) |
 | Buffer `B07DXQP9Y2` | Bu turda sayfa/görsel teyidi zayıf; başlıkta “katlanabilir” | Yan adayı kalabilir ama **önce fotoğrafa bak** |
 
 ## Ne “ince kaset” demek?

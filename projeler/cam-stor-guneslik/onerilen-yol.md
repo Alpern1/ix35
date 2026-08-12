@@ -82,4 +82,4 @@ Daha pahalı Tip B ön ayrı (yurt dışı custom ~$40–100 + kargo/gümrük).
 
 1. Koçtaş: TROBUS SUV mesh (arka ± ön) — [yan-mesh-karar.md](yan-mesh-karar.md)
 2. Tak, cam dene; uymazsa iade
-3. Ön cam için ayrı opaque/kaset (TR, fotoğraflı)
+3. Ön: Baseus sınıfı **Sepete ekle** stok — stoksuz / gelince haber ver yok ([stokta-olanlar.md](stokta-olanlar.md))

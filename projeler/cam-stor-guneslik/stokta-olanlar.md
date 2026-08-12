@@ -1,6 +1,7 @@
 # Stok / alış — TR
 
-> **2026-07-26:** Yan = TR mesh. Almanya/EU varsayılan değil.
+> **Kural:** “Gelince haber ver” / stok 0 / OutOfStock link **verilmez**.  
+> Kontrol: **2026-08-12**. Stok sipariş anında değişir — sayfada **Sepete ekle** görüyorsan al.
 
 ---
 
@@ -19,14 +20,29 @@ Detay: [yan-mesh-karar.md](yan-mesh-karar.md)
 
 ---
 
-## Ön cam — ayrı / açık
+## Ön cam — hedef sınıf (ince yan kaset / vantuzlu geri sarımlı)
 
-Baseus sınıfı ince tüp; fotoğraflı + stoklu TR ilan. Görselsiz Amazon jeneriği yok.
+**Bugün TR’de sepete eklenebilir Baseus Auto Close / Ralf eşdeğer bulunamadı.**  
+Parçabayisi Baseus + Ralf = **GELİNCE HABER VER** → alış listesinde **yok**.
+
+Hedef form (foto referans, alış değil): ince kenar tüp + yaylı geri sarma — [gorsel-dogrulama.md](gorsel-dogrulama.md)
 
 ---
 
-## Elenen
+## Ön cam — stoklu ama **hedef değil** (dürüst not)
 
-- Yan opak vantuz makara  
-- EU/Almanya’yı “ilk sipariş” sanmak  
-- “ix35 2021 manyetik” dropship (yanlış kasa)
+| Ürün | Tip | Fiyat | Link | Neden hedef değil |
+|------|-----|-------|------|-------------------|
+| **Sunup SN-22132** | Vantuzlu geri sarımlı | **~164 TL** | https://www.govimarket.com/sunup-vantuzlu-siyah-40-x-125-cm-guneslik-22132 | Sepete ekle ✓ · **40×125 cm** (yükseklik kısa) · **gözenekli** mesh · tam opak ön örtü değil |
+| **XMOD şemsiye** 135×80 | Şemsiye tip (parkta aç) | **499 TL** | https://www.amazon.com.tr/dp/B0GV27NVYY | Stokta var / Sepete ekle ✓ · **sabit kaset değil** (her parkta aç-kapa) |
+
+Katlanır çantalı panel (WONKEY vb.) → zaten **istemediğin** sınıf; önermiyoruz.
+
+---
+
+## Elenen (bugün)
+
+- Baseus Auto Close 64 cm (parcabayisi) — gelince haber ver  
+- Ralf universal (parcabayisi) — gelince haber ver  
+- Ally Universal 120×72 (akilliphone) — stockCount 0  
+- Dropship “stokta var” 40 TL’lik AliExpress aynaları (durer vb.)

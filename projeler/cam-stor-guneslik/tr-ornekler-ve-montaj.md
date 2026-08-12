@@ -26,48 +26,49 @@ Dürüst TR gerçeği: Raftaki çoğu “roller / geri sarımlı” **yine vantu
 
 ## A) ÖN CAM — TR örnek mallar
 
-### 1) Baseus Auto Close 64 cm (yan kaset, yaylı)
+> **2026-08-12:** Aşağıdaki Baseus/Ralf = **stoksuz** (gelince haber ver). Alış linki olarak kullanma. Form/sınıf referansı.
+
+### 1) Baseus Auto Close 64 cm (yan kaset, yaylı) — stoksuz referans
 
 | | |
 |--|--|
-| Link | https://www.parcabayisi.com/urun/baseus-auto-close-arac-on-cam-guneslik-otomatik-geri-cekilebilir-64cm |
-| Fiyat (görülen) | ~517 TL (stok değişken) |
+| Sınıf | İnce yan tüp + vantuz + yaylı geri sarma |
 | Montaj | **Vantuz** — yolcu kenarı + karşı vantuz |
 | Açık | Folyo dış + siyah iç → ısı kesimi iyi |
 | Kapalı | Dikey tüp cam kenarında; vantuzlar görünür |
-| Not | “Otomatik” = yay, motor değil. Görünüm konusunda senin çekincen bu sınıf. |
+| Alış | **Yok** — parcabayisi OutOfStock; [stokta-olanlar.md](stokta-olanlar.md) |
 
-### 2) Ralf universal geri çekilebilir (vantuzlu)
+### 2) Ralf universal — stoksuz referans
 
 | | |
 |--|--|
-| Link | https://www.parcabayisi.com/urun/ralf-universal-araba-on-cami-icin-geri-cekilebilir-guneslik-perde |
-| Fiyat | ~461 TL |
 | Ölçü | 120×72 cm sınıfı |
 | Montaj | **Vantuz** |
-| Not | Baseus ile aynı aile: pratik, kalıcı “gizli” değil |
+| Alış | **Yok** — aynı aile, aynı stok sorunu |
 
-### 3) Altta toplanan / şemsiye tipi (70×120 vb.)
+### 3) Stoklu ama hedef dışı (dürüst)
 
 | | |
 |--|--|
-| Örnek | https://www.otoaksesuarcim.tr/otomatik-katlanir-araba-otobus-kamyon-gunesligi-uv-korumali-isi-yalitimli-on-cam-guneslik-2-li-70x120cm |
-| Montaj | Kanca + vantuz, çoğu altta |
-| Kapalı | Torpido/cam altı → **daha kalabalık** |
-| Öneri | Görünüm şartına göre **alma** |
+| Sunup SN-22132 | Sepete ekle ✓ · https://www.govimarket.com/sunup-vantuzlu-siyah-40-x-125-cm-guneslik-22132 · 40×125 gözenekli — tam ön değil |
+| XMOD şemsiye 135×80 | Sepete ekle ✓ · https://www.amazon.com.tr/dp/B0GV27NVYY · sabit kaset değil |
 
-### 4) Klasik katlanır alüminyum (TR bol)
+### 4) Altta toplanan / şemsiye tipi (genel)
+
+| | |
+|--|--|
+| Kapalı | Torpido/cam altı veya katlanır şemsiye |
+| Öneri | “Sabit kaset” şartına göre **ikinci sınıf**; acele ısı için opsiyon |
+
+### 5) Klasik katlanır alüminyum (TR bol)
 
 | | |
 |--|--|
 | Kategori | https://www.trendyol.com/on-cam-gunesligi-y-s11380 |
-| Örnek sınıf | Şentürk metalize 145×70 vb. |
-| Montaj | Yerleştir + siperlik; bazılarında vantuz |
-| Açık | Isı kesimi genelde iyi |
-| Kapalı | Bagajda — sürüşte **sıfır fazlalık** |
-| Çelişki | Ritüel olarak nefret ettiğin sınıf; ama “kapalıyken yok” istiyorsan TR’de en temiz sürüş görünümü bu |
+| Öneri | **Alma** — her seferinde tak-çıkar; hedef değil |
+| Çelişki | “Kapalıyken yok” istiyorsan TR’de en temiz sürüş görünümü bu sınıf — ama ritüel olarak istemiyorsun |
 
-### 5) Cama 3M braketli ince kaset (TR’de nadir)
+### 6) Cama 3M braketli ince kaset (TR’de nadir)
 
 Dash Designs The Shade tipi — kapalı ~1.5", **kapıya zarar yok**, sadece cam. TR rafta yok / ithal. Görünüm hedefinse uzun vadede bu mantık; ilk TR denemesi değil.
 
@@ -123,7 +124,7 @@ Park **ısısı** için zayıf; görünüm “bebek aksesuarı”. Bu proje içi
 
 | Yol | Ön | Yan | Zarar | Kapalı görünüm |
 |-----|----|-----|-------|----------------|
-| **1 — En az hasar, kabul edilebilir aksesuar** | Baseus/Ralf vantuz, **kenara** | Sıkıştırmalı makaralı, **üste** | Yok | Biraz aksesuar kalır |
+| **1 — En az hasar, kabul edilebilir aksesuar** | Baseus sınıfı vantuz **kenara** (stok gelince) | TROBUS mesh / sıkıştırmalı makara | Yok | Biraz aksesuar kalır |
 | **2 — Sürüşte temiz (önerim eğer vantuzdan nefret)** | Parkta takılan kaliteli yansıtıcı panel / roller; sürüşte torpido altı | Parkta makara veya lastikli; sürüşte sök | Yok | Sürüşte en iyi |
 | **3 — Sabit ince, ithal** | Cama 3M braketli yan–yan kaset | Üst kenar makara veya sökülebilir | Cam bandı riski sadece | En “az fazlalık” sabit |
 

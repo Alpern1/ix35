@@ -19,7 +19,7 @@
 
 | | |
 |--|--|
-| Örnek | Baseus CRZYD-B0S 64 cm (~430–520 TL, parcabayisi vb.) · benzer “otomatik geri çekilebilir ön cam” ilanları Trendyol/Hepsiburada |
+| Örnek | Baseus CRZYD-B0S 64 cm sınıfı · **2026-08-12 TR stok yok** — alış linki yok; Sepete ekle görünce al |
 | Açık | Dış alüminyum folyo + iç siyah kumaş → **ısı kesimi iyi** (orijinal katlanır güneşliğe yakın mantık) |
 | Kapalı | Yolcu tarafında ~64 cm dikey tüp + 2 vantuz; karşıda sabitleme vantuzu kalabilir |
 | Montaj | Camı sil → tüpü yolcu kenarına vantuzla → parkta çek → karşı vantuz/kancaya tut |
@@ -56,7 +56,7 @@ Açıkken en iyi örtü olabilir; kapalıyken bagajda → her sefer tak-çıkar.
 ## Ön cam — pratik yapım sırası
 
 1. Ön cam iç genişlik ölç (A–A, dikiz altından) + yükseklik  
-2. TR’den **siyah/gri geri sarımlı yan kaset** al (Baseus 64 cm veya eşdeğer; SUV için 64 genelde daha doğru)  
+2. TR’den **siyah/gri geri sarımlı yan kaset** al — yalnızca **Sepete ekle** stoklu (Baseus sınıfı; SUV için ~64 cm)  
 3. Deneme montaj: sadece **kenar**, 1 park günü  
 4. Açıkken boşluk / ışık kaçağı var mı bak  
 5. Kapalıyken sürücü koltuğundan foto — “fazla mı duruyor?”  
@@ -150,9 +150,8 @@ Açıkken en iyi örtü olabilir; kapalıyken bagajda → her sefer tak-çıkar.
 Detaylı paket: [onerilen-yol.md](onerilen-yol.md)
  araştırma: [on-cam.md](on-cam.md) · [yan-cam.md](yan-cam.md)
 
-## TR örnek linkler (fiyat/stok değişir — sınıf referansı)
+## TR örnek linkler
 
-- Ön Baseus 64 cm: https://www.parcabayisi.com/urun/baseus-auto-close-arac-on-cam-guneslik-otomatik-geri-cekilebilir-64cm  
-- Yan makaralı kategori: https://www.trendyol.com/makarali-guneslik-y-s281834  
-- Carub makaralı 40×45 sınıfı: yokyokoto / Trendyol “Carub otomatik makaralı yan cam” araması  
+- Ön stok durumu: [stokta-olanlar.md](stokta-olanlar.md) — Baseus/Ralf stoksuz, alış yok  
+- Yan kilit: [yan-mesh-karar.md](yan-mesh-karar.md)  
 - Kapalı görünüm referansı (yurt dışı ince kaset): Dash Designs The Shade (~1.5" A sütunu)

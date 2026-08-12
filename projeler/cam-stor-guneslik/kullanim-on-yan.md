@@ -1,14 +1,14 @@
-# Kullanım — ön sabit kaset + yan üst kaset
+# Kullanım — ön sabit kaset + yan mesh
 
-> Ön için **kilitli ASIN yok**. Aşağıdaki ön bölüm, fotoğraflı referans sınıfına (Baseus Auto Close tipi) göre yazıldı.  
-> Görselsiz `B0H8ZTSLP5` önerisi **geçersiz** → [gorsel-dogrulama.md](gorsel-dogrulama.md)
+> Ön için **kilitli ASIN yok**. Hedef sınıf: Baseus Auto Close tipi ince yan tüp.  
+> **2026-08-12:** Bu sınıf TR’de stoksuz → alış linki yok ([stokta-olanlar.md](stokta-olanlar.md)).
 
 ---
 
-## 1) Ön — ince yan tüp (hedef sınıf; stok gelince)
+## 1) Ön — ince yan tüp (hedef; stok gelince)
 
-Referans (stoksuz örnek):  
-https://www.parcabayisi.com/urun/baseus-auto-close-arac-on-cam-guneslik-otomatik-geri-cekilebilir-64cm
+Form / foto referansı: [gorsel-dogrulama.md](gorsel-dogrulama.md)  
+Alış: stoklu Sepete ekle ilanı bulunca — **gelince haber ver sayfası değil**.
 
 ### Sabit kısım nerede?
 - İnce metal/alaşım tüp **ön camın bir kenarına** (A sütunu hizası) vantuzla yapışır.
@@ -24,7 +24,6 @@ Sürüş → sadece kenarda ince tüp + (istersen) küçük karşı vantuz
 
 ### Görünüm
 - Kapalıyken ortada şişkin panel olmamalı — kaset **kenarda**.
-- Bu iddia Baseus **ürün fotoğraflarından** geliyor; rastgele Amazon başlığından değil.
 
 ---
 
