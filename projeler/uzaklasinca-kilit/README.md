@@ -6,7 +6,11 @@
 
 - **Durum:** 📋 Planlama — **bütçe ertelendi** (öncelik: evden telefon; walk-away ikinci)
 - **Öncelik:** Orta (konfor; güvenlik)
-- **Son güncelleme:** 2026-07-09
+- **Son güncelleme:** 2026-07-10
+
+Araç bilgisi (ortak): [araba/ozellikler.md](../../araba/ozellikler.md) · [araba/notlar.md](../../araba/notlar.md)
+
+İlgili proje: [uzaktan-calisma-klima](../uzaktan-calisma-klima/README.md) (evden telefon — ayrı proje)
 
 ---
 
@@ -79,7 +83,7 @@ Prins LPG. SST-019 bu araca uyumlu mu? Walk-away mesafesi ve montaj ücreti nedi
 
 **Önce walk-away, sonra StarLine telefon → önerilmez** (iki sistem, çift montaj, ~39k TL toplam risk).
 
-Detay: [fazli-butce-plani.md](fazli-butce-plani.md)
+Detay: [fazli-butce-plani.md](../uzaktan-calisma-klima/fazli-butce-plani.md)
 
 | Senaryo | Ne yap |
 |---------|--------|
@@ -114,5 +118,5 @@ Detay: [fazli-butce-plani.md](fazli-butce-plani.md)
 
 - [Hyundai Forum — Walk Away Lock](https://www.hyundai-forums.com/threads/walk-away-automatic-door-locking.677371/)
 - [MyKeyPremium technicals — manuel uyumsuz](https://mykeypremium.com/pages/technicals)
-- [Fazlı bütçe planı](fazli-butce-plani.md)
-- [Telefon kontrol araştırması](telefon-kontrol-arastirma.md)
+- [Fazlı bütçe planı](../uzaktan-calisma-klima/fazli-butce-plani.md)
+- [Telefon kontrol araştırması](../uzaktan-calisma-klima/telefon-kontrol-arastirma.md)

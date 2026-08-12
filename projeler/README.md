@@ -1,35 +1,43 @@
-# Proje Listesi
+# Projeler
 
-> Tüm planlanan, devam eden ve tamamlanan projeler.
+> Her proje **kendi klasöründe**. Yeni fikir = yeni klasör. Eski klasörlere dokunulmaz.
 
-## Durum açıklamaları
+## Durum
 
 | Durum | Anlamı |
 |-------|--------|
 | 💡 Fikir | Henüz sadece konuşuldu |
-| 📋 Planlama | Detaylı plan üzerinde çalışılıyor |
-| 🔧 Devam ediyor | Uygulama aşamasında |
-| ✅ Tamamlandı | Bitti, `araba/yapilanlar.md` dosyasına da yazıldı |
-| ❄️ Donduruldu | Şimdilik ertelendi |
+| 📋 Planlama | Araştırma / plan |
+| 🔧 Devam ediyor | Uygulama |
+| ✅ Tamamlandı | Bitti → `araba/yapilanlar.md` |
+| ❄️ Donduruldu | Ertelendi |
 | ❌ İptal | Yapılmayacak |
 
-## Projeler
+## Aktif projeler
 
-| # | Proje | Durum | Öncelik | Dosya |
-|---|-------|-------|---------|-------|
-| — | **Fazlı bütçe planı (parça parça mı?)** | 📋 Planlama | **Yüksek** | [fazli-butce-plani.md](fazli-butce-plani.md) |
-| — | **Telefon kontrol araştırması (TR + gümrük)** | 📋 Planlama | **Yüksek** | [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) |
-| — | **Parça tedarik TR (SKU, stok)** | 📋 Planlama | **Yüksek** | [parca-tedarik-tr.md](parca-tedarik-tr.md) |
-| — | **Satın alma kanalları (internet)** | 📋 Planlama | — | [satin-alma-kanallari.md](satin-alma-kanallari.md) |
-| — | **Telefon / otomasyon seçenekleri** | 📋 Planlama | — | [telefon-otomasyon.md](telefon-otomasyon.md) |
-| — | **Master uygulama planı (fazlar)** | 📋 Planlama | **Yüksek** | [master-plan.md](master-plan.md) |
-| — | **Sistem mimarisi (yurtiçi Fortin)** | 📋 Planlama | **Yüksek** | [sistem-mimarisi.md](sistem-mimarisi.md) |
-| — | **Teknik analiz (tam rapor)** | 📋 Planlama | — | [teknik-analiz.md](teknik-analiz.md) |
-| — | **Kullanım senaryoları (inme/binme)** | 📋 Planlama | — | [kullanim-senaryolari.md](kullanim-senaryolari.md) |
-| — | **Zorunlu parça listesi** | 📋 Planlama | — | [zorunlu-parcalar.md](zorunlu-parcalar.md) |
-| 1 | Uzaklaşınca otomatik kilitlenme | 📋 Planlama | Orta | [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) |
-| 2 | Uzaktan çalıştırma & klima | 📋 Planlama | Orta | [uzaktan-calisma-ve-klima.md](uzaktan-calisma-ve-klima.md) |
+| Klasör | Proje | Durum | Öncelik |
+|--------|-------|-------|---------|
+| [uzaktan-calisma-klima/](uzaktan-calisma-klima/) | Uzaktan çalıştırma & klima (StarLine GSM ECO) | 📋 Planlama | Yüksek |
+| [uzaklasinca-kilit/](uzaklasinca-kilit/) | Uzaklaşınca otomatik kilit (walk-away) | 📋 Planlama | Orta |
+| [yazilim-kodlama/](yazilim-kodlama/) | Yazılım / BCM kodlama / chip — ne yapılabilir? | 💡 Fikir | Orta |
+| [koltuk-sogutma/](koltuk-sogutma/) | Koltuk soğutma / havalandırma (OEM görünüm) | 💡 Fikir | Orta |
+| [haftasonu-fikirler/](haftasonu-fikirler/) | Hafta sonu: işe yarar DIY fikir havuzu | 💡 Fikir | Düşük (seçim bitti) |
+| [android-yan-kamera/](android-yan-kamera/) | Android teypte sağ/sol canlı kamera | 📋 Planlama | Yüksek |
+| [cam-stor-guneslik/](cam-stor-guneslik/) | Park: ön+yan cam stor / roller güneşlik | 📋 Planlama | Orta |
+
+Her klasörde **`README.md`** = ana proje dosyası. Diğer `.md` dosyaları o projeye özel destek dokümanlarıdır.
+
+## Yeni proje
+
+```bash
+cp -r projeler/_sablon projeler/<yeni-isim>
+# projeler/<yeni-isim>/README.md doldur
+# Bu tabloya satır ekle
+# degisiklikler.md not düş
+```
+
+Şablon: [_sablon/README.md](_sablon/README.md)
 
 ---
 
-*Son güncelleme: 2026-07-09*
+*Son güncelleme: 2026-07-25*

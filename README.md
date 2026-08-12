@@ -1,26 +1,35 @@
-# ix35 — Araba Projeleri
+# ix35 — Araba Bilgisi & Projeler
 
-Bu repo, Hyundai ix35 üzerinde planlanan eğlenceli ve detaylı projeleri birlikte düşünmek, araştırmak ve kayıt altına almak için kullanılır.
+2012 Hyundai ix35 için **kalıcı araba hafızası** ve **ayrı proje klasörleri**.
 
-## Nasıl çalışıyoruz?
+## Yapı (tek bakışta)
 
-1. **Sohbet & soru-cevap** — Fikirleri konuşuruz, birlikte karar veririz.
-2. **Kayıt** — Önemli her şey dosyalara yazılır; plan değişince güncellenir.
-3. **Git** — Değişiklikler commit edilir; hiçbir şey kaybolmaz.
+```
+araba/      → Arabanın unutulmayacak bilgileri
+projeler/   → Her proje kendi klasöründe
+```
 
-## Klasör yapısı
+Detay: [NASIL-CALISIRIZ.md](NASIL-CALISIRIZ.md)
 
-| Dosya / Klasör | Ne için? |
-|----------------|----------|
-| [`araba/ozellikler.md`](araba/ozellikler.md) | Arabanın sabit bilgileri (model, motor, donanım…) |
-| [`araba/yapilanlar.md`](araba/yapilanlar.md) | Yapılmış işler, modifikasyonlar, bakımlar |
-| [`araba/notlar.md`](araba/notlar.md) | Unutulmaması gereken genel notlar |
-| [`projeler/README.md`](projeler/README.md) | Tüm projelerin listesi ve durumları |
-| [`projeler/_sablon.md`](projeler/_sablon.md) | Yeni proje planı şablonu |
-| [`degisiklikler.md`](degisiklikler.md) | Plan ve kayıt değişiklik günlüğü |
+## Araba
 
-## Yeni proje eklemek
+| Dosya | İçerik |
+|-------|--------|
+| [araba/ozellikler.md](araba/ozellikler.md) | Model, motor, donanım |
+| [araba/notlar.md](araba/notlar.md) | LPG, manuel, DIY, kısıtlar |
+| [araba/yapilanlar.md](araba/yapilanlar.md) | Yapılan işler |
 
-1. `projeler/_sablon.md` dosyasını kopyala → `projeler/<proje-adi>.md`
-2. `projeler/README.md` listesine ekle
-3. `degisiklikler.md` dosyasına kısa not düş
+## Projeler
+
+| Klasör | Ne |
+|--------|-----|
+| [projeler/uzaktan-calisma-klima/](projeler/uzaktan-calisma-klima/) | Uzaktan çalıştırma & klima (StarLine) |
+| [projeler/uzaklasinca-kilit/](projeler/uzaklasinca-kilit/) | Uzaklaşınca otomatik kilit |
+| [projeler/yazilim-kodlama/](projeler/yazilim-kodlama/) | Yazılım / kodlama / chip araştırması |
+| [projeler/koltuk-sogutma/](projeler/koltuk-sogutma/) | Koltuk soğutma / havalandırma (OEM) |
+
+Tam liste: [projeler/README.md](projeler/README.md)
+
+## Yeni proje
+
+`projeler/_sablon/` klasörünü kopyala → `projeler/<yeni-isim>/`

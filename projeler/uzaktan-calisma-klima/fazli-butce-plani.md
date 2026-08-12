@@ -140,7 +140,7 @@ Sen **telefon kontrolü** istiyorsun; fiyat **şu an çok**; **walk-away** da is
 
 Walk-away **ayrı proje dosyasında** vardı; fiyat araştırması eksikti — **tamamlandı:**
 
-→ [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md)
+→ [uzaklasinca-otomatik-kilit.md](../uzaklasinca-kilit/README.md)
 
 **Özet:** Walk-away tek başına ~5.000 TL’lik bir “modül” olarak satılmıyor. En net yurtiçi paket **SST-019 ~15.500 TL** (walk-away dahil, RF uzaktan da dahil ama evden değil).
 
@@ -151,8 +151,10 @@ Walk-away **ayrı proje dosyasında** vardı; fiyat araştırması eksikti — *
 | Dosya | İçerik |
 |-------|--------|
 | [telefon-kontrol-arastirma.md](telefon-kontrol-arastirma.md) | Yurtiçi/ithalat telefon + gümrük ~22–26k |
+| [alternatif-karsilastirma.md](alternatif-karsilastirma.md) | Pandora vs StarLine; tek kutu telefon+walk-away |
+| [pandora-arastirma.md](pandora-arastirma.md) | Pandora VX-4G detaylı araştırma (ix35, Hands Free, fiyat) |
 | [parca-tedarik-tr.md](parca-tedarik-tr.md) | Yurtiçi SKU listesi |
-| [uzaklasinca-otomatik-kilit.md](uzaklasinca-otomatik-kilit.md) | Walk-away seçenekleri + SST fiyat |
+| [uzaklasinca-otomatik-kilit.md](../uzaklasinca-kilit/README.md) | Walk-away seçenekleri + SST fiyat |
 | [master-plan.md](master-plan.md) | Uygulama fazları |
 | [sistem-mimarisi.md](sistem-mimarisi.md) | Teknik mimari |
 
@@ -166,6 +168,25 @@ Walk-away **ayrı proje dosyasında** vardı; fiyat araştırması eksikti — *
 | 2026-07-09 | İki marka sistemi sırayla kurma | Çift montaj, para israfı |
 | 2026-07-09 | Hedef sistem: StarLine (telefon) | Evden GSM; birikim sonrası |
 | 2026-07-09 | Walk-away: SST alternatif (~15k) | StarLine’dan ucuz ama telefon yok; sadece telefon vazgeçilirse |
+
+---
+
+## 9. StarLine’da walk-away var mı? (sık sorulan)
+
+**Kısa cevap:** StarLine paketinin içinde **Start-Stop TR’deki gibi** “uzaklaşınca kapı kendi kilitlendi” **standart olarak yok**.
+
+| Ne istiyorsun | StarLine ile | SST ile |
+|---------------|-------------|---------|
+| Uzaklaşınca **otomatik** kilit (tuşa basmadan) | ❌ fabrika özelliği değil; A93’te SST kadar net değil | ✅ ~2–3 m |
+| Çıkarken **telefondan** kilitle | ✅ StarLine 2 uygulaması | ❌ (BT modülü yakın mesafe) |
+| Çıkarken **fabrika kilit** tuşuna bas | ✅ SLAVE modu — alarm da silahlanır | — |
+| Sürüşte otomatik kilit (kalkınca) | ⚙️ CAN ayarı (farklı şey) | — |
+
+**SLAVE / tag ne yapar?** Fabrika kumandayla StarLine’ı birlikte yönetir veya güvenlik (anti-hırsızlık). **Walk-away auto lock değildir** — yine de çoğu gün kilit tuşuna basıyorsan pratikte iş görür.
+
+**ix35 notu:** StarLine forumda ix35 push-start + SLAVE “çoğu zaman çalışır” deniyor; %100 fabrika walk-away garantisi yok.
+
+**Sonuç:** StarLine = **evden telefon + uzaktan çalıştırma**. Walk-away “unutmayayım” için ya telefonla kilitle, ya fabrika kilit (SLAVE), ya da SST gibi ayrı sistem — **üçü birden pahalı/tekrarlı**.
 
 ---
 
