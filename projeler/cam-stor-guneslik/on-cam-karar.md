@@ -21,15 +21,19 @@ Montaj: **A sütunu kenarına dikey kaset**, karşıya çek (Baseus hissi). Cam�
 
 ## Stoklu alış (2026-08-12 — Sepete ekle)
 
+Pazarama **marka kategori** (`.../polhammobile/arka-cam-perde-k-K12220`) boş / çalışmıyor. Aşağıdakiler **ürün veya çalışan liste**.
+
 | Ürün | Ölçü | Fiyat | Link | Stok |
 |------|------|-------|------|------|
-| **Polham sürgülü / geri çekilebilen ön cam** | **68×125 cm** | **~610 TL** | https://www.pazarama.com/polhammobile/arka-cam-perde-k-K12220 | Sepete ekle · iki 68×125 ilan |
-| PVC makaralı stor (siyah noktalı) | **68×125 cm** | Sepete ekle | https://www.pazarama.com/suscaroto-aksesuar-ic-guneslikler-otomatik-surgulu-68cm-125cm-676823856-p-676823856 | PVC + metal çubuk · vantuz · yaylı |
-| Aynı ölçü, daha ucuz ilan | **68×125 cm** | **~399 TL** | https://www.pazarama.com/araba-gunesligi-on-cam-guneslik-geri-cekilebilir-koruyucu-guneslik-68-x125-cm-benekli-p-fyz0115 | Sepete ekle · fotoğrafta **delik/file varsa alma** |
+| **coofbe sürgülü ön cam** | **68×125 cm** | **~597 TL** | https://www.trendyol.com/surgulu-arac-perdesi-y-s276136 | Sepete ekle · listede “coofbe … 68x125” |
+| **ŞüsCarOto noktalı stor** | **68 cm sınıfı** | **~575 TL** | https://www.trendyol.com/surgulu-arac-perdesi-y-s276136 | Sepete ekle · aynı liste |
+| **VANCKEY sürgülü metalize** | **70×150 cm** | **~1.150 TL** | https://www.trendyol.com/surgulu-arac-perdesi-y-s276136 | Sepete ekle · ix35’e **daha yakın ölçü** |
+| ŞüsCarOto PVC stor (ürün) | **68×125 cm** | **~750 TL** | https://www.pazarama.com/suscaroto-aksesuar-ic-guneslikler-otomatik-surgulu-68cm-125cm-676823856-p-676823856 | Pazarama **ürün** sayfası (`-p-`), kategori değil |
+| Mefsa 68×125 (HB arama) | **68×125 cm** | ~429 TL | https://www.hepsiburada.com/ara?q=geri%20cekilebilir%2068x125%20guneslik | 1 ürün · fotoğrafta delik/file varsa alma |
 
-**Al:** Pazarama **Polham 68×125** (listede “Sürgülü” veya “Geri Çekilebilen”). Yoksa aynı ölçü PVC stor linki.
+**Al:** Trendyol listesinde **coofbe 68×125** veya ölçü daha iyiyse **VANCKEY 70×150**.
 
-Polham listesi: sayfada **68×125** yazanı seç; 58×125’e kayma.
+Listede 58×125 / 2’li yan stor’a kayma.
 
 ---
 
@@ -43,6 +47,7 @@ Aynı PVC makara ailesinin ebat tablosu (üretici):
 | 40×125 | Arka cam |
 | 50×125 / **58×125** | Küçük ön — ix35’te alçak kalır |
 | **68×125** | Ön cam (kaset ≈ cam yüksekliği) |
+| **70×150** | Daha iyi ön — yükseklik + çekim ix35’e yakın |
 
 Amazon B0H8Q74GGP (58×125, ~300 TL) bu tabloda **küçük ön / büyük yan**. ix35 ~140×70 için 58 cm kaset kısa.
 
@@ -52,7 +57,7 @@ Amazon B0H8Q74GGP (58×125, ~300 TL) bu tabloda **küçük ön / büyük yan**. 
 
 | | |
 |--|--|
-| Ölçü | 68 cm yükseklik ix35’e yakın. **125 cm çekim hâlâ ~140 cm’den kısa** → yanlarda ışık kaçağı olabilir. Ölç, dene, iade. |
+| Ölçü | 68 cm yükseklik yakın; 125 cm çekim kısa kalabilir. **70×150** (VANCKEY) çekimde daha iyi. Ölç, dene, iade. |
 | Kumaş | PVC stor (bazen yansıtıcı nokta deseni). Carub yan kumaş kadar “kumaş opak” değil; tül/mesh bebek file de değil. |
 | Alma | 58×125 (Amazon B0H8Q74GGP) — bu cam için küçük |
 | Alma | Nekuba/Sunup **gözenekli** — file |
@@ -63,6 +68,7 @@ Amazon B0H8Q74GGP (58×125, ~300 TL) bu tabloda **küçük ön / büyük yan**. 
 
 ## Sipariş
 
-1. Pazarama Polham **68×125** — Sepete ekle görünce al  
+1. Trendyol: **coofbe 68×125** veya **VANCKEY 70×150** — Sepete ekle görünce al  
+   https://www.trendyol.com/surgulu-arac-perdesi-y-s276136
 2. Kaseti **kenara**, 1 park günü  
 3. Uymazsa iade

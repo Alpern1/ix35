@@ -22,7 +22,7 @@ TR’de “sadece üst kenar sıkıştırma, vantuz yok” diye **ayrı premium 
 | Durum | Açıklama |
 |-------|----------|
 | Hedef | Baseus Auto Close / Ralf sınıfı — kenar tüp, yaylı geri sarma |
-| TR stok (2026-08-12) | **68×125** Pazarama Polham / PVC stor — Sepete ekle. Baseus/Ralf hâlâ gelince haber ver |
+| TR stok (2026-08-12) | Trendyol **68×125** / **70×150** sürgülü stor — Sepete ekle. Baseus/Ralf hâlâ gelince haber ver |
 | Alış | [on-cam-karar.md](on-cam-karar.md) — 58×125 alma |
 
 Form referansı (alış değil): [gorsel-dogrulama.md](gorsel-dogrulama.md)
@@ -75,7 +75,7 @@ Form referansı (alış değil): [gorsel-dogrulama.md](gorsel-dogrulama.md)
 
 | Hedef | Ne yap |
 |-------|--------|
-| Ön, **sabit** ince kaset | **68×125** Polham / PVC — [on-cam-karar.md](on-cam-karar.md) |
+| Ön, **sabit** ince kaset | Trendyol **68×125** / **70×150** — [on-cam-karar.md](on-cam-karar.md) |
 | Ön, 58×125 / şemsiye / mesh | Hedef değil |
 | Yan | Opak makaralı 2’li — [yan-makara-karar.md](yan-makara-karar.md) |
 

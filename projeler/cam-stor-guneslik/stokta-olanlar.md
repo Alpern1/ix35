@@ -11,9 +11,10 @@ Detay: [on-cam-karar.md](on-cam-karar.md)
 
 | Ürün | Ölçü | Fiyat | Link | Stok |
 |------|------|-------|------|------|
-| **Polham sürgülü / geri çekilebilen** | **68×125 cm** | **~610 TL** | https://www.pazarama.com/polhammobile/arka-cam-perde-k-K12220 | Sepete ekle |
-| PVC makaralı (siyah noktalı) | **68×125 cm** | Sepete ekle | https://www.pazarama.com/suscaroto-aksesuar-ic-guneslikler-otomatik-surgulu-68cm-125cm-676823856-p-676823856 | PVC + vantuz |
-| Ucuz 68×125 ilan | **68×125 cm** | **~399 TL** | https://www.pazarama.com/araba-gunesligi-on-cam-guneslik-geri-cekilebilir-koruyucu-guneslik-68-x125-cm-benekli-p-fyz0115 | File fotoğrafı varsa alma |
+| **coofbe sürgülü** | **68×125 cm** | **~597 TL** | https://www.trendyol.com/surgulu-arac-perdesi-y-s276136 | Sepete ekle |
+| **ŞüsCarOto noktalı** | **68 cm sınıfı** | **~575 TL** | https://www.trendyol.com/surgulu-arac-perdesi-y-s276136 | Sepete ekle |
+| **VANCKEY metalize** | **70×150 cm** | **~1.150 TL** | https://www.trendyol.com/surgulu-arac-perdesi-y-s276136 | Sepete ekle · daha iyi ölçü |
+| ŞüsCarOto PVC (ürün) | **68×125 cm** | **~750 TL** | https://www.pazarama.com/suscaroto-aksesuar-ic-guneslikler-otomatik-surgulu-68cm-125cm-676823856-p-676823856 | Pazarama ürün sayfası |
 
 ---
 
@@ -33,7 +34,8 @@ Detay: [yan-makara-karar.md](yan-makara-karar.md)
 
 ## Elenen
 
-- Amazon **58×125** B0H8Q74GGP — yan/küçük ön; ix35 ön için alçak
+- Pazarama Polham **kategori** (`.../k-K12220`) — boş / “Sonuç bulunamadı”
+- Amazon 58×125 `B0H8Q74GGP` — küçük ön / yan ölçü
 - TROBUS / tül / gözenekli Nekuba-Sunup — file ailesi
 - Baseus/Ralf parcabayisi — gelince haber ver
 - Şemsiye / katlanır panel

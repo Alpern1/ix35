@@ -50,7 +50,7 @@ Dürüst TR gerçeği: Raftaki çoğu “roller / geri sarımlı” **yine vantu
 
 | | |
 |--|--|
-| Polham 68×125 | Sepete ekle · https://www.pazarama.com/polhammobile/arka-cam-perde-k-K12220 · [on-cam-karar.md](on-cam-karar.md) |
+| Trendyol 68×125 / 70×150 | Sepete ekle · https://www.trendyol.com/surgulu-arac-perdesi-y-s276136 · [on-cam-karar.md](on-cam-karar.md) |
 
 ### 3b) Stoklu ama hedef dışı (dürüst)
 

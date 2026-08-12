@@ -19,7 +19,7 @@
 
 | | |
 |--|--|
-| Örnek | **Polham 68×125** Pazarama · Sepete ekle ~610 TL — [on-cam-karar.md](on-cam-karar.md) |
+| Örnek | Trendyol **coofbe 68×125** ~597 TL / **VANCKEY 70×150** — [on-cam-karar.md](on-cam-karar.md) |
 | Açık | Dış alüminyum folyo + iç siyah kumaş → **ısı kesimi iyi** (orijinal katlanır güneşliğe yakın mantık) |
 | Kapalı | Yolcu tarafında ~64 cm dikey tüp + 2 vantuz; karşıda sabitleme vantuzu kalabilir |
 | Montaj | Camı sil → tüpü yolcu kenarına vantuzla → parkta çek → karşı vantuz/kancaya tut |
@@ -56,7 +56,7 @@ Açıkken en iyi örtü olabilir; kapalıyken bagajda → her sefer tak-çıkar.
 ## Ön cam — pratik yapım sırası
 
 1. Ön cam iç genişlik ölç (A–A, dikiz altından) + yükseklik  
-2. **68×125 siyah makaralı** al — Pazarama Polham ([on-cam-karar.md](on-cam-karar.md))  
+2. **68×125 siyah makaralı** al — Trendyol coofbe / VANCKEY 70×150 ([on-cam-karar.md](on-cam-karar.md))  
 3. Deneme montaj: sadece **kenar**, 1 park günü  
 4. Açıkken boşluk / ışık kaçağı var mı bak  
 5. Kapalıyken sürücü koltuğundan foto — “fazla mı duruyor?”  
@@ -152,6 +152,6 @@ Detaylı paket: [onerilen-yol.md](onerilen-yol.md)
 
 ## TR örnek linkler
 
-- Ön kilit: [on-cam-karar.md](on-cam-karar.md) — **68×125** Polham  
+- Ön kilit: [on-cam-karar.md](on-cam-karar.md) — Trendyol **68×125** / **70×150**  
 - Yan kilit: [yan-makara-karar.md](yan-makara-karar.md)  
 - Mesh sapması iptal: [yan-mesh-karar.md](yan-mesh-karar.md)
