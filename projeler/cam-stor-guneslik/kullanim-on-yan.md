@@ -1,32 +1,29 @@
-# Kullanım — ön yan kaset + yan üst makara
+# Kullanım — ön + yan makaralı stor
 
-> Ön: Baseus sınıfı (TR stok yok). Yan: opak makaralı stor — [yan-makara-karar.md](yan-makara-karar.md)
+> İkisi de çek-bırak kaset. [on-cam-karar.md](on-cam-karar.md) · [yan-makara-karar.md](yan-makara-karar.md)
 
 ---
 
-## 1) Ön — ince yan tüp (hedef; stok gelince)
+## 1) Ön — 58×125 makara
 
-Form: [gorsel-dogrulama.md](gorsel-dogrulama.md)  
-Alış: yalnızca **Sepete ekle**.
+Kaset **A sütunu kenarına**. Karşıya çek.
 
 ```
-Park  → kumaşı çek, karşı kenara tuttur
+Park  → çek, tuttur
 Çıkış → bırak / geri sar
-Sürüş → kenarda ince tüp
+Sürüş → kenarda ince kaset
 ```
 
 ---
 
-## 2) Yan — opak makaralı stor
+## 2) Yan — opak makaralı
 
-Kaset **camın üst kenarına**. Siyah kumaş. Tül/mesh değil.
+Kaset **üst kenara**. Siyah. Tül yok.
 
 ```
-Park  → aşağı çek, altı tuttur
-Çıkış → bırak → kumaş kasetin içine girer
-Sürüş → üstte ince yatay kaset
+Park  → aşağı çek
+Çıkış → bırak
+Sürüş → üstte ince kaset
 ```
 
-Cam açmak: kaset cama yapışıksa **sök** (kaset camla iner).
-
-İlk paket: arka 2. Uymazsa iade.
+Cam açmak: kaset cama yapışıksa sök.

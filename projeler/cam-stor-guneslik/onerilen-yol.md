@@ -8,8 +8,8 @@
 
 | Bölge | Ne | Neden |
 |-------|----|--------|
-| **Ön** | Manuel **geri sarımlı** — ince kaset, siyah/gri | Çek-bırak; bagaja atılmaz |
-| **Yan (4 veya arka 2)** | **Opak makaralı stor** (Carub sınıfı) | Aynı mantık: çek-bırak; file değil — [yan-makara-karar.md](yan-makara-karar.md) |
+| **Ön** | **58×125 makaralı stor** (Amazon B0H8Q74GGP) | Yanlarla aynı çek-bırak — [on-cam-karar.md](on-cam-karar.md) |
+| **Yan (4 veya arka 2)** | **Opak makaralı stor** (Carub sınıfı) | [yan-makara-karar.md](yan-makara-karar.md) |
 
 Elle: yaylı makara. Elektrik yok.
 
@@ -22,12 +22,10 @@ Elle: yaylı makara. Elektrik yok.
 
 ---
 
-## Ön — iki alt tip
+## Ön — kilit
 
-| | Tip A — vantuzlu geri sarımlı | Tip B — yan–yan ince kaset + braket |
-|--|------------------------------|-------------------------------------|
-| Kullanım | Çek / bırak | Çek / kenara kilitle |
-| Öneri | **Önce bunu** (stok gelince) | Vantuz yetmezse |
+- Amazon **B0H8Q74GGP** 58×125 siyah ~300 TL — [on-cam-karar.md](on-cam-karar.md)
+- Baseus stoksuz; şemsiye/panel yok
 
 ---
 
@@ -53,14 +51,14 @@ Dönüş → önü topla + yanları topla (kasetler yerinde kalır)
 
 | | Kaba |
 |--|------|
-| Ön Tip A | ~400–1.500 TL (stok gelince) |
+| Ön 58×125 | ~300 TL |
 | Yan 2’li × 1–2 | ~550–1.400 TL |
-| **Toplam** | **~1.000–3.000 TL** |
+| **Toplam** | **~850–1.700 TL** |
 
 ---
 
 ## Sonraki somut adım
 
-1. Arka kapı ölç → 1× makaralı 2’li ([yan-makara-karar.md](yan-makara-karar.md))
-2. Tak, 1 gün; uymazsa iade
-3. Ön: Baseus sınıfı **Sepete ekle** — [stokta-olanlar.md](stokta-olanlar.md)
+1. Ön: Amazon B0H8Q74GGP — [on-cam-karar.md](on-cam-karar.md)
+2. Yan: 1× makaralı 2’li arka — [yan-makara-karar.md](yan-makara-karar.md)
+3. Tak, 1 gün; uymazsa iade

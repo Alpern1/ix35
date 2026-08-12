@@ -19,7 +19,7 @@
 
 | | |
 |--|--|
-| Örnek | Baseus CRZYD-B0S 64 cm sınıfı · **2026-08-12 TR stok yok** — alış linki yok; Sepete ekle görünce al |
+| Örnek | **Amazon B0H8Q74GGP** 58×125 siyah · Sepete ekle ~300 TL — [on-cam-karar.md](on-cam-karar.md) |
 | Açık | Dış alüminyum folyo + iç siyah kumaş → **ısı kesimi iyi** (orijinal katlanır güneşliğe yakın mantık) |
 | Kapalı | Yolcu tarafında ~64 cm dikey tüp + 2 vantuz; karşıda sabitleme vantuzu kalabilir |
 | Montaj | Camı sil → tüpü yolcu kenarına vantuzla → parkta çek → karşı vantuz/kancaya tut |
@@ -56,7 +56,7 @@ Açıkken en iyi örtü olabilir; kapalıyken bagajda → her sefer tak-çıkar.
 ## Ön cam — pratik yapım sırası
 
 1. Ön cam iç genişlik ölç (A–A, dikiz altından) + yükseklik  
-2. TR’den **siyah/gri geri sarımlı yan kaset** al — yalnızca **Sepete ekle** stoklu (Baseus sınıfı; SUV için ~64 cm)  
+2. **58×125 siyah makaralı** al — Amazon B0H8Q74GGP ([on-cam-karar.md](on-cam-karar.md))  
 3. Deneme montaj: sadece **kenar**, 1 park günü  
 4. Açıkken boşluk / ışık kaçağı var mı bak  
 5. Kapalıyken sürücü koltuğundan foto — “fazla mı duruyor?”  
@@ -152,7 +152,6 @@ Detaylı paket: [onerilen-yol.md](onerilen-yol.md)
 
 ## TR örnek linkler
 
-- Ön stok durumu: [stokta-olanlar.md](stokta-olanlar.md) — Baseus/Ralf stoksuz, alış yok  
+- Ön kilit: [on-cam-karar.md](on-cam-karar.md) — Amazon B0H8Q74GGP  
 - Yan kilit: [yan-makara-karar.md](yan-makara-karar.md)  
-- Mesh sapması iptal: [yan-mesh-karar.md](yan-mesh-karar.md)  
-- Kapalı görünüm referansı (yurt dışı ince kaset): Dash Designs The Shade (~1.5" A sütunu)
+- Mesh sapması iptal: [yan-mesh-karar.md](yan-mesh-karar.md)
