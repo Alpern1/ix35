@@ -40,7 +40,7 @@
 
 - Kilometre: ~130.000 km
 - Genel kondisyon: İyi, şu an çok sorun yok
-- Yağ: ~12.000 km önce değişmiş; %4–5 yokuşta çubuk L altı (düz zemin teyidi yok) — [notlar.md](notlar.md)
+- Yağ: ~12.000 km önce değişmiş; yokuş + soğuk + ~30 sn usulde L altı (kılavuz teyidi yok) — [notlar.md](notlar.md)
 - Bilinen sorunlar / arızalar: Yok (güncel)
 
 ## Fotoğraflar & Referanslar
