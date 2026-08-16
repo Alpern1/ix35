@@ -24,7 +24,7 @@
 
 ## 1.6 GDI yağ tüketimi (2026-08-16)
 
-Bu araçta henüz litre/km ölçümü yok. Aşağısı motor ailesi, bu arabanın teşhisi değil.
+Bu araçta henüz düz zemin litre/km ölçümü yok. 2026-08-16 gözlem: yağ **~12.000 km önce** değişmiş; araç **%4–5 yokuş yukarı** parkken çubuk **L altı**. Bu, “motor bitti” demek değil — aşağıda neden.
 
 | | |
 |--|--|
@@ -40,6 +40,22 @@ Bu araçta henüz litre/km ölçümü yok. Aşağısı motor ailesi, bu arabanı
 **Alarm:** Egzozda mavi duman, buji yağlı, rölanti dalgalı, yağ kokusu / benzin kokulu yağ (seyreltme). Yağ basınç lambası yanınca karter zaten tehlikeli derecede boştur.
 
 GDI pratik: değişim **7–8 bin km** (fabrika 15–30 bin uzun); yağ seviyesini yakıt alırken bak.
+
+### 2026-08-16 gözlem — L altı, yokuş, 12 bin km
+
+| | |
+|--|--|
+| Ne görüldü | Çubuk L altı |
+| Park | %4–5 eğim, burun yukarı |
+| Yağ yaşı | ~12.000 km (değişim yok / seviye bakılmamış) |
+
+**En olası:** 12 bin km boyunca bakılmamış yağ + GDI’nin hafif tüketimi. F→L arası kılavuzda **~0,6–1,0 L**. 12 bin km’de 1 L civarı eksilme ≈ **0,08 L / 1000 km** — segman ölümü değil, mütevazı tüketim + uzun aralık.
+
+**Eğim:** Hyundai ölçümü **düz zemin** ister (ısınmış motor, stop, ~5 dk, sil-tak-çek). %4–5 yokuş, transvers motorda karterde ~1 cm yağ kaydırır; L–F bandının büyük kısmı kadar. Orta seviye yokuşta L altı görünebilir. F dolu yağ yokuşta L altına düşmez; net L altıysa düz zeminde de L civarı çıkar.
+
+**Şimdi:** Düz yerde tekrar bak. Hâlâ L altıysa **5W-30** ekle (yokuşta F’ye kadar doldurma — düzde taşar). Sonra bu 12 bin km’lik yağı **değiştir** (GDI’de yağ da yorulur). 1000 km sonra düz zeminde litre not et.
+
+**Değil (ilk teşhis):** Theta 2.4 motor erimesi, LPG’nin yağ yakması, acil segman revizyonu.
 
 ## Araştırma Linkleri
 

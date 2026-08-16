@@ -5,6 +5,7 @@
 ## 2026-08-16
 
 - **1.6 GDI yağ yakma** — Her ix35 yağ yakmaz; G4FD ailesinde eksiltme görülebilir. Bu araçta ölçüm yok. LPG sebep değil. `araba/notlar.md`.
+- **Yağ L altı gözlemi** — ~12.000 km’lik yağ, %4–5 yokuş yukarı park; düz zemin teyidi yok. Asıl açıklama: uzun aralık + hafif tüketim, eğim okumayı şişirir.
 
 ## 2026-07-25
 
