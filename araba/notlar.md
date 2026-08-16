@@ -33,7 +33,7 @@ Bu araçta henüz düz zemin litre/km ölçümü yok. 2026-08-16 gözlem: yağ *
 | Neden bazıları eksiltir? | GDI: emme subabında yakıt yıkaması yok → karbon; düşük gerilimli yağ segmanı kilitlenebilir; PCV tıkanırsa karter gazı yağı emme tarafına taşır; kısa yol + soğuk = benzinin yağa karışması (yağ incelir). |
 | LPG (Prins) | Yağ yakmayı başlatmaz. LPG’de yağ genelde daha temiz kalır. Asıl LPG riski **kuru subap** (yanlış kit / sürekli gaz). Prins ısınana kadar benzinde çalışır — bu kısım GDI için normal. |
 | Üretici “normal” | Hyundai/Kia bazı kılavuz/TSB’de **0,5–1 L / 1000 km**’ye kadar tolerans yazar. Pratikte bu geniş; senin için **1000 km’de 0,2 L altı** iyi, **~0,5 L** takip, **1 L+** fazla. |
-| Kapasite | Servis dolumu (boşalt + filtre) **~3,6 L**. Çubuk **L→F ≈ 0,6–1,0 L** (kılavuz). Yağ: **5W-30** sentetik. **Üstüne 4 L dökme.** |
+| Kapasite | **3,6 L** servis (filtreyle). Filtresiz 3,3 L. L→F ≈ 0,6–1,0 L. **Üstüne 4 L dökme.** |
 
 **Ne yap:** Bakımdan sonra çubuğu işaretle → 1000 km sonra düz zeminde, motor ılık, 2–3 dk bekle, ölç. Dış kaçak (conta, karter, PCV hortumu) yoksa içeride yanıyor demektir.
 
@@ -61,15 +61,20 @@ Soğuk ölçüm Hyundai usulünden (ılık + 5 dk) ayrı: soğuk yağ büzülür
 
 **Şimdi:** Düz yerde, kılavuz usulü bak — ılık motor, stop, **5 dk**, sil-tak-çek (30 sn yok). Hâlâ L altıysa **5W-30** ekle (yokuşta / soğukta F’ye doldurma). Sonra 12 bin km’lik yağı **değiştir**. 1000 km sonra düz + aynı usulle litre not et.
 
-**Kriko / işe gitmek (2026-08-16):** Kullanıcı **tam değişim** yapacak — kirli yağın üstüne Castrol yok. Eklemek kriko istemez; boşaltmak ister (sehpa). L civarında kısa yol idare eder; yağdanlık yanmazsa işe gidilebilir. Değişim: boşalt + filtre → **~3,6 L** yeni 5W-30, çubukla F. 1 L şişe yetmez; 4 veya 5 L bidon.
+**Kriko / işe gitmek (2026-08-16):** Kullanıcı **tam değişim** yapacak — kirli yağın üstüne Castrol yok. Eklemek kriko istemez; boşaltmak ister (sehpa). L civarında kısa yol idare eder; yağdanlık yanmazsa işe gidilebilir. Değişim: boşalt + filtre → hedef **3,6 L** (önce 3,4–3,5, çubukla F). 1 L şişe yetmez; 4 L bidon.
 
-**Litre (karışmasın):**
+**Litre (kaynak, 2026-08-16):**
 
-| Ne | Ne kadar |
-|----|----------|
-| Tam değişim (boşalt + filtre) | **~3,6 L** yeni yağ. Önce ~3,3 L koy, çubuk, F’ye tamamla. 4 L bidon al. |
-| L civarı üstüne ekleme | Yapılmayacak — kirli yağın üstüne Castrol yok. |
-| Kuru motor (hiç yağ yok) | ~3,7–4,0 L — senin durumun değil |
+G4FD 1.6 GDI. Erken UK ix35 kılavuzu (2010) sadece 2.0 benzin yazar (4,1 L) — 1.6 GDI o basımda yok.
+
+| Kaynak | Miktar | Ne |
+|--------|--------|-----|
+| G4FD teknik / Motorreviewer / i30 G4FD | **3,6 L** filtreyle, **3,3 L** filtresiz | Motor ailesi |
+| Kroon-Oil, cararac, Hyundai servis tabloları — ix35 1.6 GDI 2WD | **3,6 L** servis dolumu (filtre 0,3 L) | Bu kasa |
+| 2019 Tucson kılavuzu (aynı 1.6 GDI satırı) | **3,6 L** drain and refill | Hyundai tablosu |
+| garage.wiki ix35 “1.6 133 hp” | 3,3 L | Muhtemel MPI/filtresiz karışımı — **alma** |
+
+**Değişim (filtre yenilenecek):** hedef **~3,6 L**, kör 4 L değil. Önce **~3,4–3,5 L** koy, düz zeminde çubuk, F’ye tamamla. Tam boşalmamışsa F daha azda gelir — o yüzden kademeli. 4 L bidon al (kalan yedek).
 
 **Yağdanlık (2026-08-16):** Bu benzinde yağdanlık **seviye değil, basınç** lambası. Dizelde ayrı “seviye” lambası olabiliyor; 1.6 GDI’de yok. Lamba, pompa basıncı düşünce yanar — genelde karter neredeyse boş / pickup hava alınca. **Hiç yanmaması iyi:** basınç krizi olmamış. Çubuk L altı ile çelişmez; L’de hâlâ ~2,5 L yağ vardır, basınç durur. Seviyeyi çubukla bak; lambayı bekleme.
 
