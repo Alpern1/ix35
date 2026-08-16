@@ -63,6 +63,8 @@ Soğuk ölçüm Hyundai usulünden (ılık + 5 dk) ayrı: soğuk yağ büzülür
 
 **Kriko / işe gitmek (2026-08-16):** Yağ **eklemek** kriko istemez (üstten kapak). Kriko sadece boşaltmak için. L = minimum; tam L’de kısa yol genelde idare eder, L’nin belirgin altı + yokuş/sert fren pompayı bir an hava aldırabilir. Bu ölçüm kötümser (yokuş+soğuk) → muhtemel gerçek seviye L civarı. Bu akşam **~0,5 L 5W-30** koy, yarın iş, akşam değişim. F’ye kadar doldurma. Yağ lambası yanarsa dur.
 
+**Yağdanlık (2026-08-16):** Bu benzinde yağdanlık **seviye değil, basınç** lambası. Dizelde ayrı “seviye” lambası olabiliyor; 1.6 GDI’de yok. Lamba, pompa basıncı düşünce yanar — genelde karter neredeyse boş / pickup hava alınca. **Hiç yanmaması iyi:** basınç krizi olmamış. Çubuk L altı ile çelişmez; L’de hâlâ ~2,5 L yağ vardır, basınç durur. Seviyeyi çubukla bak; lambayı bekleme.
+
 **Değil (ilk teşhis):** Theta 2.4 motor erimesi, LPG’nin yağ yakması, acil segman revizyonu.
 
 ## Araştırma Linkleri
