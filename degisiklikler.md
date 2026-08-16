@@ -2,6 +2,10 @@
 
 > Plan veya kayıtlarda yapılan önemli değişiklikler. "Neden değişti?" sorusunun cevabı burada.
 
+## 2026-08-16
+
+- **1.6 GDI yağ yakma** — Her ix35 yağ yakmaz; G4FD ailesinde eksiltme görülebilir. Bu araçta ölçüm yok. LPG sebep değil. `araba/notlar.md`.
+
 ## 2026-07-25
 
 - **Yeni proje: cam-stor-guneslik** — Park-only ön+yan cam stor/roller araştırması (`on-cam.md`, `yan-cam.md`). Kapıya vida yok; katlanır panel hedef değil.
