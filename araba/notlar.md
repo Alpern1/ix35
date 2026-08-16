@@ -67,9 +67,9 @@ Soğuk ölçüm Hyundai usulünden (ılık + 5 dk) ayrı: soğuk yağ büzülür
 
 | Ne | Ne kadar |
 |----|----------|
-| Şu an L civarı → F | **0,5 L koy, çubuğa bak.** Gerekirse bir 0,3–0,5 L daha. Toplam genelde **1 L’den az**. |
-| Tam değişim (boşalt + filtre) | **~3,6 L** → 4 L veya 5 L bidon. 1 L Castrol yetmez. |
-| Kuru motor (ilk kez, hiç yağ yok) | ~3,7–4,0 L — senin durumun değil |
+| Tam değişim (boşalt + filtre) | **~3,6 L** yeni yağ. Önce ~3,3 L koy, çubuk, F’ye tamamla. 4 L bidon al. |
+| L civarı üstüne ekleme | Yapılmayacak — kirli yağın üstüne Castrol yok. |
+| Kuru motor (hiç yağ yok) | ~3,7–4,0 L — senin durumun değil |
 
 **Yağdanlık (2026-08-16):** Bu benzinde yağdanlık **seviye değil, basınç** lambası. Dizelde ayrı “seviye” lambası olabiliyor; 1.6 GDI’de yok. Lamba, pompa basıncı düşünce yanar — genelde karter neredeyse boş / pickup hava alınca. **Hiç yanmaması iyi:** basınç krizi olmamış. Çubuk L altı ile çelişmez; L’de hâlâ ~2,5 L yağ vardır, basınç durur. Seviyeyi çubukla bak; lambayı bekleme.
 
