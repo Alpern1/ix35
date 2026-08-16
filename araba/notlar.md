@@ -47,13 +47,19 @@ GDI pratik: değişim **7–8 bin km** (fabrika 15–30 bin uzun); yağ seviyesi
 |--|--|
 | Ne görüldü | Çubuk L altı |
 | Park | %4–5 eğim, burun yukarı |
+| Motor | **Soğuk** (ılık değil) |
+| Usul | Çubuğu taktı, **~30 sn** bekledi, çekti (sil-tak-çek net değil) |
 | Yağ yaşı | ~12.000 km (değişim yok / seviye bakılmamış) |
 
 **En olası:** 12 bin km boyunca bakılmamış yağ + GDI’nin hafif tüketimi. F→L arası kılavuzda **~0,6–1,0 L**. 12 bin km’de 1 L civarı eksilme ≈ **0,08 L / 1000 km** — segman ölümü değil, mütevazı tüketim + uzun aralık.
 
 **Eğim:** Hyundai ölçümü **düz zemin** ister (ısınmış motor, stop, ~5 dk, sil-tak-çek). %4–5 yokuş, transvers motorda karterde ~1 cm yağ kaydırır; L–F bandının büyük kısmı kadar. Orta seviye yokuşta L altı görünebilir. F dolu yağ yokuşta L altına düşmez; net L altıysa düz zeminde de L civarı çıkar.
 
-**Şimdi:** Düz yerde tekrar bak. Hâlâ L altıysa **5W-30** ekle (yokuşta F’ye kadar doldurma — düzde taşar). Sonra bu 12 bin km’lik yağı **değiştir** (GDI’de yağ da yorulur). 1000 km sonra düz zeminde litre not et.
+**Soğuk + 30 sn:** Kılavuzdaki ~5 dk, çubuğun ıslanması için değil — **ılık motoru kapattıktan sonra** yağın kafa/kanallardan kartere inmesi için. Araç zaten soğuksa yağ saatlerdir karterde; 30 sn vs 5 dk **seviyeyi değiştirmez**. Çubukta 30 sn beklemeye gerek yok: sil → tam tak → hemen çek.
+
+Soğuk ölçüm Hyundai usulünden (ılık + 5 dk) ayrı: soğuk yağ büzülür, çubuk **biraz düşük** okunabilir (~0,2–0,3 L, L–F’nin bir kısmı). Yokuş + soğuk birlikte, gerçekte L üstü olan yağı L altı gösterebilir.
+
+**Şimdi:** Düz yerde, kılavuz usulü bak — ılık motor, stop, **5 dk**, sil-tak-çek (30 sn yok). Hâlâ L altıysa **5W-30** ekle (yokuşta / soğukta F’ye doldurma). Sonra 12 bin km’lik yağı **değiştir**. 1000 km sonra düz + aynı usulle litre not et.
 
 **Değil (ilk teşhis):** Theta 2.4 motor erimesi, LPG’nin yağ yakması, acil segman revizyonu.
 
