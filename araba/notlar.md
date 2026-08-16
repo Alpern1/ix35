@@ -61,7 +61,7 @@ Soğuk ölçüm Hyundai usulünden (ılık + 5 dk) ayrı: soğuk yağ büzülür
 
 **Şimdi:** Düz yerde, kılavuz usulü bak — ılık motor, stop, **5 dk**, sil-tak-çek (30 sn yok). Hâlâ L altıysa **5W-30** ekle (yokuşta / soğukta F’ye doldurma). Sonra 12 bin km’lik yağı **değiştir**. 1000 km sonra düz + aynı usulle litre not et.
 
-**Kriko / işe gitmek (2026-08-16):** Yağ **eklemek** kriko istemez (üstten kapak). Kriko sadece boşaltmak için. L = minimum; tam L’de kısa yol genelde idare eder, L’nin belirgin altı + yokuş/sert fren pompayı bir an hava aldırabilir. Bu ölçüm kötümser (yokuş+soğuk) → muhtemel gerçek seviye L civarı. Bu akşam **~0,5 L 5W-30** koy (1 L Castrol yeter), yarın iş, akşam değişim. F’ye kadar doldurma. Yağ lambası yanarsa dur.
+**Kriko / işe gitmek (2026-08-16):** Kullanıcı **tam değişim** yapacak — kirli yağın üstüne Castrol yok. Eklemek kriko istemez; boşaltmak ister (sehpa). L civarında kısa yol idare eder; yağdanlık yanmazsa işe gidilebilir. Değişim: boşalt + filtre → **~3,6 L** yeni 5W-30, çubukla F. 1 L şişe yetmez; 4 veya 5 L bidon.
 
 **Litre (karışmasın):**
 
