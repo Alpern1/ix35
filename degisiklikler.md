@@ -5,7 +5,7 @@
 ## 2026-08-16
 
 - **1.6 GDI yağ yakma** — Her ix35 yağ yakmaz; G4FD ailesinde eksiltme görülebilir. Bu araçta ölçüm yok. LPG sebep değil. `araba/notlar.md`.
-- **Yağdanlık** — 1.6 GDI’de basınç lambası, seviye değil. Hiç yanmamış = basınç krizi yok; çubuk L ile çelişmez.
+- **Yağ nereye gitti** — Yandı, sızdı veya ilk değişimde F’ye dolmadı. Filtre kayıp litreyi tutmaz. Karton + tapa/filtre/kapak bak; 1000 km sonra düz ölçüm.
 
 ## 2026-07-25
 

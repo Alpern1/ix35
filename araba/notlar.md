@@ -67,6 +67,31 @@ Soğuk ölçüm Hyundai usulünden (ılık + 5 dk) ayrı: soğuk yağ büzülür
 
 **Değil (ilk teşhis):** Theta 2.4 motor erimesi, LPG’nin yağ yakması, acil segman revizyonu.
 
+### Yağ nereye gitti? (2026-08-16)
+
+İlk değişimden sonra ~10–12 bin km, çubuk L altı (kötümser ölçüm). “Bir litre bir yerde duruyor” değil — ya **yandı** ya **dışarı sızdı** ya da **hiç konmadı**.
+
+| Nereye | Nasıl | Bu araçta |
+|--------|--------|-----------|
+| Yanma (en sık GDI) | Segman / subap keçesi / PCV → emme → egzoz | 10 bin km’de ~0,5–1 L = **0,05–0,10 L/1000 km**. Mavi duman olmayabilir. |
+| Dış kaçak | Tapa, filtre, kapak contas, karter, muhafaza üstünde | Parkta gölle yoksa yolda damlıyor veya yok. |
+| Hiç dolmadı | İlk değişimde F’ye kadar konmamış | Sık. Çubuk orta + 10 bin km tüketim = L altı. |
+| Filtre “yuttu” | **Yok.** Filtre döngüde ~0,2–0,3 L tutar; kayıp litre orada birikmez. | Filtreyi söküp kayıp yağı bulamazsın. |
+
+Hissin doğru: “hiç eksilmesin” beklenir. Sayı: 10 bin km’de 1 L **felaket değil**, GDI’de görülür; 2 L+ veya mavi duman ayrı konu. Ölçüm yokuş+soğuk → gerçek kayıp 1 L’den az olabilir.
+
+**Ulaşılır kontrol (kriko/değişim gecesi):**
+
+1. Gece düz zeminde karton — sabah ıslak = kaçak. Kuru = büyük kaçak yok (alt muhafaza üstünde birikebilir; bak).
+2. Üstten: siyah külbütör kapağı kenarı, buji kuyuları, hortumlu **PCV** (kapak üstü/yanı). Islak/yağlı mı.
+3. Alttan (sehpa şart): tapa + conta, **vidalı yağ filtresi** (OEM 26300-35503), karter kenarı. İlk değişimin tapası gevşek/conta yoksa yavaş kaçak.
+4. Egzoz: soğuk çalıştırma veya gaza basınca mavi duman.
+5. Yağ kapağını aç: benzin kokusu = GDI seyreltme (yakma değil ama yağı incelterek tüketimi artırır).
+
+PCV kapak üzerindeki hortumlu valf; sökülür, evde bakılır. Bu gece sökme. Tıkalı PCV tüketimi artırır ama “kayıp litre orada” değil.
+
+**Asıl ölçüm:** yarın akşam F’ye kadar doldur (düz zemin), 1000 km sonra aynı usulle bak. O zaman bu motorun litre/km’si belli olur.
+
 ## Araştırma Linkleri
 
 - _Proje dosyalarında toplanacak_
