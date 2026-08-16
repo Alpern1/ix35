@@ -33,7 +33,7 @@ Bu araçta henüz düz zemin litre/km ölçümü yok. 2026-08-16 gözlem: yağ *
 | Neden bazıları eksiltir? | GDI: emme subabında yakıt yıkaması yok → karbon; düşük gerilimli yağ segmanı kilitlenebilir; PCV tıkanırsa karter gazı yağı emme tarafına taşır; kısa yol + soğuk = benzinin yağa karışması (yağ incelir). |
 | LPG (Prins) | Yağ yakmayı başlatmaz. LPG’de yağ genelde daha temiz kalır. Asıl LPG riski **kuru subap** (yanlış kit / sürekli gaz). Prins ısınana kadar benzinde çalışır — bu kısım GDI için normal. |
 | Üretici “normal” | Hyundai/Kia bazı kılavuz/TSB’de **0,5–1 L / 1000 km**’ye kadar tolerans yazar. Pratikte bu geniş; senin için **1000 km’de 0,2 L altı** iyi, **~0,5 L** takip, **1 L+** fazla. |
-| Kapasite | Servis dolumu kabaca **3,6 L** + filtre; çubuk F–L arası ~1 L civarı (kılavuzdan teyit). Yağ: **5W-30** sentetik (ACEA C2/C3 / API SM+). |
+| Kapasite | Servis dolumu (boşalt + filtre) **~3,6 L**. Çubuk **L→F ≈ 0,6–1,0 L** (kılavuz). Yağ: **5W-30** sentetik. **Üstüne 4 L dökme.** |
 
 **Ne yap:** Bakımdan sonra çubuğu işaretle → 1000 km sonra düz zeminde, motor ılık, 2–3 dk bekle, ölç. Dış kaçak (conta, karter, PCV hortumu) yoksa içeride yanıyor demektir.
 
@@ -61,7 +61,15 @@ Soğuk ölçüm Hyundai usulünden (ılık + 5 dk) ayrı: soğuk yağ büzülür
 
 **Şimdi:** Düz yerde, kılavuz usulü bak — ılık motor, stop, **5 dk**, sil-tak-çek (30 sn yok). Hâlâ L altıysa **5W-30** ekle (yokuşta / soğukta F’ye doldurma). Sonra 12 bin km’lik yağı **değiştir**. 1000 km sonra düz + aynı usulle litre not et.
 
-**Kriko / işe gitmek (2026-08-16):** Yağ **eklemek** kriko istemez (üstten kapak). Kriko sadece boşaltmak için. L = minimum; tam L’de kısa yol genelde idare eder, L’nin belirgin altı + yokuş/sert fren pompayı bir an hava aldırabilir. Bu ölçüm kötümser (yokuş+soğuk) → muhtemel gerçek seviye L civarı. Bu akşam **~0,5 L 5W-30** koy, yarın iş, akşam değişim. F’ye kadar doldurma. Yağ lambası yanarsa dur.
+**Kriko / işe gitmek (2026-08-16):** Yağ **eklemek** kriko istemez (üstten kapak). Kriko sadece boşaltmak için. L = minimum; tam L’de kısa yol genelde idare eder, L’nin belirgin altı + yokuş/sert fren pompayı bir an hava aldırabilir. Bu ölçüm kötümser (yokuş+soğuk) → muhtemel gerçek seviye L civarı. Bu akşam **~0,5 L 5W-30** koy (1 L Castrol yeter), yarın iş, akşam değişim. F’ye kadar doldurma. Yağ lambası yanarsa dur.
+
+**Litre (karışmasın):**
+
+| Ne | Ne kadar |
+|----|----------|
+| Şu an L civarı → F | **0,5 L koy, çubuğa bak.** Gerekirse bir 0,3–0,5 L daha. Toplam genelde **1 L’den az**. |
+| Tam değişim (boşalt + filtre) | **~3,6 L** → 4 L veya 5 L bidon. 1 L Castrol yetmez. |
+| Kuru motor (ilk kez, hiç yağ yok) | ~3,7–4,0 L — senin durumun değil |
 
 **Yağdanlık (2026-08-16):** Bu benzinde yağdanlık **seviye değil, basınç** lambası. Dizelde ayrı “seviye” lambası olabiliyor; 1.6 GDI’de yok. Lamba, pompa basıncı düşünce yanar — genelde karter neredeyse boş / pickup hava alınca. **Hiç yanmaması iyi:** basınç krizi olmamış. Çubuk L altı ile çelişmez; L’de hâlâ ~2,5 L yağ vardır, basınç durur. Seviyeyi çubukla bak; lambayı bekleme.
 

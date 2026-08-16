@@ -5,7 +5,7 @@
 ## 2026-08-16
 
 - **1.6 GDI yağ yakma** — Her ix35 yağ yakmaz; G4FD ailesinde eksiltme görülebilir. Bu araçta ölçüm yok. LPG sebep değil. `araba/notlar.md`.
-- **Yağ nereye gitti** — Yandı, sızdı veya ilk değişimde F’ye dolmadı. Filtre kayıp litreyi tutmaz. Karton + tapa/filtre/kapak bak; 1000 km sonra düz ölçüm.
+- **Litre** — L→F ≈ 0,5–1 L (üstüne 4 L yok). Tam değişim ~3,6 L. 1 L Castrol ekleme için yeter, değişim için değil.
 
 ## 2026-07-25
 
