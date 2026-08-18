@@ -39,7 +39,7 @@ Bu araçta henüz düz zemin litre/km ölçümü yok. 2026-08-16 gözlem: yağ *
 
 **Alarm:** Egzozda mavi duman, buji yağlı, rölanti dalgalı, yağ kokusu / benzin kokulu yağ (seyreltme). Yağ basınç lambası yanınca karter zaten tehlikeli derecede boştur.
 
-GDI pratik: değişim **7–8 bin km** (fabrika 15–30 bin uzun); yağ seviyesini yakıt alırken bak.
+GDI pratik: değişim **8.000 km veya 12 ay** (hangisi önce). Fabrika 15–30 bin bu motorda uzun. Seviye: yakıtta veya her 1.000 km çubuk.
 
 ### 2026-08-16 gözlem — L altı, yokuş, 12 bin km
 
@@ -84,6 +84,18 @@ G4FD 1.6 GDI. Erken UK ix35 kılavuzu (2010) sadece 2.0 benzin yazar (4,1 L) —
 | Ucuz **10W-40** mineral (TR usta sık) | Uçucu/kalitesizse yanma artar; soğukta da akış kötü |
 
 Fatura / kalan bidon / ustaya sor. Bu değişim: aldığın Castrol **5W-30** doğru. F’ye doldur, 1000 km ölç. Tüketim durursa viskozite+aralık; durmazsa motor (GDI). 5W-40’ı şimdi deneme — bidon 5W-30 ise onu koy.
+
+### 2026-08-18 — değişim yapıldı
+
+Çıkarılan yağ siyah. **Sorun işareti değil.** GDI 10–12 bin km’de neredeyse hep simsiyah olur (kurum + yakıt). Metal parıltı, süt/mayonez (su), benzin gibi ince kokulu ayrı şey — onları söylemedin.
+
+**Şimdi (bugün/yarın):**
+1. Düz zemin, stop, ~5 dk, sil-tak-çek. F ile L arası, tercihen F’ye yakın. Düşükse aynı 5W-30 ile az ekle; F’yi geçirme.
+2. Motor 30–60 sn çalıştır (filtre dolar, seviye biraz iner), yine 5 dk, çubuk. Yağdanlık sönük kalsın.
+3. İlk sürüşten sonra tapa + filtre altı: damlama yok.
+4. **1.000 km** sonra aynı usulle bak — bu motorun litre/km’si o zaman çıkar.
+
+**Aralık:** **8.000 km veya 12 ay.** 15 bin yapma. Çubuğu unutma; lambayı bekleme.
 
 **Yağdanlık (2026-08-16):** Bu benzinde yağdanlık **seviye değil, basınç** lambası. Dizelde ayrı “seviye” lambası olabiliyor; 1.6 GDI’de yok. Lamba, pompa basıncı düşünce yanar — genelde karter neredeyse boş / pickup hava alınca. **Hiç yanmaması iyi:** basınç krizi olmamış. Çubuk L altı ile çelişmez; L’de hâlâ ~2,5 L yağ vardır, basınç durur. Seviyeyi çubukla bak; lambayı bekleme.
 

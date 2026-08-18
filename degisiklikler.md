@@ -2,6 +2,10 @@
 
 > Plan veya kayıtlarda yapılan önemli değişiklikler. "Neden değişti?" sorusunun cevabı burada.
 
+## 2026-08-18
+
+- **Yağ değişimi yapıldı** — Castrol 5W-30. Çıkarılan siyah = GDI’de beklenen. Aralık **8.000 km / 12 ay**. Sonra 1000 km seviye. `araba/yapilanlar.md`
+
 ## 2026-08-16
 
 - **1.6 GDI yağ yakma** — Her ix35 yağ yakmaz; G4FD ailesinde eksiltme görülebilir. Bu araçta ölçüm yok. LPG sebep değil. `araba/notlar.md`.
