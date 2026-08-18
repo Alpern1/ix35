@@ -74,7 +74,16 @@ G4FD 1.6 GDI. Erken UK ix35 kılavuzu (2010) sadece 2.0 benzin yazar (4,1 L) —
 | 2019 Tucson kılavuzu (aynı 1.6 GDI satırı) | **3,6 L** drain and refill | Hyundai tablosu |
 | garage.wiki ix35 “1.6 133 hp” | 3,3 L | Muhtemel MPI/filtresiz karışımı — **alma** |
 
-**Değişim (filtre yenilenecek):** hedef **~3,6 L**, kör 4 L değil. Önce **~3,4–3,5 L** koy, düz zeminde çubuk, F’ye tamamla. Tam boşalmamışsa F daha azda gelir — o yüzden kademeli. 4 L bidon al (kalan yedek).
+**Yanlış viskozite (2026-08-18):** Son değişimde 5W-30 konmamış olması **katkı** olabilir, tek başına 10 bin km’de ~1 L’nin nedeni değil.
+
+| Konmuşsa | Tüketim |
+|----------|---------|
+| **5W-30** sentetik (kitap) | Viskozite suçlu değil |
+| **5W-40** | Kitapta alternatif. Genelde daha az eksiltir, daha fazla değil |
+| **5W-20 / 0W-20** | İnce; GDI + km’de biraz daha yakabilir |
+| Ucuz **10W-40** mineral (TR usta sık) | Uçucu/kalitesizse yanma artar; soğukta da akış kötü |
+
+Fatura / kalan bidon / ustaya sor. Bu değişim: aldığın Castrol **5W-30** doğru. F’ye doldur, 1000 km ölç. Tüketim durursa viskozite+aralık; durmazsa motor (GDI). 5W-40’ı şimdi deneme — bidon 5W-30 ise onu koy.
 
 **Yağdanlık (2026-08-16):** Bu benzinde yağdanlık **seviye değil, basınç** lambası. Dizelde ayrı “seviye” lambası olabiliyor; 1.6 GDI’de yok. Lamba, pompa basıncı düşünce yanar — genelde karter neredeyse boş / pickup hava alınca. **Hiç yanmaması iyi:** basınç krizi olmamış. Çubuk L altı ile çelişmez; L’de hâlâ ~2,5 L yağ vardır, basınç durur. Seviyeyi çubukla bak; lambayı bekleme.
 

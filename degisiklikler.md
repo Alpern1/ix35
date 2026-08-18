@@ -5,7 +5,7 @@
 ## 2026-08-16
 
 - **1.6 GDI yağ yakma** — Her ix35 yağ yakmaz; G4FD ailesinde eksiltme görülebilir. Bu araçta ölçüm yok. LPG sebep değil. `araba/notlar.md`.
-- **Litre teyit** — G4FD filtreyle **3,6 L**, filtresiz 3,3 L. 3,3 “önce koy” tamponuydu, resmi servis dolumu 3,6. Çubukla F.
+- **Viskozite** — Son yağ 5W-30 değilse katkı olabilir, tek açıklama değil. 5W-20/ucuz 10W-40 tüketimi artırabilir. Bu değişim 5W-30.
 
 ## 2026-07-25
 
