@@ -73,17 +73,40 @@ Motor yağı kapağından **değil.** Manuel kutu (**M6CF1**) ayrı kap: **altta
 | | |
 |--|--|
 | Miktar | ~**1,8 L** |
-| Yağ | **API GL-4**, **75W-85**. **GL-5 koyma** (senkrolar aşınır). |
-| Zorluk | Senin yağ değişimi gibi: sehpa, altına girmek. Pompa veya uzun hortumlu huni lazım. |
+| Yağ | **API GL-4**, **75W-85**. Saf **GL-5** (80W-90 vb.) koyma — senkrolar. |
+| Tapa | Çoğu M6CF1: boşaltma **17 mm** altıgen. Dolum 17 veya **14 mm** (araca bak). |
+| Tork | ~59–78 Nm. Tork anahtarı yoksa sıkı sık, vida kırma. |
+| Pul | Hyundai **17511-16000** — 2 adet, bayi. |
 
 Sıra (düz zemin, kutu ılık):
 
 1. **Önce yan dolum tapasını gevşet / aç.** Açılmazsa altı açma — boşaltır boşaltmaz dolduramazsın.
 2. Alt tapayı aç, kabın içine boşalt.
-3. Alt tapayı conta ile sık.
-4. Yan delikten **taşana / damlayana** kadar doldur (seviye bu delik). Tapayı kapat.
+3. Alt tapayı **yeni pul** ile sık.
+4. Yan delikten **taşana / damlayana** kadar doldur (seviye bu delik). Hortumlu **şırınga** ile bas — sifon pompa yukarı basmaz.
 
 Motor yağı gibi “üstten 4 L dök” yok. Filtre yok; sadece yağ.
+
+### Alet sepeti (2026-08-18) — Sepete ekle
+
+Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, bez **zaten var**. Yeni gereken: **dolum şırıngası + yağ + pul**.
+
+**Al:**
+
+| # | Ne | Neden | Link | Not |
+|---|-----|--------|------|-----|
+| 1 | **Hortumlu 500 cc yağ şırıngası** | Yan deliğe yağı **basmak** için. Sifon yetmez. | [Amazon — 500 cc hortumlu, Sepete ekle olanı](https://www.amazon.com.tr/s?k=500cc+ya%C4%9F+de%C4%9Fi%C5%9Fim+%C5%9F%C4%B1r%C4%B1ngas%C4%B1) · [çok satanlar listesi](https://www.amazon.com.tr/gp/bestsellers/automotive/13246888031) | **500 cc + hortum.** QUNNIE `B0BLC8296G` sayfada **stok yoktu** — o ASIN’i alma. |
+| 2 | **Yağ 2×1 L** Motul Motylgear **75W-85** | ~1,8 L gider. Hyundai listesinde; sarı metal OK yazar. | [madeniyagfiltre — Sepete Ekle](https://madeniyagfiltre.com.tr/urun/motul-motylgear-75w85-1-lt-sanziman-yagi/) · [turkoilmarket — Sepete Ekle ~750 TL](https://www.turkoilmarket.com/urun/motul-motylgear-75w-85-1-litre) | Sepete **2 adet**. planetservis’te aynı yağ **STOKTA YOK**. |
+| 3 | Tapa pulu **17511-16000** ×2 | Alt (ve varsa yan) tapaya yeni pul | Hyundai/Kia **bayi**, şase ile | İnternet kör sipariş yok. |
+
+**Yoksa al (evde 17 mm varsa 1’i atla):**
+
+| Ne | Link | Stok (bakıldığı gün) |
+|----|------|----------------------|
+| 17 mm kombine (kısa) | [tuzlahirdavat İzeltaş 0320020017](https://tuzlahirdavat.com.tr/17-mm-kombine-anahtar-kisa-boy-izeltas) | **Var**, Sepete Ekle ~208 TL |
+| 14 mm | Hırdavat / Trendyol “14 mm kombine”, **Sepete ekle** | Tuzla 14 mm o gün **stok yoktu** — “haber ver” yok |
+
+**Alma:** 18 L turlu servis pompası (gereksiz pahalı). Sifon/mazot pompası (Trendyol Sedir vb.) — bidonu boşaltır, **yan deliğe basmaz**. Saf GL-5 80W-90. Yağ+polen 3’lü set.
 
 ---
 
