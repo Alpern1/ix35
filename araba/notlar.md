@@ -97,6 +97,8 @@ Fatura / kalan bidon / ustaya sor. Bu değişim: aldığın Castrol **5W-30** do
 
 **Aralık:** **8.000 km veya 12 ay.** 15 bin yapma. Çubuğu unutma; lambayı bekleme.
 
+**F’yi geçmek:** Az (çubukta 2–3 mm) — genelde tek seferde felaket değil; yine de fazla. Belirgin üzeri (0,3–0,5 L+) — krank yağı köpürtür, PCV’den emmeye kaçırır, duman/katalizör, keçeden kaçak. Bu karter küçük (~3,6 L); fazla ciddiye al. Çözüm: tapa ile biraz boşalt veya çubuk borusundan şırınga. F’nin üstünde sürme.
+
 **Yağdanlık (2026-08-16):** Bu benzinde yağdanlık **seviye değil, basınç** lambası. Dizelde ayrı “seviye” lambası olabiliyor; 1.6 GDI’de yok. Lamba, pompa basıncı düşünce yanar — genelde karter neredeyse boş / pickup hava alınca. **Hiç yanmaması iyi:** basınç krizi olmamış. Çubuk L altı ile çelişmez; L’de hâlâ ~2,5 L yağ vardır, basınç durur. Seviyeyi çubukla bak; lambayı bekleme.
 
 **Değil (ilk teşhis):** Theta 2.4 motor erimesi, LPG’nin yağ yakması, acil segman revizyonu.

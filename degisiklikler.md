@@ -6,6 +6,7 @@
 
 - **Yağ değişimi yapıldı** — Castrol 5W-30. Çıkarılan siyah = GDI’de beklenen. Aralık **8.000 km / 12 ay**. Sonra 1000 km seviye. `araba/yapilanlar.md`
 - **132 bin bakım** — Buji alışta değişti, LPG alışta, antifriz koyuldu. DIY: polen/hava, çubuk, şanzıman yağı. LPG filtre ~145 bin. `araba/bakim.md`
+- **Polen + hava stok** — Cepoto Bosch F026400228 + 1987432224 (Sepete ekle). Çubuk değişir ama önce sil; kör 26611-03801 yok. Şanzıman: yan dolum + alt tapa, GL-4 75W-85 ~1,8 L. Antifriz tam değişim orta zorluk, acil flush yok. `araba/bakim.md`
 
 ## 2026-08-16
 
