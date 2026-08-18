@@ -132,4 +132,4 @@ PCV kapak üzerindeki hortumlu valf; sökülür, evde bakılır. Bu gece sökme.
 
 ---
 
-*Son güncelleme: 2026-08-16 — 1.6 GDI yağ yakma notu*
+*Son güncelleme: 2026-08-18 — yağ değişimi + 8.000 km aralık*
