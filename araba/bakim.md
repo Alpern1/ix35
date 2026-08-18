@@ -1,70 +1,64 @@
 # Periyodik bakım — 132.000 km
 
-> 2012 ix35 · 1.6 GDI (G4FD) · manuel · Prins LPG · 120 binde alındı · yağ **2026-08-18** değişti  
-> Geçmiş bakım fişi yok → sıvıları **yapılmamış say**.
+> 2012 ix35 · 1.6 GDI · manuel · Prins LPG · **120 binde alındı**  
+> Yağ **2026-08-18** değişti. Buji alışta değişti. LPG alışta takıldı. Alış yağında antifriz **koyuldu** (tam değişim teyitsiz).
 
-Araç: [ozellikler.md](ozellikler.md) · yapılanlar: [yapilanlar.md](yapilanlar.md)
-
----
-
-## Şimdi (öncelik)
-
-120→132 bin: 12 bin km senin. 2012 + bilinmeyen geçmiş = yaş ve km birlikte bak.
-
-| Ne | Neden | Ne zaman | Kim |
-|----|--------|----------|-----|
-| **Motor yağı + filtre** | Yapıldı | Sonraki **140 bin / 8.000 km veya 12 ay** | DIY |
-| **Yağ seviyesi** | GDI eksiltebilir | Her **1.000 km** veya yakıtta, düz zemin | Sen |
-| **Antifriz** | Kitap ~120 bin **veya 8 yıl**. Araç 14 yaşında — **gecikmiş** | Bu sonbahar | Usta veya DIY |
-| **Fren hidroliği** | 2 yılda bir; nem alır | Yakında | Usta (kolay) |
-| **V kayışı** | Kitap ~120 bin | Çatlak/gıcırdama bak, şüphede değiş | Usta |
-| **Buji** | Iridium; kitap 75–150 bin. **LPG kısaltır** (~40–60 bin). 132 binde bilinmiyorsa **değiş** | Yakında | DIY/usta |
-| **Prins LPG filtre** | Prins: kontrol **25 bin km / 2 yıl**. TR gaz kirli → daha sık | Fiş yoksa **şimdi** | LPG ustası |
-| **Polen + hava filtresi** | Ucuz; Kayseri toz | Bu mevsim | DIY |
-| **Fren balata/disk, lastik** | 12 bin km senin | Gözle bak | Sen / lastikçi |
+Araç: [ozellikler.md](ozellikler.md) · [yapilanlar.md](yapilanlar.md)
 
 ---
 
-## Bu kışa / 140 bine kadar
+## Sen değiştirebilirsin (DIY)
 
-| Ne | Not |
-|----|-----|
-| **Manuel şanzıman yağı** | M6CF1 ~**1,8 L** GL-4 75W-85. Hiç değişmemişse 132 binde mantıklı |
-| **Benzin filtresi** | Depo hattı; aralık değişken, 120 bin civarı bak |
-| **PCV** | Kapak hortumlu valf. Yağ tüketimi varsa bak |
-| **Su pompası / termostat** | G4FD’de kaçak görülebilir. Antifriz işinde bak |
-| **Akü** | 2012; orijinal çoktan gitmiş olmalı. Soğukta zor çalışıyorsa ölç |
+Yağ ve buji yaptın → aynı seviye bunlar:
 
----
+| İş | Zorluk | Şimdi? |
+|----|--------|--------|
+| Yağ çubuğu | Kolay | Evet, her 1.000 km |
+| **Polen filtresi** (torpido / eldiven gözü) | Kolay | Evet, ucuz |
+| **Hava filtresi** (motor kutusu) | Kolay | Evet |
+| Motor yağı + filtre | Yaptın | Sonraki **140 bin** |
+| Buji | Yaptın (120 bin) | Hayır — LPG ile sonraki ~**160–180 bin** |
+| PCV bak (kapak hortumu) | Kolay | Yağ eksiltirse |
+| Manuel şanzıman yağı (~1,8 L, 75W-85) | Orta (altına girmek, senin yağ değişimi gibi) | Hiç değişmediyse evet |
+| Silecek, ampul, gözle balata/kayış | Kolay | Bak |
 
-## Yapma / sonra
+**V kayışı:** bakarsın (çatlak, tüy, gıcırdama). Sök-tak gergi yüzünden çoğu kişi ustaya bırakır; video + sehpa ile mümkün.
 
-| Ne | Neden |
-|----|--------|
-| **Triger zinciri “değiş”** | Kayış değil, zincir. Periyodik yok. 180 bin civarı gürültü/uzama bak. 132 binde **önleyici sökme yok** |
-| **Motor açma / segman** | Yağ L altı ölçümü bunu gerektirmiyor |
-| **GDI karbon temizliği** | Rölanti/güç kaybı yoksa şimdi şart değil (~80–100 bin’de bazen) |
-| **Subap boşluğu** | Kitap ~96 bin kontrol (mekanik tappet). Buji sökülünce ölçülebilir; şart değil |
+**Fren hidroliği / antifriz tam değişim:** teknik olarak sen; havasını almak / sistemi kanatmak hata kaldırır. İlk kez ise usta daha güvenli.
 
 ---
 
-## Bundan sonra ritim
+## Usta / LPG’ci
 
-| Aralık | Ne |
-|--------|-----|
-| Her yakıt / 1.000 km | Yağ çubuğu |
-| **8.000 km veya 12 ay** | Motor yağı + filtre |
-| 15–25 bin / 2 yıl | LPG filtre + kaçak |
-| 2 yıl | Fren hidroliği |
-| 40–60 bin (LPG) | Buji |
-| 8 yıl / 120 bin sonra 60 bin | Antifriz |
+| İş | Neden sen değil |
+|----|-----------------|
+| **Prins filtre + kaçak** | Gaz. 120 binde takıldı → ilk bakış **~145 bin veya 2 yıl** (Prins 25 bin/2 yıl). Şimdi değil. |
+| Su pompası, triger zinciri | Şimdi yok |
+| Klima gazı, diagnostik | Özel alet |
 
 ---
 
-## 1000 km notu (yağ)
+## Yapıldı — tekrarlama
 
-Düz zemin, ılık, stop 5 dk, sil-tak-çek. F’den ne kadar indiyse yaz. O, bu motorun gerçek tüketimi.
+| Ne | Ne zaman | Sonraki |
+|----|----------|---------|
+| Motor yağı | 132 bin (2026-08-18) | 8.000 km / 12 ay |
+| Buji | 120 bin (alış) | ~40–60 bin LPG → **160–180 bin** |
+| LPG takıldı | 120 bin | Filtre ~25 bin km sonra |
+| Antifriz **koyuldu** | 120 bin alış bakımı | Sadece üstüne koyulduysa seviye/renk bak. **Tam boşalt-doldur** olduysa 60 bin / birkaç yıl. Net değil. |
 
 ---
 
-*2026-08-18 — 132 bin km, 120 binde alış*
+## Kalan öncelik (sen)
+
+1. Polen + hava filtresi  
+2. Yağ çubuğu 1.000 km  
+3. V kayışına bak  
+4. Şanzıman yağı (hiç yoksa)  
+5. Fren hidroliği — sen veya usta; 2 yıllık sıvı, alışta denmedi  
+
+Fren/lastik gözle. Zincir, motor açma, buji, LPG filtre **şimdi yok**.
+
+---
+
+*2026-08-18 — buji/LPG/antifriz alış notu*

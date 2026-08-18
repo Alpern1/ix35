@@ -20,8 +20,13 @@
 - Ne yapıldı: Eski yağ boşaltıldı, yeni Castrol 5W-30 dolduruldu (tam değişim).
 - Kullanılan parça / malzeme: Castrol 5W-30 (filtre teyidi kullanıcı notunda yok)
 - Maliyet: _girilmedi_
-- Notlar: Çıkarılan yağ **siyah** — 10–12 bin km GDI’de beklenen. Seviye: değişim sonrası düz zeminde F kontrolü + 1000 km tüketim ölçümü. Aralık bundan sonra **8.000 km veya 12 ay**.
+- Notlar: Çıkarılan yağ **siyah** — 10–12 bin km GDI’de beklenen. Aralık **8.000 km veya 12 ay**.
+
+### ~120.000 km — alış bakımları (kullanıcı)
+- Buji değişti (kendisi).
+- Prins LPG takıldı.
+- Yağ değişiminde antifriz **koyuldu** (tam sistem değişimi teyitsiz).
 
 ---
 
-*Son güncelleme: 2026-08-18 — yağ değişimi*
+*Son güncelleme: 2026-08-18 — alış bakımları*
