@@ -91,12 +91,12 @@ Motor yağı gibi “üstten 4 L dök” yok. Filtre yok; sadece yağ.
 
 Satıcılar “şırınga”, “şırınga pompası”, “sıvı çıkarıcı” yazıyor. **Ayrı iki alet değil.** Tıbbi iğne değil. Görselde bakacağın şey:
 
-- Şeffaf büyük silindir (üzerinde ml çizgisi, **200–500 cc**)
-- Üstte siyah piston / sap — **çek = doldur, bas = bas**
-- Alta takılan **esnek hortum** (genelde 2 parça hortum kutu içinde)
+- Şeffaf silindir (üzerinde ml çizgisi). **250 cc** ucuz ve yeter; 500 cc daha az tur
+- Üstte piston / sap — **çek = doldur, bas = bas**
+- Alta **konik uç** + **esnek hortum** (hazır gelmezse ucuz 1 m hortum takılır)
 - İğne yok. Teneke pompası, mazot pompası, gres tabancası **değil**
 
-Hortum arabaya takılmaz. Ürünle gelir; ucu yağ şişesine, sonra kutunun **yan deliğine**.
+Hortum arabaya takılmaz. Ucu yağ şişesine, sonra kutunun **yan deliğine**.
 
 ```
 [yağ şişesi] --hortum--> [şırınga gövdesi] --aynı hortum--> [kutunun YAN deliği]
@@ -107,7 +107,7 @@ Hortum arabaya takılmaz. Ürünle gelir; ucu yağ şişesine, sonra kutunun **y
 1. Hortumu gövdeye tak. Ucu **yağ şişesine** sok. Pistonu **çek**.
 2. Ucu **yan dolum deliğine** sok (5–10 cm içeri).
 3. Pistonu **bas**.
-4. 500 cc ise ~1,8 L için **4 tur**. Damlayınca dur.
+4. 250 cc ise ~1,8 L için **~8 tur**; 500 cc ise **~4 tur**. Damlayınca dur.
 
 **Eski Amazon arama / çok satanlar linki yanlıştır** — o listeler mazot sifonu, teneke yağ pompası, gres tabancası karıştırır. Aşağıdaki ürün sayfalarına bak.
 
@@ -131,12 +131,14 @@ Ne yap: fiş yok + 120 bin eşiği geçti → **bir kez bakım** mantıklı (bak
 
 Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, bez **zaten var**. Yeni gereken: **dolum şırıngası + yağ + pul**.
 
-**Al (şırınga — görsele bakıldı, Sepete ekle):**
+**Al (şırınga — görsele bakıldı, Sepete ekle). Bütçe dar → DORF değil, 250 cc + hortum:**
 
 | # | Ne | Neden | Link | Not |
 |---|-----|--------|------|-----|
-| 1 | **DORF 500 cc oto şırınga** (al) | Doğru şekil: şeffaf piston + 2 hortum. Yan deliğe basar. | [atolyeteam — DORF 500cc, Sepete Ekle, stokta](https://www.atolyeteam.com/dorf-oto-siringa-500cc-yag-yakit-hidrolik-sivi-cekme-basma-enjektor) · [ürün fotoğrafı](https://www.atolyeteam.com/dorf-oto-siringa-500cc-yag-yakit-hidrolik-sivi-cekme-basma-enjektor-dorf-12421-98-B.jpg) | ~**3.083 TL + KDV**. Pahalı ama görsel doğru, stok var. |
-| 1b | **Ucuz aynı prensip** | 60 ml + 100 cm hortum. 1,8 L ≈ **30 tur**; kalın 75W-85’te yavaş. | [idefix Artlantis 60 ml hortumlu, Sepete Ekle ~213 TL](https://www.idefix.com/plastik-siringa-hortumlu-buyuk-60-ml-1-paket-sivi-emme-enjektoru-okul-deney-evcil-hayvan-besleme-p-5160854) | Foto: küçük şırınga + uzun hortum. İstersen DORF yerine. |
+| 1 | **Kompozit Pazarı 250 cc** (al) | 60 ml’nin ~4 katı. Şeffaf gövde, siyah conta, **konik uç** (hortum geçirilir). 1,8 L ≈ **8 tur**. Reçine, boya, yağ, ölçüm — başka işe de. | [kompozitpazari 250 cc, Sepete Ekle](https://kompozitpazari.com/urun/siringa-250-cc-ml/) · [ürün fotoğrafı](https://kompozitpazari.com/wp-content/uploads/2024/09/siringa-250-cc-ml.jpg) | ~**346 TL + KDV**, **23 adet stok**. **Hortum kutuda yok.** Kargo alıcıya (ücretsiz eşik 50 bin). |
+| 1h | **Hortum 1 m** | Ucu şırınganın konik ucuna, diğer ucu şişe / yan delik. Kalın 75W-85 için **6 mm iç çap** rahat; 4 mm yavaş (yağı ılık tut). | [Koçtaş Artlantis 6×8 mm 1 m ~63 TL](https://www.koctas.com.tr/artlantis-silikonlu-seffaf-akvaryum-hava-hortumu-1-metre-ic-cap-6mm-dis-cap-8mm-deney-fiskiye-kaucuk-hortum-yag-hava-pompa-borusu/p/5002623994) · ince yedek: [Sakura 4/6 mm 1 m **25 TL**, Sepete Ekle](https://www.sakuraakvaryum.com/urun/akvaryum-hava-hortumu-1m/) | Koçtaş’ta Sepete Ekle görünüyordu. DYZER Idefix 6×8 ~821 TL — hortuma o para yok. |
+| 1b | 500 cc aynı mağaza | DORF hacmi, DORF fiyatı değil. **~4 tur.** | [kompozitpazari 500 cc, Sepete Ekle](https://kompozitpazari.com/urun/siringa-500-cc-ml/) · [foto](https://kompozitpazari.com/wp-content/uploads/2024/09/siringa-500-cc-ml.jpg) | ~**985 TL + KDV**, **50 adet stok**. Yine hortum yok. 250 yetiyorsa bunu alma. |
+| 1c | Hortumlu hazır **60 ml** | Tek pakette 100 cm hortum. En ucuz “hemen bas”. | [idefix Artlantis 60 ml, Sepete Ekle ~213 TL](https://www.idefix.com/plastik-siringa-hortumlu-buyuk-60-ml-1-paket-sivi-emme-enjektoru-okul-deney-evcil-hayvan-besleme-p-5160854) | 1,8 L ≈ **30 tur**; kalın yağda yavaş. 250 cc varken gerekmez. |
 | 2 | **Yağ 2×1 L** Motul Motylgear **75W-85** | ~1,8 L gider. Hyundai listesinde; sarı metal OK yazar. | [madeniyagfiltre — Sepete Ekle](https://madeniyagfiltre.com.tr/urun/motul-motylgear-75w85-1-lt-sanziman-yagi/) · [turkoilmarket — Sepete Ekle ~750 TL](https://www.turkoilmarket.com/urun/motul-motylgear-75w-85-1-litre) | Sepete **2 adet**. planetservis’te aynı yağ **STOKTA YOK**. |
 | 3 | Tapa pulu **17511-16000** ×2 | Alt (ve varsa yan) tapaya yeni pul | Hyundai/Kia **bayi**, şase ile | İnternet kör sipariş yok. |
 
@@ -149,6 +151,11 @@ Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, be
 
 **Alma (görsel / fiyat yanlış):**
 
+- **DORF 500 cc** Atölye Team ~**3.083 TL + KDV** — şekil doğru ama bu bütçeye gerek yok; 250 cc aynı işi yapar.
+- Trendyol **Cadırcı 100 ml ~597 TL** / **250 ml ~798 TL** — başlıkta hortum yok; 100 ml, hortumlu 60 ml’den pahalı; 250 ml de Kompozit Pazarı 250 cc’den pahalı.
+- Idefix Artlantis **5’li 60 ml ~557 TL** — namlu hâlâ 60 ml, tur sayısı düşmez.
+- Kompozit Pazarı **300 cc** — o gün **Stokta Kalmadı** (“haber ver” yok).
+- Çin dropship siteleri (mavishaliyikama, konakservisi vb.) — sahte fiyat / Sepete ekle belirsiz.
 - Amazon **arama** ve [çok satanlar: sıvı boşaltma](https://www.amazon.com.tr/gp/bestsellers/automotive/13246888031) — mazot sifonu, teneke pompası, gres karışık. Önceki link buydu.
 - QUNNIE `B0BLC8296G` — şekil doğru, Amazon TR’de **stok yok**.
 - Thorstone TFEP-500H1 Amazon TR — şekil doğru, **~11.700 TL**, alma.

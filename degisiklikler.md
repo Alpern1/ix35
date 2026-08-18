@@ -11,6 +11,7 @@
 - **Şanzıman: şırınga/yağ/ne zaman** — Şırınga hazır hortumlu piston. Motylgear uygun (GL-4+GL-5, sarı metal); OEM MTF daha net. 132 bin acil değil, fiş yoksa bir kez bakım. `araba/bakim.md`
 - **Şırınga netleştirme** — Hortum arabaya takılmaz; şişeden çek, yan deliğe bas. Motylgear kılavuz spec’ine uyar. Semptom bekleme, bir kez bakım. `araba/bakim.md`
 - **Şırınga linkleri düzeltildi** — Amazon arama/çok satanlar yanlış (sifon/mazot). Al: DORF 500cc Atölye Team (görsel doğru, Sepete Ekle) veya Idefix 60 ml hortumlu. Thorstone 11.700 / HB Asitan 10 bin / QUNNIE stoksuz / gres/yağdanlık yok. `araba/bakim.md`
+- **Ucuz büyük şırınga** — 60 ml’nin büyüğü: Kompozit Pazarı **250 cc** (~346 TL + KDV, Sepete Ekle, stokta, hortum yok) + 1 m 6 mm hortum. 500 cc aynı mağaza ~985 + KDV. DORF / Cadırcı 100–250 ml / 5’li 60 ml alma. `araba/bakim.md`
 
 ## 2026-08-16
 
