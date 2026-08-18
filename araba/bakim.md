@@ -87,18 +87,38 @@ Sıra (düz zemin, kutu ılık):
 
 Motor yağı gibi “üstten 4 L dök” yok. Filtre yok; sadece yağ.
 
-**Şırınga ne:** Tıbbi iğne değil. Plastik piston + **hazır hortum** (dev şırınga / yağ pompasi). Hortumu ayrıca “takıp icat etmek” yok; ürün öyle geliyor.
+### Şırınga — hortumu arabaya takmıyorsun
 
-1. Hortum ucunu yağ şişesine sok, pistonu **çek** → fıçı dolar.
-2. Hortum ucunu **yan dolum deliğine** sok.
+Tıbbi iğne değil. Dev plastik piston; **hortum ürüne yapışık gelir.** Arabadaki bir hortuma, boşaltma tapasına veya motor hortumuna **takılmaz**. Ayrı hortum icat etmek yok.
+
+Yağ kalın; yan delik yerden ~20–30 cm yukarı. Şişeyi çevirip dökmek olmaz — o yüzden şırınga **pompa**.
+
+```
+[yağ şişesi] --hortum--> [şırınga gövdesi] --aynı hortum--> [kutunun YAN deliği]
+                              piston çek = doldur
+                              piston bas = kutuya bas
+```
+
+1. Hortum ucunu **yağ şişesinin içine** sok. Pistonu **çek** → şırınga dolar.
+2. Hortum ucunu şişeden çıkar, **yan dolum deliğine** sok (deliğin ağzına, içeri 5–10 cm).
 3. Pistonu **bas** → yağ hortumdan kutuya gider.
-4. 500 cc ise ~1,8 L için 4 tur. Taşınca dur.
+4. 500 cc ise ~1,8 L için **4 tur**. Yan delikten damlayınca dur — o seviye.
 
-Sifon (sıkınca emen ince pompa) yerçekimine güvenir; delik yerde, yağ aşağıdan yukarı — o yüzden o alet bu işe yaramaz.
+Boşaltma altta ayrı tapa; şırınga oraya **değmez**. Sifon (sıkınca emen ince pompa) yerçekimine güvenir; burada yağ aşağıdan yukarı — o alet işe yaramaz.
 
-**Yağ uygun mu:** Fabrika **API GL-4 + 75W-85**. Motul Motylgear 75W-85: viskozite doğru; etiket GL-4 **ve** GL-5. Ucuz saf GL-5 senkro pirincini yer; Motul “sarı metal / conta OK” ve Hyundai (04300-00110 / 00140) yazar. **Bu kutu için kullanılabilir**, “orijinalin ta kendisi” değil. Sıfır şüphe: bayi **Hyundai MTF 75W-85 GL-4**. 80W-90 GL-5 alma.
+### Yağ uygun mu (Motylgear)
 
-**Şimdi değişsin mi:** Motor yağı gibi 8 bin km’de bir değil. Kılavuz çoğu yerde **bak**; ağır kullanımda **~120 bin’de değiş**. Bu araç **132 bin**, alış 120 bin, fiş yok. Vites yumuşaksa **bozulmuş diye acil değil**. Fiş yok + 120 bin eşiği → **bir kez bakım** mantıklı; gıcırdama/takılma bekleme (o geç kalmış). Sonra yine uzun aralık. Soğukta 1–2 sert, tıkırtı, uğultu varsa öne al.
+Fabrika kılavuzu (ix35 1.6 benzin, M6CF1): **API GL-4, SAE 75W-85**, ~**1,8 L**. Motul Motylgear 75W-85: viskozite **aynı**; TDS’de API **GL-4 / GL-5**, senkronize kutu, **sarı metal / conta OK**, Hyundai/Kia 75W-85 isteyen kutular için yazılmış. **Bu araç için uygun**, ucuz “şanzıman yağı” değil.
+
+Tek nüans: OEM tam olarak **sadece GL-4**. Eski saf **GL-5** (özellikle 80W-90) senkro pirincini yer. Motylgear ikili etiket + sarı metal iddiası olduğu için **kullanılır**; “Hyundai kutusunun ta kendisi” değil. Sıfır şüphe: bayi **Hyundai MTF 75W-85 GL-4**. **Alma:** 80W-90, “GL-5 only”, diferansiyel yağı.
+
+### Şimdi değişsin mi — semptom bekleme
+
+Motor yağı gibi 8 bin km’de bir **değil**. Kılavuz normal kullanımda çoğunlukla **inspect** (bak, gerekirse düzelt). Ağır kullanım tablosunda **120.000 km’de değiş**.
+
+Bu araç **132 bin**, alış 120 bin, fiş yok. Vites yumuşaksa **bozulmuş / acil değil**. Ama “gıcırdayınca değişirim” **yanlış** — o ses genelde senkro aşınması, yağ geç kalmış olur.
+
+Ne yap: fiş yok + 120 bin eşiği geçti → **bir kez bakım** mantıklı (bakımlı olsun diye, arıza bekleyerek değil). Sonra yine uzun aralık (onlarca bin km). Soğukta 1–2’ye sert, tıkırtı, uğultu varsa öne al.
 
 ### Alet sepeti (2026-08-18) — Sepete ekle
 
