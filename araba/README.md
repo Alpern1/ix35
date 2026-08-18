@@ -9,10 +9,11 @@
 | [ozellikler.md](ozellikler.md) | Marka, model, motor, donanım, km |
 | [notlar.md](notlar.md) | LPG, manuel, DIY, bütçe, kısıtlar |
 | [yapilanlar.md](yapilanlar.md) | Yapılan modifikasyon ve bakımlar |
+| [bakim.md](bakim.md) | 132 bin km bakım listesi (öncelik) |
 
 ## Hızlı özet
 
-2012 ix35 · 1.6 GDI + Prins LPG · manuel · Smart Key · ~130.000 km · Kayseri
+2012 ix35 · 1.6 GDI + Prins LPG · manuel · Smart Key · **~132.000 km** · Kayseri
 
 ## Kural
 

@@ -38,7 +38,7 @@
 
 ## Mevcut Durum
 
-- Kilometre: ~130.000 km
+- Kilometre: **~132.000 km** (120 binde alındı)
 - Genel kondisyon: İyi, şu an çok sorun yok
 - Yağ: **2026-08-18 değişti** (Castrol 5W-30). Çıkarılan siyahtı (GDI, 10–12 bin km — beklenen). Sonraki: **8.000 km veya 12 ay**; 1000 km’de seviye. — [notlar.md](notlar.md) · [yapilanlar.md](yapilanlar.md)
 - Bilinen sorunlar / arızalar: Yok (güncel)
