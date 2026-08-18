@@ -87,11 +87,16 @@ Sıra (düz zemin, kutu ılık):
 
 Motor yağı gibi “üstten 4 L dök” yok. Filtre yok; sadece yağ.
 
-### Şırınga — hortumu arabaya takmıyorsun
+### Şırınga mı pompa mı — aynı alet, iki isim
 
-Tıbbi iğne değil. Dev plastik piston; **hortum ürüne yapışık gelir.** Arabadaki bir hortuma, boşaltma tapasına veya motor hortumuna **takılmaz**. Ayrı hortum icat etmek yok.
+Satıcılar “şırınga”, “şırınga pompası”, “sıvı çıkarıcı” yazıyor. **Ayrı iki alet değil.** Tıbbi iğne değil. Görselde bakacağın şey:
 
-Yağ kalın; yan delik yerden ~20–30 cm yukarı. Şişeyi çevirip dökmek olmaz — o yüzden şırınga **pompa**.
+- Şeffaf büyük silindir (üzerinde ml çizgisi, **200–500 cc**)
+- Üstte siyah piston / sap — **çek = doldur, bas = bas**
+- Alta takılan **esnek hortum** (genelde 2 parça hortum kutu içinde)
+- İğne yok. Teneke pompası, mazot pompası, gres tabancası **değil**
+
+Hortum arabaya takılmaz. Ürünle gelir; ucu yağ şişesine, sonra kutunun **yan deliğine**.
 
 ```
 [yağ şişesi] --hortum--> [şırınga gövdesi] --aynı hortum--> [kutunun YAN deliği]
@@ -99,12 +104,14 @@ Yağ kalın; yan delik yerden ~20–30 cm yukarı. Şişeyi çevirip dökmek olm
                               piston bas = kutuya bas
 ```
 
-1. Hortum ucunu **yağ şişesinin içine** sok. Pistonu **çek** → şırınga dolar.
-2. Hortum ucunu şişeden çıkar, **yan dolum deliğine** sok (deliğin ağzına, içeri 5–10 cm).
-3. Pistonu **bas** → yağ hortumdan kutuya gider.
-4. 500 cc ise ~1,8 L için **4 tur**. Yan delikten damlayınca dur — o seviye.
+1. Hortumu gövdeye tak. Ucu **yağ şişesine** sok. Pistonu **çek**.
+2. Ucu **yan dolum deliğine** sok (5–10 cm içeri).
+3. Pistonu **bas**.
+4. 500 cc ise ~1,8 L için **4 tur**. Damlayınca dur.
 
-Boşaltma altta ayrı tapa; şırınga oraya **değmez**. Sifon (sıkınca emen ince pompa) yerçekimine güvenir; burada yağ aşağıdan yukarı — o alet işe yaramaz.
+**Eski Amazon arama / çok satanlar linki yanlıştır** — o listeler mazot sifonu, teneke yağ pompası, gres tabancası karıştırır. Aşağıdaki ürün sayfalarına bak.
+
+Boşaltma altta ayrı tapa; şırınga oraya değmez.
 
 ### Yağ uygun mu (Motylgear)
 
@@ -124,11 +131,12 @@ Ne yap: fiş yok + 120 bin eşiği geçti → **bir kez bakım** mantıklı (bak
 
 Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, bez **zaten var**. Yeni gereken: **dolum şırıngası + yağ + pul**.
 
-**Al:**
+**Al (şırınga — görsele bakıldı, Sepete ekle):**
 
 | # | Ne | Neden | Link | Not |
 |---|-----|--------|------|-----|
-| 1 | **Hortumlu 500 cc yağ şırıngası** | Yan deliğe yağı **basmak** için. Sifon yetmez. | [Amazon — 500 cc hortumlu, Sepete ekle olanı](https://www.amazon.com.tr/s?k=500cc+ya%C4%9F+de%C4%9Fi%C5%9Fim+%C5%9F%C4%B1r%C4%B1ngas%C4%B1) · [çok satanlar listesi](https://www.amazon.com.tr/gp/bestsellers/automotive/13246888031) | **500 cc + hortum.** QUNNIE `B0BLC8296G` sayfada **stok yoktu** — o ASIN’i alma. |
+| 1 | **DORF 500 cc oto şırınga** (al) | Doğru şekil: şeffaf piston + 2 hortum. Yan deliğe basar. | [atolyeteam — DORF 500cc, Sepete Ekle, stokta](https://www.atolyeteam.com/dorf-oto-siringa-500cc-yag-yakit-hidrolik-sivi-cekme-basma-enjektor) · [ürün fotoğrafı](https://www.atolyeteam.com/dorf-oto-siringa-500cc-yag-yakit-hidrolik-sivi-cekme-basma-enjektor-dorf-12421-98-B.jpg) | ~**3.083 TL + KDV**. Pahalı ama görsel doğru, stok var. |
+| 1b | **Ucuz aynı prensip** | 60 ml + 100 cm hortum. 1,8 L ≈ **30 tur**; kalın 75W-85’te yavaş. | [idefix Artlantis 60 ml hortumlu, Sepete Ekle ~213 TL](https://www.idefix.com/plastik-siringa-hortumlu-buyuk-60-ml-1-paket-sivi-emme-enjektoru-okul-deney-evcil-hayvan-besleme-p-5160854) | Foto: küçük şırınga + uzun hortum. İstersen DORF yerine. |
 | 2 | **Yağ 2×1 L** Motul Motylgear **75W-85** | ~1,8 L gider. Hyundai listesinde; sarı metal OK yazar. | [madeniyagfiltre — Sepete Ekle](https://madeniyagfiltre.com.tr/urun/motul-motylgear-75w85-1-lt-sanziman-yagi/) · [turkoilmarket — Sepete Ekle ~750 TL](https://www.turkoilmarket.com/urun/motul-motylgear-75w-85-1-litre) | Sepete **2 adet**. planetservis’te aynı yağ **STOKTA YOK**. |
 | 3 | Tapa pulu **17511-16000** ×2 | Alt (ve varsa yan) tapaya yeni pul | Hyundai/Kia **bayi**, şase ile | İnternet kör sipariş yok. |
 
@@ -139,7 +147,13 @@ Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, be
 | 17 mm kombine (kısa) | [tuzlahirdavat İzeltaş 0320020017](https://tuzlahirdavat.com.tr/17-mm-kombine-anahtar-kisa-boy-izeltas) | **Var**, Sepete Ekle ~208 TL |
 | 14 mm | Hırdavat / Trendyol “14 mm kombine”, **Sepete ekle** | Tuzla 14 mm o gün **stok yoktu** — “haber ver” yok |
 
-**Alma:** 18 L turlu servis pompası (gereksiz pahalı). Sifon/mazot pompası (Trendyol Sedir vb.) — bidonu boşaltır, **yan deliğe basmaz**. Saf GL-5 80W-90. Yağ+polen 3’lü set.
+**Alma (görsel / fiyat yanlış):**
+
+- Amazon **arama** ve [çok satanlar: sıvı boşaltma](https://www.amazon.com.tr/gp/bestsellers/automotive/13246888031) — mazot sifonu, teneke pompası, gres karışık. Önceki link buydu.
+- QUNNIE `B0BLC8296G` — şekil doğru, Amazon TR’de **stok yok**.
+- Thorstone TFEP-500H1 Amazon TR — şekil doğru, **~11.700 TL**, alma.
+- Hepsiburada “Asitan 500CC sıvı şırınga pompası” — **~10.000 TL**, alma.
+- Sedir / Transformacion **sifon-mazot** pompası; Wert W 2659 (lastik/hava + iki hortum, kalın dişli yağa uygun değil); **gres** pompası; 18 L turlu servis pompası; kırmızı **yağdanlık** (menteşe yağlamak için, kutuya 1,8 L basmaz). Saf GL-5 80W-90. Yağ+polen 3’lü set.
 
 ---
 

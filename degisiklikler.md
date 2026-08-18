@@ -10,6 +10,7 @@
 - **Şanzıman alet sepeti** — Hortumlu 500 cc şırınga (Amazon), 2× Motul Motylgear 75W-85, bayi pulu 17511-16000. Sifon/turlu 18 L yok. `araba/bakim.md`
 - **Şanzıman: şırınga/yağ/ne zaman** — Şırınga hazır hortumlu piston. Motylgear uygun (GL-4+GL-5, sarı metal); OEM MTF daha net. 132 bin acil değil, fiş yoksa bir kez bakım. `araba/bakim.md`
 - **Şırınga netleştirme** — Hortum arabaya takılmaz; şişeden çek, yan deliğe bas. Motylgear kılavuz spec’ine uyar. Semptom bekleme, bir kez bakım. `araba/bakim.md`
+- **Şırınga linkleri düzeltildi** — Amazon arama/çok satanlar yanlış (sifon/mazot). Al: DORF 500cc Atölye Team (görsel doğru, Sepete Ekle) veya Idefix 60 ml hortumlu. Thorstone 11.700 / HB Asitan 10 bin / QUNNIE stoksuz / gres/yağdanlık yok. `araba/bakim.md`
 
 ## 2026-08-16
 
