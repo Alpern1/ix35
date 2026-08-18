@@ -8,6 +8,7 @@
 - **132 bin bakım** — Buji alışta değişti, LPG alışta, antifriz koyuldu. DIY: polen/hava, çubuk, şanzıman yağı. LPG filtre ~145 bin. `araba/bakim.md`
 - **Polen + hava stok** — Cepoto Bosch F026400228 + 1987432224 (Sepete ekle). Çubuk değişir ama önce sil; kör 26611-03801 yok. Şanzıman: yan dolum + alt tapa, GL-4 75W-85 ~1,8 L. Antifriz tam değişim orta zorluk, acil flush yok. `araba/bakim.md`
 - **Şanzıman alet sepeti** — Hortumlu 500 cc şırınga (Amazon), 2× Motul Motylgear 75W-85, bayi pulu 17511-16000. Sifon/turlu 18 L yok. `araba/bakim.md`
+- **Şanzıman: şırınga/yağ/ne zaman** — Şırınga hazır hortumlu piston. Motylgear uygun (GL-4+GL-5, sarı metal); OEM MTF daha net. 132 bin acil değil, fiş yoksa bir kez bakım. `araba/bakim.md`
 
 ## 2026-08-16
 

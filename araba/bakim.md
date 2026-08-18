@@ -19,7 +19,7 @@ Yağ ve buji yaptın → aynı seviye bunlar:
 | Motor yağı + filtre | Yaptın | Sonraki **140 bin** |
 | Buji | Yaptın (120 bin) | Hayır — LPG ile sonraki ~**160–180 bin** |
 | PCV bak (kapak hortumu) | Kolay | Yağ eksiltirse |
-| Manuel şanzıman yağı (~1,8 L, 75W-85 GL-4) | Orta (altına girmek, yağ değişimi gibi) | Hiç değişmediyse evet |
+| Manuel şanzıman yağı (~1,8 L, 75W-85 GL-4) | Orta (altına girmek, yağ değişimi gibi) | 132 bin, fiş yok: **acil değil**, bir kez bakım olarak mantıklı |
 | Silecek, ampul, gözle balata/kayış | Kolay | Bak |
 
 **V kayışı:** bakarsın (çatlak, tüy, gıcırdama). Sök-tak gergi yüzünden çoğu kişi ustaya bırakır; video + sehpa ile mümkün.
@@ -86,6 +86,19 @@ Sıra (düz zemin, kutu ılık):
 4. Yan delikten **taşana / damlayana** kadar doldur (seviye bu delik). Hortumlu **şırınga** ile bas — sifon pompa yukarı basmaz.
 
 Motor yağı gibi “üstten 4 L dök” yok. Filtre yok; sadece yağ.
+
+**Şırınga ne:** Tıbbi iğne değil. Plastik piston + **hazır hortum** (dev şırınga / yağ pompasi). Hortumu ayrıca “takıp icat etmek” yok; ürün öyle geliyor.
+
+1. Hortum ucunu yağ şişesine sok, pistonu **çek** → fıçı dolar.
+2. Hortum ucunu **yan dolum deliğine** sok.
+3. Pistonu **bas** → yağ hortumdan kutuya gider.
+4. 500 cc ise ~1,8 L için 4 tur. Taşınca dur.
+
+Sifon (sıkınca emen ince pompa) yerçekimine güvenir; delik yerde, yağ aşağıdan yukarı — o yüzden o alet bu işe yaramaz.
+
+**Yağ uygun mu:** Fabrika **API GL-4 + 75W-85**. Motul Motylgear 75W-85: viskozite doğru; etiket GL-4 **ve** GL-5. Ucuz saf GL-5 senkro pirincini yer; Motul “sarı metal / conta OK” ve Hyundai (04300-00110 / 00140) yazar. **Bu kutu için kullanılabilir**, “orijinalin ta kendisi” değil. Sıfır şüphe: bayi **Hyundai MTF 75W-85 GL-4**. 80W-90 GL-5 alma.
+
+**Şimdi değişsin mi:** Motor yağı gibi 8 bin km’de bir değil. Kılavuz çoğu yerde **bak**; ağır kullanımda **~120 bin’de değiş**. Bu araç **132 bin**, alış 120 bin, fiş yok. Vites yumuşaksa **bozulmuş diye acil değil**. Fiş yok + 120 bin eşiği → **bir kez bakım** mantıklı; gıcırdama/takılma bekleme (o geç kalmış). Sonra yine uzun aralık. Soğukta 1–2 sert, tıkırtı, uğultu varsa öne al.
 
 ### Alet sepeti (2026-08-18) — Sepete ekle
 
@@ -156,7 +169,7 @@ Pratik: radyatörü boşalt + kabı boşalt → aynı tip doldur → kanat. Blok
 1. Polen + hava (Cepoto Bosch çifti)  
 2. Yağ çubuğu: sil, 1.000 km ölç; hâlâ okunmuyorsa VIN ile çubuk  
 3. V kayışına bak  
-4. Şanzıman yağı (hiç yoksa, GL-4 75W-85)  
+4. Şanzıman yağı — acil değil; fiş yoksa bir kez bakım (GL-4 75W-85)  
 5. Fren hidroliği — sen veya usta; 2 yıllık sıvı, alışta denmedi  
 
 Fren/lastik gözle. Zincir, motor açma, buji, LPG filtre **şimdi yok**.
