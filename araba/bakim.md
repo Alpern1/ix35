@@ -74,29 +74,20 @@ Motor yağı kapağından **değil.** Manuel kutu (**M6CF1**) ayrı kap: **altta
 |--|--|
 | Miktar | ~**1,8 L** |
 | Yağ | **API GL-4**, **75W-85**. Saf **GL-5** (80W-90 vb.) koyma — senkrolar. |
-| Tapa | Çoğu M6CF1: boşaltma **17 mm** altıgen. Dolum 17 veya **14 mm** (araca bak). |
+| Tapa | Çoğu M6CF1: boşaltma **17 mm** altıgen. Dolum 17 veya **14 mm** (araca bak). **Yeni tapa alma** — eski vida durur. |
 | Tork | ~59–78 Nm. Tork anahtarı yoksa sıkı sık, vida kırma. |
-| Pul | Motor yağı **14×20 değil.** Şanzıman: Hyundai **17511-16000** ×**2**, bayi, şase ile. |
+| Pul | Motor **14×20 değil.** Kutu tapasının kendi pulu (genelde **17511-16000**, ~16×24). Kılavuz yenisini ister; bu pul motorunki gibi ezilmez — yırtık/kayıp değilse **eski pul yeter**. |
 
 Sıra (düz zemin, kutu ılık):
 
 1. **Önce yan dolum tapasını gevşet / aç.** Açılmazsa altı açma — boşaltır boşaltmaz dolduramazsın.
 2. Alt tapayı aç, kabın içine boşalt.
-3. Alt tapayı **yeni pul** ile sık.
+3. Alt tapayı **kendi pulu** ile sık (yeni tapa yok).
 4. Yan delikten **taşana / damlayana** kadar doldur (seviye bu delik). Hortumlu **şırınga** ile bas — sifon pompa yukarı basmaz.
 
 Motor yağı gibi “üstten 4 L dök” yok. Filtre yok; sadece yağ.
 
-**Hangi conta / pul (karıştırma):**
-
-| | Motor yağı tapası | Şanzıman tapası |
-|--|-------------------|-----------------|
-| Ölçü | **14×20** mm (iç×dış) — senin 14.20 bu | **14×20 değil.** Tipik **16×24×1,5** mm (M16 vida) |
-| OEM | **21513-23001** (alüminyum ezilme pulu) | **17511-16000** |
-| Adet | 1 (karter tapası) | **2** (alt boşaltma + yan dolum). Kılavuz: her ikisine **yeni** pul |
-| Nereden | Hırdavat 14×20 bakır/alüminyum da olur | Hyundai/Kia **bayi**, kodu söyle. Kör Amazon “14 mm crush washer” **girmez** (M14 delik, M16 tapaya dar) |
-
-14×20 motor pulunu şanzımana takma — vida daha kalın, pul geçmez veya sızdırır. 17511-16000 ucuz (birkaç on TL); şase ile 2 adet al. Eski pulu ezilmişse yeniden kullanma. Yan tapada pul yoksa 1’i yedek kalır.
+**Pul ≠ tapa.** Conta = tapadaki ezilme **pulu**, vida değil. Motor yağı **14×20 / 21513-23001**. Şanzıman tapası M16; 14×20 geçmez. OEM pul **17511-16000** (~16×24). Yeni vida **yok**. Eski pul yırtık/kaybolmuşsa o zaman bayi 17511-16000; duruyorsa takıp sık.
 
 ### Şırınga mı pompa mı — aynı alet, iki isim
 
@@ -140,7 +131,7 @@ Ne yap: fiş yok + 120 bin eşiği geçti → **bir kez bakım** mantıklı (bak
 
 ### Alet sepeti (2026-08-18) — Sepete ekle
 
-Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, bez **zaten var**. Yeni gereken: **dolum şırıngası + yağ + pul**.
+Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, bez **zaten var**. Yeni gereken: **dolum şırıngası + yağ**. Tapa/pul: eskiler durur.
 
 **Al (şırınga — görsele bakıldı, Sepete ekle). Bütçe dar → DORF değil, 250 cc + hortum:**
 
@@ -151,7 +142,6 @@ Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, be
 | 1b | 500 cc aynı mağaza | DORF hacmi, DORF fiyatı değil. **~4 tur.** | [kompozitpazari 500 cc, Sepete Ekle](https://kompozitpazari.com/urun/siringa-500-cc-ml/) · [foto](https://kompozitpazari.com/wp-content/uploads/2024/09/siringa-500-cc-ml.jpg) | ~**985 TL + KDV**, **50 adet stok**. Yine hortum yok. 250 yetiyorsa bunu alma. |
 | 1c | Hortumlu hazır **60 ml** | Tek pakette 100 cm hortum. En ucuz “hemen bas”. | [idefix Artlantis 60 ml, Sepete Ekle ~213 TL](https://www.idefix.com/plastik-siringa-hortumlu-buyuk-60-ml-1-paket-sivi-emme-enjektoru-okul-deney-evcil-hayvan-besleme-p-5160854) | 1,8 L ≈ **30 tur**; kalın yağda yavaş. 250 cc varken gerekmez. |
 | 2 | **Yağ 2×1 L** Motul Motylgear **75W-85** | ~1,8 L gider. Hyundai listesinde; sarı metal OK yazar. | [madeniyagfiltre — Sepete Ekle](https://madeniyagfiltre.com.tr/urun/motul-motylgear-75w85-1-lt-sanziman-yagi/) · [turkoilmarket — Sepete Ekle ~750 TL](https://www.turkoilmarket.com/urun/motul-motylgear-75w-85-1-litre) | Sepete **2 adet**. planetservis’te aynı yağ **STOKTA YOK**. |
-| 3 | Tapa pulu **17511-16000** ×2 | Alt (ve varsa yan) tapaya yeni pul | Hyundai/Kia **bayi**, şase ile | İnternet kör sipariş yok. |
 
 **Yoksa al (evde 17 mm varsa 1’i atla):**
 
@@ -171,7 +161,7 @@ Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, be
 - QUNNIE `B0BLC8296G` — şekil doğru, Amazon TR’de **stok yok**.
 - Thorstone TFEP-500H1 Amazon TR — şekil doğru, **~11.700 TL**, alma.
 - Hepsiburada “Asitan 500CC sıvı şırınga pompası” — **~10.000 TL**, alma.
-- Sedir / Transformacion **sifon-mazot** pompası; Wert W 2659 (lastik/hava + iki hortum, kalın dişli yağa uygun değil); **gres** pompası; 18 L turlu servis pompası; kırmızı **yağdanlık** (menteşe yağlamak için, kutuya 1,8 L basmaz). Saf GL-5 80W-90. Yağ+polen 3’lü set.
+- Sedir / Transformacion **sifon-mazot** pompası; Wert W 2659 (lastik/hava + iki hortum, kalın dişli yağa uygun değil); **gres** pompası; 18 L turlu servis pompası; kırmızı **yağdanlık** (menteşe yağlamak için, kutuya 1,8 L basmaz). Saf GL-5 80W-90. Yağ+polen 3’lü set. Yeni şanzıman **tapası** (43121-11000 vb.) — vida duruyor. 14×20 motor pulu şanzımana yok.
 
 ---
 
