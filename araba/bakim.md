@@ -76,7 +76,7 @@ Motor yağı kapağından **değil.** Manuel kutu (**M6CF1**) ayrı kap: **altta
 | Yağ | **API GL-4**, **75W-85**. Saf **GL-5** (80W-90 vb.) koyma — senkrolar. |
 | Tapa | Çoğu M6CF1: boşaltma **17 mm** altıgen. Dolum 17 veya **14 mm** (araca bak). |
 | Tork | ~59–78 Nm. Tork anahtarı yoksa sıkı sık, vida kırma. |
-| Pul | Hyundai **17511-16000** — 2 adet, bayi. |
+| Pul | Motor yağı **14×20 değil.** Şanzıman: Hyundai **17511-16000** ×**2**, bayi, şase ile. |
 
 Sıra (düz zemin, kutu ılık):
 
@@ -86,6 +86,17 @@ Sıra (düz zemin, kutu ılık):
 4. Yan delikten **taşana / damlayana** kadar doldur (seviye bu delik). Hortumlu **şırınga** ile bas — sifon pompa yukarı basmaz.
 
 Motor yağı gibi “üstten 4 L dök” yok. Filtre yok; sadece yağ.
+
+**Hangi conta / pul (karıştırma):**
+
+| | Motor yağı tapası | Şanzıman tapası |
+|--|-------------------|-----------------|
+| Ölçü | **14×20** mm (iç×dış) — senin 14.20 bu | **14×20 değil.** Tipik **16×24×1,5** mm (M16 vida) |
+| OEM | **21513-23001** (alüminyum ezilme pulu) | **17511-16000** |
+| Adet | 1 (karter tapası) | **2** (alt boşaltma + yan dolum). Kılavuz: her ikisine **yeni** pul |
+| Nereden | Hırdavat 14×20 bakır/alüminyum da olur | Hyundai/Kia **bayi**, kodu söyle. Kör Amazon “14 mm crush washer” **girmez** (M14 delik, M16 tapaya dar) |
+
+14×20 motor pulunu şanzımana takma — vida daha kalın, pul geçmez veya sızdırır. 17511-16000 ucuz (birkaç on TL); şase ile 2 adet al. Eski pulu ezilmişse yeniden kullanma. Yan tapada pul yoksa 1’i yedek kalır.
 
 ### Şırınga mı pompa mı — aynı alet, iki isim
 
