@@ -98,6 +98,7 @@ Yapılmayacak: bodykit, flare, arabayı alçaltma, “lastiği içeri al”, mot
 | Asıl kontrol | Birikintiyi **yavaş** geç; sileceği **önceden** aç. | Bodykit, flare, alçaltma, “lastiği içeri al” |
 | Cam | Su itici (Rain-X vb.), silecek lastiği sağlam | Motor açma |
 | Kovuk ön plastiği yırtıksa | Klipsle / tak — dışarı, lastik yuvası | Çamurluk lastiğini “cama çözüm” sanma |
+| Deneme siper | Lastiğin **önüne** kısa lastik şerit; direksiyon sürtmesin | Teker arkası paçalık, derin lip, alçaltma |
 | Lastik dudağın dışında | O zaman offset/ebat | Kör bodykit |
 
 SUV / yüksek burun + dik cam bunu **sık yapar**. Jeep, RAV4 forumları aynı şikâyet: arıza değil, geometri + hız.
