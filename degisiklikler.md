@@ -2,6 +2,10 @@
 
 > Plan veya kayıtlarda yapılan önemli değişiklikler. "Neden değişti?" sorusunun cevabı burada.
 
+## 2026-08-29
+
+- **Şanzıman kutusu açılmaz** — yağ = alt + yan tapa. Videodaki kutu/tava sökümü başka iş (rebuild veya otomatik tava). `araba/bakim.md`
+
 ## 2026-08-18
 
 - **Yağ değişimi yapıldı** — Castrol 5W-30. Çıkarılan siyah = GDI’de beklenen. Aralık **8.000 km / 12 ay**. Sonra 1000 km seviye. `araba/yapilanlar.md`

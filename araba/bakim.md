@@ -87,6 +87,8 @@ Sıra (düz zemin, kutu ılık):
 
 Motor yağı gibi “üstten 4 L dök” yok. Filtre yok; sadece yağ.
 
+**Kutuyu açmak yok.** Videoda şanzımanın çevresindeki bir sürü vidayı söküp kapağı / iki yarımı ayıranlar **yağ değiştirmiyor** — kutu sökümü (senkro, rulman, conta) veya otomatik kutu **alt tava** (filtre). Bu araç **manuel M6CF1, 2WD**: altta **bir tapa**, yanda **bir tapa**. Muhafaza vidalarına, yarım kutuya, tava contasına dokunma. Açarsan conta + hizalama + iç parça işi; yağ oradan değişmez.
+
 **Pul ≠ tapa.** Conta = tapadaki ezilme **pulu**, vida değil. Motor yağı **14×20 / 21513-23001**. Şanzıman tapası M16; 14×20 geçmez. OEM pul **17511-16000** (~16×24). Yeni vida **yok**. Eski pul yırtık/kaybolmuşsa o zaman bayi 17511-16000; duruyorsa takıp sık.
 
 ### Şırınga mı pompa mı — aynı alet, iki isim
