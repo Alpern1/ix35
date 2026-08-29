@@ -44,7 +44,28 @@ Lastiğin yuvasındaki büyük siyah tepsi. Motor değil. Yırtıksa su lastiği
 
 Hepsiburada / Trendyol’da ix35 tampon alt / davlumbaz için temiz Sepete Ekle ilan çıkmadı (2026-08-29).
 
-Davlumbaz **eki** (86831-25000 sol / 86832-25000 sağ): yalnız çıkma, telefon. Sepete Ekle yok.
+## 2b — Ön ek / ön paçalık (2026-08-29 bakıldı: **kırık**)
+
+Büyük davlumbaz sağlam. Kırık olan lastiğin **önündeki küçük parça** (sol tel ile tutturulmuş, sağ daha derin/yamuk). Su tam buradan farın önüne kaçıyor.
+
+Kod (aynı parça, ilanlarda karışık yazılır):
+
+| Yan | OEM | İsim |
+|-----|-----|------|
+| Sol | **86831-2S000** (ilanlarda 86831-25000) | ön paçalık / davlumbaz eki |
+| Sağ | **86832-2S000** (ilanlarda 86832-25000) | ön paçalık / davlumbaz eki |
+
+**Sıfır Sepete Ekle (ix35):** yok. hyundaiparca’da ix35 ön paçalık listesi yok. Sportage **86831-F1001** stoklu — **başka araba, alma**.
+
+**Alma:** büyük davlumbaz 86811/86812 (senin sağlam). Evrensel arka paçalık. Niken tampon koruma.
+
+**Yol:**
+
+1. Hyundai bayi / orijinal sipariş: **86831-2S000 + 86832-2S000** (sağ daha kötü; sol tel — **çift**).
+2. Çıkma ilan var (WhatsApp / pazarlık, Sepete Ekle yok). Foto ile sağlamlık bak. Tercih değil.
+3. Gelene kadar tel yetmez; sağ yamuk. Geçici: klips + kısa lastik şerit, direksiyon sürtmesin.
+
+Hollanda çıkma örneği (görünüş): [86831-2S000 spatlap](https://247autoonderdelen.nl/product/86831-2s000-spatlap-spatbord-links-voor-hyundai-ix35-2010-2015/) — TR kargo/alış için değil, parça neye benzediği.
 
 ## 3 — Lastiğin önüne asılacak siper
 
@@ -54,9 +75,9 @@ Denemek istersen: aynı evrensel paçalıktan birini lastiğin **önüne** (tamp
 
 ## Karar sırası
 
-1. Arabaya bak (tablo 1–2). Duruyorsa bitir.
-2. Alt dudak yok/kırık → 2S000/2Y000 teyit, sonra YS 1500 TL (kör 2Y000 yok).
-3. Davlumbaz önü yırtık → sol/sağ 592 TL.
-4. İkisi de sağlam → parça alma; yavaş + silecek. Ön siper ayrı deneme.
+1. Büyük davlumbaz sağlam → **86811/86812 alma**.
+2. Ön ek iki yanda kırık → **86831-2S000 + 86832-2S000** (bayi sıfır). Kör Sportage paçalık yok.
+3. Alt dudak ayrıca duruyor mu bak (ayrı parça).
+4. Sıfır Sepete Ekle bu ek için yok; evrensel arka paçalık bu iş değil.
 
 Kaynak: hyundaiparca canlı sayfa 2026-08-29; OEM katalog 86512-2S000 (2012 Tucson).
