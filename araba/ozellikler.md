@@ -40,7 +40,7 @@
 
 - Kilometre: ~130.000 km
 - Genel kondisyon: İyi, şu an çok sorun yok
-- Bilinen sorunlar / arızalar: Birikintide su ön cama **yanlardan / lastikten** (B). Bodykit yok. [su-on-cam](../projeler/su-on-cam/README.md)
+- Bilinen sorunlar / arızalar: Birikintide su ön cama **farın önünden** (lastik ön kenarı). Bodykit yok. [su-on-cam](../projeler/su-on-cam/README.md)
 
 ## Fotoğraflar & Referanslar
 

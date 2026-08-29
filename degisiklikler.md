@@ -5,7 +5,8 @@
 ## 2026-08-29
 
 - **Yeni proje: su-on-cam** — Birikinti suyu ön cam. Lastik taşması ve bodykit varsayımı elendi; önce kaput vs A sütunu. `projeler/su-on-cam/README.md`
-- **su-on-cam = B** — Cam sağ/soldan lastiklerden, dışarı. Davlumbaz = lastik yuvası plastiği, motor değil. Asıl parça ön çamurluk lastiği.
+- **su-on-cam = B** — Cam sağ/soldan lastiklerden, dışarı. Davlumbaz = lastik yuvası plastiği, motor değil.
+- **su-on-cam = farın önü** — Su farların önünden yukarı (içeri bembeyaz). Çamurluk lastiği (teker arkası) bu yolu kesmez; asıl kontrol yavaş geç + silecek.
 
 ## 2026-07-25
 

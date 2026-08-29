@@ -4,10 +4,10 @@
 
 ## Durum
 
-- **Durum:** 📋 Planlama (yol: **B** — yan / teker)
+- **Durum:** 📋 Planlama (yol: **farın önü** — lastiğin önü / tampon–far köşesi)
 - **Öncelik:** Düşük–orta (görüş, can sıkıcı; arıza değil)
-- **Tahmini bütçe:** Ön çamurluk lastiği ucuz; bodykit **yok**
-- **Zorluk:** Kolay (bak) / Orta (parça)
+- **Tahmini bütçe:** Parça şart değil; yavaş geç + silecek. Bodykit **yok**
+- **Zorluk:** Kolay (kullanım) / bakılacaksa orta
 - **Oluşturulma:** 2026-08-29
 - **Son güncelleme:** 2026-08-29
 
@@ -17,11 +17,11 @@
 
 ## Motivasyon
 
-Yağmur / birikinti: yerdeki su ön cama geliyor, silecek yetişene kadar görüş düşüyor. Neden net değil; lastik “dışarıda mı” ve bodykit fikirleri varsayım.
+Yağmur / birikinti: yerdeki su ön cama geliyor, silecek yetişene kadar görüş düşüyor.
 
 ## Hedef
 
-1. Suyun **nereden** geldiğini ayır (kaput üzeri mi, A sütunu / teker kovuğu mu).
+1. Suyun **nereden** geldiğini ayır.
 2. Eksik / kopuk parça varsa onu düzelt.
 3. Bodykit ve “lastiği içeri al” yoluna **kanıt olmadan** girme.
 
@@ -29,63 +29,67 @@ Yağmur / birikinti: yerdeki su ön cama geliyor, silecek yetişene kadar görü
 
 | Varsayım | Neden zayıf |
 |----------|-------------|
-| Lastikler hafif dışarıda | Stok **215/70R16** (6.5J ET45) veya **225/60R17** (6.5J ET48) çamurluk ağzına **göreli düz** oturur. Kovuktan lastik görünmesi = taşma değil. Taşma: önden bakınca lastik **çamurluk dudağının dışında**. Aftermarket düşük ET / geniş lastik yoksa bu sebep değil. |
-| Bodykit / yan marşpiyel | Kapı ve eşik kirliliğine belki yardım eder. **Ön cama** gelen suyu kesmez. Pahalı, delik, çamurluk lastiğiyle çoğu zaman **uyumsuz**. |
-| “Koruma koy” = geniş çamurluk / flare | Lastik gerçekten taşıyorsa konuşulur. Stokta flare şart değil. |
+| Lastikler hafif dışarıda | Stok **215/70R16** (6.5J ET45) veya **225/60R17** (6.5J ET48) çamurluk ağzına **göreli düz** oturur. Kovuktan lastik görünmesi = taşma değil. |
+| Bodykit / yan marşpiyel | Kapı ve eşik kirliliğine belki yardım eder. **Ön cama** gelen suyu kesmez. |
+| Çamurluk lastiği (paçalık) çözer | O parça lastiğin **arkasında** durur. Kapı / eşik spreyini keser. **Farın önünden yukarı kalkan** suyu görmez. |
+| Motor / “içeriden davlumbaz” | Su motordan cama kanal yok. Lastik dışarıda suyu atıyor. |
 
-## İki ayrı mekanizma (birlikte doğru yol)
+## Senin gördüğün yol (2026-08-29)
 
-SUV / yüksek burun + dik cam bunu **sık yapar**. Jeep, RAV4, Bronco forumlarında aynı şikâyet: arıza değil, geometri + hız.
+Farlar **beyaz**. Sudan geçerken su **farların önünden yukarı** kalkıyor; içeri **bembeyaz** oluyor. Cam sağ ve soldan ıslanıyor; kaput ortasından gelmiyor.
 
-**A — Kaput üzerinden (yaygın):** Teker / tampon birikintiyi öne ve yukarı iter. Su havada asılı kalır, araba altına girer; kaputa ve cama düşer. Çamurluk lastiği **arkada** durur; bunu pek kesmez.
+Bu tarif doğru. Mekanik şu:
 
-**B — Ön lastikler, dışarıdan:** Sol lastik suyu sol çamurluğun önünden/yanından yukarı atar → camın solu. Sağ lastik aynı → camın sağı. **Motorun içinden gelmez.** Kaputun üstünden de gelmez.
+1. Ön lastik birikintiye **önden** girer.
+2. Lastiğin **ön kenarı** suyu öne ve yukarı iter (yay / perde).
+3. Su farın camının **önünden** geçer → far suyu aydınlatır → senin gördüğün **bembeyaz**.
+4. Araba ileri gider; o perde camın sağına / soluna çarpar.
 
-**2026-08-29 gözlem:** Kaput ortası değil; cam sağ ve soldan, lastiklerin oradan. → **B**. Bodykit yok.
-
-### “Davlumbaz” ne (motor değil)
-
-Lastiğin oturduğu **dışarıdaki kovuk**. Tekerin etrafındaki siyah plastik tepsi — kaputu açınca gördüğün motor değil. Yırtılırsa su yine **aynı yerden** (lastikten, dışarı) daha serbest uçar; motordan cama kanal yok.
+Motor yok. Kaputun ortası yok. Lastiğin **arkasındaki** siper bu yolda durmaz.
 
 ```
         [ön cam]
-     sol /     \ sağ     ← su buradan geliyor
-   [çamurluk] [çamurluk]
-      (O)         (O)     ← ön lastikler, DIŞARI
-   siyah plastik          ← “davlumbaz” = lastiğin yuvası, motor değil
+     sol /     \ sağ     ← su buraya düşer
+      [FAR]   [FAR]      ← su bunların ÖNÜNDEN yukarı
+      ~~~~     ~~~~      ← beyaz perde (far bunu aydınlatır)
+      (O)         (O)    ← ön lastikler, lastiğin ÖN kenarı
+   ~~~~~~~~~~~           ← birikinti
 ```
 
-## Ne bakılır (dışarıda, lastiğin yanında)
+Net örnekler (Wikimedia / stok): lastiğin önünden yukarı kalkan perde, farı kapatan SUV sıçraması. Kaynak: [Car water splash](https://commons.wikimedia.org/wiki/File:Car_water_splash.jpg), [Calgary flood splash](https://commons.wikimedia.org/wiki/File:A_car_splashes_up_water_as_it_drives_down_a_flooded_street_in_Calgary,_Alberta,_Canada.jpg).
 
-1. **Asıl parça:** her ön lastiğin **hemen arkasında**, çamurluğun altında lastik/plastik siper (çamurluk lastiği / paçalık). Çoğu TR ix35’te **yok**. Su lastikten çıkıp cama/A sütununa gitmeden önce onu keser.
-2. İstersen kovuğa bir bak: siyah plastik duruyor mu, yırtık mı. Kopuksa sprey artar; **yine lastikten, yine dışarı.** Motor değil. Sağlamsa geç.
-3. Lastik çamurluk dudağının dışında değilse taşma yok.
+## Ne bakılır (dışarıda)
 
-## Sonra (teşhise göre)
+1. **Kovuğun önü** (tampon ile lastik arası siyah plastik). Yırtıksa lastik suyu daha serbest öne atar. Sağlamsa geç — arıza şart değil.
+2. Lastik çamurluk dudağının dışında değilse taşma yok.
+3. Çamurluk lastiği (tekerin **arkası**) varsa not et; **bu şikâyeti çözmez**. Kapı/eşik için ayrı iş.
 
-| Teşhis | Ne yapılır | Ne yapılmaz |
-|--------|------------|-------------|
-| A (kaput) | Yavaş birikinti, silecek, cam su itici. Alt muhafaza gerçekten yoksa tak. | Bodykit, flare, “lastiği içeri al” |
-| B (lastikten, yan) | **Ön** çamurluk lastiği (tekerin arkası). Kovuk plastiği yırtıksa tak/klipsle — motor işi değil. OEM ön kabaca **2SF46-AC300**. | Bodykit, motor açma |
-| Lastik dudağın dışında | O zaman offset/ebat konuş. | Kör bodykit |
+## Sonra
 
-Çamurluk lastiği asıl işi: kapı, eşik, arkadaki araba. Cama **kısmen** yardım eder (B). A’da hayal kırıklığı.
+| Ne | Yap | Yapma |
+|----|-----|-------|
+| Asıl kontrol | Birikintiyi **yavaş** geç; sileceği **önceden** aç. Hız perdeyi yükseltir. | Bodykit, flare, “lastiği içeri al” |
+| Cam | Su itici (Rain-X vb.), silecek lastiği sağlam | Motor açma |
+| Kovuk ön plastiği yırtıksa | Klipsle / tak — dışarı, lastik yuvası | Çamurluk lastiğini “cama çözüm” sanma |
+| Lastik dudağın dışında | O zaman offset/ebat | Kör bodykit |
+
+SUV / yüksek burun + dik cam bunu **sık yapar**. Jeep, RAV4 forumları aynı şikâyet: arıza değil, geometri + hız.
 
 ## Açık sorular
 
-- [x] Su kaputtan mı, yandan mı? — **yandan / lastiklerden** (2026-08-29)
-- [ ] Ön lastiğin arkasında siper var mı? (muhtemel yok)
-- [ ] Kovuk siyah plastiği yırtık mı? (dışarı; motor değil)
-- [ ] Ön çamurluk lastiği var mı? (muhtemel yok)
-- [ ] Lastik ebatı / jant orijinal mi? (B için ikincil)
+- [x] Su kaputtan mı, yandan mı? — **yandan / lastiklerden**
+- [x] Farın önünden mi? — **evet** (far bembeyaz, su farın önünden yukarı)
+- [ ] Kovuğun **ön** plastiği (tampon–lastik arası) yırtık mı?
+- [ ] Çamurluk lastiği var mı? (ikincil; bu yol değil)
 
 ## Kararlar
 
 | Tarih | Karar | Gerekçe |
 |-------|-------|---------|
-| 2026-08-29 | Önce teşhis; bodykit ve taşma varsayımı yok | Stok jant düz oturur; bodykit cama su kesmez; A vs B ayrı |
-| 2026-08-29 | Yol **B** | Cam sağ/soldan, lastiklerden ıslanıyor; kaput ortası değil |
+| 2026-08-29 | Önce teşhis; bodykit ve taşma varsayımı yok | Stok jant düz oturur; bodykit cama su kesmez |
+| 2026-08-29 | Yol **B** sonra **farın önü** | Cam sağ/soldan; su farın önünden yukarı, içeri beyaz |
+| 2026-08-29 | Çamurluk lastiği asıl çözüm değil | Lastiğin arkasında durur; far-önü perdesini kesmez |
 
 ## Notlar
 
-Su lastikten, dışarıdan. Motor yok. Asıl ucuz parça ön çamurluk lastiği. Kovuk plastiği ikinci. Beyaztuning Niken **Gelince haber ver** — alma.
+Su lastikten, **önden-yandan**, farın önünden. Motor yok. En ucuz müdahale yavaş geç + silecek. Kovuk **ön** plastiği bakılabilir. Çamurluk lastiği kapı/eşik. Beyaztuning Niken **Gelince haber ver** — alma.
