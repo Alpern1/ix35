@@ -20,7 +20,7 @@
 - **Akü bakıcı:** Evde yok; akü bitme şikâyeti yok → “evden akü şarj / bakım prizi” peşine düşülmeyecek (yanlış hafta sonu önerisiydi).
 - **Android yan kamera:** 360 ($500–600) istenmiyor; hedef teypte canlı sağ/sol. Teyp marka/model + soket foto bekleniyor.
 - **Cam stor / park güneşliği:** Katlanır karton yok. Motor/otomatik yok. Sadece park; ön + 4 yan; siyah ince manuel stor. Kapıya vida yok.
-- **Ön cama yer suyu:** **B** — sağ/sol lastikten, kaput ortası değil. Bodykit yok. Önce davlumbaz, sonra ön çamurluk lastiği. [su-on-cam](../projeler/su-on-cam/README.md)
+- **Ön cama yer suyu:** Lastikten, **dışarıdan** sağ/sol. Motor/davlumbaz “içeriden” değil. Kovuk plastiği lastiğin yuvası. Asıl parça ön çamurluk lastiği. [su-on-cam](../projeler/su-on-cam/README.md)
 
 ## Araştırma Linkleri
 

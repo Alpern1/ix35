@@ -6,7 +6,7 @@
 
 - **Durum:** 📋 Planlama (yol: **B** — yan / teker)
 - **Öncelik:** Düşük–orta (görüş, can sıkıcı; arıza değil)
-- **Tahmini bütçe:** Davlumbaz klips bedava–ucuz. Çamurluk lastiği ucuz; bodykit **yok**
+- **Tahmini bütçe:** Ön çamurluk lastiği ucuz; bodykit **yok**
 - **Zorluk:** Kolay (bak) / Orta (parça)
 - **Oluşturulma:** 2026-08-29
 - **Son güncelleme:** 2026-08-29
@@ -39,25 +39,34 @@ SUV / yüksek burun + dik cam bunu **sık yapar**. Jeep, RAV4, Bronco forumları
 
 **A — Kaput üzerinden (yaygın):** Teker / tampon birikintiyi öne ve yukarı iter. Su havada asılı kalır, araba altına girer; kaputa ve cama düşer. Çamurluk lastiği **arkada** durur; bunu pek kesmez.
 
-**B — Teker kovuğu / A sütunu:** Lastik suyu yana ve arkaya atar. Davlumbaz kopuk, klips eksik veya çamurluk lastiği yoksa sprey A sütunundan cama gelebilir. Burada lastik + davlumbaz + (isteğe) çamurluk lastiği işe yarar.
+**B — Ön lastikler, dışarıdan:** Sol lastik suyu sol çamurluğun önünden/yanından yukarı atar → camın solu. Sağ lastik aynı → camın sağı. **Motorun içinden gelmez.** Kaputun üstünden de gelmez.
 
-**2026-08-29 gözlem (kullanıcı):** Kaputun ortasından gelmiyor. Cam **sağ ve soldan**, lastiklerin oradan ıslanıyor. → **B**, A değil. Bodykit hâlâ yok.
+**2026-08-29 gözlem:** Kaput ortası değil; cam sağ ve soldan, lastiklerin oradan. → **B**. Bodykit yok.
 
-## Sıradaki bakış (B — satın almadan)
+### “Davlumbaz” ne (motor değil)
 
-Ön tekeri sağa/sola kır, kovuğa bak:
+Lastiğin oturduğu **dışarıdaki kovuk**. Tekerin etrafındaki siyah plastik tepsi — kaputu açınca gördüğün motor değil. Yırtılırsa su yine **aynı yerden** (lastikten, dışarı) daha serbest uçar; motordan cama kanal yok.
 
-- [ ] Siyah plastik **davlumbaz** duruyor mu? Yırtık, sarkık, klips boş mu? (OEM kabaca **86811-2Y000** sol, **86812-2Y000** sağ — VIN.) Kopuksa önce onu tak / klipsle; yeni lastik siper boşuna.
-- [ ] Tekerin **hemen arkasında** (çamurluk dudağının altı) lastik/plastik siper var mı? Çoğu TR ix35’te **yok** — B için asıl ucuz parça bu (**ön** çamurluk lastiği). Arka set kapı/eşik içindir, cama değil.
-- [ ] Önden: lastik dudağın **dışında** mı? Değilse taşma konuşma.
-- [ ] Alt muhafaza: A için; B’de ikincil.
+```
+        [ön cam]
+     sol /     \ sağ     ← su buradan geliyor
+   [çamurluk] [çamurluk]
+      (O)         (O)     ← ön lastikler, DIŞARI
+   siyah plastik          ← “davlumbaz” = lastiğin yuvası, motor değil
+```
+
+## Ne bakılır (dışarıda, lastiğin yanında)
+
+1. **Asıl parça:** her ön lastiğin **hemen arkasında**, çamurluğun altında lastik/plastik siper (çamurluk lastiği / paçalık). Çoğu TR ix35’te **yok**. Su lastikten çıkıp cama/A sütununa gitmeden önce onu keser.
+2. İstersen kovuğa bir bak: siyah plastik duruyor mu, yırtık mı. Kopuksa sprey artar; **yine lastikten, yine dışarı.** Motor değil. Sağlamsa geç.
+3. Lastik çamurluk dudağının dışında değilse taşma yok.
 
 ## Sonra (teşhise göre)
 
 | Teşhis | Ne yapılır | Ne yapılmaz |
 |--------|------------|-------------|
 | A (kaput) | Yavaş birikinti, silecek, cam su itici. Alt muhafaza gerçekten yoksa tak. | Bodykit, flare, “lastiği içeri al” |
-| B (kovuk) | Kopuk davlumbaz / klips. İsteğe **ön çamurluk lastiği** (Hyundai Tucson/ix35 LM 2010–15; OEM set kabaca **2SF46-AC300** + arka **2SF46-AC400**). Aftermarket 4’lü de olur; bodykitli araca uymaz. | Tam bodykit |
+| B (lastikten, yan) | **Ön** çamurluk lastiği (tekerin arkası). Kovuk plastiği yırtıksa tak/klipsle — motor işi değil. OEM ön kabaca **2SF46-AC300**. | Bodykit, motor açma |
 | Lastik dudağın dışında | O zaman offset/ebat konuş. | Kör bodykit |
 
 Çamurluk lastiği asıl işi: kapı, eşik, arkadaki araba. Cama **kısmen** yardım eder (B). A’da hayal kırıklığı.
@@ -65,7 +74,8 @@ SUV / yüksek burun + dik cam bunu **sık yapar**. Jeep, RAV4, Bronco forumları
 ## Açık sorular
 
 - [x] Su kaputtan mı, yandan mı? — **yandan / lastiklerden** (2026-08-29)
-- [ ] Davlumbaz sağlam mı, klips boş mu?
+- [ ] Ön lastiğin arkasında siper var mı? (muhtemel yok)
+- [ ] Kovuk siyah plastiği yırtık mı? (dışarı; motor değil)
 - [ ] Ön çamurluk lastiği var mı? (muhtemel yok)
 - [ ] Lastik ebatı / jant orijinal mi? (B için ikincil)
 
@@ -78,4 +88,4 @@ SUV / yüksek burun + dik cam bunu **sık yapar**. Jeep, RAV4, Bronco forumları
 
 ## Notlar
 
-B’de sıra: önce davlumbaz/klips (boş kovuk spreyi büyütür). Sağlamsa **ön** çamurluk lastiği. 4’lü aftermarket set; bodykitsiz araca. Beyaztuning Niken set o gün **Gelince haber ver** — alma. OEM kabaca 2SF46-AC300 (ön). Sepete ekle listesi davlumbaz bakıldıktan sonra.
+Su lastikten, dışarıdan. Motor yok. Asıl ucuz parça ön çamurluk lastiği. Kovuk plastiği ikinci. Beyaztuning Niken **Gelince haber ver** — alma.
