@@ -80,8 +80,8 @@ Sıra (ucuz → deneme):
 
 1. **Yavaş + silecek önce** — Hız perdeyi yükseltir. Ücretsiz, asıl etki burada. Ibiza’da da aynı sudan yavaş geçsen fark daha az görünür.
 2. **Cam su itici + sağlam silecek** — Su yine gelir, görüş daha çabuk açılır. Arızayı çözmez.
-3. **Bak:** tampon **alt dudağı** duruyor mu, kovuğun **ön** plastiği (tampon–lastik arası) yırtık mı. Kopuksa tak/klipsle — boşluk daha da açılmış olur. Sağlamsa bırak.
-4. **Tek donanım bu yolda:** lastiğin **önüne** kısa lastik/plastik siper (tampon–çamurluk köşesinden aşağı). Su yukarı kaçmadan aşağı iner. Direksiyon sonuna kadar **sürtmesin**. Deneme; %100 bitmez. Çamurluk lastiği (teker **arkası**) yine bu yol değil.
+3. **Bak:** tampon **alt dudağı** duruyor mu, kovuğun **ön** plastiği (tampon–lastik arası) yırtık mı. Kopuksa tak/klipsle — boşluk daha da açılmış olur. Sağlamsa bırak. Stok: [stok-arastirma.md](stok-arastirma.md)
+4. **Tek donanım bu yolda:** lastiğin **önüne** kısa lastik/plastik siper (tampon–çamurluk köşesinden aşağı). Su yukarı kaçmadan aşağı iner. Direksiyon sonuna kadar **sürtmesin**. Deneme; %100 bitmez. Hazır “ix35 ön siper” ilanı yok. Çamurluk lastiği (teker **arkası**) yine bu yol değil.
 
 Yapılmayacak: bodykit, flare, arabayı alçaltma, “lastiği içeri al”, motor işi.
 
@@ -107,8 +107,8 @@ SUV / yüksek burun + dik cam bunu **sık yapar**. Jeep, RAV4 forumları aynı �
 
 - [x] Su kaputtan mı, yandan mı? — **yandan / lastiklerden**
 - [x] Farın önünden mi? — **evet** (far bembeyaz, su farın önünden yukarı)
-- [ ] Kovuğun **ön** plastiği (tampon–lastik arası) yırtık mı?
-- [ ] Tampon alt dudağı duruyor mu?
+- [ ] Kovuğun **ön** plastiği (tampon–lastik arası) yırtık mı? — görsel: [stok-arastirma.md](stok-arastirma.md)
+- [ ] Tampon alt dudağı duruyor mu? — 2012 kod **86512-2S000**; 2Y000 makyajlı olabilir
 - [ ] Ön siper denenecek mi? (sürtme kontrolü şart)
 - [ ] Çamurluk lastiği var mı? (ikincil; bu yol değil)
 

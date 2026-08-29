@@ -8,6 +8,7 @@
 - **su-on-cam = B** — Cam sağ/soldan lastiklerden, dışarı. Davlumbaz = lastik yuvası plastiği, motor değil.
 - **su-on-cam = farın önü** — Su farların önünden yukarı (içeri bembeyaz). Çamurluk lastiği (teker arkası) bu yolu kesmez; asıl kontrol yavaş geç + silecek.
 - **su-on-cam vs Ibiza** — Hatch’te lastiğin önü kapalı; ix35’te boşluk. Ibiza’ya çevirme yok; denenecekse lastiğin önüne kısa siper.
+- **su-on-cam stok** — Alt dudak 86512 + davlumbaz 86811/86812; hyundaiparca Sepete Ekle. Hazır ön siper yok. `stok-arastirma.md`
 
 ## 2026-07-25
 
