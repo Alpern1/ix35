@@ -18,7 +18,7 @@
 
 ### 2026-08-18 — Motor yağı değişimi (DIY)
 - Ne yapıldı: Eski yağ boşaltıldı, yeni Castrol 5W-30 dolduruldu (tam değişim).
-- Kullanılan parça / malzeme: Castrol 5W-30 (filtre teyidi kullanıcı notunda yok)
+- Kullanılan parça / malzeme: Castrol 5W-30 + **yağ filtresi** (2026-08-29 teyit: yağla birlikte değişti)
 - Maliyet: _girilmedi_
 - Notlar: Çıkarılan yağ **siyah** — 10–12 bin km GDI’de beklenen. Aralık **8.000 km veya 12 ay**. **Hava + polen o gün alınmadı** — sonra değişir, acil değil. Şanzıman yağı ay başına planlandı.
 
