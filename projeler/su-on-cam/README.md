@@ -4,9 +4,9 @@
 
 ## Durum
 
-- **Durum:** 📋 Planlama (önce teşhis)
+- **Durum:** 📋 Planlama (yol: **B** — yan / teker)
 - **Öncelik:** Düşük–orta (görüş, can sıkıcı; arıza değil)
-- **Tahmini bütçe:** Teşhis bedava. Çamurluk lastiği ucuz; bodykit **yok**
+- **Tahmini bütçe:** Davlumbaz klips bedava–ucuz. Çamurluk lastiği ucuz; bodykit **yok**
 - **Zorluk:** Kolay (bak) / Orta (parça)
 - **Oluşturulma:** 2026-08-29
 - **Son güncelleme:** 2026-08-29
@@ -41,19 +41,16 @@ SUV / yüksek burun + dik cam bunu **sık yapar**. Jeep, RAV4, Bronco forumları
 
 **B — Teker kovuğu / A sütunu:** Lastik suyu yana ve arkaya atar. Davlumbaz kopuk, klips eksik veya çamurluk lastiği yoksa sprey A sütunundan cama gelebilir. Burada lastik + davlumbaz + (isteğe) çamurluk lastiği işe yarar.
 
-İkisini karıştırma. Bir sonraki birikintide bak:
+**2026-08-29 gözlem (kullanıcı):** Kaputun ortasından gelmiyor. Cam **sağ ve soldan**, lastiklerin oradan ıslanıyor. → **B**, A değil. Bodykit hâlâ yok.
 
-1. Su önce **kaputu kaplıyor** sonra cama mı geliyor? → **A**. Hız düşür, Rain-X / iyi silecek. Bodykit yok.
-2. Su **yanlardan / A sütunundan** mı geliyor, kaput kuru kalıyor mu? → **B**. Davlumbaz + isteğe çamurluk lastiği.
-3. Karşı şeritten / öndeki araçtan mı? → kendi lastiğin değil.
+## Sıradaki bakış (B — satın almadan)
 
-## Parkta bakılacaklar (satın almadan)
+Ön tekeri sağa/sola kır, kovuğa bak:
 
-- [ ] Önden foto: lastik çamurluk dudağının **içinde / hizasında / dışında** mı?
-- [ ] Kapı eşiğindeki lastik yazısı (215/70R16 mi 225/60R17 mi). Jant aftermarket mi?
-- [ ] Ön teker kovuğu: siyah plastik **davlumbaz** duruyor mu, yırtık / klips boş mu? (OEM kabaca **86811-2Y000** sol, **86812-2Y000** sağ — VIN ile.)
-- [ ] Tekerin **arkasında** fabrika / sonradan çamurluk lastiği var mı? Çoğu TR ix35’te **yok**.
-- [ ] Tampon altı plastik (karter / splash) sarkık veya eksik mi? Yağ değişiminde sökülmüş olabilir; **A**’yı biraz kötüleştirir, ana sebep nadiren budur.
+- [ ] Siyah plastik **davlumbaz** duruyor mu? Yırtık, sarkık, klips boş mu? (OEM kabaca **86811-2Y000** sol, **86812-2Y000** sağ — VIN.) Kopuksa önce onu tak / klipsle; yeni lastik siper boşuna.
+- [ ] Tekerin **hemen arkasında** (çamurluk dudağının altı) lastik/plastik siper var mı? Çoğu TR ix35’te **yok** — B için asıl ucuz parça bu (**ön** çamurluk lastiği). Arka set kapı/eşik içindir, cama değil.
+- [ ] Önden: lastik dudağın **dışında** mı? Değilse taşma konuşma.
+- [ ] Alt muhafaza: A için; B’de ikincil.
 
 ## Sonra (teşhise göre)
 
@@ -67,16 +64,18 @@ SUV / yüksek burun + dik cam bunu **sık yapar**. Jeep, RAV4, Bronco forumları
 
 ## Açık sorular
 
-- [ ] Su kaputtan mı, yandan mı? (kullanıcı gözlemi)
-- [ ] Lastik ebatı ve jant orijinal mi?
-- [ ] Davlumbaz sağlam mı?
+- [x] Su kaputtan mı, yandan mı? — **yandan / lastiklerden** (2026-08-29)
+- [ ] Davlumbaz sağlam mı, klips boş mu?
+- [ ] Ön çamurluk lastiği var mı? (muhtemel yok)
+- [ ] Lastik ebatı / jant orijinal mi? (B için ikincil)
 
 ## Kararlar
 
 | Tarih | Karar | Gerekçe |
 |-------|-------|---------|
 | 2026-08-29 | Önce teşhis; bodykit ve taşma varsayımı yok | Stok jant düz oturur; bodykit cama su kesmez; A vs B ayrı |
+| 2026-08-29 | Yol **B** | Cam sağ/soldan, lastiklerden ıslanıyor; kaput ortası değil |
 
 ## Notlar
 
-Kayseri yağmuru / birikinti. Satın alma teşhisten sonra; “Sepete ekle” listesi o zaman.
+B’de sıra: önce davlumbaz/klips (boş kovuk spreyi büyütür). Sağlamsa **ön** çamurluk lastiği. 4’lü aftermarket set; bodykitsiz araca. Beyaztuning Niken set o gün **Gelince haber ver** — alma. OEM kabaca 2SF46-AC300 (ön). Sepete ekle listesi davlumbaz bakıldıktan sonra.
