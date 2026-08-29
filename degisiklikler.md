@@ -4,7 +4,7 @@
 
 ## 2026-08-29
 
-- **Şanzıman kutusu açılmaz** — yağ = alt + yan tapa. Videodaki kutu/tava sökümü başka iş (rebuild veya otomatik tava). `araba/bakim.md`
+- **Şanzıman kutusu açılmaz** — yağ = alt + yan tapa. Videodaki tava/filtre/mıknatıs talaşı otomatik kutu; M6CF1’de yok. `araba/bakim.md`
 
 ## 2026-08-18
 
