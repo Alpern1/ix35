@@ -120,6 +120,7 @@ SUV / yüksek burun + dik cam bunu **sık yapar**. Jeep, RAV4 forumları aynı �
 | 2026-08-29 | Yol **B** sonra **farın önü** | Cam sağ/soldan; su farın önünden yukarı, içeri beyaz |
 | 2026-08-29 | Çamurluk lastiği asıl çözüm değil | Lastiğin arkasında durur; far-önü perdesini kesmez |
 | 2026-08-29 | Ibiza karşılaştırması: kasa, arıza değil | Hatch lastiğin önünü kapatır; ix35’te boşluk var. Ibiza’ya çevirme yok |
+| 2026-08-29 | Önce bak, sonra al | Alt dudak / davlumbaz stoklu; hazır ön siper yok. Niken tampon koruma değil |
 
 ## Notlar
 
