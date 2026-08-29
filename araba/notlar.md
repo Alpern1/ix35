@@ -20,7 +20,7 @@
 - **Akü bakıcı:** Evde yok; akü bitme şikâyeti yok → “evden akü şarj / bakım prizi” peşine düşülmeyecek (yanlış hafta sonu önerisiydi).
 - **Android yan kamera:** 360 ($500–600) istenmiyor; hedef teypte canlı sağ/sol. Teyp marka/model + soket foto bekleniyor.
 - **Cam stor / park güneşliği:** Katlanır karton yok. Motor/otomatik yok. Sadece park; ön + 4 yan; siyah ince manuel stor. Kapıya vida yok.
-- **Ön cama yer suyu:** Lastiğin **önünden**, farın önünden yukarı (far bembeyaz). Motor yok. Çamurluk lastiği (teker arkası) bu yolu kesmez. [su-on-cam](../projeler/su-on-cam/README.md)
+- **Ön cama yer suyu:** Lastiğin **önünden**, farın önünden yukarı (far bembeyaz). Motor yok. Seat Ibiza’da yok — hatch lastiğin önünü kapatır; ix35’te boşluk var. Çamurluk lastiği (teker arkası) bu yolu kesmez. [su-on-cam](../projeler/su-on-cam/README.md)
 
 ## Araştırma Linkleri
 
