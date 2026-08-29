@@ -5,6 +5,7 @@
 ## 2026-08-29
 
 - **Şanzıman kutusu açılmaz** — yağ = alt + yan tapa. Videodaki tava/filtre/mıknatıs talaşı otomatik kutu; M6CF1’de yok. `araba/bakim.md`
+- **Hava/polen sonra** — yağ günü unutuldu; acil değil. Şanzıman yağı ay başına. `araba/bakim.md` · `araba/yapilanlar.md`
 
 ## 2026-08-18
 

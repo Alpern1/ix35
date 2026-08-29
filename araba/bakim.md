@@ -14,8 +14,8 @@ Yağ ve buji yaptın → aynı seviye bunlar:
 | İş | Zorluk | Şimdi? |
 |----|--------|--------|
 | Yağ çubuğu | Kolay | Evet, her 1.000 km |
-| **Polen filtresi** (torpido / eldiven gözü) | Kolay | Evet — stok aşağıda |
-| **Hava filtresi** (motor kutusu) | Kolay | Evet — stok aşağıda |
+| **Polen filtresi** (torpido / eldiven gözü) | Kolay | Yağla aynı gün şart değil — ay başı / sonra olur |
+| **Hava filtresi** (motor kutusu) | Kolay | Aynı; motoru durdurmaz, toz/hava biraz kirli kalır |
 | Motor yağı + filtre | Yaptın | Sonraki **140 bin** |
 | Buji | Yaptın (120 bin) | Hayır — LPG ile sonraki ~**160–180 bin** |
 | PCV bak (kapak hortumu) | Kolay | Yağ eksiltirse |
@@ -29,6 +29,8 @@ Yağ ve buji yaptın → aynı seviye bunlar:
 ---
 
 ## 1. Polen + hava — stokta, Sepete ekle (2026-08-18)
+
+Yağ değişince bunları unutmak **sorun değil.** Motor yağı + yağ filtresi ayrı iş. **Polen** sadece kabin havası / koku / buğu. **Hava** motorun nefes borusu: kirliyse biraz daha toz kaçar, çekiş/yakıt çok az etkilenir; haftalar/aylar sonraya bırakmak motoru bozmaz. İkisini ay başı veya yağ/şanzıman sepetine koy. Yıllarca bekletme.
 
 Kodlar (1.6 GDI 2010–2015): hava OEM **28113-2S000** (Mann **C26013**, Bosch **F026400228**). Polen OEM **97133-2E250 / 2E260** (Mann **CU24004**, Bosch **1987432224**). Karbonlu şart değil.
 
@@ -210,10 +212,10 @@ Pratik: radyatörü boşalt + kabı boşalt → aynı tip doldur → kanat. Blok
 
 ## Kalan öncelik (sen)
 
-1. Polen + hava (Cepoto Bosch çifti)  
+1. Polen + hava — acil değil; ay başı / sonra (Cepoto Bosch çifti)  
 2. Yağ çubuğu: sil, 1.000 km ölç; hâlâ okunmuyorsa VIN ile çubuk  
 3. V kayışına bak  
-4. Şanzıman yağı — acil değil; fiş yoksa bir kez bakım (GL-4 75W-85)  
+4. Şanzıman yağı — acil değil; **ay başı** 2× Motylgear 75W-85 (fiş yoksa bir kez bakım)  
 5. Fren hidroliği — sen veya usta; 2 yıllık sıvı, alışta denmedi  
 
 Fren/lastik gözle. Zincir, motor açma, buji, LPG filtre **şimdi yok**.
