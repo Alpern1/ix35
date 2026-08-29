@@ -20,6 +20,7 @@
 - **Akü bakıcı:** Evde yok; akü bitme şikâyeti yok → “evden akü şarj / bakım prizi” peşine düşülmeyecek (yanlış hafta sonu önerisiydi).
 - **Android yan kamera:** 360 ($500–600) istenmiyor; hedef teypte canlı sağ/sol. Teyp marka/model + soket foto bekleniyor.
 - **Cam stor / park güneşliği:** Katlanır karton yok. Motor/otomatik yok. Sadece park; ön + 4 yan; siyah ince manuel stor. Kapıya vida yok.
+- **Ön cama yer suyu:** Lastiğin **önünden**. Büyük davlumbaz sağlam; **ön ek iki yanda kırık** (sol tel, sağ yamuk). 86831/86832. [su-on-cam](../projeler/su-on-cam/README.md)
 
 ## Araştırma Linkleri
 

@@ -2,6 +2,15 @@
 
 > Plan veya kayıtlarda yapılan önemli değişiklikler. "Neden değişti?" sorusunun cevabı burada.
 
+## 2026-08-29
+
+- **Yeni proje: su-on-cam** — Birikinti suyu ön cam. Lastik taşması ve bodykit varsayımı elendi; önce kaput vs A sütunu. `projeler/su-on-cam/README.md`
+- **su-on-cam = B** — Cam sağ/soldan lastiklerden, dışarı. Davlumbaz = lastik yuvası plastiği, motor değil.
+- **su-on-cam = farın önü** — Su farların önünden yukarı (içeri bembeyaz). Çamurluk lastiği (teker arkası) bu yolu kesmez; asıl kontrol yavaş geç + silecek.
+- **su-on-cam vs Ibiza** — Hatch’te lastiğin önü kapalı; ix35’te boşluk. Ibiza’ya çevirme yok; denenecekse lastiğin önüne kısa siper.
+- **su-on-cam stok** — Alt dudak 86512 + davlumbaz 86811/86812; hyundaiparca Sepete Ekle. Hazır ön siper yok. `stok-arastirma.md`
+- **su-on-cam ön ek kırık** — İki yan; büyük davlumbaz sağlam. Kod 86831-2S000 / 86832-2S000. Sıfır Sepete Ekle yok.
+
 ## 2026-07-25
 
 - **Yeni proje: cam-stor-guneslik** — Park-only ön+yan cam stor/roller araştırması (`on-cam.md`, `yan-cam.md`). Kapıya vida yok; katlanır panel hedef değil.
