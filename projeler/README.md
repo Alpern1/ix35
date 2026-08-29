@@ -24,6 +24,7 @@
 | [haftasonu-fikirler/](haftasonu-fikirler/) | Hafta sonu: işe yarar DIY fikir havuzu | 💡 Fikir | Düşük (seçim bitti) |
 | [android-yan-kamera/](android-yan-kamera/) | Android teypte sağ/sol canlı kamera | 📋 Planlama | Yüksek |
 | [cam-stor-guneslik/](cam-stor-guneslik/) | Park: ön+yan cam stor / roller güneşlik | 📋 Planlama | Orta |
+| [su-on-cam/](su-on-cam/) | Birikintide su ön cama — teşhis (bodykit yok) | 📋 Planlama | Düşük–orta |
 
 Her klasörde **`README.md`** = ana proje dosyası. Diğer `.md` dosyaları o projeye özel destek dokümanlarıdır.
 
@@ -40,4 +41,4 @@ cp -r projeler/_sablon projeler/<yeni-isim>
 
 ---
 
-*Son güncelleme: 2026-07-25*
+*Son güncelleme: 2026-08-29*

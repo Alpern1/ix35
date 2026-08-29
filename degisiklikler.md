@@ -2,6 +2,10 @@
 
 > Plan veya kayıtlarda yapılan önemli değişiklikler. "Neden değişti?" sorusunun cevabı burada.
 
+## 2026-08-29
+
+- **Yeni proje: su-on-cam** — Birikinti suyu ön cam. Lastik taşması ve bodykit varsayımı elendi; önce kaput vs A sütunu. `projeler/su-on-cam/README.md`
+
 ## 2026-07-25
 
 - **Yeni proje: cam-stor-guneslik** — Park-only ön+yan cam stor/roller araştırması (`on-cam.md`, `yan-cam.md`). Kapıya vida yok; katlanır panel hedef değil.

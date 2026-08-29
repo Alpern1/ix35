@@ -27,6 +27,7 @@ Detay: [NASIL-CALISIRIZ.md](NASIL-CALISIRIZ.md)
 | [projeler/uzaklasinca-kilit/](projeler/uzaklasinca-kilit/) | Uzaklaşınca otomatik kilit |
 | [projeler/yazilim-kodlama/](projeler/yazilim-kodlama/) | Yazılım / kodlama / chip araştırması |
 | [projeler/koltuk-sogutma/](projeler/koltuk-sogutma/) | Koltuk soğutma / havalandırma (OEM) |
+| [projeler/su-on-cam/](projeler/su-on-cam/) | Birikintide su ön cama (teşhis) |
 
 Tam liste: [projeler/README.md](projeler/README.md)
 
