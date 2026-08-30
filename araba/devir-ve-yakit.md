@@ -33,6 +33,41 @@ Kabaca şehir: trafik izin verirse **2000–2800**’de vites değiştir. Yol: *
 
 ---
 
+## Şehir içi (asıl günlük)
+
+ix35 ağır, 1.6 atmosferik. Şehirde iş vitesi çoğu zaman **3**. 4’ü 40 km/s’de zorlama; LPG’de daha çok boğulur.
+
+**Şehir bandı:** **2000–3000**. Altına (yükte) inme. 4000+ şehirde gerekmez.
+
+### Kaçta vites at (yükselt)
+
+Tek sayı yok. Gazda motor zorlanıyorsa erken atmışsındır; uğulduyor ama hızlanmıyorsan geç kalmışsındır.
+
+| Nasıl gidiyorsun | Yaklaşık atış (d/d) |
+|------------------|---------------------|
+| Sakin, düz, boş | **~2200–2500** |
+| Normal şehir | **~2500–2800** |
+| Işık çıkışı / yokuş / dolu | Tut **~3000–3500**, sonra at |
+
+GSI (gösterge ortası sayı) **öneri**dir, şu anki vites değil. Şehirde / LPG’de / yokuşta bazen **çok erken** 4–5 der — kör uyma.
+
+### Hız → vites (kabaca, 215/70R16 civarı)
+
+Oranlar kutu/lastiğe göre biraz kayar. Devir asıl ölçü.
+
+| Vites | Şehirde ne zaman | Not |
+|-------|------------------|-----|
+| **1** | Kalkış, park, ~0–15 | Uzun basma |
+| **2** | ~15–30 | Işık–ışık |
+| **3** | ~30–50 | **Şehir iş vitesi** |
+| **4** | ~50–70, düz ve rahat | 40’ta 4 = lug |
+| **5** | Boş düz ~70+ | Trafikte genelde gerekmez |
+| **6** | Şehirde neredeyse yok | Yol overdrive |
+
+Kısarken: titreşim / çekiş yok / yokuş → bir vites düş. 2 vites birden veya **5000+** iken kısma (kılavuz).
+
+---
+
 ## “4’ten 6’ya atlama / 5. vites şart” efsanesi
 
 **Hayır — 5. vites kutsal değil.** Atlamak yasak değil; kritik olan **atlama sonrası devir**.
@@ -98,8 +133,8 @@ Gösterge GSI (önerilen vites) bazen **çok erken** yükselt der — yokuşta/L
 
 ## Özet cümleler
 
-- **Tasarruf bandı:** ~1800–2400  
-- **Rahat / sağlıklı:** ~2000–3000  
-- **Altına düşme (yükte):** ~1700–1800  
+- **Şehir:** ~2000–3000; atış ~2500–2800; iş vitesi çoğu zaman **3**
+- **Tasarruf (düz yol):** ~1800–2400  
+- **Yükte altına düşme:** ~1700–1800  
 - **Güç / tork:** 3000–4200+  
 - Bu motor **devri sever**; “hep 1500’de gez” bu araçta doğru değil.

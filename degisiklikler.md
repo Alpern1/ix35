@@ -2,6 +2,10 @@
 
 > Plan veya kayıtlarda yapılan önemli değişiklikler. "Neden değişti?" sorusunun cevabı burada.
 
+## 2026-08-30
+
+- **Şehir içi vites** — 1.6 GDI’da iş vitesi çoğu 3; atış ~2500–2800. `araba/devir-ve-yakit.md`
+
 ## 2026-07-09
 
 - **Telefon-only ritüel düzeltildi** — Kumanda START 2.5 sn adımı kaldırıldı; StarLine program nötr + telefondan silahlanma akışı yazıldı.
