@@ -123,7 +123,48 @@ Boşaltma altta ayrı tapa; şırınga oraya değmez.
 
 Fabrika kılavuzu (ix35 1.6 benzin, M6CF1): **API GL-4, SAE 75W-85**, ~**1,8 L**. Motul Motylgear 75W-85: viskozite **aynı**; TDS’de API **GL-4 / GL-5**, senkronize kutu, **sarı metal / conta OK**, Hyundai/Kia 75W-85 isteyen kutular için yazılmış. **Bu araç için uygun**, ucuz “şanzıman yağı” değil.
 
-Tek nüans: OEM tam olarak **sadece GL-4**. Eski saf **GL-5** (özellikle 80W-90) senkro pirincini yer. Motylgear ikili etiket + sarı metal iddiası olduğu için **kullanılır**; “Hyundai kutusunun ta kendisi” değil. Sıfır şüphe: bayi **Hyundai MTF 75W-85 GL-4**. **Alma:** 80W-90, “GL-5 only”, diferansiyel yağı.
+Tek nüans: OEM tam olarak **sadece GL-4**. Eski saf **GL-5** (özellikle 80W-90) senkro pirincini yer. Motylgear ikili etiket + sarı metal iddiası olduğu için **kullanılır**; “Hyundai kutusunun ta kendisi” değil. Sıfır şüphe OEM: **Hyundai/Kia MTF 75W-85 GL-4** (Mobis; eski kod **04300-00110**, güncel **04300-00140** civarı — bayi teyit). **Alma:** 80W-90, “GL-5 only”, diferansiyel yağı, Motylgear **75W-80 / 75W-90**.
+
+### Orijinal Motylgear — nereden (araştırma 2026-09-01)
+
+**Doğru ürün kimliği (kutuda bunlar olmalı):**
+
+| | |
+|--|--|
+| İsim | Motul **MOTYLGEAR 75W-85** (1 L) |
+| Motul SKU / art. | **106745** |
+| EAN / barkod | **3374650259925** |
+| Standart | API **GL-4 ve GL-5** (ikili); Made in **France** |
+| Resmi TR ürün sayfası | [motul.com/tr-TR/products/44901](https://www.motul.com/tr-TR/products/44901) (katalogda var) |
+| TDS (TR) | [MOTYLGEAR_75W-85 TDS PDF](https://azupim01.motul.com/media/motulData/DO/base/MOTYLGEAR_75W-85_tr_TR_motul_20210329.pdf) |
+
+Piyasa fiyat bandı (1 L, bakıldığı gün): kabaca **~675–900 TL**. Bunun **çok altı** (ör. ~350 TL) → orijinal şüphesi; **çok üstü** → alma.
+
+#### Kanallar — güven sırası
+
+| Sıra | Kanal | Orijinallik | Stok / Sepete Ekle (o gün) | Not |
+|------|--------|-------------|------------------------------|-----|
+| **1** | **Bema Petrol — Motul Kayseri bölge distribütörü** | En yüksek (Motul’ün resmi listesi) | Mağaza/telefon; web shop değil | [Motul TR distribütörler](https://www.motul.com/tr-TR/discover-motul/distributors): Anbar Mah. Osman Kavuncu Bul. No:558E Melikgazi / Kayseri · **0 (352) 311 40 60** / **0532 516 48 24** · muhasebe@bemapetrolurunleri.com. **Şunu sor:** “Motylgear 75W-85, SKU **106745**, barkod **3374650259925**, 2 litre.” Yoksa **75W-80/90 alma**; sipariş açabilirler mi diye sor. |
+| **1b** | Motul TR merkez | Doğrulama | — | **0216 570 65 00** / info@motul.com.tr — “75W-85 hangi yetkili stokta?” |
+| **2** | **[shoptr.motul.com](https://shoptr.motul.com/)** — resmi Motul Shop TR | Resmi site | Şanzıman rafında **75W-85 yok** | Sadece **75W-80** ve **75W-90** listeleniyor (ikisi de bu kutu için **yanlış**). “Motul resmi site” diye **80/90 alma**. |
+| **3** | **[Idefix Motylgear 75W85](https://www.idefix.com/motul-motylgear-75w85-1-litre-p-13160352)** | Yüksek (marketplace + doğru EAN) | **Sepete Ekle**, ~**847 TL**, stok **9** | Sayfa barkodu = resmi EAN **3374650259925**. İade/ödeme koruması var. Gelen şişede barkod + üretim tarihi kontrol et. |
+| **4** | **[turkoilmarket](https://www.turkoilmarket.com/urun/motul-motylgear-75w-85-1-litre)** | Orta–iyi (yağ mağazası, resmi Motul değil) | **Sepete Ekle**, ~**750 TL**, InStock | Fiyat bandı içinde. Faturada ürün adı + mümkünse lot iste. |
+| **5** | HB / n11 / Amazon TR | Satıcıya bağlı | Bot/403; tek tek satıcı puanı şart | **75W-85** + EAN doğrula. Az puanlı / aşırı ucuz satıcıyı ele. |
+| — | Cepoto | — | Motylgear **yok** | Filtre sitesi; yağ buradan beklenmez. |
+| — | madeniyagfiltre | Düşük | ~**357 TL** (bandın yarısı) | **Alma.** |
+| — | Oilmarkt arama | — | 75W-85 Motylgear net değil; **75W-90** çıkıyor | Yanlış viskozite → alma. |
+
+#### Kutuyu açınca kontrol (orijinal mi)
+
+1. Etiket: **MOTYLGEAR** + tam **75W-85** (75W-80 / 75W-90 değil).  
+2. Barkod okuyucu: **3374650259925**.  
+3. **Made in France**, kapak/mühür bozulmamış, şişe şiş/ezik değil.  
+4. Lot / üretim tarihi okunuyor; çok eski stok (yıllarca rafta) tercihen iade.  
+5. Fatura sakla (garanti / iade).
+
+#### Sıfır şüphe alternatifi (Motul bulunamazsa)
+
+Yetkili **Hyundai bayi yedek parça**: Mobis **MTF 75W-85 GL-4** (~**04300-00110** / **04300-00140** — bayi kodunu teyit et). Fabrika spesifikasyonu; Motul muadili aramaya gerek yok. TR e-ticarette Sepete Ekle stoku zayıf göründü → **bayiden sipariş** daha güvenli. **2×1 L** (kapasite ~1,8 L).
 
 ### Şimdi değişsin mi — semptom bekleme
 
@@ -137,15 +178,15 @@ Ne yap: fiş yok + 120 bin eşiği geçti → **bir kez bakım** mantıklı (bak
 
 Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, bez **zaten var**. Yeni gereken: **dolum şırıngası + yağ**. Tapa/pul: eskiler durur.
 
-**Castrol / “aynı site” notu:** Repo’da motor yağının (Castrol 5W-30) **hangi siteden alındığı yazılı değil**. Filtre için önerilen **Cepoto**’da Motylgear **yok** (arama sonuçsuz). Büyük market / bilinen yağ mağazası tercih et.
+**Castrol / “aynı site” notu:** Repo’da motor yağının (Castrol 5W-30) **hangi siteden alındığı yazılı değil**. **Cepoto**’da Motylgear **yok**.
 
 **Al — şırınga (ucuz yeter):** 250 cc şart değil. Hortumlu 60 ml aynı işi yapar; sadece tur sayısı artar.
 
 | # | Ne | Neden | Link | Not |
 |---|-----|--------|------|-----|
-| 1 | **Artlantis 60 ml + hortum** (al) | Kutuda **100 cm hortum**. Tek paket, Sepete Ekle. 1,8 L ≈ **~30 tur** — sıkıcı ama iş bitirir. Yağı biraz ılık tut. | [idefix Artlantis 60 ml, Sepete Ekle ~213 TL](https://www.idefix.com/plastik-siringa-hortumlu-buyuk-60-ml-1-paket-sivi-emme-enjektoru-okul-deney-evcil-hayvan-besleme-p-5160854) | Trendyol’da aynı Artlantis bazen ~**164 TL** — fiyat bak, Sepete Ekle varsa onu al. |
-| 1b | Kompozit 250 cc (isteğe bağlı) | Daha az tur (~8). **Hortum yok** → ayrıca hortum. Konfor; zorunlu değil. | [kompozitpazari 250 cc ~346 TL+KDV](https://kompozitpazari.com/urun/siringa-250-cc-ml/) + [Sakura hortum 4/6 mm 1 m ~25 TL](https://www.sakuraakvaryum.com/urun/akvaryum-hava-hortumu-1m/) | 60 ml aldıysan bunu alma. |
-| 2 | **Yağ 2×1 L** Motul Motylgear **75W-85** | ~1,8 L. **75W-85** yazana bak; 75W-80 / 75W-90 alma. | **Öncelik:** [idefix Motylgear 75W85, Sepete Ekle ~847 TL/L](https://www.idefix.com/motul-motylgear-75w85-1-litre-p-13160352) · [turkoilmarket ~750 TL, Sepete Ekle](https://www.turkoilmarket.com/urun/motul-motylgear-75w-85-1-litre) | Sepete **2 adet**. Hepsiburada’da da 75W85 listeleniyor (satıcıya bak). Piyasa bandı kabaca **~675–900 TL/L**. |
+| 1 | **Artlantis 60 ml + hortum** (al) | Kutuda **100 cm hortum**. Tek paket, Sepete Ekle. 1,8 L ≈ **~30 tur**. Yağı biraz ılık tut. | [idefix Artlantis 60 ml, Sepete Ekle ~213 TL](https://www.idefix.com/plastik-siringa-hortumlu-buyuk-60-ml-1-paket-sivi-emme-enjektoru-okul-deney-evcil-hayvan-besleme-p-5160854) | Trendyol’da aynı Artlantis bazen ~**164 TL**. |
+| 1b | Kompozit 250 cc (isteğe bağlı) | Daha az tur (~8). Hortum ayrı. | [kompozitpazari 250 cc](https://kompozitpazari.com/urun/siringa-250-cc-ml/) + [Sakura hortum ~25 TL](https://www.sakuraakvaryum.com/urun/akvaryum-hava-hortumu-1m/) | 60 ml aldıysan bunu alma. |
+| 2 | **Yağ 2×1 L** — önce Bema / yoksa Idefix | Orijinallik: yukarıdaki tablo. Online: Idefix EAN doğrulanmış. | **Önce ara:** Bema Petrol Kayseri (yukarı). **Online:** [Idefix ~847 TL, Sepete Ekle, EAN 3374650259925](https://www.idefix.com/motul-motylgear-75w85-1-litre-p-13160352) · yedek [turkoilmarket ~750 TL](https://www.turkoilmarket.com/urun/motul-motylgear-75w-85-1-litre) | Sepete **2 adet**. Gelen şişede barkod kontrol. Motul Shop TR **75W-80/90 alma**. |
 
 **Yoksa al (evde 17 mm varsa 1’i atla):**
 
@@ -154,16 +195,12 @@ Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, be
 | 17 mm kombine (kısa) | [tuzlahirdavat İzeltaş 0320020017](https://tuzlahirdavat.com.tr/17-mm-kombine-anahtar-kisa-boy-izeltas) | **Var**, Sepete Ekle ~208 TL |
 | 14 mm | Hırdavat / Trendyol “14 mm kombine”, **Sepete ekle** | Tuzla 14 mm o gün **stok yoktu** — “haber ver” yok |
 
-**Alma (görsel / fiyat / güven):**
+**Alma (yağ / alet):**
 
-- **madeniyagfiltre** Motylgear ~**357 TL** — piyasada aynı yağ ~750–850; aşırı ucuz + az bilinen site → **güvenme**, alma. (Sepete Ekle görünse de.)
-- **Cepoto** — Motylgear yok; Castrol alış yeri olarak da kayıt yok.
-- **Oilmarkt** aramada Motylgear **75W-90** çıkıyor → viskozite yanlış, alma.
-- **DORF 500 cc** ~**3.083 TL** — gereksiz.
-- Kompozit **500 cc** ~985 TL — 60 ml yeterken alma.
-- Trendyol **Cadırcı 100/250 ml** — hortumsuz ve 60 ml setten pahalı.
-- Idefix Artlantis **5’li 60 ml** — namlu hâlâ 60 ml; tekli yeter.
-- Çin dropship, Asitan ~10k, Thorstone ~11k, sifon/gres/yağdanlık, saf GL-5 80W-90, yeni şanzıman tapası.
+- Motul Shop TR **Motylgear 75W-80** veya **75W-90** — resmi site olsa da **yanlış viskozite**.
+- **madeniyagfiltre** ~357 TL; aşırı ucuz / az bilinen.
+- Cepoto Motylgear yok. Oilmarkt **75W-90**. Saf GL-5 80W-90.
+- DORF / Cadırcı pahalı şırınga; Kompozit 500 cc; 5’li 60 ml; Çin dropship; sifon/gres/yağdanlık; yeni şanzıman tapası.
 
 ---
 
