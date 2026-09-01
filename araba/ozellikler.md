@@ -40,7 +40,7 @@
 
 - Kilometre: ~130.000 km
 - Genel kondisyon: İyi, şu an çok sorun yok
-- Bilinen sorunlar / arızalar: Yok (güncel)
+- Bilinen sorunlar / arızalar: Ön park sensörleri kesik kesik (kuru/ıslak). [on-park-sensor](../projeler/on-park-sensor/README.md)
 
 ## Fotoğraflar & Referanslar
 
