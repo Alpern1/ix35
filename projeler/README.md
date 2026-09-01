@@ -24,6 +24,7 @@
 | [haftasonu-fikirler/](haftasonu-fikirler/) | Hafta sonu: işe yarar DIY fikir havuzu | 💡 Fikir | Düşük (seçim bitti) |
 | [android-yan-kamera/](android-yan-kamera/) | Android teypte sağ/sol canlı kamera | 📋 Planlama | Yüksek |
 | [cam-stor-guneslik/](cam-stor-guneslik/) | Park: ön+yan cam stor / roller güneşlik | 📋 Planlama | Orta |
+| [on-park-sensor/](on-park-sensor/) | Ön park sensörü kesik kesik (yağmurda açılıyor) | 📋 Planlama | Düşük–orta |
 
 Her klasörde **`README.md`** = ana proje dosyası. Diğer `.md` dosyaları o projeye özel destek dokümanlarıdır.
 

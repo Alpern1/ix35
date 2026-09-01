@@ -2,6 +2,10 @@
 
 > Plan veya kayıtlarda yapılan önemli değişiklikler. "Neden değişti?" sorusunun cevabı burada.
 
+## 2026-09-01
+
+- **Yeni proje: on-park-sensor** — Ön park sensörü kuruyken susuyor, yağmurda açılıyor; kir/film hipotezi, önce sil. `projeler/on-park-sensor/README.md`
+
 ## 2026-07-25
 
 - **Yeni proje: cam-stor-guneslik** — Park-only ön+yan cam stor/roller araştırması (`on-cam.md`, `yan-cam.md`). Kapıya vida yok; katlanır panel hedef değil.

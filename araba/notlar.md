@@ -20,6 +20,7 @@
 - **Akü bakıcı:** Evde yok; akü bitme şikâyeti yok → “evden akü şarj / bakım prizi” peşine düşülmeyecek (yanlış hafta sonu önerisiydi).
 - **Android yan kamera:** 360 ($500–600) istenmiyor; hedef teypte canlı sağ/sol. Teyp marka/model + soket foto bekleniyor.
 - **Cam stor / park güneşliği:** Katlanır karton yok. Motor/otomatik yok. Sadece park; ön + 4 yan; siyah ince manuel stor. Kapıya vida yok.
+- **Ön park sensörleri:** Kuruyken susuyor; yağmur/ıslak yoldan sonra açılıyor. Muhtemel kir/film (veya sıcaklık/soket). “Yağmur tamir etti” değil. Kuruyunca bozulursa önce yüzeyi sil. [on-park-sensor](../projeler/on-park-sensor/README.md)
 
 ## Araştırma Linkleri
 
