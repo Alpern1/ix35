@@ -133,19 +133,19 @@ Bu araç **132 bin**, alış 120 bin, fiş yok. Vites yumuşaksa **bozulmuş / a
 
 Ne yap: fiş yok + 120 bin eşiği geçti → **bir kez bakım** mantıklı (bakımlı olsun diye, arıza bekleyerek değil). Sonra yine uzun aralık (onlarca bin km). Soğukta 1–2’ye sert, tıkırtı, uğultu varsa öne al.
 
-### Alet sepeti (2026-08-18) — Sepete ekle
+### Alet sepeti (2026-09-01) — Sepete ekle
 
 Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, bez **zaten var**. Yeni gereken: **dolum şırıngası + yağ**. Tapa/pul: eskiler durur.
 
-**Al (şırınga — görsele bakıldı, Sepete ekle). Bütçe dar → DORF değil, 250 cc + hortum:**
+**Castrol / “aynı site” notu:** Repo’da motor yağının (Castrol 5W-30) **hangi siteden alındığı yazılı değil**. Filtre için önerilen **Cepoto**’da Motylgear **yok** (arama sonuçsuz). Büyük market / bilinen yağ mağazası tercih et.
+
+**Al — şırınga (ucuz yeter):** 250 cc şart değil. Hortumlu 60 ml aynı işi yapar; sadece tur sayısı artar.
 
 | # | Ne | Neden | Link | Not |
 |---|-----|--------|------|-----|
-| 1 | **Kompozit Pazarı 250 cc** (al) | 60 ml’nin ~4 katı. Şeffaf gövde, siyah conta, **konik uç** (hortum geçirilir). 1,8 L ≈ **8 tur**. Reçine, boya, yağ, ölçüm — başka işe de. | [kompozitpazari 250 cc, Sepete Ekle](https://kompozitpazari.com/urun/siringa-250-cc-ml/) · [ürün fotoğrafı](https://kompozitpazari.com/wp-content/uploads/2024/09/siringa-250-cc-ml.jpg) | ~**346 TL + KDV**, **23 adet stok**. **Hortum kutuda yok.** Kargo alıcıya (ücretsiz eşik 50 bin). |
-| 1h | **Hortum 1 m** | Ucu şırınganın konik ucuna, diğer ucu şişe / yan delik. Kalın 75W-85 için **6 mm iç çap** rahat; 4 mm yavaş (yağı ılık tut). | [Koçtaş Artlantis 6×8 mm 1 m ~63 TL](https://www.koctas.com.tr/artlantis-silikonlu-seffaf-akvaryum-hava-hortumu-1-metre-ic-cap-6mm-dis-cap-8mm-deney-fiskiye-kaucuk-hortum-yag-hava-pompa-borusu/p/5002623994) · ince yedek: [Sakura 4/6 mm 1 m **25 TL**, Sepete Ekle](https://www.sakuraakvaryum.com/urun/akvaryum-hava-hortumu-1m/) | Koçtaş’ta Sepete Ekle görünüyordu. DYZER Idefix 6×8 ~821 TL — hortuma o para yok. |
-| 1b | 500 cc aynı mağaza | DORF hacmi, DORF fiyatı değil. **~4 tur.** | [kompozitpazari 500 cc, Sepete Ekle](https://kompozitpazari.com/urun/siringa-500-cc-ml/) · [foto](https://kompozitpazari.com/wp-content/uploads/2024/09/siringa-500-cc-ml.jpg) | ~**985 TL + KDV**, **50 adet stok**. Yine hortum yok. 250 yetiyorsa bunu alma. |
-| 1c | Hortumlu hazır **60 ml** | Tek pakette 100 cm hortum. En ucuz “hemen bas”. | [idefix Artlantis 60 ml, Sepete Ekle ~213 TL](https://www.idefix.com/plastik-siringa-hortumlu-buyuk-60-ml-1-paket-sivi-emme-enjektoru-okul-deney-evcil-hayvan-besleme-p-5160854) | 1,8 L ≈ **30 tur**; kalın yağda yavaş. 250 cc varken gerekmez. |
-| 2 | **Yağ 2×1 L** Motul Motylgear **75W-85** | ~1,8 L gider. Hyundai listesinde; sarı metal OK yazar. | [madeniyagfiltre — Sepete Ekle](https://madeniyagfiltre.com.tr/urun/motul-motylgear-75w85-1-lt-sanziman-yagi/) · [turkoilmarket — Sepete Ekle ~750 TL](https://www.turkoilmarket.com/urun/motul-motylgear-75w-85-1-litre) | Sepete **2 adet**. planetservis’te aynı yağ **STOKTA YOK**. |
+| 1 | **Artlantis 60 ml + hortum** (al) | Kutuda **100 cm hortum**. Tek paket, Sepete Ekle. 1,8 L ≈ **~30 tur** — sıkıcı ama iş bitirir. Yağı biraz ılık tut. | [idefix Artlantis 60 ml, Sepete Ekle ~213 TL](https://www.idefix.com/plastik-siringa-hortumlu-buyuk-60-ml-1-paket-sivi-emme-enjektoru-okul-deney-evcil-hayvan-besleme-p-5160854) | Trendyol’da aynı Artlantis bazen ~**164 TL** — fiyat bak, Sepete Ekle varsa onu al. |
+| 1b | Kompozit 250 cc (isteğe bağlı) | Daha az tur (~8). **Hortum yok** → ayrıca hortum. Konfor; zorunlu değil. | [kompozitpazari 250 cc ~346 TL+KDV](https://kompozitpazari.com/urun/siringa-250-cc-ml/) + [Sakura hortum 4/6 mm 1 m ~25 TL](https://www.sakuraakvaryum.com/urun/akvaryum-hava-hortumu-1m/) | 60 ml aldıysan bunu alma. |
+| 2 | **Yağ 2×1 L** Motul Motylgear **75W-85** | ~1,8 L. **75W-85** yazana bak; 75W-80 / 75W-90 alma. | **Öncelik:** [idefix Motylgear 75W85, Sepete Ekle ~847 TL/L](https://www.idefix.com/motul-motylgear-75w85-1-litre-p-13160352) · [turkoilmarket ~750 TL, Sepete Ekle](https://www.turkoilmarket.com/urun/motul-motylgear-75w-85-1-litre) | Sepete **2 adet**. Hepsiburada’da da 75W85 listeleniyor (satıcıya bak). Piyasa bandı kabaca **~675–900 TL/L**. |
 
 **Yoksa al (evde 17 mm varsa 1’i atla):**
 
@@ -154,18 +154,16 @@ Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, be
 | 17 mm kombine (kısa) | [tuzlahirdavat İzeltaş 0320020017](https://tuzlahirdavat.com.tr/17-mm-kombine-anahtar-kisa-boy-izeltas) | **Var**, Sepete Ekle ~208 TL |
 | 14 mm | Hırdavat / Trendyol “14 mm kombine”, **Sepete ekle** | Tuzla 14 mm o gün **stok yoktu** — “haber ver” yok |
 
-**Alma (görsel / fiyat yanlış):**
+**Alma (görsel / fiyat / güven):**
 
-- **DORF 500 cc** Atölye Team ~**3.083 TL + KDV** — şekil doğru ama bu bütçeye gerek yok; 250 cc aynı işi yapar.
-- Trendyol **Cadırcı 100 ml ~597 TL** / **250 ml ~798 TL** — başlıkta hortum yok; 100 ml, hortumlu 60 ml’den pahalı; 250 ml de Kompozit Pazarı 250 cc’den pahalı.
-- Idefix Artlantis **5’li 60 ml ~557 TL** — namlu hâlâ 60 ml, tur sayısı düşmez.
-- Kompozit Pazarı **300 cc** — o gün **Stokta Kalmadı** (“haber ver” yok).
-- Çin dropship siteleri (mavishaliyikama, konakservisi vb.) — sahte fiyat / Sepete ekle belirsiz.
-- Amazon **arama** ve [çok satanlar: sıvı boşaltma](https://www.amazon.com.tr/gp/bestsellers/automotive/13246888031) — mazot sifonu, teneke pompası, gres karışık. Önceki link buydu.
-- QUNNIE `B0BLC8296G` — şekil doğru, Amazon TR’de **stok yok**.
-- Thorstone TFEP-500H1 Amazon TR — şekil doğru, **~11.700 TL**, alma.
-- Hepsiburada “Asitan 500CC sıvı şırınga pompası” — **~10.000 TL**, alma.
-- Sedir / Transformacion **sifon-mazot** pompası; Wert W 2659 (lastik/hava + iki hortum, kalın dişli yağa uygun değil); **gres** pompası; 18 L turlu servis pompası; kırmızı **yağdanlık** (menteşe yağlamak için, kutuya 1,8 L basmaz). Saf GL-5 80W-90. Yağ+polen 3’lü set. Yeni şanzıman **tapası** (43121-11000 vb.) — vida duruyor. 14×20 motor pulu şanzımana yok.
+- **madeniyagfiltre** Motylgear ~**357 TL** — piyasada aynı yağ ~750–850; aşırı ucuz + az bilinen site → **güvenme**, alma. (Sepete Ekle görünse de.)
+- **Cepoto** — Motylgear yok; Castrol alış yeri olarak da kayıt yok.
+- **Oilmarkt** aramada Motylgear **75W-90** çıkıyor → viskozite yanlış, alma.
+- **DORF 500 cc** ~**3.083 TL** — gereksiz.
+- Kompozit **500 cc** ~985 TL — 60 ml yeterken alma.
+- Trendyol **Cadırcı 100/250 ml** — hortumsuz ve 60 ml setten pahalı.
+- Idefix Artlantis **5’li 60 ml** — namlu hâlâ 60 ml; tekli yeter.
+- Çin dropship, Asitan ~10k, Thorstone ~11k, sifon/gres/yağdanlık, saf GL-5 80W-90, yeni şanzıman tapası.
 
 ---
 
