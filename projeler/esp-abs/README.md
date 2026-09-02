@@ -116,6 +116,31 @@ Dönen metal ses + kısa ESP (bu olay)
 |-------|-----|
 | 2026-09-02 | İlk olay; teşhis notu |
 | 2026-09-02 | Ses dönen parça (saç değil); lamba motor sanıldı → ESP teyidi |
+| 2026-09-02 | “Neden sustu?” — aralıklı arıza notu eklendi |
+
+## Neden ses ve ışık sonra sustu? (sürekli çıkması gerekmez)
+
+**Kısa cevap:** Bozuk / şüpheli hareketli parça **her zaman** sürekli ses çıkarmaz. Özellikle ABS ton halkası ve sensör arızaları çoğu zaman **aralıklıdır** (intermittent). Bir kez şıkırdar + ESP uyarır, sinyaller tekrar “normal” görünür → lamba söner, sessizlik.
+
+### Neden sürekli olmak zorunda değil?
+
+| Ne olabilir | Neden bir kez olup susar |
+|-------------|---------------------------|
+| **Ton halkasında çatlak / eksik diş** | Her turda aynı noktada bozulur ama **düşük hız / belirli yük / belirli açı**da (kalkış) daha belirgin; düz yolda sabit hızda ESP eşiğini aşmaz, ses de fark edilmez. |
+| **Gevşek halka veya araya giren pas/çamur parçası** | Bir an sensöre çarpar / sinyal bozar → sonra yerinden kayar veya ezilir; bir daha (hemen) olmaz. |
+| **Sensör fişi / kablo anlık kopuk** | Süspansiyon hareketi veya titreşimde 1 sn temas bozulur → ESP; sonra temas döner. Ses aslında metal sürtünme/halka, lamba elektrik. |
+| **ESP’nin kendisi (TCS kesmesi)** | Beyin “kayma” sandı, müdahale etti, bitti → lamba söner. Metal ses **ayrı** (halka) veya müdahale anındaki mekanik his; sürekli arıza lambası gerekmez. |
+| **CV / mafsal başlayan arıza** | İlk başta sadece **torklu kalkışta** tıklar; cruise’da sessiz. İleride sıklaşır. |
+
+Sürekli uğultu/şıkırtı daha çok **rulman**, sürekli sürten sac, tamamen kopmuş parça gibi şeylerde olur. Senin tarif (**bir kez sert metal + 1–2 sn ESP + sonra normal**) tam da **aralıklı** profil.
+
+### Lamba neden söndü?
+
+ESP ışığı “parça kırıldı, kalıcı alarm” değil; çoğu araçta **o anda** sistem kendini koruyor / hata gördü demek. Koşul geçince (hızlar tekrar uyumlu) lamba **söner**. Kalıcı yanma genelde kodun “aktif arıza”da kilitlenmesi.
+
+### Bu “geçti, unut” mu demek?
+
+**Hayır.** Bir kez olup susması sık görülür; **tekrarlayabilir** (sonraki kalkış, tümsek, ıslak yol). O yüzden: izle + mümkünse ABS tarama / halka göz. Tek seferlik diye “asla bozuk değil” de denmez — tam tersine aralıklı arıza böyle başlar.
 
 ---
 
