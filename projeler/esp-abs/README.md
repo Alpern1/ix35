@@ -111,6 +111,28 @@ Lastik basınçları eşit olsun.
 - **Mavi (5):** Tekerlek hız sensörü — ucu dişlere bakıyor  
 - Teker yokken fren diski (1) + porya (2) + aks (3) böyle durur. Halkayı **sökmeden** yerinde çevir.
 
+### Bu dışarıda mı? Toz/çamur girmez mi? Nasıl çalışıyor?
+
+**Evet, teker yuvasının kirli tarafında** — motor gibi kapalı kutu değil. Ama “açık havada çıplak sensör” de değil: taşıyıcı + disk + bazen sac kalkan arasında, küçük bir **hava boşluğu** (~0,4–1,5 mm) ile dişlere bakıyor.
+
+**Nasıl çalışıyor (kaba):**  
+Ton halkası aks/tekerle **döner** → dişler sensörün önünden geçer → sensör (Hall / aktif tip) her dişte **elektrik darbesi** üretir → ABS/ESP beyni “bu teker şu hızda” der. Dört teker hızı uyumsuzsa ESP/ABS devreye girer.
+
+**Çamur/toz neden her gün bozmuyor?**  
+- Temas yok (fırça gibi sürmez); manyetik/elektronik okuma.  
+- Biraz kir çoğu zaman idare eder.  
+- **Kalın çamur, metal talaş, buz, taş** yapışırsa veya halka çatlarsa sinyal bozulur → aralıklı ESP tipi olay. Kirli ortam + hassas boşluk = ara sıra arıza çıkar; temizlik bu yüzden teşhis adımı.
+
+### Teker çıkarmadan görebilir miyim?
+
+| Yöntem | Ne görürsün | Yeterli mi? |
+|--------|-------------|-------------|
+| Çamurluk içinden / teker arkasından fener + ayna | Sensör gövdesi, kablo; halkanın **bir kısmı** bazen | Kısmen — tüm dişleri dolaşmak zor |
+| Jant konuşlarından içeri bakmak | Bazen halkanın bir dilimi | Şans işi; disk çoğu zaman engeller |
+| **Teker sökmek** | Halkanın **tam çevresi** + sensör ucu | Teşhis için **asıl doğru** yol |
+
+**Bir bakış** için teker şart değil; “diş kırık mı / her yer temiz mi” için tekeri sökmek pratikte şart.
+
 ### 4) Yol testi (güvenli yer)
 
 - Yumuşak 1’den kalkış tekrar: ses/lamba?
