@@ -9,7 +9,7 @@
 - **Tahmini bütçe:** Teşhis ucuz; sensör/tone ring ~değişken
 - **Zorluk:** Orta (göz + tarama; modül işi usta)
 - **Oluşturulma:** 2026-09-02
-- **Son güncelleme:** 2026-09-02
+- **Son güncelleme:** 2026-09-02 (dönen metal ses; lamba ≠ motor)
 
 ## Araç bilgisi (ortak)
 
@@ -20,29 +20,43 @@
 1. Kırmızı ışık, vites boş → 1’e attı, kalktı. Önünde araç var; çok ani kalkış değil.
 2. Altından **metal şıkırtı**; gösterge **sarı ESP** yanıp söndü (~1–2 sn), sonra söndü. Başka bir şey yok.
 3. Ayrı gözlem: titrek/bozuk yolda frene basınca ABS **düzgün tutmuyor** gibi (2016 Ibiza’da böyle hissetmemiş).
+4. **2026-09-02 netleştirme:** Ses **dönen / çalışan** parçadan; alt sac / egzoz saçı değil (kullanıcı emin). Lamba ilk anda **motor arıza ışığı** sanıldı (“motor düştü / kırıldı”); aslında **sarı ESP** — motor check-engine değil. Ses “saçma” derecede ürkütücüydü.
+
+## Lamba: motor değil
+
+| | Motor (check engine) | ESP (bu olay) |
+|--|----------------------|---------------|
+| Tipik renk | Genelde turuncu/sarı motor ikonu | **ESP** yazısı / kayma ikonu (sarı) |
+| Anlam | Motor/ECU | Teker hız / denge / çekiş |
+| Bu olay | Değil | Kısa yanıp söndü |
+
+Motor “kırılmış” senaryosu bu anlatımla **uyuşmuyor**: araç kalktı, lamba söndü, sonra normal devam.
 
 ## İki olayın alakası var mı?
 
 **Olabilir — aynı donanım ailesi.** ESP ve ABS aynı **tekerlek hız sensörleri**, ton halkaları (ABS ring) ve genelde aynı **ABS/ESP beyni** üzerinden çalışır.
 
-| Senaryo | ESP kısa yanma + şıkırtı | Bozuk yolda “ABS garip” | Birlikte mi? |
-|---------|--------------------------|-------------------------|--------------|
-| **A — Sensör / ton halkası kir-çatlak (en mantıklı ilk şüphe)** | Yanlış hız sinyali → ESP kısa müdahale + lamba | Tümsekte teker kalkınca sinyal daha kötü → ABS fazla/az keser | **Evet** |
-| **B — ESP/TCS kısa müdahale (normal-ish)** | Kalkışta bir teker kaydı sandı → lamba 1–2 sn | Ayrı konu | Kısmen |
-| **C — Metal ses ayrı (egzoz saçı / muhafaza / CV)** | Ses saçı; lamba sensör | ABS hissi ayrı veya aynı | Ses ≠ ESP olabilir |
-| **D — Fren hidroliği / disk-balata** | Tek başına ESP kısa ışığı açıklamaz | Pedal hissi + titreşim | Dolaylı |
+| Senaryo | ESP kısa + dönen metal ses | Bozuk yolda “ABS garip” | Birlikte mi? |
+|---------|----------------------------|-------------------------|--------------|
+| **A — ABS ton halkası çatlak / gevşek (bir numaralı şüphe)** | Halka dönerken metal şıkırtı + bozuk hız sinyali → ESP | Tümsekte sinyal daha kötü | **Evet — en iyi tek açıklama** |
+| **B — Tekerlek hız sensörü / konnektör** | Ses zayıf; lamba güçlü | ABS hissi bozulur | Evet (ses ayrıysa A+B) |
+| **C — Aks / CV (iç–dış mafsallar)** | Kalkışta metal tık/şık | ABS’yi doğrudan açıklamaz | Ses için aday; ESP için daha zayıf |
+| **D — Porya / rulman** | Dönünce metal/uğultu | Dolaylı | Mümkün; genelde süreğen |
+| **E — ESP/TCS kısa müdahale** | Lamba normal-ish; **sert metal ses açıklamaz** | Ayrı | Ses dönense E yetmez |
+| **F — Alt sac / egzoz saçı** | — | — | **Elenmesi** (kullanıcı: dönen parça) |
 
-**Ibiza karşılaştırması:** SUV (ix35) + farklı ABS kalibrasyonu + süspansiyon → bozuk yolda ABS **daha sık devreye girer**; bu tek başına arıza demek değil. Ama ESP olayı + bu his **birlikte** → sensör/ton halkasına bak.
+**Ibiza karşılaştırması:** SUV + farklı ABS → bozuk yolda ABS daha sık keser; tek başına arıza değil. ESP + dönen metal + bu his → **ton halkası / sensör**.
 
-**Acil değil (şimdi):** Lamba kalıcı yanmıyor, fren “yok” demiyor, sürekli ESP yok.  
-**Acil say:** ESP/ABS **sürekli** yanıyor, fren yumuşuyor, bir teker kilitleniyor/kayma hissi artıyor.
+**Acil değil (şimdi):** Lamba kalıcı değil, fren “yok” değil.  
+**Acil say:** ESP/ABS sürekli, fren yumuşar, ses her kalkışta / hızlanınca tekrarlar.
 
 ## En olası teşhis sırası
 
-1. **Tekerlek hız sensörü veya ABS ton halkası** (kir, oksit konnektör, çatlak diş) — özellikle bir ön teker.
-2. Gevşek **egzoz ısı kalkanı** / alt muhafaza (şıkırtı için; ESP’siz de olur).
-3. Aks / CV (kalkışta metal; genelde dönüşte de tıkırtı).
-4. ABS beyni / hidrolik ünite (daha seyrek; önce 1).
+1. **ABS ton halkası** (aks/göbek dişli çember) — çatlak, eksik diş, gevşek; dönerken şıkırtı + ESP klasik ikili.
+2. **Tekerlek hız sensörü** ucu / fiş (çamur, oksit) — özellikle aynı teker.
+3. **Aks / CV** — kalkışta metal; dönüşte de tıkırtı var mı diye dinle.
+4. Porya rulmanı (süreğen uğultu/şıkırtı).
+5. ABS beyni (en seyrek; önce 1–2).
 
 ## Sen nasıl teşhis edersin (DIY)
 
@@ -50,59 +64,58 @@
 
 - ESP **bir daha** yanıyor mu? Hangi durumda (kalkış, tümsek, yağmur, sağ/sol dönüş)?
 - Bozuk yolda frende: pedal **titriyor** (ABS kesiyor) mı, yoksa araç **kayar/uzar** mı?
-- Metal ses **sadece kalkışta** mı, yoksa yavaşlarken/boşta da mı?
+- Metal ses **sadece o bir kalkışta** mı, yoksa her 1’den kalkışta / yavaş sürüşte de mi?
+- Ses **ön mü arka mı, sağ mı sol mu?** (pencere açık kısa deneme, güvenli yer).
 
 ### 2) Arıza kodu oku (en kritik adım)
 
-Basit “motor” OBD (ELM327 ucuz) **çoğu zaman ABS/ESP kodunu okumaz**.
+Basit “motor” OBD (ELM327 ucuz) **çoğu zaman ABS/ESP kodunu okumaz** — motor ışığı zaten yanmadığı için motor tarafında kod da beklenmez.
 
-- Gerekli: **ABS/ESP okuyan** tarayıcı (Launch, Thinkcar, Carman, usta cihazı, bazı Foxwell vb.).
-- Bakılacak: `C1xxx` / tekerlek hız sensörü kodları (ör. sağ ön, sol ön…).
-- Kod **yok** ama semptom var → yine de halka/sensör gözle; aralıklı arıza kod bırakmayabilir.
+- Gerekli: **ABS/ESP okuyan** tarayıcı.
+- Bakılacak: tekerlek hız sensörü / `C1xxx` (hangi köşe).
+- Kod yok ama ses dönense → yine de **ton halkasını gözle** (aralıklı arıza kod bırakmayabilir).
 
-Kayseri: Usta / elektrikçi 5 dk ABS tarama yeterli; parça değiştirmeden önce kod.
+### 3) Gözle (kriko + sehpalar)
 
-### 3) Gözle (sehpa / kriko + sehpalar)
-
-Araç güvenli kaldırılmışken (sehpa şart):
-
-1. Her tekerlekte **ABS sensör konnektörü** — yeşil/oksit, gevşek, su izi.
-2. Sensör ucu / ton halkası (disk arkası veya aks üzerindeki dişli halka): **kırık diş, pas topağı, çamur**.
-3. Altına bak: egzoz **ısı kalkanı** el ile sallanıyor mu → şıkırtı adayı.
-4. Lastik basınçları **eşit** mi (ESP yanlış kayma sanır).
+1. Ön (ve gerekirse arka) tekerlerde aks/göbek **dişli ABS halkası**: kırık diş, çatlak, pas parçası, gevşeklik.
+2. Aynı teker **hız sensörü** fişi ve uç–halka boşluğu (çok kirli / sürtme izi).
+3. Lastik basınçları eşit.
+4. ~~Egzoz saçı birincil şüphe değil~~ (dönen ses teyidi).
 
 ### 4) Yol testi (güvenli yer)
 
-- Düz asfalt, ılık motor: yumuşak 1’den kalkış → ses/lamba?
-- Bilinçli hafif tümsekli yol: frende pedal titreşimi **beklenen ABS** olabilir.
-- ESP bir daha yanarsa: **hemen** hangi teker tarafı (sağ/sol his) not et; tarama yaptır.
+- Yumuşak 1’den kalkış tekrar: ses/lamba?
+- Hafif dönüşlü kalkış: CV tıkırtısı?
+- ESP tekrarlarsa taraf not et → tarama.
 
 ### 5) Yapma (şimdi)
 
-- ESP’yi fişten kesme / lamba söndürme “çözümü”.
-- Kod okumadan dört sensör birden değiştirme.
-- “Ibiza gibi değil” diye ABS’yi arızalı sayıp beyni söktürme.
+- Motor açma / “motor kırıldı” paniğiyle parçaya saldırmak.
+- ESP fişini çekmek.
+- Kod/göz olmadan dört sensör birden.
 
 ## Sonraki adım (karar ağacı)
 
 ```
-ESP bir daha yandı veya ABS “fren yok” gibi uzuyor mu?
- ├─ EVET → ABS tarama (kod) + ton halkası/sensör göz
- └─ HAYIR (tek seferlik) → 1–2 hafta izle; yine de basınç + alt muhafaza bak
-        └─ Bozuk yolda sadece pedal titreşimi → çoğu zaman normal ABS
+Dönen metal ses + kısa ESP (bu olay)
+ └─ Öncelik: ABS ton halkası + sensör göz / ABS tarama
+      ├─ Halka çatlak/diş eksik → halka (veya aks seti) + kod sil
+      ├─ Sensör/fiş kötü → temizle/değiştir
+      └─ Temiz + kod yok + bir daha olmaz → 1–2 hafta izle; ABS hissi ayrı not
 ```
 
 ## Açık sorular
 
-- ESP tekrarlandı mı?
-- Metal ses hangi taraftan (ön/arka, sağ/sol)?
-- Elde ABS okuyan cihaz / usta var mı?
+- Ses / ESP tekrarlandı mı?
+- Ön-arka / sağ-sol taraf netleşti mi?
+- ABS tarama yapıldı mı?
 
 ## İlerleme
 
 | Tarih | Not |
 |-------|-----|
-| 2026-09-02 | İlk olay anlatıldı; teşhis notu açıldı |
+| 2026-09-02 | İlk olay; teşhis notu |
+| 2026-09-02 | Ses dönen parça (saç değil); lamba motor sanıldı → ESP teyidi |
 
 ---
 
