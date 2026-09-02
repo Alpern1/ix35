@@ -9,7 +9,7 @@
 - **Tahmini bütçe:** Teşhis ucuz; sensör/tone ring ~değişken
 - **Zorluk:** Orta (göz + tarama; modül işi usta)
 - **Oluşturulma:** 2026-09-02
-- **Son güncelleme:** 2026-09-02 (dönen metal ses; lamba ≠ motor)
+- **Son güncelleme:** 2026-09-02 (kesinlik analizi + hafta sonu planı)
 
 ## Araç bilgisi (ortak)
 
@@ -169,8 +169,95 @@ Dönen metal ses + kısa ESP (bu olay)
 | 2026-09-02 | Ses dönen parça (saç değil); lamba motor sanıldı → ESP teyidi |
 | 2026-09-02 | “Neden sustu?” — aralıklı arıza notu eklendi |
 | 2026-09-02 | DIY: teker sökülünce halka/sensör yerinde bakılır; sökmek şart değil |
+| 2026-09-02 | Kesinlik analizi: ton halkası varsayım ~%40–55; hafta sonu bak ama parça alma |
 
-## Neden ses ve ışık sonra sustu? (sürekli çıkması gerekmez)
+## Analiz — emin miyiz? (hayır, kesin değil)
+
+**Dürüst cevap:** Ton halkası / hız sensörü **en iyi tek hipotez**, ama **kanıtlanmış teşhis değil**. “Kesin orası” demek yanlış olur. Bugünkü olay iki parçalı; ikisini ayırıp birleştirmek lazım.
+
+### Hyundai kılavuzuna göre sarı ESP ne demek?
+
+| Lamba davranışı | Anlam (Tucson/ix35 ESC) |
+|-----------------|-------------------------|
+| Kontak açılınca 3 sn yanıp söner | Normal self-check |
+| Sürüşte **yanıp sönüyor** (blink) | ESC/TCS **o anda çalışıyor** (kayma düzeltiyor) — birçok durumda **normal** |
+| **Sürekli yanık** kalıyor | Sistem arızası → tarama |
+
+Senin tarif: **1–2 sn yanıp söndü, sonra kapandı** → kılavuz dilinde bu, “kalıcı arıza lambası”ndan çok **kısa ESC/TCS aktivasyonu** veya çok kısa aralıklı hata gibi duruyor. Yani tek başına lamba = “parça koptu” demek **değil**.
+
+### Bugün ne olmuş olabilir? (iki katman)
+
+```
+Kalkış (1. vites)
+   │
+   ├─ A) Bir teker hız sinyali anlık saçmaladı veya gerçekten hafif patinaj
+   │     → ESP/TCS 1–2 sn müdahale → sarı lamba blink → bitti
+   │
+   └─ B) Aynı anda dönen metal şıkırtı
+         → bu A’dan BAĞIMSIZ da olabilir, AYNI kökenden de
+```
+
+Metal ses olmasa “ESP bir an çalıştı, normal olabilir” denebilirdi.  
+**Metal ses + ESP aynı saniyede** → rastlantı ihtimali düşer; ortak mekanik (halka/aks/göbek) ihtimali yükselir. Yine de **%100 değil**.
+
+### Güven skoru (bu bilgide — tarama/göz yok)
+
+| Hipotez | Güven | Neden uyuyor | Neden uymayabilir |
+|---------|-------|--------------|-------------------|
+| **1. Ton halkası çatlak/diş + kısa ESP** | **~%40–55** | Hyundai’de bilinen: çatlak halka → aralıklı metal/ABS/ESP; ses dönen; sonra susar; bozuk yolda ABS hissi aynı aile | Tek seferlik; kalıcı ABS ışığı yok; henüz halka görülmedi |
+| **2. ESC/TCS normal müdahale + ayrı mekanik ses (CV/poyra/balata)** | **~%25–35** | Blink kılavuzda “aktif ESC”; kalkışta tork; ses CV/iç mafsal olabilir | İki şeyin aynı anda rastlantısı; kullanıcı sesi “saçma/ürkütücü” |
+| **3. Sensör kir/fiş anlık** | **~%15–25** | Aralıklı ESP; ABS hissi | Tek başına **sert metal** sesi zayıf açıklar |
+| **4. Motor / şanzıman kırığı** | **~%0–5** | — | Lamba ESP; araç devam; motor ışığı yok |
+| **5. ABS beyni** | **~%5** | — | Önce halka/sensör elenir |
+
+**Sonuç cümlesi:** Emin değiliz. Hafta sonu **bakılacak yer doğru** (ucuz, zararsız teşhis); “orayı söktürüp değiştirelim” aşamasında **değiliz**.
+
+### Bozuk yolda ABS hissi — aynı dosyaya mı?
+
+- **Aynı aile olabilir** (halka/sensör) — özellikle ton halkası çatlaklarında forumlarda “düz yolda ABS tekliyor” sık.
+- **Ayrı / normal de olabilir** — SUV ABS kalibrasyonu, Ibiza’dan farklı; pedal titreşimi ≠ arıza.
+- Tek başına ABS hissi ile bugünkü olayı **kilitleme**.
+
+## Hafta sonu ne yapalım?
+
+### Evet — bak (sök = teker sök, halkayı sökme)
+
+**Amaç:** Teşhis. Parça siparişi yok. 30–60 dk, yağ değişimi kriko düzeni.
+
+1. Ön **iki** tekeri sırayla sök (sehpa).
+2. Ton halkası: tüm çevre, çatlak/eksik diş/gevşek.
+3. Sensör ucu: talaş/çamur → nazik temizle.
+4. CV körüğü yırtık/gres kaçak? Aks boşluk?
+5. Fren kalkanı diske sürtüyor mu? (dönen metal alternatif)
+6. Foto çek (şüpheli yer).
+
+### Hiçbir şey çıkmazsa (çok olası)
+
+| Sonra | Ne |
+|-------|-----|
+| **İzle 1–2 hafta** | Ses/ESP tekrarladı mı, hangi koşulda, sağ/sol? |
+| **ABS/ESP tarama** | Usta cihazı; kod yoksa bile “canlı teker hızı” varsa ideal |
+| **Parça alma** | Kod veya gözle çatlak yokken alma |
+| ABS hissi | Pedal titreşimi mi, fren uzaması mı ayır; uzuyorsa öne al |
+
+Temiz halka + bir daha olay yok → büyük ihtimal **tek seferlik TCS + geçici mekanik**; dosyayı “izlemede” bırak.  
+Temiz halka + olay tekrarlar → tarama zorunlu (gözle görülmeyen çatlak / kablo / beyin).
+
+### Yapma (hafta sonu)
+
+- “Eminiz” diye halka/aks siparişi.
+- Dört sensör birden.
+- Motor açmak.
+- Sorun yok diye tamamen unutmak (bir not tut: tarih + tekrar var mı).
+
+## Bu “geçti, unut” mu demek?
+
+**Hayır** — ama **panik de değil**. Tek seferlik sönen ESP + bir metal ses = izle + ucuz göz. Kesin teşhis = göz ve/veya ABS tarama.
+
+---
+
+*Araç sabit bilgisi `araba/` altında; burada tekrarlanmaz.*
+
 
 **Kısa cevap:** Bozuk / şüpheli hareketli parça **her zaman** sürekli ses çıkarmaz. Özellikle ABS ton halkası ve sensör arızaları çoğu zaman **aralıklıdır** (intermittent). Bir kez şıkırdar + ESP uyarır, sinyaller tekrar “normal” görünür → lamba söner, sessizlik.
 
