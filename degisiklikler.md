@@ -2,6 +2,10 @@
 
 > Plan veya kayıtlarda yapılan önemli değişiklikler. "Neden değişti?" sorusunun cevabı burada.
 
+## 2026-09-02
+
+- **Yeni proje: esp-abs** — Kalkışta kısa ESP + metal şıkırtı; bozuk yolda ABS hissi. Teşhis: ortak sensör/ton halkası şüphesi, DIY tarama/göz adımları (`projeler/esp-abs/`).
+
 ## 2026-07-25
 
 - **Yeni proje: cam-stor-guneslik** — Park-only ön+yan cam stor/roller araştırması (`on-cam.md`, `yan-cam.md`). Kapıya vida yok; katlanır panel hedef değil.

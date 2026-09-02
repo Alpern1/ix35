@@ -40,7 +40,7 @@
 
 - Kilometre: ~130.000 km
 - Genel kondisyon: İyi, şu an çok sorun yok
-- Bilinen sorunlar / arızalar: Yok (güncel)
+- Bilinen sorunlar / arızalar: 2026-09-02 — kalkışta kısa sarı ESP + metal şıkırtı (söndü); bozuk yolda ABS hissi şüphesi — [projeler/esp-abs/](../projeler/esp-abs/README.md)
 
 ## Fotoğraflar & Referanslar
 
