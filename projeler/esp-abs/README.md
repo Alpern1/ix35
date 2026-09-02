@@ -103,6 +103,14 @@ Basit “motor” OBD (ELM327 ucuz) **çoğu zaman ABS/ESP kodunu okumaz** — m
 
 Lastik basınçları eşit olsun.
 
+**Şematik (nereye bakıyorsun):**
+
+![Ön teker sökülünce ABS ton halkası ve hız sensörü](abs-ton-halkasi-sematik.png)
+
+- **Turuncu (4):** ABS ton halkası — dişli çember, aksın üstünde  
+- **Mavi (5):** Tekerlek hız sensörü — ucu dişlere bakıyor  
+- Teker yokken fren diski (1) + porya (2) + aks (3) böyle durur. Halkayı **sökmeden** yerinde çevir.
+
 ### 4) Yol testi (güvenli yer)
 
 - Yumuşak 1’den kalkış tekrar: ses/lamba?
