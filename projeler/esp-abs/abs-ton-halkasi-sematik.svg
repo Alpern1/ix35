@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#222"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="700" fill="#f7f7f4"/>
+  <text x="600" y="48" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" fill="#1a1a1a">Ön teker sökülünce — ABS ton halkası nerede?</text>
+  <text x="600" y="82" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#555">ix35 · şematik (sağdan bakış, teker yok) · halkayı SÖKMEDEN bak</text>
+
+  <!-- Ground / knuckle block -->
+  <rect x="520" y="220" width="90" height="280" rx="8" fill="#d9d9d4" stroke="#333" stroke-width="3"/>
+  <text x="565" y="510" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#333">Taşıyıcı</text>
+  <text x="565" y="528" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#333">(poyra yuvası)</text>
+
+  <!-- Axle shaft -->
+  <rect x="120" y="330" width="520" height="40" rx="6" fill="#8a8a88" stroke="#222" stroke-width="3"/>
+  <text x="250" y="320" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#222">Aks (CV mili)</text>
+  <text x="140" y="375" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#444">← şanzıman tarafı</text>
+
+  <!-- Outer CV bulge -->
+  <ellipse cx="480" cy="350" rx="55" ry="70" fill="#6e6e6c" stroke="#222" stroke-width="3"/>
+  <text x="480" y="430" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#222">Dış CV</text>
+
+  <!-- Tone ring - TOOTHED - highlighted -->
+  <g transform="translate(560,350)">
+    <!-- ring body -->
+    <circle r="78" fill="none" stroke="#e85d04" stroke-width="16"/>
+    <!-- teeth marks -->
+    <g stroke="#c44900" stroke-width="5" stroke-linecap="square">
+      <line x1="0" y1="-90" x2="0" y2="-78"/>
+      <line x1="45" y1="-78" x2="39" y2="-67" transform="rotate(22.5)"/>
+      <line x1="64" y1="-64" x2="55" y2="-55"/>
+      <line x1="78" y1="-45" x2="67" y2="-39"/>
+      <line x1="90" y1="0" x2="78" y2="0"/>
+      <line x1="78" y1="45" x2="67" y2="39"/>
+      <line x1="64" y1="64" x2="55" y2="55"/>
+      <line x1="45" y1="78" x2="39" y2="67"/>
+      <line x1="0" y1="90" x2="0" y2="78"/>
+      <line x1="-45" y1="78" x2="-39" y2="67"/>
+      <line x1="-64" y1="64" x2="-55" y2="55"/>
+      <line x1="-78" y1="45" x2="-67" y2="39"/>
+      <line x1="-90" y1="0" x2="-78" y2="0"/>
+      <line x1="-78" y1="-45" x2="-67" y2="-39"/>
+      <line x1="-64" y1="-64" x2="-55" y2="-55"/>
+      <line x1="-45" y1="-78" x2="-39" y2="-67"/>
+    </g>
+    <!-- more tooth ticks around -->
+    <g fill="#e85d04">
+      <rect x="-4" y="-92" width="8" height="14" rx="1"/>
+      <rect x="-4" y="78" width="8" height="14" rx="1"/>
+      <rect x="78" y="-4" width="14" height="8" rx="1"/>
+      <rect x="-92" y="-4" width="14" height="8" rx="1"/>
+      <rect x="52" y="-72" width="10" height="12" rx="1" transform="rotate(40 57 -66)"/>
+      <rect x="52" y="60" width="10" height="12" rx="1" transform="rotate(-40 57 66)"/>
+      <rect x="-62" y="-72" width="10" height="12" rx="1" transform="rotate(-40 -57 -66)"/>
+      <rect x="-62" y="60" width="10" height="12" rx="1" transform="rotate(40 -57 66)"/>
+    </g>
+  </g>
+  <!-- highlight halo -->
+  <circle cx="560" cy="350" r="100" fill="none" stroke="#e85d04" stroke-width="2" stroke-dasharray="6 6" opacity="0.7"/>
+
+  <!-- Hub / disc -->
+  <circle cx="700" cy="350" r="130" fill="#cfcfc9" stroke="#222" stroke-width="4"/>
+  <circle cx="700" cy="350" r="95" fill="none" stroke="#666" stroke-width="8"/>
+  <circle cx="700" cy="350" r="35" fill="#555" stroke="#222" stroke-width="3"/>
+  <text x="700" y="355" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#fff">Porya</text>
+  <text x="700" y="500" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#222">Fren diski</text>
+  <text x="700" y="522" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#555">(teker burada takılıydı →)</text>
+
+  <!-- Wheel speed sensor -->
+  <rect x="500" y="200" width="28" height="70" rx="4" fill="#1d6fd8" stroke="#0b3d8c" stroke-width="2"/>
+  <polygon points="500,270 528,270 514,295" fill="#1d6fd8" stroke="#0b3d8c" stroke-width="2"/>
+  <!-- cable -->
+  <path d="M514 200 C514 160, 470 140, 430 130" fill="none" stroke="#1d6fd8" stroke-width="4"/>
+  <circle cx="430" cy="130" r="10" fill="#1d6fd8" stroke="#0b3d8c" stroke-width="2"/>
+  <text x="400" y="110" text-anchor="end" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#1d6fd8" font-weight="700">Fiş / kablo</text>
+
+  <!-- Labels with arrows -->
+  <!-- Tone ring label -->
+  <path d="M560 250 L560 180 L680 150" fill="none" stroke="#e85d04" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <rect x="685" y="120" width="280" height="58" rx="8" fill="#fff3e8" stroke="#e85d04" stroke-width="2.5"/>
+  <text x="825" y="145" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#c44900">ABS TON HALKASI</text>
+  <text x="825" y="168" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#7a3a00">dişli metal çember · aksın üstünde</text>
+
+  <!-- Sensor label -->
+  <path d="M514 230 L380 230 L340 250" fill="none" stroke="#1d6fd8" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <rect x="80" y="248" width="260" height="58" rx="8" fill="#e8f1ff" stroke="#1d6fd8" stroke-width="2.5"/>
+  <text x="210" y="273" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="700" fill="#0b3d8c">TEKERLEK HIZ SENSÖRÜ</text>
+  <text x="210" y="295" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" fill="#0b3d8c">ucu dişlere bakıyor · fenerle gör</text>
+
+  <!-- Look here callout -->
+  <rect x="80" y="560" width="1040" height="100" rx="12" fill="#ffffff" stroke="#333" stroke-width="2"/>
+  <text x="100" y="595" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#1a1a1a">Sen ne yapıyorsun?</text>
+  <text x="100" y="625" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#333">1) Ön tekeri sök  ·  2) Diskin arkasına / aksın dışına fener tut  ·  3) Turuncu dişli çemberi bul</text>
+  <text x="100" y="650" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" fill="#333">4) Aksı elle çevirip tüm dişleri bak (kırık / eksik / çatlak)  ·  5) Mavi sensör ucunu kir için bak — halkayı sökme</text>
+</svg>
