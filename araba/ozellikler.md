@@ -48,4 +48,4 @@
 
 ---
 
-*Son güncelleme: 2026-07-22 — Otomatik katlanır ayna doğrulandı*
+*Son güncelleme: 2026-09-02 — ESP/ABS teşhis notu*
