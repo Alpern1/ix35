@@ -75,12 +75,33 @@ Basit “motor” OBD (ELM327 ucuz) **çoğu zaman ABS/ESP kodunu okumaz** — m
 - Bakılacak: tekerlek hız sensörü / `C1xxx` (hangi köşe).
 - Kod yok ama ses dönense → yine de **ton halkasını gözle** (aralıklı arıza kod bırakmayabilir).
 
-### 3) Gözle (kriko + sehpalar)
+### 3) Gözle — sen bakabilir misin? (evet, çıkarmadan)
 
-1. Ön (ve gerekirse arka) tekerlerde aks/göbek **dişli ABS halkası**: kırık diş, çatlak, pas parçası, gevşeklik.
-2. Aynı teker **hız sensörü** fişi ve uç–halka boşluğu (çok kirli / sürtme izi).
-3. Lastik basınçları eşit.
-4. ~~Egzoz saçı birincil şüphe değil~~ (dönen ses teyidi).
+**Kısa cevap:** Evet. Bunlar “gizli beyin parçası” değil. Tekerleği sökünce **görülür / fenerle bakılır**. Teşhis için ton halkasını **sökmek şart değil** — yerinde çevirip bakmak yeter. Söküp değiştirmek ayrı (ve daha zor) iş.
+
+| Parça | Nerede (ix35 / Tucson LM tipik) | Sen ne yaparsın | Sökmek? |
+|-------|----------------------------------|-----------------|---------|
+| **Ton halkası (ABS ring)** | Ön: aksın (CV) teker tarafında, göbek/disk arkasında **dişli metal çember** (~48 diş). | Teker sök; fenerle bak; aksı elle çevir, **tüm çevreyi** dolaş. | Kontrol için **hayır**. Değişim: halkayı aks üzerinden çekmek / bazen aks işi — paslıysa zor. |
+| **Hız sensörü** | Göbek yanında küçük sensör + kablo/fiş. | Fişte oksit/su; uçta kir “kirpi” gibiyse nazik temizle. | Fiş açılır. Cıvata sökülebilir ama paslı sıkışır. |
+| **Konnektör** | Sensör kablosu / çamurluk tarafı | Aç-kapa, gevşeklik | Sadece fiş |
+
+**Güvenlik:** Düz zemin, el freni, kriko **+ sehpalar**, takoz. Sadece kriko üstünde yatma.
+
+**Adım (ön iki teker — önce burası):**
+
+1. Bir ön tekeri sök.
+2. Disk arkası / dış CV’ye fener → dişli halkayı bul.
+3. Elle yavaş çevir → her dişi bak: kırık, eksik, çatlak, gevşek, kalın pas topağı.
+4. Sensör ucu: talaş/çamur yapışmış mı → temizle (ucu zımparalama).
+5. Diğer ön teker. Taraf biliyorsan oradan başla.
+6. İstersen arka (2WD’de biraz daha sıkışık olabilir).
+
+**Kötü işaret:** eksik/kırık diş, çatlak halka, sensöre sürtme izi.  
+**Tek başına kötü değil:** hafif yüzey pasi (dişler düzgünse).
+
+**Yapma:** Halkayı tornavidayla zorla sökmek; sehpasız teker altında çalışmak.
+
+Lastik basınçları eşit olsun.
 
 ### 4) Yol testi (güvenli yer)
 
@@ -117,6 +138,7 @@ Dönen metal ses + kısa ESP (bu olay)
 | 2026-09-02 | İlk olay; teşhis notu |
 | 2026-09-02 | Ses dönen parça (saç değil); lamba motor sanıldı → ESP teyidi |
 | 2026-09-02 | “Neden sustu?” — aralıklı arıza notu eklendi |
+| 2026-09-02 | DIY: teker sökülünce halka/sensör yerinde bakılır; sökmek şart değil |
 
 ## Neden ses ve ışık sonra sustu? (sürekli çıkması gerekmez)
 
