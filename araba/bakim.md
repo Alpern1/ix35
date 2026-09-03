@@ -89,6 +89,32 @@ Sıra (düz zemin, kutu ılık):
 
 Motor yağı gibi “üstten 4 L dök” yok. Filtre yok; sadece yağ.
 
+### Nerede? (şematik)
+
+![Şanzıman tapaları — uzaktan ve alttan](sanziman-yag-tapalari-genel.png)
+
+| Tapa | Renk (şematikte) | Konum | Ne işe yarar |
+|------|------------------|--------|----------------|
+| **Dolum / seviye** | Yeşil | Kutunun **yanında**, genelde **öne doğru / yüksekte** | Önce bunu aç. Doldururken buradan **damlayınca** seviye tamam (araç **düz**ken). |
+| **Boşaltma** | Kırmızı | Kutunun **en altında** | Eski yağı buradan boşalt. |
+
+Motor bölmesi kapağından değil — **altına giriyorsun** (ön alt / şanzıman gövdesi).
+
+### Ön iki teker kalkınca — akacak yer önde mi arkada mı?
+
+![Eğimde yağ nereye kaçar](sanziman-egim-dolum.png)
+
+**Kısa:** Dolum deliği kutuda **öne / yukarı** tarafta. Sadece önü kaldırırsan burun yukarı → yağ **arkaya** kaçar. Dolum deliği o zaman yağın **üstünde / önde** kalır.
+
+| İş | Sadece ön kaldırmak |
+|----|---------------------|
+| **Boşaltmak** | Olur (alt tapa yine en altta). |
+| **Seviye / damlatarak doldurmak** | **Olmaz** — damlama yöntemi **yanlış** (genelde **fazla** doldurursun). |
+
+**Doğru:** Son seviyeyi araç **düz**ken (veya 4 teker eşit yükseklikte) kontrol et. Pratik yol: önde sehpada boşalt + alt tapayı sık → arabayı **düz zemine indir** → dolum deliğinden şırınga ile taşana kadar doldur. (Altına girmek için yine hafif kaldırmak gerekirse dört köşe eşit veya rampada düz tut.)
+
+Motor yağı gibi “üstten 4 L dök” yok. Filtre yok; sadece yağ.
+
 **Kutuyu açmak yok.** Videoda tavayı indirip “içi demir / talaş, parmak sürt, filtre” diyenler **otomatik kutu**. Orada alt tava, mıknatıs ve filtre var; ATF değişiminde tavayı söküp bakıyorlar. Bu araç **manuel M6CF1, 2WD**: tava yok, filtre yok, mıknatıs yok. Yağ = altta **bir tapa**, yanda **bir tapa**. Kalıntıya bakacaksan boşalan yağa bak (kabın dibinde az pirinç/metal pulu ilk değişimde normal olabilir). Muhafaza vidalarına, yarım kutuya, tava contasına dokunma.
 
 **Pul ≠ tapa.** Conta = tapadaki ezilme **pulu**, vida değil. Motor yağı **14×20 / 21513-23001**. Şanzıman tapası M16; 14×20 geçmez. OEM pul **17511-16000** (~16×24). Yeni vida **yok**. Eski pul yırtık/kaybolmuşsa o zaman bayi 17511-16000; duruyorsa takıp sık.
