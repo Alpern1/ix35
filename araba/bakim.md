@@ -200,6 +200,27 @@ Bu araç **132 bin**, alış 120 bin, fiş yok. Vites yumuşaksa **bozulmuş / a
 
 Ne yap: fiş yok + 120 bin eşiği geçti → **bir kez bakım** mantıklı (bakımlı olsun diye, arıza bekleyerek değil). Sonra yine uzun aralık (onlarca bin km). Soğukta 1–2’ye sert, tıkırtı, uğultu varsa öne al.
 
+### “Bu araçlarda şanzıman yağı değişmesin” — doğru mu?
+
+**Hayır.** O laf çoğu zaman **otomatik** kutu “ömür boyu ATF” pazarlamasından / yanlış aktarımdan gelir. Bu araç **manuel M6CF1**: kılavuz yağ tipini verir; ağır kullanımda **~120 bin’de değiş** yazar. Fiş yok + 132 bin → **bir kez değişmek bakım**, yasak değil. Her 8 bin km’de yapmak da gerekmez.
+
+Zorluk: motor yağı kadar kolay değil (üstten dökülmez, şırınga + yan delik) ama **kutu sökmek / tava indirmek yok**. Senin motor yağı değiştirdiğin seviyede yapılabilir.
+
+### Dikkat — şöyle yaparsan kötü olur
+
+| Tuzak | Neden kötü | Ne yap |
+|-------|------------|--------|
+| **Önce alt tapayı açmak** | Yan dolum açılmazsa kutuyu dolduramazsın | **Önce yan dolumu** gevşet/aç |
+| **Yanlış yağ** (80W-90, saf GL-5, “dişli yağı”) | Senkro pirincini yer | Kutuda **75W-85** + **GL-4** (veya Motylgear gibi GL-4/5 ikili + sarı metal OK) |
+| **Sadece ön kaldırıp damlatarak doldurmak** | Seviye yanlış (genelde fazla) | Seviyeyi **düz** zeminde |
+| **Eksik doldurmak** (~1 L ile bırakmak) | Dişli/senkro yağsız kalır | ~**1,8 L**; taşana / damlayana kadar |
+| **Kutuyu / tavayı açmak** | Yanlış video (otomatik); conta/vida belası | Sadece **2 tapa** |
+| **Motor yağı pulu (14×20)** | Şanzıman tapasına uymaz | Kendi pulu; yırtık değilse eski yeter |
+| **Torku abartmak** | Alüminyum diş sıyırır | Sıkı sık, kırma; ~60–80 Nm bandı |
+| **Soğuk/çok koyu yağ + ince hortum** | Şırınga zorlar | Yağı ılık tut; 6 mm iç hortum rahat |
+
+Bugün yağ alacaksan: **2×1 L**, etiket **Motylgear 75W-85** (EAN **3374650259925**) veya bayi **Hyundai MTF 75W-85 GL-4**. Şırınga/hortumu da aynı güne bırakma — yağ var şırınga yoksa iş yarım kalır.
+
 ### Alet sepeti (2026-09-01) — Sepete ekle
 
 Motor yağını sen değiştirdin → sehpa, boşaltma kabı, 17 mm, eldiven, bez **zaten var**. Yeni gereken: **dolum şırıngası + yağ**. Tapa/pul: eskiler durur.
