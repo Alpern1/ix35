@@ -2,6 +2,28 @@
 
 > Plan veya kayıtlarda yapılan önemli değişiklikler. "Neden değişti?" sorusunun cevabı burada.
 
+## 2026-08-29
+
+- **Şanzıman kutusu açılmaz** — yağ = alt + yan tapa. Videodaki tava/filtre/mıknatıs talaşı otomatik kutu; M6CF1’de yok. `araba/bakim.md`
+- **Hava/polen sonra** — yağ günü unutuldu; acil değil. Şanzıman yağı ay başına. Yağ filtresi o gün değişti (teyit). `araba/bakim.md` · `araba/yapilanlar.md`
+
+## 2026-08-18
+
+- **Yağ değişimi yapıldı** — Castrol 5W-30. Çıkarılan siyah = GDI’de beklenen. Aralık **8.000 km / 12 ay**. Sonra 1000 km seviye. `araba/yapilanlar.md`
+- **132 bin bakım** — Buji alışta değişti, LPG alışta, antifriz koyuldu. DIY: polen/hava, çubuk, şanzıman yağı. LPG filtre ~145 bin. `araba/bakim.md`
+- **Polen + hava stok** — Cepoto Bosch F026400228 + 1987432224 (Sepete ekle). Çubuk değişir ama önce sil; kör 26611-03801 yok. Şanzıman: yan dolum + alt tapa, GL-4 75W-85 ~1,8 L. Antifriz tam değişim orta zorluk, acil flush yok. `araba/bakim.md`
+- **Şanzıman alet sepeti** — Hortumlu 500 cc şırınga (Amazon), 2× Motul Motylgear 75W-85, bayi pulu 17511-16000. Sifon/turlu 18 L yok. `araba/bakim.md`
+- **Şanzıman: şırınga/yağ/ne zaman** — Şırınga hazır hortumlu piston. Motylgear uygun (GL-4+GL-5, sarı metal); OEM MTF daha net. 132 bin acil değil, fiş yoksa bir kez bakım. `araba/bakim.md`
+- **Şırınga netleştirme** — Hortum arabaya takılmaz; şişeden çek, yan deliğe bas. Motylgear kılavuz spec’ine uyar. Semptom bekleme, bir kez bakım. `araba/bakim.md`
+- **Şırınga linkleri düzeltildi** — Amazon arama/çok satanlar yanlış (sifon/mazot). Al: DORF 500cc Atölye Team (görsel doğru, Sepete Ekle) veya Idefix 60 ml hortumlu. Thorstone 11.700 / HB Asitan 10 bin / QUNNIE stoksuz / gres/yağdanlık yok. `araba/bakim.md`
+- **Ucuz büyük şırınga** — 60 ml’nin büyüğü: Kompozit Pazarı **250 cc** (~346 TL + KDV, Sepete Ekle, stokta, hortum yok) + 1 m 6 mm hortum. 500 cc aynı mağaza ~985 + KDV. DORF / Cadırcı 100–250 ml / 5’li 60 ml alma. `araba/bakim.md`
+- **Şanzıman pulu ≠ 14×20** — Motor yağı 14×20 / 21513-23001. Kutu: tapa yenisi yok; eski pul (17511-16000) yırtık değilse yeter. `araba/bakim.md`
+
+## 2026-08-16
+
+- **1.6 GDI yağ yakma** — Her ix35 yağ yakmaz; G4FD ailesinde eksiltme görülebilir. Bu araçta ölçüm yok. LPG sebep değil. `araba/notlar.md`.
+- **Viskozite** — Son yağ 5W-30 değilse katkı olabilir, tek açıklama değil. 5W-20/ucuz 10W-40 tüketimi artırabilir. Bu değişim 5W-30.
+
 ## 2026-07-25
 
 - **Yeni proje: cam-stor-guneslik** — Park-only ön+yan cam stor/roller araştırması (`on-cam.md`, `yan-cam.md`). Kapıya vida yok; katlanır panel hedef değil.

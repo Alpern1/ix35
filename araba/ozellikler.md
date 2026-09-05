@@ -17,9 +17,9 @@
 
 | Alan | Değer |
 |------|-------|
-| Motor | 1.6 GDI (benzin) |
+| Motor | 1.6 GDI (Gamma **G4FD**, atmosferik — turbo 1.6T değil) |
 | Hacim | 1.6 L |
-| Güç (hp/kW) | _doğrulanacak — GDI tipik ~135 hp_ |
+| Güç (hp/kW) | ~135 hp / ~99 kW @ 6300–6400 rpm (katalog; VIN ile teyit edilmedi) |
 | Tork | _doğrulanacak_ |
 | Yakıt tipi | Benzin + LPG (monte) |
 | Şanzıman | Manuel |
@@ -38,8 +38,9 @@
 
 ## Mevcut Durum
 
-- Kilometre: ~130.000 km
+- Kilometre: **~132.000 km** (120 binde alındı)
 - Genel kondisyon: İyi, şu an çok sorun yok
+- Yağ: **2026-08-18 değişti** (Castrol 5W-30). Buji **120 binde** değişti. LPG **alışta** takıldı. Antifriz alış yağında **koyuldu** (tam değişim?). — [bakim.md](bakim.md) · [yapilanlar.md](yapilanlar.md)
 - Bilinen sorunlar / arızalar: Yok (güncel)
 
 ## Fotoğraflar & Referanslar
@@ -48,4 +49,4 @@
 
 ---
 
-*Son güncelleme: 2026-07-22 — Otomatik katlanır ayna doğrulandı*
+*Son güncelleme: 2026-08-18 — 132 bin km, yağ değişimi*
